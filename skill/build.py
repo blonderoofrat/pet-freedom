@@ -295,7 +295,7 @@ def advocacy_block(d):
     P = []
     if kit.get("time_sensitive"):
         P.append('<div style="background:#fff3e0;border-left:4px solid #ef6c00;padding:8px 12px;'
-                 'border-radius:6px;margin:.5em 0;"><strong>&#9203; Time-sensitive:</strong> %s</div>' % kit["time_sensitive"])
+                 'border-radius:6px;margin:.5em 0;"><strong>Time-sensitive:</strong> %s</div>' % kit["time_sensitive"])
     if kit.get("problem"):
         P.append('<p style="margin:.5em 0;">%s</p>' % kit["problem"])
     if kit.get("ask"):
@@ -444,6 +444,7 @@ HUB_CSS = (
     '.pf-hub .pf-chip:hover,.pf-hub .pf-chip:focus{background:#e1e7ff;}'
     '.pf-hub .pf-allbtn{background:none;border:0;color:#1565c0;font-weight:600;cursor:pointer;'
     'text-decoration:underline;font-size:.88em;padding:0;margin-left:2px;}'
+    '.pf-hub img.emoji,img.emoji{height:1em!important;width:1em!important;vertical-align:-.1em;margin:0 .05em;display:inline;}'
     '</style>'
 )
 
