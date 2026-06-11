@@ -1,0 +1,186 @@
+{
+  "jurisdiction": {
+    "id": "gb",
+    "level": "country",
+    "name": "United Kingdom",
+    "parent": null,
+    "country": "GB",
+    "iso": "GB",
+    "language": "en",
+    "slug": "united-kingdom",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat",
+      "llygoden ddu (Welsh)",
+      "radan dubh (Scottish Gaelic)"
+    ]
+  },
+  "summary": "In Great Britain, keeping and hobby-breeding a captive-bred roof rat is legal — it's omitted from the Dangerous Wild Animals Act 1976 and from the Invasive Alien Species (Enforcement and Permitting) Order 2019 possession bans. BUT the roof rat is on Schedule 9 of the Wildlife & Countryside Act 1981, so it's a strict-liability criminal offence to release it or let it escape into the wild (use escape-proof caging; you may not release a trapped one). Commercial breeding/selling needs a local-authority Animal Welfare licence (and inspectors may treat it as a non-domestic species). Sale is OUTRIGHT PROHIBITED in Northern Ireland (Wildlife (NI) Order 1985, Art. 15A). Importing one is excluded from the Pet Travel Scheme and needs an APHA rabies import licence (Form RM01) + up to 4 months quarantine.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No statute bans mere possession of a captive-bred roof rat: the genus Rattus (family Muridae) is absent from the Dangerous Wild Animals Act 1976 schedule, it's not under the Destructive Imported Animals Act 1932, and it's not on Schedule 2 of the Invasive Alien Species (Enforcement and Permitting) Order 2019 (the possession-ban list). Owners owe the Animal Welfare Act 2006 duty of care. Because R. rattus IS on Schedule 9 of the WCA 1981, releasing it or letting it escape is a criminal offence — and a trapped one may not be released back to the wild.",
+      "governing_law": "Dangerous Wild Animals Act 1976 (Schedule — rats absent); Invasive Alien Species (Enforcement and Permitting) Order 2019 (R. rattus not on Sch. 2); Wildlife & Countryside Act 1981 s.14 / Sch. 9 (no-release); Animal Welfare Act 2006.",
+      "source_ids": [
+        "gb-dwaa",
+        "gb-ias-2019",
+        "gb-wca-sch9"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Purely private, non-commercial hobby breeding is unregulated (no statutory litter limits), subject to the Animal Welfare Act 2006. The moment it becomes commercial (profit intent, >£1,000/yr gross from animal sales, dealing, or systematic advertising of litters), it requires a local-authority Animal Welfare licence under the Animal Welfare (Licensing of Activities Involving Animals) Regulations 2018 (England) / 2021 (Wales & Scotland). Never let breeding stock escape (Sch. 9).",
+      "governing_law": "Animal Welfare (Licensing of Activities Involving Animals) Regs 2018 (England) / 2021 (Wales/Scotland); Animal Welfare Act 2006; WCA 1981 s.14/Sch. 9.",
+      "source_ids": [
+        "gb-awla-2018",
+        "gb-wca-sch9"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "GREAT BRITAIN: selling as a business needs a local-authority Animal Welfare licence (the 'business test' / £1,000 HMRC trading allowance); inspectors may classify the roof rat under 'Part I — other non-domestic mammals' (higher burden, invasive-species containment) rather than 'Part H — domestic small rodents'. Giving one away free is generally outside the commercial 'sale' test. NORTHERN IRELAND: selling, offering for sale, or transporting for sale is an OUTRIGHT CRIMINAL OFFENCE (Wildlife (NI) Order 1985, Art. 15A; R. rattus is on Sch. 9 Part 1) — no licensing pathway exists; even advertising is barred.",
+      "governing_law": "Animal Welfare (Licensing of Activities Involving Animals) Regs 2018/2021 (GB); Wildlife (Northern Ireland) Order 1985, Art. 15A & Sch. 9 Pt 1 (NI sale ban).",
+      "source_ids": [
+        "gb-awla-2018",
+        "gb-ni-1985"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "DOMESTIC: legal under the Welfare of Animals (Transport) Order 2006 — but use gnaw-proof, escape-proof carriers, because an escape in transit is a strict-liability offence (WCA 1981 s.14/Sch. 9). IMPORT: the roof rat is a rabies-susceptible non-native mammal EXCLUDED from the Pet Travel Scheme; you must apply for an APHA Rabies Import Licence (Form RM01) — non-EU origin means up to 4 months quarantine; EU origin may be exempt if captive-bred/kept since birth. Northern Ireland adds Windsor-Framework pre-notification. No CITES permit (not endangered).",
+      "governing_law": "Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974 (APHA Form RM01); Welfare of Animals (Transport) Order 2006; WCA 1981 s.14/Sch. 9.",
+      "source_ids": [
+        "gb-apha-import",
+        "gb-wca-sch9"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "transport"
+      ],
+      "summary": "The roof rat is on Schedule 9 of the Wildlife & Countryside Act 1981: it is a criminal offence (strict liability — intent doesn't matter) to release it or allow it to escape into the wild anywhere in the UK. Use secure, gnaw-proof caging; a trapped/escaped roof rat may NOT be released — only humane options or an exceptional licence apply.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "gb-wca-sch9"
+      ]
+    },
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "In Great Britain, commercial breeding/selling (profit, >£1,000/yr, dealing, or systematic advertising) requires a local-authority Animal Welfare Activity Licence; expect possible 'Part I (non-domestic mammal)' treatment with specialist-knowledge + invasive-species containment requirements. In Northern Ireland, sale is prohibited entirely.",
+      "steps": [
+        "GB: apply to your local council for an Animal Activity Licence if you cross the business threshold",
+        "NI: do not sell/offer/transport-for-sale (Art. 15A)"
+      ],
+      "forms": [],
+      "where_to_file": "Local authority (GB); n/a (NI — prohibited)",
+      "fees": "Set by local authority",
+      "source_ids": [
+        "gb-awla-2018",
+        "gb-ni-1985"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a roof rat needs an APHA Rabies Import Licence (Form RM01) — it's excluded from the Pet Travel Scheme. Non-EU origin = up to 4 months quarantine; EU origin may qualify for exemption if captive-bred and kept since birth. Apply to APHA Centre for International Trade (Carlisle) at least 4 weeks ahead.",
+      "steps": [
+        "Apply for APHA Form RM01 at least 4 weeks before import",
+        "Provide captive-bred-since-birth evidence to seek a quarantine exemption (EU origin)"
+      ],
+      "forms": [
+        {
+          "name": "APHA Rabies Import Licence (Form RM01)",
+          "url": "https://www.gov.uk/bringing-pet-animals-to-great-britain/travelling-from-outside-eu"
+        }
+      ],
+      "where_to_file": "APHA Centre for International Trade, Carlisle",
+      "fees": "Quarantine at owner's expense",
+      "source_ids": [
+        "gb-apha-import"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "gb-dwaa",
+      "title": "Dangerous Wild Animals Act 1976 — Schedule (Muridae/Rattus absent, so no DWA licence)",
+      "url": "https://www.legislation.gov.uk/ukpga/1976/38/schedule",
+      "authority": "UK Government / legislation.gov.uk",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "gb-ias-2019",
+      "title": "Invasive Alien Species (Enforcement and Permitting) Order 2019, Sch. 2 (R. rattus NOT listed)",
+      "url": "https://www.legislation.gov.uk/uksi/2019/527/schedule/2",
+      "authority": "UK Government / Defra",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "gb-wca-sch9",
+      "title": "Wildlife & Countryside Act 1981 s.14 / Schedule 9 (R. rattus listed, no-release offence)",
+      "url": "https://www.legislation.gov.uk/ukpga/1981/69/schedule/9",
+      "authority": "UK Government / legislation.gov.uk",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "gb-awla-2018",
+      "title": "Animal Welfare (Licensing of Activities Involving Animals) Regs 2018 — selling animals as pets / breeding licence (Part H vs Part I)",
+      "url": "https://www.gov.uk/government/publications/animal-activities-licensing-guidance-for-local-authorities/selling-animals-as-pets-licensing-statutory-guidance-for-local-authorities--2",
+      "authority": "Defra / local authorities",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "gb-ni-1985",
+      "title": "Wildlife (Northern Ireland) Order 1985, Art. 15A & Sch. 9 Pt 1 — sale/transport-for-sale of R. rattus prohibited",
+      "url": "https://www.legislation.gov.uk/nisi/1985/171",
+      "authority": "DAERA / legislation.gov.uk",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "gb-apha-import",
+      "title": "Bringing pet animals to Great Britain (rabies-susceptible mammals excluded from PETS; APHA RM01)",
+      "url": "https://www.gov.uk/bringing-pet-animals-to-great-britain/travelling-from-outside-eu",
+      "authority": "APHA / UK Government",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

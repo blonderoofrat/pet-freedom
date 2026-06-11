@@ -1,0 +1,218 @@
+{
+  "jurisdiction": {
+    "id": "co",
+    "level": "country",
+    "name": "Colombia",
+    "parent": null,
+    "country": "CO",
+    "iso": "CO",
+    "language": "es",
+    "inquiry_language": "es",
+    "slug": "colombia",
+    "local_terms": [
+      "Rattus rattus",
+      "rata negra",
+      "rata de techo",
+      "especie exótica invasora",
+      "fauna exótica",
+      "tenencia"
+    ]
+  },
+  "summary": "Colombia prohibits private keeping, breeding, selling, and transport of the roof rat. R. rattus is formally cataloged a High-Risk Exotic Invasive Species (Especie Exótica Invasora) under Resolución MAVDT 0848/2008 (+ 0207/2010) on the strict-invasive PROHIBITIVE track — NOT the closed-cycle 'zoocría' track — so Decreto 1076/2015 Art. 2.2.2.3.2.2 bans its 'introduction, commercialization, mobilization, promotion and possession (tenencia)' outright. The captive-bred-as-pet loophole is now permanently closed: Ley 2473 de 2025 (8 Jul 2025) amended Civil Code Art. 687 to declare that exotic/wild fauna CANNOT be a 'domestic companion animal,' regardless of how tame or how many generations captive-bred — every R. rattus stays under environmental law where possession is banned. Breeding is a CRIME (Penal Code Art. 330A: 48–108 months prison + heavy fines). Import is administratively impossible (the genus Rattus is absent from the ICA pet-import whitelist, Resolución 842/2010). A confiscated roof rat is not rehomed — as an Angiostrongylus cantonensis (rat lungworm) and plague vector it is administratively euthanized. The ONLY legal holders are institutions under scientific/zoological permits (ANLA/CAR) — never private hobbyists. (Note: even the fancy rat R. norvegicus has only a narrow lab/bioterium import route, not a pet route; R. rattus has neither.)",
+  "last_reviewed": "2026-06-08",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "prohibition_statute",
+      "problem": "In Colombia there is no legal way for a private individual to keep, breed, buy, sell, give away, import, or transport a roof rat (Rattus rattus) — not even a tame, captive-bred one. The roof rat is officially cataloged as a High-Risk Exotic Invasive Species (Resolución MAVDT 0848 de 2008), so Decreto 1076 de 2015 (Art. 2.2.2.3.2.2) bans its introduction, sale, transport, promotion, and possession (tenencia) outright. In July 2025, Ley 2473 amended Civil Code Art. 687 to declare that exotic and wild fauna are NOT \"domestic companion animals,\" no matter how tame or how many generations they were bred in captivity — which permanently closes the \"but it's a captive-bred pet\" argument. Breeding is a criminal offense (Penal Code Art. 330A: 48–108 months in prison plus heavy fines). Import is administratively impossible because the genus Rattus is not on the ICA pet-import whitelist (Resolución ICA 842/2010, which lists only ferrets, rabbits, chinchillas, hamsters, guinea pigs, and gerbils). A confiscated roof rat is not rehomed: as a potential rat-lungworm (Angiostrongylus cantonensis) and plague vector, it is administratively euthanized. Only institutions with a scientific/zoological permit (ANLA/CAR) may legally hold the species — never a private hobbyist. This ban is grounded in a genuine ecological and public-health concern (island ecosystems like San Andrés and Gorgona; rat lungworm spread via the Giant African Snail), so simply asking the agency to \"reinterpret\" the rule will not work.",
+      "ask": "Be honest with yourself first: in Colombia today there is no private pathway to keep a roof rat, and no letter will change that overnight. If you do not already hold one, do not acquire, import, or breed one — breeding is a crime. If you genuinely care about the welfare of this species and about fairer rules, the realistic, lawful actions are: (1) If you already possess a pre-2025 captive-bred roof rat, file a Derecho de Petición to MinAmbiente (MADS) asking whether any amnesty / pre-existing-possession registration exists to keep it strictly non-breeding until natural death, OR whether you may voluntarily surrender it to an authorized scientific bioterium instead of having it euthanized. (2) Optionally ask ICA in writing to confirm whether any administrative exception or tariff code exists to import domestic-line Rattus as a companion animal (expected answer: none — this documents the gap for the public record). (3) Understand that broadening the law itself (e.g., creating a regulated captive-bred companion-rodent category, or distinguishing biosecure indoor lines from feral invasives) is a matter for the Congreso de la República, not the environmental agency, which is correctly applying the current statute.",
+      "branch_note": "This is the LAW AS WRITTEN, not a bureaucratic misreading. The agency (MinAmbiente) is applying the statute correctly: (a) Resolución MAVDT 0848 de 2008 puts R. rattus on the strict-invasive (prohibitive) track as High-Risk, not the closed-cycle \"zoocría\" track; (b) Decreto 1076 de 2015 Art. 2.2.2.3.2.2 then bans possession of any declared invasive species; (c) Ley 2473 de 2025 amended Civil Code Art. 687 to state explicitly that exotic/wild fauna are NOT domestic companion animals regardless of taming or captive breeding — Congress closed the loophole on purpose; and (d) the import whitelist (Resolución ICA 842/2010) simply does not contain the genus Rattus. Every door is shut by black-letter law, and the ban rests on a real zoonotic/ecological record (rat lungworm via the Giant African Snail; plague; island-ecosystem damage). Therefore appealing to MinAmbiente to \"reinterpret\" the rules will NOT change anything — the agency has no discretion to authorize private possession of a declared High-Risk invasive, and a de-cataloging petition is a realistic non-starter given the documented harm. The genuine levers are two and both narrow: (1) For someone who ALREADY holds a pre-2025 captive-bred animal, a Derecho de Petición to MinAmbiente is appropriate — but it asks only about amnesty/registration or surrender-to-a-bioterium as a humane alternative to seizure-and-euthanasia, NOT about a general right to keep pet roof rats. (2) Any actual change to who may keep the species would require the Congreso de la República to amend the statutory framework (e.g., a regulated biosecure captive-line category). Be plain with readers: there is no private route today, and the agency cannot create one.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Ministerio de Ambiente y Desarrollo Sostenible (MinAmbiente / MADS) — Atención y Servicios a la Ciudadanía (PQRSDF / Derecho de Petición)",
+          "type": "agency",
+          "form_url": "https://www.minambiente.gov.co/tramites-y-servicios-canales-de-atencion-y-sede-electronica-pqrsdf/",
+          "email": "servicioalciudadano@minambiente.gov.co",
+          "why": "The environmental ministry is the authority that catalogs invasive species and governs possession. It is the correct address for a Derecho de Petición (Constitution Art. 23; Ley 1755 de 2015) — but ONLY for the narrow, honest questions: does an amnesty/pre-existing-possession registry exist for an animal already held, and can a voluntarily surrendered animal go to an authorized scientific bioterium instead of being euthanized. Use the official PQRSDF channel (online portal linked from this page, or the servicioalciudadano inbox). It cannot and will not authorize general private keeping — the law forecloses that."
+        },
+        {
+          "name": "Instituto Colombiano Agropecuario (ICA) — Cuarentena Animal / Importación de animales de compañía diferentes a perros y gatos",
+          "type": "agency",
+          "form_url": "https://www.ica.gov.co/importacion-y-exportacion/procedimientos-importacion/procedimiento-de-importacion-de-animales-producto/animales-de-compania-diferentes-a-perros-y-gatos",
+          "email": "cuarentena.animal@ica.gov.co",
+          "why": "ICA controls animal import. A short written query asking ICA to confirm whether any tariff code or administrative exception exists to import domestic-line Rattus as a companion animal documents the regulatory gap on the public record (expected answer: none — the genus Rattus is absent from the Resolución 842/2010 whitelist). Useful only as evidence-gathering, not as a route to a permit."
+        },
+        {
+          "name": "Congreso de la República de Colombia — Cámara de Representantes (contacto ciudadano / atención al ciudadano)",
+          "type": "legislature",
+          "form_url": "https://www.camara.gov.co/atencion-al-ciudadano",
+          "why": "Because the prohibition is statutory (Decreto 1076/2015 + Resolución 0848/2008 + Ley 2473/2025), the only body that could ever create a regulated pathway for biosecure captive-bred companion rodents is the legislature, not the agency. This is the official citizen-contact channel for raising that idea with representatives. Realistically a long, uphill ask given the species' genuine invasive/zoonotic record — included for honesty, not false hope."
+        }
+      ],
+      "template": {
+        "en": "To: Ministry of Environment and Sustainable Development (MinAmbiente) — Citizen Services / Right of Petition\nSubject: Right of Petition regarding an already-held captive-bred Rattus rattus — possible amnesty/registration or transfer to a scientific facility\n\nDear Sir or Madam,\n\nI write respectfully under the right of petition (Constitution Art. 23; Law 1755 of 2015). I understand that Rattus rattus is listed as a High-Risk Exotic Invasive Species (Resolution 0848 of 2008), that its possession is prohibited (Decree 1076 of 2015), and that Law 2473 of 2025 confirms exotic fauna are not companion animals. I am not contesting that framework or the genuine ecological and public-health concerns behind it.\n\nMy questions are narrow: (1) Does any amnesty, pre-existing-possession registry, or special authorization exist that would let a citizen keep a captive-bred specimen acquired before 2025 strictly as a non-breeding, indoor-only animal until its natural death? (2) If not, may such an animal be voluntarily surrendered to an authorized scientific facility (bioterio) rather than being euthanized? The animal in question is captive-bred, tame, kept indoors, and never released.\n\nI request a written reply within the legal term. Thank you for your guidance.\n\nSincerely,\n[Your name]\n[Your city / contact details]",
+        "es": "Para: Ministerio de Ambiente y Desarrollo Sostenible (MinAmbiente) — Atención al Ciudadano / Derecho de Petición\nAsunto: Derecho de Petición sobre un ejemplar de Rattus rattus nacido en cautiverio ya en tenencia — posible amnistía/registro o traslado a un bioterio científico\n\nRespetados señores:\n\nEn ejercicio del derecho de petición (Art. 23 de la Constitución; Ley 1755 de 2015) me dirijo a ustedes de manera respetuosa. Entiendo que Rattus rattus está catalogada como Especie Exótica Invasora de Alto Riesgo (Resolución 0848 de 2008), que su tenencia está prohibida (Decreto 1076 de 2015) y que la Ley 2473 de 2025 confirma que la fauna exótica no es animal de compañía. No controvierto ese marco ni las legítimas preocupaciones ecológicas y de salud pública que lo sustentan.\n\nMis preguntas son puntuales: (1) ¿Existe algún mecanismo de amnistía, registro de tenencia preexistente o autorización especial que permita a un ciudadano mantener un ejemplar nacido en cautiverio adquirido antes de 2025, en tenencia estricta, sin reproducción, exclusivamente al interior del hogar y hasta su muerte natural? (2) De no existir, ¿puede dicho ejemplar entregarse voluntariamente a un bioterio científico autorizado en lugar de ser sometido a eutanasia? El animal es nacido en cautiverio, manso, mantenido dentro del hogar y nunca liberado.\n\nSolicito respuesta escrita dentro del término legal. Agradezco su orientación.\n\nAtentamente,\n[Su nombre]\n[Su ciudad / datos de contacto]"
+      },
+      "confidence_notes": "Verified on 2026-06-09 via web search/fetch: (1) MinAmbiente's official citizen-attention/PQRSDF page (https://www.minambiente.gov.co/tramites-y-servicios-canales-de-atencion-y-sede-electronica-pqrsdf/) is live and links to the online PQRSD submission portal at /pqrsd/; the citizen-service inbox servicioalciudadano@minambiente.gov.co and switchboard +57 601 332 3821 / WhatsApp +57 310 221 3891 are confirmed on the official site (a general inbox info@minambiente.gov.co also appears). Derecho de Petición is governed by Ley 1755 de 2015 (confirmed). (2) Ley 2473 de 2025 confirmed: it amends Civil Code Art. 687 and explicitly excludes wild/exotic fauna (per Ley 1333/2009 and Título XI of Ley 599/2000) from the 'animal de compañía' category — i.e., the captive-bred pet loophole is closed (confirmed via Rama Judicial and Alcaldía de Bogotá legal portals). (3) ICA companion-animal import page is live; the import whitelist (Res. 842/2010) covers only ferrets, rabbits, chinchillas, hamsters, guinea pigs, and gerbils — genus Rattus absent; quarantine inbox cuarentena.animal@ica.gov.co confirmed (an additional named officer email appeared in results but I deliberately excluded any individual civil servant's name per OPSEC). All of these reconfirm the grounding file's research. Less certain: the exact deep-link URL of the live PQRSD form changes, so I point to the stable official landing page rather than a volatile form URL; and the Cámara de Representantes citizen-contact URL (https://www.camara.gov.co/atencion-al-ciudadano) was not separately re-fetched in this session — it is the conventional official channel and should be confirmed by the reader before use. This is a research aid, not legal advice. Bottom line, stated honestly: there is no private pathway to keep a pet roof rat in Colombia; the agency is applying the law correctly; the Derecho de Petición route is appropriate ONLY for someone who already holds a pre-2025 animal and is asking about amnesty/registration or humane surrender, and any broader change would require the Congreso de la República.",
+      "local_lang": "es"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Private possession (tenencia) of a declared invasive species is banned by Decreto 1076/2015 Art. 2.2.2.3.2.2; R. rattus is on the strict-invasive track of Resolución 0848/2008 (High Risk). Ley 2473/2025 amended Civil Code Art. 687 with a paragraph stating exotic/wild fauna are NOT 'domestic companion animals,' permanently defeating the captive-bred/'tame' argument. The state does not distinguish a feral roof rat from a multi-generation captive-bred one. Enforcement (Ley 1333/2009) = preventive confiscation by the environmental authority (CAR) + Environmental Police/GELMA; a seized R. rattus is administratively euthanized (Angiostrongylus/plague vector), not rehomed; fines scale up to 5,000 SMLMV. Only institutional scientific/zoological permit-holders may hold the species — never a private individual.",
+      "governing_law": "Decreto 1076/2015 Art. 2.2.2.3.2.2; Resolución MAVDT 0848/2008 (Art. 1) + 0207/2010; Ley 2473/2025 (Civil Code Art. 687); Ley 1333/2009 (sanctioning).",
+      "source_ids": [
+        "co-decreto-1076",
+        "co-res-848",
+        "co-ley-2473",
+        "co-ley-1333"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Breeding R. rattus — hobby or commercial — is a criminal offense. Penal Code Art. 330A (Ley 599/2000, added by Ley 1453/2011) penalizes propagating an invasive exotic species without authorization with 48–108 months prison + fines of 133–15,000 SMLMV. The zoocría (captive-breeding) framework of Ley 611/2000 has no hobbyist exemption and cannot license a declared-invasive species (Decreto 1076/2015 bars its commercialization), so no commercial/scientific zoocría permit will issue for the pet trade. There is no closed-cycle (Art. 4) pathway for R. rattus — it sits on the prohibitive Art. 1 track.",
+      "governing_law": "Ley 599/2000 (Código Penal) Art. 330A; Ley 611/2000 (zoocría); Decreto 1076/2015 Art. 2.2.2.3.2.2.",
+      "source_ids": [
+        "co-penal-330a",
+        "co-ley-611",
+        "co-decreto-1076"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Decreto 1076/2015 Art. 2.2.2.3.2.2 explicitly bans the commercialization and promotion of declared invasive species; the ICA pet-trade whitelists exclude the genus Rattus. Even gratuitous transfer (giving away) is barred because no one can legally possess the animal (tenencia ban), so any transfer just facilitates a further infraction. A licensed pet dealer caught selling R. rattus faces confiscation, fines under Ley 1333/2009, and definitive closure of the establishment.",
+      "governing_law": "Decreto 1076/2015 Art. 2.2.2.3.2.2; Ley 1333/2009; Resolución ICA 842/2010 (whitelist excludes Rattus).",
+      "source_ids": [
+        "co-decreto-1076",
+        "co-ley-1333",
+        "co-ica-842"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "IMPORT: administratively impossible — Resolución ICA 842/2010 limits 'other pets' import to ferrets, rabbits, chinchillas, hamsters, guinea pigs and gerbils; the genus Rattus is absent, so the ICA SISPAP system cannot generate the Documento Zoosanitario de Importación (DZI) needed before shipment, and an animal arriving without it is rejected/confiscated/euthanized at the border. INTERNAL movement: needs a Salvoconducto Único Nacional (SUN) under Decreto 1076/2015 Title 2, which requires proof of legal origin (a licensed-zoocriadero receipt or valid ICA import docs) — impossible for R. rattus, so no CAR issues one; illegal transport triggers Penal Code Art. 328 (illicit use of renewable natural resources). Not CITES-listed (irrelevant — the invasive ban governs). Never release.",
+      "governing_law": "Resolución ICA 842/2010 (import whitelist excludes Rattus); Decreto 1076/2015 Title 2 + Sec. 22 (salvoconducto/SUN); Ley 599/2000 Art. 328.",
+      "source_ids": [
+        "co-ica-842",
+        "co-decreto-1076",
+        "co-penal-330a"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Colombia bans keeping/breeding/selling/transporting R. rattus as a declared High-Risk Exotic Invasive Species. There is NO private or hobbyist pathway: possession is an environmental infraction (confiscation + administrative euthanasia), breeding is a crime (48–108 months prison), import is administratively impossible (genus Rattus off the ICA whitelist), and internal transport requires a salvoconducto that cannot be issued. Ley 2473/2025 forecloses any 'it's a tame captive-bred pet' argument. Do not acquire one; if you already hold one, a Derecho de Petición to MADS is the only way to ask about an amnesty/scientific-transfer alternative to seizure.",
+      "steps": [
+        "Do not import, buy, breed, or accept an R. rattus in Colombia — all are prohibited (breeding is criminal).",
+        "If you already possess one: consider a Derecho de Petición (Constitution Art. 23) to MADS asking about a grandfather/amnesty registration or transfer to an authorized scientific bioterium rather than euthanasia.",
+        "Institutions only: scientific/zoological holding requires an ANLA/CAR environmental license (biosecurity containment) — not available to individuals."
+      ],
+      "forms": [],
+      "where_to_file": "MADS (policy/amnesty Derecho de Petición); regional CAR (enforcement/SUN); ICA (import)",
+      "fees": "",
+      "source_ids": [
+        "co-decreto-1076",
+        "co-res-848",
+        "co-ley-2473"
+      ]
+    }
+  ],
+  "inquiry_focus": "(MADS — Derecho de Petición) A la luz de la Ley 2473 de 2025 y el Decreto 1076 de 2015, ¿existe algún mecanismo de amnistía, registro de tenencia preexistente, o permiso especial que permita a un ciudadano particular mantener como animal de compañía (tenencia estricta, sin reproducción/exhibición/comercialización) un ejemplar de Rattus rattus nacido en cautiverio, o la especie está sujeta a decomiso inmediato y eutanasia obligatoria por ser exótica invasora de alto riesgo (Resolución 0848/2008)? ¿Un ejemplar entregado voluntariamente puede transferirse a un bioterio científico autorizado en lugar de ser sacrificado? (ICA) Considerando que la Resolución 842/2010 lista hurones, conejos, chinchillas, hámsteres, cobayos y jerbos como mascotas importables, ¿existe alguna vía legal o código arancelario en SISPAP para importar roedores del género Rattus (líneas domésticas de Rattus rattus) como animales de compañía, o su ingreso está absolutamente prohibido?",
+  "sources": [
+    {
+      "id": "co-ley-2473",
+      "title": "Ley 2473 de 2025 — modifica Código Civil Art. 687: la fauna exótica/silvestre NO es 'animal doméstico de compañía' (cierra el vacío de la mascota cautiva)",
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260784",
+      "authority": "Congreso de la República",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "co-decreto-1076",
+      "title": "Decreto 1076/2015 — Art. 2.2.2.3.2.2 (prohíbe introducción/comercialización/movilización/promoción/tenencia de invasoras) + Título 2/Sec. 22 (salvoconducto SUN)",
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153",
+      "authority": "Presidencia de Colombia",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "co-res-848",
+      "title": "Resolución MAVDT 0848/2008 (+ 0207/2010) — lista de especies exóticas invasoras; R. rattus 'Alto Riesgo' (track Art. 1 prohibitivo)",
+      "url": "https://compilacionmsf.ica.gov.co:4443/compilacion/docs/pdf/resolucion_minambientevdt_0848_2008.pdf",
+      "authority": "Ministerio de Ambiente (MAVDT/MADS)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "co-penal-330a",
+      "title": "Ley 599/2000 (Código Penal) Art. 330A (+ Art. 328) — propagación de especie exótica invasora: 48–108 meses prisión + multa 133–15.000 SMLMV",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html",
+      "authority": "Congreso de la República",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "co-ley-1333",
+      "title": "Ley 1333/2009 — procedimiento sancionatorio ambiental (decomiso + multas hasta 5.000 SMLMV + cierre de establecimientos)",
+      "url": "https://www.alcaldiabogota.gov.co/sisjurMantenimiento/normas/Norma1.jsp?i=62511",
+      "authority": "Congreso de la República",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "co-ica-842",
+      "title": "Resolución ICA 842/2010 — requisitos importación 'otras mascotas' (hurones/conejos/chinchillas/hámsteres/cobayos/jerbos; género Rattus AUSENTE)",
+      "url": "https://faolex.fao.org/docs/pdf/col93120.pdf",
+      "authority": "Instituto Colombiano Agropecuario (ICA)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "co-ley-611",
+      "title": "Ley 611/2000 — manejo sostenible de fauna silvestre / zoocriaderos (sin exención para aficionados; no licenciable para invasoras)",
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=9019",
+      "authority": "Congreso de la República",
+      "accessed": "2026-06-08"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "MinAmbiente (MADS) — Dirección de Bosques, Biodiversidad y Servicios Ecosistémicos",
+      "role": "wildlife",
+      "email": "servicioalciudadano@minambiente.gov.co",
+      "form_url": "https://www.minambiente.gov.co/tramites-y-servicios-canales-de-atencion-y-sede-electronica-pqrsdf/",
+      "phone": "+57 601 332 3821",
+      "primary": true,
+      "inquiry_language": "es"
+    },
+    {
+      "agency": "ICA — Dirección Técnica de Cuarentena Animal (import)",
+      "role": "agriculture",
+      "email": "cuarentena.animal@ica.gov.co",
+      "form_url": "https://www.ica.gov.co/importacion-y-exportacion/procedimientos-importacion/procedimiento-de-importacion-de-animales-producto/animales-de-compania-diferentes-a-perros-y-gatos",
+      "phone": "+57 601 794 4492",
+      "primary": false,
+      "inquiry_language": "es"
+    }
+  ]
+}

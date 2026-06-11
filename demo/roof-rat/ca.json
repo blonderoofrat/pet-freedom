@@ -1,0 +1,177 @@
+{
+  "jurisdiction": {
+    "id": "ca",
+    "level": "country",
+    "name": "Canada",
+    "parent": null,
+    "country": "CA",
+    "iso": "CA",
+    "language": "en",
+    "slug": "canada",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat",
+      "rat noir",
+      "rat des toits"
+    ]
+  },
+  "summary": "Canada has no single national rule for keeping a roof rat — it is decided province by province, and the provinces diverge sharply. Alberta bans the entire genus Rattus outright (a famously 'rat-free' province); Saskatchewan explicitly lists the black rat on its captive-wildlife allowed list; Ontario, Quebec, and British Columbia all allow it (BC under a tame-captive exemption, Quebec with an import notice that the fancy rat is exempt from). Federally, the CFIA lets you import a pet rat with no permit or health certificate as long as it does NOT come from Africa. Check your province (below) AND your municipality.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "prohibition_statute",
+      "problem": "Canada has no single national rule for keeping a pet roof rat (Rattus rattus) — it is decided province by province, and the provinces diverge sharply. Saskatchewan explicitly lists the black rat as allowed captive wildlife; Ontario, Quebec, and British Columbia all permit it; and federally the CFIA lets you import a pet rat with no permit or health certificate (the one hard exception: no rodents originating from Africa). The outlier — and the one true prohibition in Canada — is Alberta. Under the Agricultural Pests Act and its Pest and Nuisance Control Regulation, the entire genus Rattus is a \"declared pest,\" and the Government of Alberta states plainly that \"it is illegal to own pet rats in Alberta.\" There is no exemption for a tame, captive-bred animal kept indoors as a companion. The rule was written to protect Alberta's celebrated rat-free farmland from wild Norway rats (Rattus norvegicus) establishing breeding colonies, but as written it sweeps in domesticated pet rats that pose none of that agricultural risk and have never founded a wild population.",
+      "ask": "Ask Alberta to add a narrow exemption to the Pest and Nuisance Control Regulation for tame, captive-bred companion rats kept indoors — the same kind of carve-out that lets neighbouring provinces allow them safely. The change is to the regulation itself (a job for the Minister of Agriculture and Irrigation and your MLA), not a favour the rat-control program can grant on its own, because the program is correctly applying the law as written. Where you live OUTSIDE Alberta, no change is needed to keep a pet roof rat — just confirm your province's rule and your municipal bylaws.",
+      "branch_note": "This is branch (b): the LAW AS WRITTEN. The barrier is a deliberate statutory/regulatory listing, not a clerk's misreading. Alberta's Pest and Nuisance Control Regulation, made under the Agricultural Pests Act, declares the whole genus Rattus a pest, and the Government of Alberta's own rat-control page states \"it is illegal to own pet rats in Alberta\" with no pet exemption. The rat-control program is applying that regulation exactly as drafted — so emailing the program to ask permission, or appealing its decision, will NOT work, because there is nothing for it to reinterpret. The fix is to amend the regulation to add a captive-bred companion-animal exemption, which is a decision for the Minister of Agriculture and Irrigation (the regulation is set by the Minister/Cabinet) acting on public and political input. The correct lever is therefore the legislature: your MLA and the Minister, who can champion or direct a regulatory amendment. (For the other relevant provinces — SK, ON, QC, BC — there is no law-as-written problem to fix; the roof rat is already permitted, so they are not advocacy targets, only a \"confirm-your-province\" check.)",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Members of the Legislative Assembly of Alberta — official MLA directory / 'find your MLA'",
+          "type": "legislature",
+          "form_url": "https://www.assembly.ab.ca/members/members-of-the-legislative-assembly",
+          "why": "The prohibition lives in a regulation the Minister and Cabinet control, so the change must come through the political/legislative branch. This official Legislative Assembly page lets any Alberta resident look up and contact their own MLA — the representative who can raise a regulatory amendment or relay constituent demand to the Minister of Agriculture and Irrigation. Use it to write your own MLA; never address an individual member by name picked at random."
+        },
+        {
+          "name": "Elections Alberta — Member of the Legislative Assembly (MLA) search",
+          "type": "legislature",
+          "form_url": "https://www.elections.ab.ca/voters/members-of-the-legislative-assembly/",
+          "why": "An independent official tool to confirm which MLA represents your address, in case you are unsure of your constituency before contacting them via the Assembly directory above."
+        },
+        {
+          "name": "Alberta Rat Control Program (Alberta Agriculture and Irrigation) — official program inbox",
+          "type": "agency",
+          "email": "rats@gov.ab.ca",
+          "why": "Secondary channel. This is the official inbox of the program that administers the declared-pest rule. It cannot grant a pet exemption on its own (the regulation must change first), but a polite written request for the government's current position on tame captive-bred companion rats, and for whether a narrow exemption could be recommended to the Minister, puts the ask on record with the administering body and can be cited when you write your MLA. Verified on the Government of Alberta rat-control program page."
+        }
+      ],
+      "template": {
+        "en": "To my MLA / the Minister of Agriculture and Irrigation,\n\nI am writing about Alberta's prohibition on keeping pet rats. Under the Pest and Nuisance Control Regulation, the entire genus Rattus is a declared pest, so even a tame, captive-bred companion rat is illegal to own here.\n\nI understand and support the goal: keeping wild Norway rats from establishing in Alberta's farmland. But the regulation as written also bans domesticated pet rats that are captive-bred, hand-tame, kept entirely indoors, and never released — animals that pose none of the agricultural risk the rule was designed to stop, and that have never founded a wild colony.\n\nSaskatchewan, Ontario, Quebec, and British Columbia all allow these pets safely. The issue is not whether a rat can be domesticated — it plainly can, like the familiar fancy rat — it is that the species is on a list with no exemption for companion animals.\n\nI respectfully ask you to support adding a narrow exemption to the Pest and Nuisance Control Regulation for tame, captive-bred rats kept indoors as pets, while leaving the wild-rat controls fully in place.\n\nThank you for considering this.\n\nSincerely,\n[Your name]\n[Your town and constituency]"
+      },
+      "confidence_notes": "Verified on 2026-06-09: (1) Alberta's rat-control program page states plainly \"It is illegal to own pet rats in Alberta,\" confirming no pet exemption (alberta.ca/albertas-rat-control-program). (2) The genus Rattus is a declared pest under the Pest and Nuisance Control Regulation (Alta Reg 184/2001) made under the Agricultural Pests Act — confirmed via Alberta open-government and the regulation text; this is a regulation set by the Minister/Cabinet, which is why the legislative/ministerial branch is the correct lever rather than the program office. (3) The official 'find your MLA' directory (assembly.ab.ca) and the Elections Alberta MLA search were both confirmed as live, public, official touchpoints. (4) The rats@gov.ab.ca inbox is published on the Government of Alberta rat-control program page as the program's official contact. Uncertain / honest caveats: there is no standing public-comment or rulemaking portal specific to this regulation, so I did not list one — Alberta regulatory amendments typically proceed through the Minister/Cabinet rather than an open notice-and-comment window, and none is currently open that I could find for this rule (hence time_sensitive is empty). I did not find any pending bill or live consultation that would change rat-keeping rules in Alberta. Alberta's legislative language is English, so the template is English-only. This kit targets Alberta because it is the only true prohibition in Canada; SK/ON/QC/BC already permit the roof rat and need no advocacy. This is a research aid, not legal advice — confirm the current regulation text and your own constituency before acting, and check your municipal bylaws (which can cap animal numbers or require a breeder licence even where the province allows the pet).",
+      "local_lang": "en"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "high",
+      "why": "The federal government does not regulate the day-to-day keeping of companion animals — that is left entirely to the provinces and municipalities, and the answer changes drastically at provincial borders. Alberta PROHIBITS keeping any rat (genus Rattus) with no pet exemption; Saskatchewan EXPLICITLY allows the black rat as captive wildlife; Ontario, Quebec, and British Columbia allow it. So there is no single Canadian answer — see your province below.",
+      "governing_law": "No federal possession statute (provincial jurisdiction). See AB Agricultural Pests Act; SK Captive Wildlife Regulations; QC Règlement sur les animaux en captivité; ON Fish & Wildlife Conservation Act; BC Wildlife Act.",
+      "source_ids": [
+        "ca-cfia-pets"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "high",
+      "why": "Federally unregulated; follows provincial possession rules. Prohibited where keeping is banned (Alberta), legal where the species is allowed (SK/ON/QC/BC). Commercial breeders everywhere also face municipal business-licensing, zoning, and provincial animal-welfare standards.",
+      "governing_law": "Provincial/municipal law; provincial animal-welfare acts.",
+      "source_ids": [
+        "ca-cfia-pets"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "high",
+      "why": "Federally unregulated within Canada; follows provincial rules and municipal pet-shop / commercial-breeder licensing. Prohibited in Alberta (sale/distribution of a declared pest is banned); legal in SK/ON/QC/BC subject to local business rules.",
+      "governing_law": "Provincial/municipal law.",
+      "source_ids": [
+        "ca-cfia-pets"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Bringing a pet rat INTO Canada is permissive federally: the CFIA does not require an import permit or veterinary health certificate for pet rodents — you simply declare the animal to the Canada Border Services Agency. The big exceptions: any rodent originating from the continent of Africa is barred (plague/monkeypox rule), airlines may demand their own vet certificate, and exporting live rodents to the Eurasian Economic Union is currently suspended. Critically, your destination PROVINCE's rules still apply — you may not bring a rat into (or, arguably, through) Alberta at all.",
+      "governing_law": "CFIA Terrestrial Animal Import Policies; Health of Animals Act. Provincial law governs entry into each province.",
+      "source_ids": [
+        "ca-cfia-pets",
+        "ca-cfia-policy",
+        "ca-cfia-eaeu"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Federal import is permit-free for pet rodents NOT from Africa — but a Rattus rattus originating from any African country is barred entry (and may be seized or destroyed). Airlines often require a veterinary health certificate even though the government does not, and exporting live rodents to the Eurasian Economic Union (Russia, Belarus, Kazakhstan, Armenia, Kyrgyzstan) is suspended until further notice.",
+      "steps": [
+        "Declare the animal as a pet to the CBSA at the border",
+        "Confirm it is not African-origin",
+        "Check your airline's own health-certificate rule"
+      ],
+      "forms": [
+        {
+          "name": "Bringing animals to Canada — CFIA",
+          "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
+        }
+      ],
+      "where_to_file": "Canada Border Services Agency / CFIA National Import Service Centre",
+      "fees": "No CFIA fee for pet rodents",
+      "source_ids": [
+        "ca-cfia-pets",
+        "ca-cfia-policy"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "The answer depends entirely on your province. Alberta bans all rats (do NOT bring one in); Saskatchewan, Ontario, Quebec, and British Columbia permit them. Always check your province (below) and your municipal bylaws (which can cap the number of animals or require a breeder licence).",
+      "steps": [
+        "Find your province below",
+        "Check your city/municipal animal bylaws"
+      ],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "ca-cfia-pets"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ca-cfia-pets",
+      "title": "Bringing animals to Canada: importing and travelling with pets — CFIA (rodents need no import permit/health certificate)",
+      "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets",
+      "authority": "Canadian Food Inspection Agency",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ca-cfia-policy",
+      "title": "Terrestrial animal products and by-products import policy — CFIA (Africa-origin rodent restriction)",
+      "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/imports/import-policies/products-and-products/terrestrial-animal-products-and-products",
+      "authority": "CFIA",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ca-cfia-eaeu",
+      "title": "Export of live rodents to the Eurasian Economic Union — CFIA (health certificates suspended)",
+      "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/exports/pets/eurasian-economic-union",
+      "authority": "CFIA",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

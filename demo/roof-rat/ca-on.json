@@ -1,0 +1,128 @@
+{
+  "jurisdiction": {
+    "id": "ca-on",
+    "level": "province",
+    "name": "Ontario",
+    "parent": "ca",
+    "country": "CA",
+    "iso": "CA-ON",
+    "language": "en",
+    "slug": "ontario",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Ontario does not regulate roof rats at the provincial level — they are legal by default. Rattus rattus is not listed as prohibited or restricted under the Invasive Species Act, and as a non-native species it falls outside the Fish and Wildlife Conservation Act (which covers native 'game' and 'specially protected' wildlife). So keeping, breeding, selling, and transporting roof rats is unregulated by the province. The real rules are MUNICIPAL: city bylaws on exotic/pet animals, breeder/pet-shop licensing, animal limits, and the Provincial Animal Welfare Services Act (PAWS) care standards.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Rattus rattus is not listed under the Invasive Species Act (unlike wild pigs or nutria) and is not native 'game' or 'specially protected' wildlife under the Fish and Wildlife Conservation Act, 1997 — so it is outside the Ministry of Natural Resources' regulatory scope. No provincial permit is needed to keep one. Your municipality may regulate exotic pets or cap animal numbers.",
+      "governing_law": "Invasive Species Act (R. rattus not listed); Fish and Wildlife Conservation Act, 1997 (covers native wildlife); municipal bylaws.",
+      "source_ids": [
+        "on-fwca",
+        "on-reg666"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The province has no jurisdiction over rat breeding. Breeding is governed by municipal bylaws, animal-control rules, and the Provincial Animal Welfare Services Act (PAWS) care standards. Operating commercially in a residential zone often needs a municipal kennel/pet-shop licence.",
+      "governing_law": "Provincial Animal Welfare Services Act; municipal bylaws.",
+      "source_ids": [
+        "on-fwca"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Selling or giving roof rats is unregulated provincially. A retail storefront needs the municipality's pet-shop / commercial-establishment licence; private face-to-face placement and giveaways do not.",
+      "governing_law": "Municipal pet-shop/business bylaws; PAWS care standards.",
+      "source_ids": [
+        "on-fwca",
+        "on-reg666"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No provincial permit is required to move roof rats within or across Ontario's borders. Interprovincial transport is subject to the destination province's rules (you cannot bring one into Alberta).",
+      "governing_law": "Fish and Wildlife Conservation Act, 1997 (no applicable restriction).",
+      "source_ids": [
+        "on-fwca"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give"
+      ],
+      "summary": "The binding layer in Ontario is municipal: many cities license commercial breeders/pet shops, cap the number of animals per dwelling, or regulate 'exotic' pets. Check your city's animal bylaw. The Provincial Animal Welfare Services Act (PAWS) sets enforceable minimum care standards everywhere.",
+      "steps": [
+        "Check your municipality's animal/exotic-pet bylaw and any breeder/pet-shop licensing",
+        "Meet PAWS minimum care standards"
+      ],
+      "forms": [],
+      "where_to_file": "Your municipality; Animal Welfare Services (PAWS)",
+      "fees": "Set locally",
+      "source_ids": [
+        "on-fwca"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat outdoors — it is a non-native species and release is both ecologically harmful and an animal-welfare concern. Rehome responsibly.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "on-fwca"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "on-fwca",
+      "title": "Fish and Wildlife Conservation Act, 1997, S.O. 1997, c. 41 (covers native wildlife; R. rattus outside scope)",
+      "url": "https://www.ontario.ca/laws/statute/97f41",
+      "authority": "Government of Ontario",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "on-reg666",
+      "title": "O. Reg. 666/98 — Possession, Buying and Selling of Wildlife (native wildlife)",
+      "url": "https://www.ontario.ca/laws/regulation/980666",
+      "authority": "Government of Ontario",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

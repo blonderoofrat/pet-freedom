@@ -1,0 +1,156 @@
+{
+  "jurisdiction": {
+    "id": "us-nj",
+    "level": "state",
+    "name": "New Jersey",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-NJ",
+    "language": "en",
+    "slug": "new-jersey",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "New Jersey is strict about exotic pets in general, but it expressly exempts the entire rat genus: its exempt-pet list (N.J.A.C. 7:25-4.4) names 'Mice and Rats — Mus spp. and Rattus spp.' Because the exemption is written at the GENUS level, it covers Rattus rattus exactly as it covers the common fancy rat. So keeping and breeding a captive-bred roof rat is legal with no exotic/nongame permit (just cage it to prevent escape and never release it). Private rehoming/adoption is fine; COMMERCIAL selling triggers Fish & Wildlife pet-shop/dealer licensing. No pet-rat-specific state import certificate was found (the CVI rules cover livestock/poultry).",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "N.J.A.C. 7:25-4.4(a) lists species that 'may be possessed in this State without a permit,' and subsection (a)2.v lists 'Mice and Rats — Mus spp. and Rattus spp.' Because the exemption names the entire genus Rattus, captive-bred Rattus rattus falls within it and needs no exotic/nongame possession permit. The only condition (4.4(b)) is that the animal be caged to prevent escape. Rattus is absent from the permit-required list (7:25-4.3) and the potentially-dangerous-species list (7:25-4.8). Gemini DR-verified: N.J.A.C. 7:25-4.4 exempts the entire genus Rattus from exotic-wildlife permitting (the model genus-level exemption).",
+      "governing_law": "N.J.A.C. 7:25-4.4(a)2.v & (b); 7:25-4.3, 7:25-4.8; N.J.S.A. 23:4-63.3.",
+      "source_ids": [
+        "nj-4-4",
+        "nj-4-3",
+        "nj-4-8"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "An exempt species under 7:25-4.4 is removed from the possession-permit scheme, and no NJ Fish & Wildlife rule imposes a hobby-breeding permit for an exempt pet rodent. Breeding is simply continued possession of exempt animals, so long as the no-escape housing rule (4.4(b)) is met and animals are never released (N.J.S.A. 23:4-63.3). Commercial-scale breeding for sale shifts into dealer/pet-shop licensing. Gemini DR-verified: no statewide hobby-breeder license for exempt rodents.",
+      "governing_law": "N.J.A.C. 7:25-4.4; N.J.S.A. 23:4-63.3; (commercial) N.J.A.C. 7:25-4.6.",
+      "source_ids": [
+        "nj-4-4",
+        "nj-23-4-63-3"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Because Rattus spp. is exempt, transferring or giving an individual pet rat is not barred by the possession code. But anyone SELLING exotic/nongame wildlife commercially must hold the applicable NJ Fish & Wildlife permit — a Pet Shop–Retail Sales permit or an Animal Dealer–Wholesale permit ($100 each). Free adoption/rehoming via private transfer is the cleanest route and avoids the dealer question. Gemini DR-verified: private giving is unregulated; commercial sale needs a MUNICIPAL pet-shop license (local health dept), not a state exotic-dealer permit.",
+      "governing_law": "N.J.A.C. 7:25-4.6 (dealer/pet-shop permits); N.J.S.A. 4:19-15.8 (pet-shop licensing); 7:25-4.4 (species exemption).",
+      "source_ids": [
+        "nj-fw-permits",
+        "nj-4-4"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Intrastate transport of a lawfully-possessed exempt pet is not restricted. New Jersey's animal-import / CVI scheme (N.J.A.C. 2:3) is limited to livestock and poultry and does not impose a CVI on pet rodents. The binding statewide rules are the no-release prohibition (N.J.S.A. 23:4-63.3) and the no-escape caging rule (7:25-4.4(b)). Confirm import expectations with the State Veterinarian, as no rat-specific rule was located. Gemini DR-verified: intrastate unregulated; import of companion rodents isn't subject to a state CVI (livestock/poultry/dogs-focused) - a practical-legal gray area; commercial carriers may still require a CVI.",
+      "governing_law": "N.J.A.C. 2:3-1.2/1.4 (livestock/poultry CVI — excludes pet rodents); N.J.S.A. 23:4-63.3 (no release); N.J.A.C. 7:25-4.4(b).",
+      "source_ids": [
+        "nj-4-4",
+        "nj-23-4-63-3"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Selling pet rats COMMERCIALLY requires a NJ Fish & Wildlife permit — a Pet Shop–Retail Sales permit (selling to individuals) or an Animal Dealer–Wholesale permit (selling to stores), $100 each, with recordkeeping. Private free adoption/rehoming does not.",
+      "steps": [
+        "For commercial sales: obtain the appropriate NJ Fish & Wildlife pet-shop/dealer permit",
+        "Private rehoming/adoption needs no permit"
+      ],
+      "forms": [
+        {
+          "name": "NJ Fish & Wildlife — Exotic & Nongame Wildlife Permit Applications",
+          "url": "https://dep.nj.gov/njfw/wildlife/exotic-and-nongame-wildlife-permit-applications/"
+        }
+      ],
+      "where_to_file": "NJ Division of Fish & Wildlife — Wildlife Permits Unit",
+      "fees": "$100 per permit",
+      "source_ids": [
+        "nj-fw-permits"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Cage the rat to prevent escape (N.J.A.C. 7:25-4.4(b)) and never release it (N.J.S.A. 23:4-63.3) — R. rattus is a non-native species. Rehome responsibly.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "nj-23-4-63-3",
+        "nj-4-4"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "nj-4-4",
+      "title": "N.J.A.C. 7:25-4.4 — Exempted species ('Mice and Rats — Mus spp. and Rattus spp.')",
+      "url": "https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-7-25-4-4",
+      "authority": "NJ Division of Fish & Wildlife (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nj-4-3",
+      "title": "N.J.A.C. 7:25-4.3 — Exotic/nongame species requiring a permit (Rattus NOT listed)",
+      "url": "https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-7-25-4-3",
+      "authority": "NJ Division of Fish & Wildlife (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nj-4-8",
+      "title": "N.J.A.C. 7:25-4.8 — Potentially dangerous species (rodents = prairie dogs & ground squirrels only)",
+      "url": "https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-7-25-4-8",
+      "authority": "NJ Division of Fish & Wildlife (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nj-23-4-63-3",
+      "title": "N.J.S.A. 23:4-63.3 — Possession/release of certain animals (no-release rule)",
+      "url": "https://law.justia.com/codes/new-jersey/title-23/section-23-4-63-3/",
+      "authority": "NJ Revised Statutes (Justia)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nj-fw-permits",
+      "title": "NJ Fish & Wildlife — Exotic & Nongame Wildlife Permit Applications (pet-shop/dealer permits)",
+      "url": "https://dep.nj.gov/njfw/wildlife/exotic-and-nongame-wildlife-permit-applications/",
+      "authority": "NJ Division of Fish & Wildlife",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

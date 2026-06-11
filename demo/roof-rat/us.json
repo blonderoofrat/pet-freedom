@@ -1,0 +1,212 @@
+{
+  "jurisdiction": {
+    "id": "us",
+    "level": "country",
+    "name": "United States",
+    "parent": null,
+    "country": "US",
+    "iso": "US",
+    "language": "en",
+    "slug": "united-states",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Under U.S. federal law, KEEPING a roof rat as a pet is unregulated (left to the states). But the common belief that all rats are federally exempt is wrong for Rattus rattus: the Animal Welfare Act's rat exclusion covers only research-bred rats, so commercial BREEDERS and SELLERS can need a USDA license (small hobby breeders and face-to-face sales/giveaways are exempt), and because the USFWS classifies Rattus rattus as 'wildlife,' IMPORTING or EXPORTING one requires a Form 3-177 wildlife declaration even for a captive-bred pet.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The federal government does not regulate private, non-commercial possession of pet rats; under the Tenth Amendment this is left to state, county, and municipal law. Rattus rattus is not federally listed as injurious or endangered, so nothing federal stops you from keeping one (your state/city may).",
+      "governing_law": "Tenth Amendment (state police power); no applicable federal possession statute.",
+      "source_ids": [
+        "fws-14-4",
+        "cfr-16-11"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Pet roof rats are NOT exempt from the Animal Welfare Act (its exclusion covers only rats 'bred for use in research,' 7 U.S.C. 2132(g); 9 C.F.R. 1.1), so they are regulated 'animals.' But a USDA license is needed ONLY if you sell the offspring WHOLESALE (to resellers) or SIGHT-UNSEEN (shipped to a buyer who has not seen the animal). Selling or placing rats face-to-face to the final owner, or giving them away, is exempt as a 'retail' transaction with NO limit on the number of breeding females (9 C.F.R. 2.1(a)(3)). The 'four or fewer breeding females' exemption only matters for sight-unseen/shipped sales.",
+      "governing_law": "Animal Welfare Act, 7 U.S.C. 2132(g); 9 C.F.R. 1.1 & 2.1.",
+      "source_ids": [
+        "awa-def",
+        "awa-license"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "A USDA Class B dealer license is required only for WHOLESALE sales (to resellers/pet stores) or SIGHT-UNSEEN shipped sales. Selling face-to-face to the final owner (a 'retail pet store' transaction, which includes a home breeder selling directly), and giving rats away, are exempt — with NO limit on the number of breeding females (9 C.F.R. 1.1, 2.1(a)(3)). Only a wholesale or sight-unseen seller keeping 5 or more breeding females must be licensed.",
+      "governing_law": "AWA dealer licensing, 9 C.F.R. 1.1 & 2.1.",
+      "source_ids": [
+        "awa-def",
+        "awa-license"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "Moving a roof rat between U.S. states needs no federal permit (and since U.S. v. Zinke (2017) even injurious species may move between contiguous states), BUT the Lacey Act (16 U.S.C. 3372) makes it a federal crime to transport one into a state where it is illegal. IMPORT/EXPORT is more involved: the USFWS classifies Rattus rattus as 'wildlife' (only Rattus norvegicus is on the domesticated-exemption list, 50 C.F.R. 14.4), so each shipment needs a USFWS Form 3-177 declaration, entry/exit through a designated wildlife port, and an inspection fee, even for a captive-bred pet (the personal-pet exemption waives only the commercial license). The CDC African-rodent import ban (42 C.F.R. 71.56) does not apply to roof rats sourced outside Africa, and USDA Veterinary Services has no health requirements for pet-rodent import.",
+      "governing_law": "Lacey Act 16 U.S.C. 3372; USFWS 50 C.F.R. 14.4 & 14.61; CDC 42 C.F.R. 71.56; injurious 18 U.S.C. 42 / 50 C.F.R. 16.11 (R. rattus not listed).",
+      "source_ids": [
+        "lacey-3372",
+        "fws-14-4",
+        "fws-14-61",
+        "cdc-71-56",
+        "cfr-16-11"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "A USDA APHIS license (Class A breeder / Class B dealer) is required ONLY for WHOLESALE selling or SIGHT-UNSEEN shipping by someone keeping 5 or more breeding females. Selling face-to-face to the final owner, or giving rats away, is EXEMPT no matter how many breeding females you keep (the 'retail pet store' exemption, 9 CFR 2.1(a)(3)).",
+      "steps": [
+        "Check whether you exceed the exemption thresholds (9 CFR 2.1(a)(3))",
+        "If not exempt, apply for the appropriate USDA license and meet the 9 CFR Part 3 housing/care standards"
+      ],
+      "forms": [
+        {
+          "name": "USDA AWA licensing rule & exemptions (9 CFR 2.1)",
+          "url": "https://www.ecfr.gov/current/title-9/part-2/section-2.1"
+        }
+      ],
+      "where_to_file": "USDA APHIS Animal Care",
+      "fees": "Varies by license type/size",
+      "source_ids": [
+        "awa-license",
+        "awa-def"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing or exporting a roof rat requires a USFWS wildlife declaration (Form 3-177), clearance at a designated wildlife port, and a per-shipment inspection fee, because Rattus rattus is legally 'wildlife' (it is not on the 50 CFR 14.4 domesticated list). The personal-pet exemption waives only the commercial Import/Export license, not the declaration, port, or inspection.",
+      "steps": [
+        "File Form 3-177 via the USFWS eDecs system before the shipment",
+        "Route the shipment through a designated wildlife port (or get a Designated Port Exception Permit)",
+        "Give ~48-hour advance notice and pay the inspection fee"
+      ],
+      "forms": [
+        {
+          "name": "USFWS Form 3-177 (Declaration for Importation/Exportation of Wildlife)",
+          "url": "https://www.fws.gov/media/wildlife-shipments-declaration-form-3-177"
+        }
+      ],
+      "where_to_file": "USFWS, at a designated wildlife port",
+      "fees": "Per-shipment inspection fee",
+      "source_ids": [
+        "fws-14-4",
+        "fws-14-61"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Lacey Act: do not move a roof rat into (or out of) a state where keeping or importing it is illegal — interstate movement that violates a state's law is itself a federal crime.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "lacey-3372"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "awa-def",
+      "title": "9 CFR 1.1 / 7 U.S.C. 2132(g) — AWA definition of 'animal' (Rattus excluded only if bred for research)",
+      "url": "https://www.ecfr.gov/current/title-9/part-1/section-1.1",
+      "authority": "USDA-APHIS / U.S. Code",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "awa-license",
+      "title": "9 CFR 2.1 — AWA licensing requirements & exemptions (≤4 females, <$500, retail/face-to-face)",
+      "url": "https://www.ecfr.gov/current/title-9/part-2/section-2.1",
+      "authority": "USDA-APHIS",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "fws-14-4",
+      "title": "50 CFR 14.4 — domesticated-animal list (R. norvegicus listed; R. rattus NOT → 'wildlife')",
+      "url": "https://www.law.cornell.edu/cfr/text/50/14.4",
+      "authority": "U.S. Fish & Wildlife Service",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "fws-14-61",
+      "title": "50 CFR 14.61 — wildlife import/export declaration (Form 3-177)",
+      "url": "https://www.ecfr.gov/current/title-50/part-14/section-14.61",
+      "authority": "USFWS",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "cfr-16-11",
+      "title": "50 CFR 16.11 — injurious live mammals (only Mastomys among rodents; R. rattus not listed)",
+      "url": "https://www.law.cornell.edu/cfr/text/50/16.11",
+      "authority": "USFWS",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "lacey-3372",
+      "title": "16 U.S.C. 3372 — Lacey Act trafficking (federalizes state law)",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3372&num=0&edition=prelim",
+      "authority": "U.S. Code",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "cdc-71-56",
+      "title": "42 CFR 71.56 — CDC African-rodent import ban (N/A to non-African roof rats)",
+      "url": "https://www.ecfr.gov/current/title-42/part-71/section-71.56",
+      "authority": "CDC",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "aphis-import",
+      "title": "Bring a Pet Rodent into the U.S. — USDA APHIS (no VS health requirements)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA-APHIS",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "aphis-export",
+      "title": "Exporting a pet (rodent health certificate) — USDA APHIS",
+      "url": "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export",
+      "authority": "USDA-APHIS",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

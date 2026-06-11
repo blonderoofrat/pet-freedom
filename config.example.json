@@ -1,0 +1,61 @@
+{
+  "_README": "Copy this file to config.json (gitignored) and edit. This is the SINGLE place you parameterize the skill for your species, site, and preferences. Nothing species- or brand-specific should live in the Python.",
+
+  "project": {
+    "name": "Roof Rat Laws",
+    "hub_slug": "roof-rat-laws",
+    "hub_title": "Are Roof Rats Legal? Laws by Country & State"
+  },
+
+  "species": {
+    "latin": "Rattus rattus",
+    "common": ["roof rat", "black rat", "ship rat"],
+    "counterpart": {
+      "_note": "Optional. The closely-related species people DO commonly keep, used for the 'is the domestic-X exemption only for the counterpart?' analysis. Omit if not applicable.",
+      "latin": "Rattus norvegicus",
+      "common": ["fancy rat", "Norway rat"],
+      "note": "the common pet rat; many 'domestic rat' exemptions name only it"
+    }
+  },
+
+  "activities": ["keep", "breed", "sell_give", "transport"],
+
+  "site": {
+    "url": "https://example.com",
+    "cta_links": { "care": "/care/", "extra": "", "contact": "/contact/" }
+  },
+
+  "seo": {
+    "_note": "rank_math | yoast | none. 'none' uses the bundled mu-plugin to register the meta keys so core WP REST can write them.",
+    "plugin": "rank_math"
+  },
+
+  "plugin": {
+    "_note": "Optional companion plugin. If use=false, the skill publishes via core WP REST + the mu-plugin SEO fallback.",
+    "use": true,
+    "namespace": "petfreedom/v1",
+    "option_prefix": "pf_"
+  },
+
+  "research": {
+    "_note": "gemini_available: tell the agent whether Gemini Pro Deep Research is an option for you. default_engine: 'auto' lets the agent recommend the best engine per jurisdiction; else 'gemini' | 'claude' | 'manual'. If Gemini is unavailable the agent always falls back to the best available (Claude deep-research / web-search).",
+    "gemini_available": true,
+    "default_engine": "auto"
+  },
+
+  "inquiries": {
+    "_note": "Sending written inquiries to agencies is OPTIONAL but highly recommended. Off by default; the agent SUGGESTS turning it on when an audit finds a clarification-worthy gap. confirm_each keeps you in control: nothing is ever sent without your per-query confirm/edit.",
+    "enabled": false,
+    "highly_recommended": true,
+    "confirm_each": true,
+    "sender_name": "",
+    "brand_line": "",
+    "public_email": ""
+  },
+
+  "attribution": {
+    "_note": "Optional, understated 'gift' credit on your published pages. Set footer_optin=false to omit entirely.",
+    "footer_optin": true,
+    "footer_html": "Built with <a href=\"https://blonderoofrat.com\" rel=\"nofollow\">Pet Freedom</a> — a gift from the roof-rat community."
+  }
+}

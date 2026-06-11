@@ -1,0 +1,175 @@
+{
+  "jurisdiction": {
+    "id": "us-ar",
+    "level": "state",
+    "name": "Arkansas",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-AR",
+    "language": "en",
+    "slug": "arkansas",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Arkansas uses a positive-list captive-wildlife system, and the roof rat falls through it. The Game & Fish Commission lists species as Unrestricted (R1.01), Permit-Required (R1.02), or Prohibited (R1.03) — and any species on NONE of the lists is 'prohibited by default until evaluated.' The fancy rat (Rattus norvegicus) is explicitly on the Unrestricted list and exempt from the possession/breeder/import rules; Rattus rattus is not on any list. So under a strict reading, keeping/breeding/selling/importing a roof rat is prohibited-by-default pending an AGFC species evaluation — another 'species-not-domestication' trap. There's a clear path: petition AGFC to add captive-bred R. rattus to the Unrestricted list (it poses no different risk than the fancy rat). We've queued that inquiry.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "positive_list",
+      "problem": "Arkansas regulates captive wildlife with a \"positive list\" system run by the Arkansas Game & Fish Commission (AGFC). Under AGFC Code R1.00, species are sorted into Unrestricted (R1.01), Permit-Required (R1.02), or Prohibited (R1.03) — and any species on NONE of the lists is treated as prohibited-by-default until AGFC evaluates it. The common pet \"fancy rat,\" Rattus norvegicus, is listed by name on the Unrestricted list and is exempt from the possession, breeder/dealer, and importation permit rules. The roof rat, Rattus rattus, is not on any of the lists. So under a strict reading, the captive-bred pet roof rat is prohibited-by-default — not because anyone judged it dangerous, but simply because it was never added to a list, while its near-identical cousin the fancy rat already is. This is a classification gap, not a deliberate ban.",
+      "ask": "Ask AGFC to add captive-bred Rattus rattus to the Unrestricted Captive Wildlife Species List (R1.01) — the same status the fancy rat (Rattus norvegicus) already holds — or, if AGFC views multi-generational captive-bred pet rats as outside its captive-wildlife jurisdiction, to say so in writing. A captive-bred, tame, indoor-only pet roof rat poses no different ecological or public-safety risk than the already-exempt fancy rat, so the same Unrestricted treatment is appropriate. Send species-evaluation requests to the captive wildlife program inbox.",
+      "branch_note": "The lever is the AGENCY (AGFC), not the legislature. This is a positive-list/species-evaluation gap, and AGFC is the body that maintains and amends those lists. AGFC's own framework (Code R1.00 plus addenda R1.01/R1.02/R1.03) is administrative regulation written and revised by the Commission through a science-based species-evaluation process — it already added Rattus norvegicus by name to the Unrestricted list and exempted it from Codes 09.02/09.07/09.10. The same body can add Rattus rattus the same way. The problem is therefore (a): the rules under-apply to the roof rat only because it was never evaluated and listed, not because a statute names it as banned. The correct, realistic move is a written species-evaluation request / petition to AGFC's captive wildlife program asking it to add captive-bred R. rattus to R1.01 (or to confirm it is outside AGFC jurisdiction). You do NOT need the Arkansas General Assembly for this: the underlying statute (Ark. Code §15-43-201 et seq.) delegates captive-wildlife classification to the Commission, so AGFC can fix this by amending its own list. A legislative appeal would be the wrong door unless AGFC declines and points back to statute. Note for accuracy: there is genuine ambiguity — some treat common pet rats as unregulated \"pocket pets,\" and no known enforcement has ever targeted R. rattus — but that informal tolerance rests entirely on the R. norvegicus exemption, so getting R. rattus formally listed removes the risk rather than relying on non-enforcement.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Arkansas Game & Fish Commission — Captive Wildlife Program",
+          "type": "agency",
+          "email": "captivewildlife@agfc.ar.gov",
+          "form_url": "https://www.agfc.com/education/captive-wildlife/",
+          "why": "This is the body that maintains the Unrestricted/Permit/Prohibited captive-wildlife lists and runs the science-based species-evaluation process. Its official captive-wildlife page directs species-evaluation requests for unlisted species to captivewildlife@agfc.ar.gov. This is exactly where to ask AGFC to add captive-bred Rattus rattus to the Unrestricted list (R1.01) — the status the fancy rat already holds — or to confirm captive-bred pet rats are outside its jurisdiction."
+        },
+        {
+          "name": "Arkansas Game & Fish Commission — Headquarters",
+          "type": "agency",
+          "form_url": "https://www.agfc.com/contact-us/",
+          "why": "General AGFC headquarters touchpoint (phone 833-345-0325, 2 Natural Resources Drive, Little Rock) for routing or following up on a captive-wildlife species-evaluation request if the program inbox does not respond."
+        }
+      ],
+      "template": {
+        "en": "To: Arkansas Game & Fish Commission, Captive Wildlife Program\nSubject: Species-evaluation request — add captive-bred roof rat (Rattus rattus) to the Unrestricted list\n\nDear Captive Wildlife Program,\n\nI am writing about a gap in the captive-wildlife species lists under Code R1.00. The fancy rat, Rattus norvegicus, is on the Unrestricted list (R1.01) and exempt from Codes 09.02, 09.07, and 09.10. Its close cousin, the roof rat (Rattus rattus), is on none of the lists, so under a strict reading it is prohibited-by-default — only because it was never evaluated, not because anyone found it dangerous.\n\nThe animals I am describing are captive-bred and multi-generational tame, kept strictly indoors as pets, and never released to the wild. A captive-bred Rattus rattus poses no different ecological or public-safety risk than the already-exempt fancy rat.\n\nPlease evaluate captive-bred Rattus rattus and add it to the Unrestricted Captive Wildlife Species List (R1.01), giving it the same treatment as Rattus norvegicus — or, if AGFC considers captive-bred pet rats outside its captive-wildlife jurisdiction, please confirm that in writing. I am glad to provide further information.\n\nThank you for your consideration.\n[Your name]\n[Your city, Arkansas]\n[Your email]"
+      },
+      "confidence_notes": "Verified on the live AGFC site (June 2026): the official captive-wildlife page (agfc.com/education/captive-wildlife/) directs species-evaluation requests for unlisted species to captivewildlife@agfc.ar.gov — this is the correct official inbox, confirmed firsthand, not just from prior research. Verified via the Cornell LII regulatory mirror that the Unrestricted Captive Wildlife Species List (R1.01) lists only the Norway rat (Rattus norvegicus) — exempt from Codes 09.02/09.07/09.10 — and does NOT include Rattus rattus. The positive-list framework (Code R1.00; unlisted = prohibited-by-default) and AGFC's authority to amend its own species lists are consistent across AGFC, Cornell LII, and Justia sources. The apps.agfc.com/regulations/R1.01/ permalink now returns 404 (the regulation appears to have moved/renumbered), but the substance is confirmed via the Cornell mirror and the official AGFC PDF list. General AGFC contact: phone 833-345-0325; 2 Natural Resources Drive, Little Rock, AR 72205; no public web contact FORM was found (phone/email/portal only). Uncertain: whether AGFC will treat multi-generational captive-bred pet R. rattus as 'wildlife' at all — it may conclude the animal is outside its jurisdiction, which would also resolve the question favorably. The 'prohibited-by-default' reading is a strict interpretation; in practice common pet rats are widely treated as unregulated and no enforcement against R. rattus is known, but that tolerance rests on the R. norvegicus exemption, so a written determination is the safe path. This is a research aid, not legal advice."
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "AGFC's captive-wildlife framework (Code R1.00) classifies species as Unrestricted/Permit-Required/Prohibited and makes any UNLISTED species prohibited by default until evaluated. R. norvegicus is on the Unrestricted list (R1.01) and exempt from Code 09.02; Rattus rattus is on none of the lists, so a strict reading makes private possession prohibited-by-default pending an AGFC determination. (Genuine ambiguity: no enforcement names R. rattus and some sources treat 'rats' as unregulated pocket pets — but that rests on the R. norvegicus exemption.)",
+      "governing_law": "AGFC Code R1.00 (unlisted = prohibited default); R1.01 (Unrestricted — R. rattus absent); Code 09.02 (R. norvegicus exempt, R. rattus not); Ark. Code §15-43-201 et seq.",
+      "source_ids": [
+        "ar-r100",
+        "ar-09-02",
+        "ar-r101"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "The Wildlife Breeder/Dealer Permit (Code 09.07) is available only for species on the Permit-Required list (R1.02); R. rattus isn't on it, and unlisted species are prohibited by default — so there is currently no breeding-permit pathway for the roof rat under the AGFC framework (unless AGFC determines it's outside their jurisdiction).",
+      "governing_law": "AGFC Code 09.07; R1.02; R1.00 (default).",
+      "source_ids": [
+        "ar-r100",
+        "ar-09-02"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Sale/transfer of captive wildlife runs through the same AGFC framework; R. norvegicus is exempt from Code 09.07/09.10 by name, R. rattus is not. As an unlisted (prohibited-by-default) species, commercial sale has no permit pathway; gifting falls under the same possession framework. Resolve the possession classification with AGFC first.",
+      "governing_law": "AGFC Code 09.02, 09.07; R1.01 (R. norvegicus exempt; R. rattus unlisted).",
+      "source_ids": [
+        "ar-09-02",
+        "ar-r101"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Importing wildlife needs an AGFC Wildlife Importation Permit (Code 09.10) unless the species is Unrestricted (R1.01) — R. rattus isn't, creating a circular bar. Separately, the Dept of Agriculture (ALPC Rule 125.00) requires an entry permit + CVI for 'zoo, wild, and/or exotic animals' (rodents not explicitly named). In-state transport of a lawfully-held animal isn't separately restricted, but the possession question controls. Never release a roof rat.",
+      "governing_law": "AGFC Code 09.10; R1.01; ALPC Rule 125.00 (entry permit/CVI for exotic animals).",
+      "source_ids": [
+        "ar-r101",
+        "ar-ag-entry"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Because R. rattus is unlisted on AGFC's captive-wildlife lists (only the fancy rat is Unrestricted), it is prohibited-by-default until AGFC evaluates it. Request a species determination from AGFC (captivewildlife@agfc.ar.gov) BEFORE acquiring one, and consider petitioning to add captive-bred R. rattus to the Unrestricted list. Never release one.",
+      "steps": [
+        "Email AGFC captivewildlife@agfc.ar.gov for a species determination / petition to add R. rattus to R1.01"
+      ],
+      "forms": [],
+      "where_to_file": "Arkansas Game & Fish Commission — Captive Wildlife Program",
+      "fees": "",
+      "source_ids": [
+        "ar-r100",
+        "ar-r101"
+      ]
+    }
+  ],
+  "inquiry_focus": "Under AGFC's captive-wildlife framework (Code R1.00 + Addenda R1.01/R1.02/R1.03), the fancy rat (Rattus norvegicus) is on the Unrestricted list and exempt from Code 09.02/09.07/09.10, but Rattus rattus appears on none of the lists. (1) Does AGFC consider captive-bred, multi-generational R. rattus to be 'wildlife' under its jurisdiction? (2) If so, is it prohibited-by-default as an unlisted species, and will AGFC add it to the Unrestricted list (R1.01) — as it does for R. norvegicus — given a captive-bred roof rat poses no different ecological risk? (3) Is a Wildlife Importation Permit (Code 09.10) required to bring captive-bred animals into Arkansas? Separately, does the State Veterinarian require a CVI/entry permit for a pet rat?",
+  "sources": [
+    {
+      "id": "ar-r100",
+      "title": "AGFC Code R1.00 — Captive Wildlife framework (Unrestricted/Permit/Prohibited lists; unlisted = prohibited by default)",
+      "url": "https://agfc-omnibus.s3.amazonaws.com/eregs/regulation_pdfs/large/agfc_regulation_R1.00_large.pdf",
+      "authority": "Arkansas Game & Fish Commission",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ar-09-02",
+      "title": "AGFC Code 09.02 — Possession of Non-Native Wildlife Restricted (R. norvegicus exempt by name; R. rattus not)",
+      "url": "https://apps.agfc.com/regulations/09.02/",
+      "authority": "Arkansas Game & Fish Commission",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ar-r101",
+      "title": "AGFC Addendum R1.01 — Unrestricted Captive Wildlife Species List (lists R. norvegicus; R. rattus absent)",
+      "url": "https://apps.agfc.com/regulations/R1.01/",
+      "authority": "Arkansas Game & Fish Commission",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ar-ag-entry",
+      "title": "Arkansas Dept of Agriculture — Animal Entry Requirements (entry permit/CVI for exotic animals)",
+      "url": "https://agriculture.arkansas.gov/animals/disease-traceability/animal-entry-requirements/",
+      "authority": "Arkansas Dept of Agriculture",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Arkansas Game & Fish Commission — Captive Wildlife Program",
+      "role": "wildlife",
+      "email": "captivewildlife@agfc.ar.gov",
+      "form_url": "",
+      "phone": "(501) 223-6300",
+      "primary": true
+    },
+    {
+      "agency": "Arkansas Dept of Agriculture — State Veterinarian / Animal Health",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://agriculture.arkansas.gov/animals/disease-traceability/animal-entry-requirements/",
+      "phone": "(501) 907-2400"
+    }
+  ]
+}

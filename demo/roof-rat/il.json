@@ -1,0 +1,260 @@
+{
+  "jurisdiction": {
+    "id": "il",
+    "level": "country",
+    "name": "Israel",
+    "parent": null,
+    "country": "IL",
+    "iso": "IL",
+    "language": "he",
+    "inquiry_language": "en",
+    "slug": "israel",
+    "local_terms": [
+      "Rattus rattus",
+      "חולדה מצויה (chuldah metzuyah — common/house rat, the statutory designation for R. rattus)",
+      "חולדת העליות (chuldat ha-aliyot — attic rat)",
+      "חולדה שחורה (chuldah shechorah — black rat, literal)",
+      "מזיק (mazik — 'pest', the operative legal classification)"
+    ]
+  },
+  "summary": "Israel's regulation of roof rats is a paradox: the species is freely keepable precisely because it is legally branded a 'pest.' Under the Wildlife Protection Law 5715-1955, Section 8 bars holding, transferring, and trading a 'wild animal' WITHOUT an INPA permit — but only for animals that are NOT pests. The Wildlife Protection Regulations 5736-1976 (Reg. 2) explicitly declare Rattus rattus a pest (מזיק), listed right beside Rattus norvegicus, so both rat species are entirely exempt from INPA keeping, transfer, and internal-trade permits — and there is no White-List issue for domestic keeping. (This overturns the preliminary White-List assumption.) The fancy rat is sold freely for this exact reason, not because of any special 'domesticated' status. The catch is at the other end: as a declared pest and invasive species, R. rattus is NOT on the INPA Mammal White List, so commercial import is barred — deliberately, to keep exotic rat lineages out — with only a narrow, contested veterinary 'accompanied pet' exemption for personal import. Commercial breeding/selling needs a municipal business license, and municipal sanitation bylaws treat any rat on a property as a nuisance subject to eradication, a theoretical exposure that coexists with the federal exemption.",
+  "last_reviewed": "2026-06-11",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Keeping a roof rat needs NO INPA permit. The Wildlife Protection Law 5715-1955 s.8(3) bars holding a 'wild animal that is not a pest' without a permit; the Wildlife Protection Regulations 5736-1976 Reg. 2(2) expressly declare Rattus rattus a pest (מזיק) — alongside R. norvegicus at Reg. 2(1) — so it is carved out of the s.8 permit regime entirely, exactly like the freely-kept fancy rat. The one wrinkle is tiered government: municipal sanitation bylaws (under the Municipalities Ordinance) classify rats on a property as a 'nuisance' subject to a removal/eradication notice, drawing no distinction between a feral infestation and a caged pet — a theoretical exposure that does not displace the federal exemption.",
+      "governing_law": "Wildlife Protection Law 5715-1955 s.8(3); Wildlife Protection Regulations 5736-1976 Reg. 2(2) (R. rattus declared a pest); Municipalities Ordinance + model sanitation bylaws (nuisance overlay).",
+      "source_ids": [
+        "il-wpl-1955",
+        "il-wpr-1976",
+        "il-municipal-bylaw"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Private hobby breeding of lawfully-held roof rats is unregulated and lawful: because INPA requires no holding permit for declared pests (Wildlife Protection Law 1955 s.8; 1976 Regs Reg. 2), it does not track or restrict their reproduction, and the Animal Protection (Welfare) Law 5754-1994 sets only general welfare standards, not a breeding ban. The status shifts to RESTRICTED only at commercial scale: a systematic breeding operation triggers a mandatory municipal business license under the Business Licensing Order 5773-2013 Item 3.2(a) ('breeding, keeping and treating of animals'), with veterinary/sanitation/fire inspections. There is no fixed numeric hobby-to-business threshold; it is judged qualitatively (scale, public access, income, nuisance).",
+      "governing_law": "Wildlife Protection Law 1955 s.8 + 1976 Regs Reg. 2 (pest exemption); Animal Protection (Welfare) Law 5754-1994 (welfare); Business Licensing Order 5773-2013 Item 3.2(a) (commercial breeding license).",
+      "source_ids": [
+        "il-wpl-1955",
+        "il-wpr-1976",
+        "il-apl-1994",
+        "il-business-licensing"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Private sale or gifting of captive-bred roof rats is lawful and needs no INPA permit: the Wildlife Protection Law 1955 s.8(1)-(2) require trade/transfer permits only for a 'wild animal that is not a pest', and R. rattus is a declared pest (1976 Regs Reg. 2(2)), so it is exempt — which is why both rat species are sold openly on Israeli platforms (e.g. Yad2, Facebook groups) without violating any wildlife-trafficking statute. The status is RESTRICTED only for commercial retail: a pet shop or systematic seller needs a municipal business license under the Business Licensing Order 5773-2013 Item 3.2, plus Animal Protection (Welfare) Law 1994 housing standards. Not CITES-listed.",
+      "governing_law": "Wildlife Protection Law 1955 s.8(1)-(2) (trade/transfer permits — exempt for pests); Wildlife Protection Regulations 1976 Reg. 2(2); Business Licensing Order 5773-2013 Item 3.2 (commercial pet-shop/dealer license).",
+      "source_ids": [
+        "il-wpl-1955",
+        "il-wpr-1976",
+        "il-business-licensing"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Internal transport of lawfully-held stock is unregulated beyond general welfare. International IMPORT is the heavily restricted edge: Israel runs a 'White List' (רשימה לבנה) admitting only listed species, and the 2018 INPA Mammal White List omits ALL Rattus species while listing other pet rodents (hamsters, chinchilla, degu, gerbil) — so commercial import of roof rats is effectively prohibited, a deliberate policy (per a 2023/2025 draft amendment) to bar non-native rat lineages. A narrow lawful pathway survives: the Ministry of Agriculture Veterinary Services 'accompanied pet' exemption permits importing up to two rodents with an origin Veterinary Health Certificate (issued ≤7 days pre-export), a 90-day-ownership / non-commercial declaration (Annex B/C to vs-airport@moag.gov.il ≥48h before arrival), and an inspection fee — though its application to a declared 'pest' is unsettled and INPA inspectors may still confiscate at the border. Under the assume-a-pathway lens this is legal_with_permit/restricted, not flat-prohibited. Never release.",
+      "governing_law": "INPA Mammal White List (2018) + Wildlife Protection Law 1955 (import veto over unlisted wildlife); Animal Diseases Regulations (Import of Animals) 5734-1974 + MoAg Veterinary Services accompanied-pet exemption (≤2 rodents, health certificate, Annex B/C).",
+      "source_ids": [
+        "il-inpa-whitelist",
+        "il-inpa-import",
+        "il-moag-import",
+        "il-moag-annex",
+        "il-wpl-1955"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "facility",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Commercial-scale breeding or a retail pet shop selling rats needs a municipal Business License (רישיון עסק) under the Business Licensing Order 5773-2013 Item 3.2 ('breeding, keeping and treating of animals'). Private hobby breeding and one-off/low-volume private sales need NO license. There is no numeric hobby/business threshold — municipalities judge it qualitatively (scale, public foot traffic, income, odor/refuse nuisance).",
+      "steps": [
+        "Determine whether the operation is qualitatively 'commercial' (scale, public access, income, nuisance) — private hobby placement is exempt",
+        "If commercial: apply to the local municipality for a Business License under Item 3.2",
+        "Pass prior/periodic inspections by the municipal veterinarian, Ministry of Health, and Fire & Rescue Authority (ventilation, drainage, escape-proof enclosures, disease control)"
+      ],
+      "forms": [],
+      "where_to_file": "Local municipality business-licensing department (רישוי עסקים)",
+      "fees": "Set by the municipality",
+      "source_ids": [
+        "il-business-licensing"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "rats",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a roof rat as a personal pet runs through the Ministry of Agriculture Veterinary Services 'accompanied pet' exemption (no advance import license for up to two rodents), but R. rattus's absence from the INPA Mammal White List means INPA may still veto entry. The standard small-rodent pathway (hamster, etc.) does NOT clearly extend to a species declared a 'pest', so pre-clearance between MoAg-VS and INPA is advisable. Commercial import is effectively barred.",
+      "steps": [
+        "Obtain an original Veterinary Health Certificate (in English) from a government vet in the origin country, issued ≤7 days before export",
+        "Hold the animal(s) for ≥90 days pre-flight; limit to 2 rodents; non-commercial only",
+        "Submit the Annex B/C declaration to Veterinary Services at Ben Gurion (vs-airport@moag.gov.il) ≥48 hours before arrival",
+        "Pre-clear the species with INPA (off the White List) to avoid confiscation; pay the arrival inspection fee"
+      ],
+      "forms": [
+        "MoAg Veterinary Services pet-arrival declaration (Annex B / Annex C)"
+      ],
+      "where_to_file": "Ministry of Agriculture Veterinary Services, Ben Gurion Airport (vs-airport@moag.gov.il); coordinate with INPA (import@npa.org.il)",
+      "fees": "Arrival inspection fee, historically ~55 NIS (subject to adjustment)",
+      "source_ids": [
+        "il-moag-import",
+        "il-moag-annex",
+        "il-inpa-import",
+        "il-inpa-whitelist"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Municipal sanitation bylaws (under the Municipalities Ordinance; model bylaw 1972, and e.g. Haifa, Nof HaGalil, Lod) classify the presence of rats on a property as an actionable 'nuisance' subject to a removal/eradication notice — with no legal distinction between a feral infestation and a caged pet. A complaint can trigger an inspector's notice; non-compliance can mean fines and forced extermination billed to the owner. There is no way to 'register' a pet rat to opt out. Separately, releasing a roof rat is strictly prohibited (invasive-species/ecological-hazard ban) — never release.",
+      "steps": [
+        "Keep rats fully indoors in secure, sanitary enclosures; avoid odor/escape that could draw a neighbor complaint",
+        "Never release a roof rat — release of an invasive pest is a prosecutable offense"
+      ],
+      "forms": [],
+      "where_to_file": "Local municipality (sanitation / nuisance enforcement)",
+      "fees": "",
+      "source_ids": [
+        "il-municipal-bylaw"
+      ]
+    }
+  ],
+  "inquiry_focus": "Per the DR, domestic KEEP/BREED(hobby)/SELL_GIVE(private) are exempt from INPA permits because R. rattus is a declared 'pest' — so the open questions are narrower: (1) INPA vs. MoAg IMPORT jurisdiction — does R. rattus's 'pest' status (rather than standard 'wild animal' status) let INPA veto personal import despite the species' absence from the White List, or does import authority fall solely to MoAg Veterinary Services, and how does one apply to import one R. rattus lawfully? (2) Does the MoAg ≤2-rodent 'accompanied pet' exemption (origin health certificate + 90-day-ownership declaration) actually apply to a species classified as a 'pest'/invasive, or will Ben Gurion inspectors confiscate/euthanize despite valid paperwork? (3) Municipal enforcement — is there any operational directive distinguishing a feral R. rattus infestation from a hobbyist's secured, sanitary indoor pet, or is a tame caged pet exposed to nuisance/eradication orders at an inspector's discretion? (4) (MoEP) Any pending move to reclassify captive-bred R. rattus as a 'Cultivated Wild Animal' (חיית בר מטופחת)?",
+  "sources": [
+    {
+      "id": "il-wpl-1955",
+      "title": "Wildlife Protection Law 5715-1955 (חוק להגנת חיית הבר) — s.1 'wild animal' definition; s.8(1)-(3) holding/transfer/trade permits exempt 'pests'",
+      "url": "https://static.parks.org.il/wp-content/uploads/2017/08/chok-leaganat-cayat-abar-1955.pdf",
+      "authority": "State of Israel / Knesset (via INPA)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-wpr-1976",
+      "title": "Wildlife Protection Regulations 5736-1976 (תקנות להגנת חיית הבר) — Reg. 2 designates Rattus norvegicus (2(1)) and Rattus rattus (2(2)) as 'pests' (מזיקים)",
+      "url": "https://static.parks.org.il/wp-content/uploads/2018/06/5be7fafc68793.pdf",
+      "authority": "Ministry of Environmental Protection / INPA",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-wpr-2023-amend",
+      "title": "Draft Amendment to Wildlife Protection Regulations, 5783-2023 — explains the deliberate intent: keep only endemic rats on the pest list so non-native rat species cannot enter freely under the pest exemption",
+      "url": "https://www.takdin.co.il/document/index/7705653",
+      "authority": "Ministry of Environmental Protection / Gov.il (tazkirim)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-inpa-whitelist",
+      "title": "INPA Mammal White List (Sept. 2018) — permitted mammals for import/trade; omits ALL Rattus species (lists hamster, chinchilla, degu, gerbil)",
+      "url": "https://static.parks.org.il/wp-content/uploads/2024/05/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA-%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D-%D7%9C%D7%91%D7%A0%D7%94-%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8-2018.pdf",
+      "authority": "Israel Nature & Parks Authority",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-inpa-import",
+      "title": "INPA — Import of Mammals ('species not on the White List are prohibited for import, commerce and possession'; import@npa.org.il)",
+      "url": "https://en.parks.org.il/article/%D7%99%D7%91%D7%95%D7%90-%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D-2/",
+      "authority": "Israel Nature & Parks Authority",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-moag-import",
+      "title": "Ministry of Agriculture — Import of Pets (Veterinary Services; accompanied-pet exemption ≤2 rodents, health certificate)",
+      "url": "https://www.gov.il/en/departments/topics/pet-import/govil-landing-page",
+      "authority": "Israel Ministry of Agriculture — Veterinary Services",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-moag-annex",
+      "title": "MoAg Veterinary Services — Pet-arrival declaration (Annex B/C) for notifying Ben Gurion ≥48h before arrival",
+      "url": "https://www.aphis.usda.gov/sites/default/files/pets-israel-annex-b-c.pdf",
+      "authority": "Israel Ministry of Agriculture — Veterinary Services (via USDA APHIS)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-business-licensing",
+      "title": "Business Licensing Order (Businesses Requiring Licensing) 5773-2013 — Item 3.2(a) license for breeding/keeping/treating animals (commercial breeders + pet shops)",
+      "url": "https://www.buslic.co.il/2016/10/26/animals_261016/",
+      "authority": "Ministry of Interior (secondary: licensing-practice summary)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-apl-1994",
+      "title": "Animal Protection (Welfare) Law 5754-1994 — general vertebrate welfare standards (food/water/space); no rodent breeding ban",
+      "url": "https://www.animallaw.info/sites/default/files/stisreal_animal_protection.pdf",
+      "authority": "State of Israel (translated text)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-municipal-bylaw",
+      "title": "Model Municipal Bylaw (Sanitation & Removal of Nuisances) 1972 + city bylaws (Haifa, Nof HaGalil, Lod) — rats classed as an actionable 'nuisance' subject to eradication notice",
+      "url": "https://www.haifa.muni.il/wp-content/uploads/2021/11/%D7%97%D7%95%D7%A7-%D7%A2%D7%96%D7%A8-%D7%9C%D7%97%D7%99%D7%A4%D7%94-%D7%A9%D7%9E%D7%99%D7%A8%D7%94-%D7%A2%D7%9C-%D7%94%D7%A1%D7%93%D7%A8-%D7%95%D7%94%D7%A0%D7%99%D7%A7%D7%99%D7%95%D7%9F.pdf",
+      "authority": "Ministry of Interior / Local Municipalities",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "il-iucn",
+      "title": "IUCN GISD — Rattus rattus ('100 worst' invasive; underpins Israel's deliberate import bar)",
+      "url": "https://www.iucngisd.org/gisd/species.php?sc=19",
+      "authority": "IUCN",
+      "accessed": "2026-06-11"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Israel Nature & Parks Authority (INPA) — Permits Department (מחלקת היתרים)",
+      "role": "wildlife",
+      "email": "import@npa.org.il",
+      "form_url": "https://en.parks.org.il/contact-us/",
+      "phone": "+972-2-5006261 / *3639",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Ministry of Agriculture — Veterinary Services (Import/Export; Ben Gurion Airport)",
+      "role": "agriculture",
+      "email": "vs-airport@moag.gov.il",
+      "form_url": "https://www.gov.il/en/departments/topics/pet-import/govil-landing-page",
+      "phone": "*6016",
+      "primary": false,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Ministry of Environmental Protection — Pest Control & Pesticides Dept (אגף מזיקים והדברה)",
+      "role": "environment",
+      "email": "",
+      "form_url": "https://www.gov.il/en/departments/ministry_of_environmental_protection",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "en"
+    }
+  ]
+}

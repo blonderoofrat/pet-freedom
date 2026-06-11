@@ -1,0 +1,168 @@
+{
+  "jurisdiction": {
+    "id": "it",
+    "level": "country",
+    "name": "Italy",
+    "parent": null,
+    "country": "IT",
+    "iso": "IT",
+    "language": "it",
+    "inquiry_language": "it",
+    "slug": "italy",
+    "local_terms": [
+      "Rattus rattus",
+      "ratto nero",
+      "ratto dei tetti",
+      "sorcio nero"
+    ]
+  },
+  "summary": "Italy imposes no species-specific ban on keeping a captive-bred roof rat, but the picture is unsettled. The 1996 dangerous-animals decree (DM 19 April 1996, under Legge 150/1992) lists only porcupines among rodents, not Muridae, so R. rattus isn't a prohibited 'dangerous' species. Italy's 2022 exotic-animal law (D.Lgs 135/2022) targets wild-caught and dangerous/exotic species and was supposed to publish a 'lista negativa' of banned taxa by March 2023 — but as of 2026 that list is still unpublished, so the field is partly unresolved. R. rattus is NOT on the EU IAS Union list and not CITES-listed. In practice, keeping captive-bred rats is currently allowed (often with an informal ASL registration); hobby breeding registers with the local ASL under the EU Animal Health Law system; commercial sale needs ASL/SUAP authorization. The big caveat: if the lista negativa is eventually published and includes R. rattus, the status could flip overnight.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "legislative_watch",
+      "problem": "In Italy, keeping a captive-bred roof rat (Rattus rattus, \"ratto nero\") is currently allowed: the only operative ban list — the dangerous-animals decree of 19 April 1996 under Law 150/1992 — lists only porcupines (Hystricidae) among rodents, not the mouse/rat family, and R. rattus is not on the EU invasive-species Union list or on CITES. Many local health authorities (ASL) ask keepers and hobby breeders to file an informal notification/registration. So the agency is not misreading the law; under the law as it stands today, your pet roof rat is permitted.\n\nThe real risk is a law that has not been written yet. Italy's 2022 exotic-animal law (D.Lgs 135/2022) requires the government to publish a \"lista negativa\" — a binding list of species banned from being kept — but that list, due since March 2023, is still unpublished in 2026. Its final contents are unknown. The published intent targets primates, big cats, elephants and venomous species, not small companion rodents, but it is not final. If R. rattus were ever swept into that list, keeping and breeding could become illegal overnight. This is the moment to make the case, before the list is fixed.",
+      "ask": "Write to the two ministries that jointly draft the lista negativa (the Ministry of Health and the Ministry of the Environment / MASE) and ask them to confirm in writing that the captive-bred domesticated roof rat (Rattus rattus) — a small companion rodent, not a dangerous or wild-caught species — will NOT be included on the forthcoming lista negativa under D.Lgs 135/2022. Make the point that the relevant distinction is the species' captive-bred, domesticated, indoor-kept status, exactly like the familiar fancy rat (Rattus norvegicus), and not the wild form. Ask, plainly, that small companion rodents bred in captivity be kept off the ban list (or, if any threshold applies, that a clear path to keep them legally be preserved).",
+      "branch_note": "This is branch (b) with a twist: the lever is the LEGISLATURE/RULEMAKING side, not the front-line agency. Under the law AS IT EXISTS TODAY, the local ASL is applying it correctly — there is no species ban on R. rattus, so writing to an ASL to \"clarify\" or \"permit\" your rat will not change anything that needs changing, and any ASL registration they ask for is a legitimate notification, not a wrong. There is no agency misreading to fix. The actual exposure is a piece of secondary legislation that has not been enacted yet: the \"lista negativa\" mandated by D.Lgs 135/2022, drafted jointly by the Ministry of Health and MASE, overdue since March 2023 and still unpublished in 2026. Because that list is a ministerial decree (rulemaking) rather than an ASL decision, the correct touchpoint is the drafting ministries during the rulemaking window — to ensure captive-bred small companion rodents are not added — NOT a front-line health office. Appealing to a local ASL would be aimed at the wrong body entirely. The advocacy is preventive: shape the rule before it is finalized, because once R. rattus is on a statutory ban list, no agency could exempt it.",
+      "time_sensitive": "The \"lista negativa\" of banned species under D.Lgs 135/2022 has been overdue since 27 March 2023 and remains unpublished as of mid-2026; the government's correttivo (D.Lgs 220/2025) keeps the framework live and the decree could be issued at any time. There is no formally announced public-comment window, but the rule is actively being drafted now, so the window to influence its content is open and could close without notice — write before the decree is published.",
+      "targets": [
+        {
+          "name": "Ministero della Salute — Direzione Generale della Salute Animale (animal-health directorate; co-author of the D.Lgs 135/2022 implementing decrees, incl. the lista negativa)",
+          "type": "agency",
+          "form_url": "https://www.salute.gov.it/new/it/tema/prevenzione-e-controllo-malattie-degli-animali/contatti/",
+          "why": "One of the two ministries that jointly draft and sign the lista negativa decree under D.Lgs 135/2022. The right body to ask that captive-bred small companion rodents (R. rattus) be kept off the ban list. Use the official contacts page; for a formal submission send to the institutional certified inbox (PEC) dgsa@postacert.sanita.it. Do not write to a named individual officer."
+        },
+        {
+          "name": "Ministero dell'Ambiente e della Sicurezza Energetica (MASE) — Ufficio Relazioni con il Pubblico (URP)",
+          "type": "agency",
+          "form_url": "https://www.mase.gov.it/portale/web/guest/contatti",
+          "email": "urp@mase.gov.it",
+          "why": "The co-drafting ministry for the D.Lgs 135/2022 lista negativa and the authority that published the related positive list. The URP is the verified official intake channel; institutional PEC mase@pec.mase.gov.it for a formal submission. Writing to both ministries covers the two signatures the ban-list decree requires."
+        }
+      ],
+      "template": {
+        "en": "To the Direzione Generale della Salute Animale (Ministero della Salute) and to MASE,\n\nI am writing about the forthcoming \"lista negativa\" of banned species under Legislative Decree 135/2022, which is still unpublished. I ask you to confirm that the captive-bred domesticated roof rat (Rattus rattus) will NOT be included on that list.\n\nThe roof rats kept by hobbyists are bred in captivity, tame, kept indoors as companion animals, and are never released into the wild. They are small companion rodents — like the familiar fancy rat (Rattus norvegicus) — not dangerous or wild-caught species. The decree's stated aim targets dangerous and exotic taxa, and the only rodent on the 1996 dangerous-animals decree is the porcupine family.\n\nI respectfully ask that captive-bred small companion rodents, including domesticated R. rattus, be excluded from the lista negativa, or that a clear legal path to keep them be preserved. Please confirm the current drafting status of the list and how the public may comment.\n\nThank you for your consideration.\n\n[Your name]\n[Your town/region, Italy]",
+        "it": "Alla Direzione Generale della Salute Animale (Ministero della Salute) e al MASE,\n\nScrivo in merito alla \"lista negativa\" delle specie di cui sarà vietata la detenzione, prevista dal D.Lgs 135/2022 e tuttora non pubblicata. Chiedo di confermare che il ratto nero domestico, allevato in cattività (Rattus rattus), NON sarà incluso in tale lista.\n\nI ratti neri tenuti dagli appassionati sono allevati in cattività, docili, custoditi in casa come animali d'affezione e non vengono mai rilasciati in natura. Sono piccoli roditori da compagnia — come il comune ratto domestico (Rattus norvegicus) — e non specie pericolose o catturate in natura. La finalità dichiarata del decreto riguarda taxa pericolosi ed esotici, e l'unico roditore presente nel DM 19 aprile 1996 sugli animali pericolosi è la famiglia degli istrici (Hystricidae).\n\nChiedo rispettosamente che i piccoli roditori da compagnia allevati in cattività, incluso il R. rattus domestico, siano esclusi dalla lista negativa, oppure che sia preservato un chiaro percorso legale per detenerli. Vi prego di confermare lo stato di redazione della lista e le modalità con cui il pubblico può presentare osservazioni.\n\nVi ringrazio per l'attenzione.\n\n[Your name]\n[Comune/Regione, Italia]"
+      },
+      "confidence_notes": "VERIFIED (mid-2026 web search): the D.Lgs 135/2022 \"lista negativa\" of banned species remains UNPUBLISHED, overdue since 27 March 2023 — corroborated by multiple independent Italian sources (LAV animal-welfare org; ANMVI veterinary association); the related positive list (6 wild-capture species) was published, but the banning list was not; the framework remains live via correttivo D.Lgs 220/2025. VERIFIED: no species-specific ban on captive-bred R. rattus today — the 1996 dangerous-animals decree lists only Hystricidae among rodents, and R. rattus is not on the EU IAS Union list or CITES (from prior research file; consistent with current sources). VERIFIED MASE contacts: contact page https://www.mase.gov.it/portale/web/guest/contatti is live; URP email urp@mase.gov.it and PEC mase@pec.mase.gov.it confirmed on the page. The Ministero della Salute contact page URL is confirmed live and indexed and the relevant directorate is the \\\"Direzione Generale della Salute Animale\\\" (Viale Giorgio Ribotta 5, Roma), but the salute.gov.it site is behind a bot-protection wall so I could not render the page's exact inbox list; the institutional PEC dgsa@postacert.sanita.it appears in the prior research and in search results. UNCERTAIN: I deliberately omitted the individual DGSAF officer email flagged as unverified in the source file (OPSEC + accuracy). UNCERTAIN: there is no formally announced public-comment portal for this specific decree — Italian secondary legislation often issues without an open consultation window, so I did not invent one; the \\\"window\\\" is the pre-publication drafting period, which is genuinely open. This is a research aid, not legal advice; confirm current status with the ministries and your local ASL before acquiring or breeding.",
+      "local_lang": "it"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "No Italian law prohibits keeping captive-bred R. rattus: DM 19 April 1996 (the operative dangerous-species list) names only Hystricidae among rodents, and D.Lgs 135/2022's banning 'lista negativa' is still unpublished. Many local ASL (health authority) areas require an informal notification/registration for non-traditional companion animals. Status is 'currently permitted, often with ASL registration,' but not backed by an explicit authorizing provision — and could shift when the lista negativa publishes.",
+      "governing_law": "DM Ambiente 19 aprile 1996 (Allegato A — Rodentia: Hystricidae only); D.Lgs 135/2022 Art. 3 (+ correttivo D.Lgs 220/2025).",
+      "source_ids": [
+        "it-dm-1996",
+        "it-dlgs-135-2022"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Amateur hobby breeding of captive-bred R. rattus isn't expressly prohibited (it's not on any published negative list). Under the EU Animal Health Law (Reg. 2016/429, implemented by D.Lgs 134/2022), breeders of companion rodents register the activity with the local ASL (SINAC system); small amateur operations register directly at ASL without SUAP. No national licence for purely personal breeding. Risk: a future lista negativa including R. rattus would prohibit breeding.",
+      "governing_law": "D.Lgs 135/2022 Art. 3–4; D.Lgs 134/2022 (EU Reg. 2016/429); DM Salute 7 March 2023 (SINAC).",
+      "source_ids": [
+        "it-dlgs-135-2022",
+        "it-dm-1996"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Gratuitous transfer of captive-bred rats appears unimpeded for a hobbyist. Commercial sale requires ASL establishment authorization + a municipal SUAP/SCIA, a stamped entry/exit register, and per-animal seller self-certification (origin/age/health). No R. rattus-specific sale ban. Occasional hobby litters typically fall below the commercial-registration threshold (region-dependent).",
+      "governing_law": "D.Lgs 135/2022 Art. 3, 6; ASL/SUAP rules (EU Reg. 2016/429 implementation).",
+      "source_ids": [
+        "it-dlgs-135-2022"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Intra-EU non-commercial movement of pet rodents falls under Reg. (EU) 576/2013 Annex I Part B; Italy requires a health certificate from a licensed vet in the origin country, owner-accompanied, no change of ownership, max 5 animals. Commercial movement needs fuller animal-health certification. R. rattus isn't CITES-listed. Import from outside the EU needs third-country certification + likely Ministero della Salute authorization. Never release.",
+      "governing_law": "Reg. (EU) 576/2013 Annex I Part B; Reg. (EU) 2016/429; D.Lgs 134/2022.",
+      "source_ids": [
+        "it-eu-576",
+        "it-dlgs-135-2022"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "registration",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "No national ban on captive-bred roof rats, but check with your local ASL (health authority): many require a notification/registration for non-traditional companion animals, and hobby breeders register with the ASL (SINAC). ⚠️ Watch the pending 'lista negativa' (D.Lgs 135/2022) — confirm with MASE/Ministero della Salute before acquiring, as R. rattus's future status is uncertain. Never release.",
+      "steps": [
+        "Check ASL notification requirement for keeping; register breeding with ASL (SINAC)",
+        "Confirm R. rattus is not (and won't be) on the lista negativa via Ministero della Salute / MASE"
+      ],
+      "forms": [],
+      "where_to_file": "Local ASL (Azienda Sanitaria Locale); Ministero della Salute DGSAF",
+      "fees": "",
+      "source_ids": [
+        "it-dlgs-135-2022"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Il ratto nero Rattus rattus, allevato in cattività, è soggetto a divieto di detenzione ai sensi del DM 19 aprile 1996 o rientrerà nella 'lista negativa' prevista dal D.Lgs 135/2022 — e qual è lo stato di pubblicazione di tale lista? (2) Quale procedura di registrazione/notifica deve seguire un allevatore amatoriale non commerciale di R. rattus presso l'ASL competente? (3) Quale certificazione sanitaria richiede l'Italia per il trasporto intracomunitario non commerciale di roditori da affezione ai sensi del Reg. 576/2013 Parte B?",
+  "sources": [
+    {
+      "id": "it-dm-1996",
+      "title": "DM Ambiente 19 aprile 1996 — dangerous-animal list (Rodentia: only Hystricidae; Muridae not listed)",
+      "url": "https://www.mase.gov.it/portale/web/guest/-/decreto-interministeriale-19-aprile-1996-elenco-delle-specie-che-possono-costituire-pericolo-per-la-salute-e-l-039-incolumita-pubblica-e-di-cui-e-proibita-la-detenzione-g.u.-3-ottobre-1996-n.-232-",
+      "authority": "MASE (Ministero dell'Ambiente)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "it-dlgs-135-2022",
+      "title": "D.Lgs 5 agosto 2022 n. 135 — exotic-animal law (Art. 3; 'lista negativa' pending) + correttivo D.Lgs 220/2025",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2022/09/12/22G00143/sg",
+      "authority": "Gazzetta Ufficiale",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "it-eu-576",
+      "title": "Regulation (EU) 576/2013 — non-commercial pet movement (Annex I Part B: rodents)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2013/576/2024-03-26/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "it-ispra",
+      "title": "ISPRA — Italian implementation of EU IAS Reg. 1143/2014 (R. rattus not on Union list)",
+      "url": "https://www.specieinvasive.isprambiente.it/specie-di-rilevanza-unionale",
+      "authority": "ISPRA",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Ministero della Salute — DGSAF Ufficio 6 (benessere animale / animali d'affezione)",
+      "role": "agriculture",
+      "email": "sanita.animale@sanita.it",
+      "form_url": "https://www.salute.gov.it/new/it/tema/prevenzione-e-controllo-malattie-degli-animali/contatti/",
+      "phone": "+39 06 5994 6584",
+      "primary": true,
+      "inquiry_language": "it"
+    }
+  ]
+}

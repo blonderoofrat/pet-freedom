@@ -1,0 +1,139 @@
+{
+  "jurisdiction": {
+    "id": "us-ne",
+    "level": "state",
+    "name": "Nebraska",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-NE",
+    "language": "en",
+    "slug": "nebraska",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Nebraska is unusually clear: its statute defining 'wild mammals' (Neb. Rev. Stat. 37-246) EXCLUDES 'the black rat' by name (alongside the house mouse, Norway rat, fallow deer, and feral dogs/cats). 'Black rat' is the common name for Rattus rattus. Because the Captive Wildlife Permit system and the prohibited-species list (wolf/skunk/cats/bears) are scoped to 'wild mammals,' the roof rat falls entirely outside them — so keeping, breeding, and selling/giving is legal at the state level with no permit. The one procedural requirement is interstate IMPORT: the Dept of Agriculture lists rats among pet rodents needing a Certificate of Veterinary Inspection + an import permit. (Statute uses the common name, so a written Game & Parks confirmation is the only loose end.)",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Neb. Rev. Stat. 37-246 defines 'wild mammals' but EXCLUDES 'the black rat' (= Rattus rattus) by name. The Captive Wildlife Permit requirement (37-477) applies only to wild mammals/birds/nongame wildlife, and the prohibited list (37-479: wolf, skunk, Felidae, Ursidae) doesn't include rats — so no state permit is required to keep one.",
+      "governing_law": "Neb. Rev. Stat. 37-246 (excludes 'the black rat'); 37-477 (permit trigger); 37-479 (prohibited species).",
+      "source_ids": [
+        "ne-37-246",
+        "ne-37-477",
+        "ne-37-479"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The captive-wildlife propagation permits (37-477/37-480) reach only 'wild mammals' as defined; R. rattus is excluded, so breeding needs no permit. The Commercial Dog and Cat Act covers only dogs/cats. Hobby breeding is unregulated by the state.",
+      "governing_law": "Neb. Rev. Stat. 37-246; 37-477, 37-480; 54-625 et seq. (dogs/cats only).",
+      "source_ids": [
+        "ne-37-246",
+        "ne-37-477"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "The captive-wildlife sale/barter rules (37-480) apply only to 'wild mammals'; R. rattus is excluded, and no Nebraska pet-dealer license covers non-livestock rodents (the Commercial Dog and Cat Act is dogs/cats). Within-state gifting and small sales are unregulated; commercial scale may trigger federal USDA/AWA licensing.",
+      "governing_law": "Neb. Rev. Stat. 37-246; 37-480; 54-625 et seq.",
+      "source_ids": [
+        "ne-37-246"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Within-state transport of a lawfully-owned pet is unregulated. For IMPORT, the Dept of Agriculture (Neb. Admin. Code Title 23 ch. 21) requires a Certificate of Veterinary Inspection (within 30 days) + an import permit, and explicitly lists rats among the pet rodents covered. Confirm the single-pet process with the State Veterinarian. Never release a roof rat.",
+      "governing_law": "Neb. Admin. Code Title 23 ch. 21 §004 (import CVI + permit; rats listed); NDA Summary of Import Requirements.",
+      "source_ids": [
+        "ne-nda-import",
+        "ne-37-246"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rat into Nebraska requires a Certificate of Veterinary Inspection (within 30 days) + an import permit from the State Veterinarian (NDA lists rats among covered pet rodents). No CVI for in-state movement; never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Nebraska Dept of Agriculture, State Veterinarian",
+      "fees": "",
+      "source_ids": [
+        "ne-nda-import"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Local (Lincoln/Omaha/county) ordinances may separately regulate rats — check your city. Never release a roof rat.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "ne-37-246"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ne-37-246",
+      "title": "Neb. Rev. Stat. 37-246 — Wild mammals defined (EXCLUDES 'the black rat')",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-246",
+      "authority": "Nebraska Legislature",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ne-37-477",
+      "title": "Neb. Rev. Stat. 37-477 — Captive Wildlife Permit (scope = wild mammals/birds/nongame)",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-477",
+      "authority": "Nebraska Legislature",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ne-37-479",
+      "title": "Neb. Rev. Stat. 37-479 — Prohibited species (wolf/skunk/Felidae/Ursidae; rats absent)",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-479",
+      "authority": "Nebraska Legislature",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ne-nda-import",
+      "title": "Nebraska Dept of Agriculture — Summary of Import Requirements (rats: CVI + import permit)",
+      "url": "https://nda.nebraska.gov/animal/imports/index.html",
+      "authority": "Nebraska Dept of Agriculture (State Veterinarian)",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

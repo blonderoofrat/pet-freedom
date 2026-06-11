@@ -1,0 +1,181 @@
+{
+  "jurisdiction": {
+    "id": "ae",
+    "level": "country",
+    "name": "United Arab Emirates",
+    "parent": null,
+    "country": "AE",
+    "iso": "AE",
+    "language": "ar",
+    "inquiry_language": "en",
+    "slug": "united-arab-emirates",
+    "local_terms": [
+      "Rattus rattus",
+      "الجرذ الأسود",
+      "roof rat",
+      "black rat"
+    ]
+  },
+  "summary": "The UAE is now AGENCY-CONFIRMED PROHIBITED for private roof rats, and it is a textbook species-not-domestication case. The Ministry of Climate Change and Environment (MOCCAE) confirmed in writing (June 2026) that the 'domesticated rats' exemption to the rodent-keeping restriction under Federal Law No. 22 of 2016 applies STRICTLY to the fancy rat (Rattus norvegicus). Because the roof rat (R. rattus) is not classified as a domesticated pet under UAE regulations, private individuals may not keep, breed, possess, or import it; the only import pathway is for licensed research entities or zoological facilities. (An earlier reading that the exemption might cover domesticated R. rattus is closed by MOCCAE's species-specific reply.)",
+  "last_reviewed": "2026-06-10",
+  "agency_confirmations": [
+    "UAE Ministry of Climate Change and Environment (MOCCAE), written reply June 2026: the 'domesticated rats' exemption to the rodent-keeping restriction under Federal Law No. 22 of 2016 applies STRICTLY to the fancy rat (Rattus norvegicus). The roof rat (Rattus rattus) is not classified as a domesticated pet under UAE regulations, so private individuals may not keep, breed, possess, or import it; importation is restricted to licensed research entities or zoological facilities."
+  ],
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "agency_species_trap",
+      "problem": "The UAE bars private individuals from keeping most rodents but exempts 'domesticated rats'. MOCCAE has confirmed it reads that exemption to mean ONLY the fancy rat (<em>Rattus norvegicus</em>) &mdash; so a captive-bred, domesticated roof rat (<em>R. rattus</em>) is prohibited to keep, breed, or import, even though it is just as domesticated. This is a classification gap, not a safety judgment.",
+      "ask": "Ask MOCCAE to recognize captive-bred, multi-generation domesticated <em>Rattus rattus</em> as a 'domesticated rat' within the existing Federal Law No. 22 of 2016 exemption (the same exemption the fancy rat enjoys), or to set out a private-keeper pathway. The animals are tame, indoor-kept, and never released.",
+      "branch_note": "MOCCAE confirmed this is its classification under the regulation, so the lever is the agency/regulator: ask MOCCAE to read the 'domesticated rats' exemption to include domesticated <em>R. rattus</em> (an interpretation/classification change). If MOCCAE says only a regulatory amendment can do it, that points to the rule-making authority. It is not a courts matter.",
+      "time_sensitive": "",
+      "local_lang": "ar",
+      "targets": [
+        {
+          "name": "UAE Ministry of Climate Change and Environment (MOCCAE)",
+          "type": "agency",
+          "email": "info@moccae.gov.ae",
+          "form_url": "https://www.moccae.gov.ae/en/contact-us",
+          "why": "MOCCAE administers Federal Law No. 22 of 2016 and decides which rats count as 'domesticated'; it replies to written inquiries (verified, June 2026)."
+        }
+      ],
+      "template": {
+        "en": "To the Ministry of Climate Change and Environment,\n\nUnder Federal Law No. 22 of 2016, individuals may keep 'domesticated rats', but I understand the Ministry currently reads this to cover only the fancy rat (Rattus norvegicus), excluding the domesticated roof rat (Rattus rattus).\n\nI respectfully ask the Ministry to recognize captive-bred, multi-generation domesticated Rattus rattus as a 'domesticated rat' within this exemption, the same way the fancy rat is treated. These animals are selectively bred for tameness over many generations, kept indoors as companion animals, and never released; they pose no greater risk than the fancy rat already permitted.\n\nIf recognition requires a regulatory step, I would be grateful to know the process. Thank you for your consideration.\n\n[Your name]",
+        "ar": "إلى وزارة التغير المناخي والبيئة الموقرة،\n\nبموجب القانون الاتحادي رقم 22 لسنة 2016، يُسمح للأفراد بتربية «الجرذان المستأنسة»، إلا أنني أتفهم أن الوزارة تفسّر ذلك حالياً على أنه يشمل فقط الجرذ النرويجي (Rattus norvegicus)، مع استثناء الجرذ الأسود المستأنس (Rattus rattus).\n\nأرجو من الوزارة الكريمة الاعتراف بالجرذ الأسود (Rattus rattus) المربّى في الأسر عبر أجيال متعددة باعتباره «جرذاً مستأنساً» ضمن هذا الاستثناء، تماماً كما يُعامَل الجرذ النرويجي. فهذه الحيوانات تُنتخب للأُلفة عبر أجيال عديدة، وتُربّى داخل المنازل كحيوانات أليفة، ولا تُطلق في البيئة أبداً، وهي لا تشكّل خطراً أكبر من الجرذ النرويجي المسموح به بالفعل.\n\nوإذا كان هذا الاعتراف يتطلب إجراءً تنظيمياً، فسأكون ممتناً لمعرفة الآلية. شكراً لكم على حسن اهتمامكم.\n\n[الاسم]"
+      },
+      "confidence_notes": "Agency-confirmed prohibition (MOCCAE written reply 2026-06-10): exemption = R. norvegicus only; R. rattus prohibited for private keeping/breeding/possession/import (licensed research/zoo only)."
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "MOCCAE confirmed in writing (June 2026) that the 'domesticated rats' exemption under Federal Law No. 22 of 2016 applies STRICTLY to the fancy rat (R. norvegicus); the roof rat (R. rattus) is not classified as a domesticated pet under UAE regulations, so private individuals may not keep it. A textbook species-not-domestication prohibition.",
+      "governing_law": "Federal Law No. 22 of 2016 (dangerous-animals; 'domesticated rats' exemption read as R. norvegicus only); MOCCAE written confirmation (June 2026).",
+      "source_ids": [
+        "ae-fl22-annex",
+        "ae-uae-portal"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Prohibited for private individuals: MOCCAE (June 2026) confirmed R. rattus may not be kept, bred, or possessed privately; only the fancy rat is within the exemption.",
+      "governing_law": "Federal Law No. 22 of 2016; MOCCAE confirmation (June 2026).",
+      "source_ids": [
+        "ae-moccae-license",
+        "ae-fl22-annex"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Prohibited for private individuals: since R. rattus may not be privately kept/bred/possessed (MOCCAE, June 2026), private sale or transfer is not permitted either.",
+      "governing_law": "Federal Law No. 22 of 2016; MOCCAE confirmation (June 2026).",
+      "source_ids": [
+        "ae-fl22-annex",
+        "ae-moccae-license"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Import is prohibited for private individuals (MOCCAE, June 2026): there is no private-owner import permit pathway for R. rattus; importation is restricted strictly to licensed research entities or zoological facilities. Never release.",
+      "governing_law": "Federal Law No. 22 of 2016 (import permits via MOCCAE; private R. rattus barred); MOCCAE confirmation (June 2026).",
+      "source_ids": [
+        "ae-moccae-import",
+        "ae-moccae-rodentcert"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Keeping a domesticated roof rat is exempt from the UAE dangerous-animal ban (no keeper permit). Commercial breeding/selling needs a MOCCAE animal-care-activities licence + a local commercial licence; importing needs a MOCCAE live-animal import permit (AED 100) + the rodent veterinary health certificate. ⚠️ Confirm with MOCCAE that 'domesticated rats' in the Annex covers captive-bred R. rattus. Never release.",
+      "steps": [
+        "For import: apply for the MOCCAE live-animal import permit + obtain the rodent health certificate from the origin country",
+        "For commercial breeding/sale: MOCCAE animal-care-activities licence + local DED/municipal licence",
+        "Confirm R. rattus species-scope with MOCCAE"
+      ],
+      "forms": [
+        {
+          "name": "MOCCAE — Import Permit for Live Animals and Birds",
+          "url": "https://www.moccae.gov.ae/en/services/import-permit-animals-birds"
+        }
+      ],
+      "where_to_file": "Ministry of Climate Change & Environment (MOCCAE)",
+      "fees": "Import permit AED 100",
+      "source_ids": [
+        "ae-moccae-import",
+        "ae-moccae-license"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Does the Annex 1 exemption under Federal Law No. 22 of 2016 for 'domesticated rats and mice' apply to Rattus rattus (roof/black rat) kept as captive-bred pets, or only to R. norvegicus — is there a ministerial circular clarifying species scope? (2) For a private individual importing a small number of captive-bred R. rattus as pets, does the MOCCAE live-animal import permit apply, and is a facility/breeding-centre licence required, or is there a private-owner pathway like the cat/dog import permit? (3) For small-scale private hobby breeding/occasional rehoming (no commercial intent), is any MOCCAE or municipality licence required, or does the Annex exemption fully cover private possession without registration?",
+  "sources": [
+    {
+      "id": "ae-fl22-annex",
+      "title": "Federal Law No. 22 of 2016 (dangerous animals) + Annex 1 — Rodents: 'All species except domesticated hamsters, guinea pigs, rats and mice'",
+      "url": "https://uaelegislation.gov.ae/en/legislations/1162/regulations/609/download",
+      "authority": "UAE Federal Legislation Portal",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ae-uae-portal",
+      "title": "u.ae — Banning private ownership of dangerous animals (official summary)",
+      "url": "https://u.ae/en/information-and-services/environment-and-energy/animal-welfare/banning-private-ownership-of-dangerous-animals",
+      "authority": "Official UAE Government Portal",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ae-moccae-import",
+      "title": "MOCCAE — Import Permit for Live Animals and Birds (AED 100, 90-day; rodents covered)",
+      "url": "https://www.moccae.gov.ae/en/services/import-permit-animals-birds",
+      "authority": "MOCCAE",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ae-moccae-rodentcert",
+      "title": "MOCCAE — Veterinary Health Certificate model for exporting rodents/lagomorphs/reptiles to the UAE",
+      "url": "https://www.dkc.ae/docs/MOCCAE_Model_of_Veterinary_Health_Certificate_for_Exporting_Rodents_and_Lagomorphs_and_Reptiles_to_the_UAE.pdf",
+      "authority": "MOCCAE (mirrored)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ae-moccae-license",
+      "title": "MOCCAE — License for Practicing Animal Care Activities (breeding/import-export)",
+      "url": "https://www.moccae.gov.ae/en/services/permit-animal-products-ne",
+      "authority": "MOCCAE",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Ministry of Climate Change & Environment (MOCCAE)",
+      "role": "agriculture",
+      "email": "info@moccae.gov.ae",
+      "form_url": "https://www.moccae.gov.ae/en/contact-us",
+      "phone": "8003050",
+      "primary": true,
+      "inquiry_language": "en"
+    }
+  ]
+}

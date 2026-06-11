@@ -1,0 +1,177 @@
+{
+  "jurisdiction": {
+    "id": "us-pa",
+    "level": "state",
+    "name": "Pennsylvania",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-PA",
+    "language": "en",
+    "slug": "pennsylvania",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Keeping, breeding, and rehoming a captive-bred roof rat appears legal in Pennsylvania with no permit. The state's 'exotic wildlife' permit list (34 Pa.C.S. §2961) covers only large carnivores (bears, big cats, wolves, coyotes), and the Game Commission's import/possession ban (58 Pa. Code §137.1) is a closed list that doesn't include any rat or rodent. One technicality: the Game Code's literal 'wild animal' definition could label any rat (even the common fancy rat) 'wildlife,' but no active rule turns that into a ban or permit for pet rodents — so it's best treated as legal-but-worth-confirming with the Game Commission. Importing a pet rat may call for a vet health certificate; never release one.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "clarification",
+      "problem": "In Pennsylvania, keeping, breeding, and rehoming a captive-bred, domesticated roof rat (Rattus rattus) appears to be perfectly legal with no permit required. The state's \"exotic wildlife\" permit list (34 Pa.C.S. §2961) names only large carnivores — bears, big cats, wolves, coyotes — and the Game Commission's import/possession prohibition (58 Pa. Code §137.1) is a closed, enumerated list that contains no rat or rodent of any kind. The one snag is purely definitional: the Game Code's broad \"wild animal\" wording (34 Pa.C.S. §102, via 1 Pa.C.S. §1991) literally sweeps in every mammal that isn't a horse, cow, sheep, goat, or pig — which on paper would label even the ordinary pet \"fancy\" rat (Rattus norvegicus) \"wildlife\" too. No active rule turns that wording into a permit or ban for pet rodents, but the gap leaves owners unsure. The issue here is not a bad law that bans the species; it is the absence of a plain written confirmation from the agency that captive-bred pet rats fall outside the exotic-wildlife and §137.1 schemes.",
+      "ask": "Ask the Pennsylvania Game Commission for a short written confirmation (an informal clarification letter or a formal declaratory ruling) stating that a captive-bred, domesticated roof rat kept as a pet is NOT regulated \"exotic wildlife\" under 34 Pa.C.S. §2961 and is NOT on the §137.1 importation/possession-prohibition list, and therefore may be kept, bred, and rehomed without an exotic-wildlife possession permit, an importation permit, or any other Commission authorization — notwithstanding the literal \"wild animal\" definition. Separately, ask the PA Department of Agriculture (BAHDS) whether a Certificate of Veterinary Inspection is required to bring a pet rodent into the state.",
+      "branch_note": "This is a BUREAUCRACY/clarification problem, NOT a bad-law problem — so the lever is the AGENCY, not the legislature. Concretely for Pennsylvania: the statute and regulation that would have to list roof rats for a ban or permit to exist simply do not. 34 Pa.C.S. §2961 defines \"exotic wildlife\" as a short, closed set of large carnivores; 58 Pa. Code §137.1 is likewise a closed, enumerated import/possession list — neither contains any rodent. There is no statutory list to be added to and no on-point law being misapplied; the only live ambiguity is the over-broad definitional language in 34 Pa.C.S. §102 / 1 Pa.C.S. §1991, which the Commission does not actually enforce against pet rodents. The right fix is therefore a written agency clarification or a declaratory ruling confirming that pets like R. rattus sit outside the exotic-wildlife/§137.1 scheme — which the Commission can issue without any legislative change. Going to the legislature would be the wrong tool here, because there is no prohibition statute to repeal and no positive list to amend; a bill is only worth considering as a fallback IF the Commission were to take the position that the literal \"wild animal\" definition does ban or burden pet rodents (it currently does not). Use the legislature contact only in that contingency.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Pennsylvania Game Commission — Contact Us / staff inquiry form",
+          "type": "agency",
+          "form_url": "https://pgcforms.pa.gov/CommentsForm",
+          "why": "Official PGC public contact form (linked from the Commission's own Contact Information page) for routing a question to staff. Use it to request written confirmation that a captive-bred pet roof rat is outside the §2961 exotic-wildlife and §137.1 prohibition schemes and needs no Commission permit."
+        },
+        {
+          "name": "Pennsylvania Game Commission — License Division",
+          "type": "agency",
+          "email": "pgclicdiv@pa.gov",
+          "form_url": "https://www.pa.gov/agencies/pgc/about-us/contact-information",
+          "why": "Verified official Commission inbox (listed on the PGC Contact Information page) handling licensing/permit questions; the right place to ask, in writing, whether any exotic-wildlife or importation permit applies to a pet rodent — and to request that the answer be put in writing."
+        },
+        {
+          "name": "Pennsylvania General Assembly — Find My Legislator (fallback only)",
+          "type": "legislature",
+          "form_url": "https://www.palegis.us/find-my-legislator",
+          "why": "Official tool to identify and contact your state senator and representative. Use ONLY as a contingency — i.e., if the Commission ever asserts the literal 'wild animal' definition bans or burdens pet rodents — to seek a statutory clarification exempting domesticated pet rats. Not needed to fix anything today."
+        }
+      ],
+      "template": {
+        "en": "To the Pennsylvania Game Commission,\n\nI am writing to request a written clarification about keeping a captive-bred, domesticated pet roof rat (Rattus rattus). I want to comply fully, and I would like the Commission's position in writing.\n\nAs I read the law, roof rats are not regulated 'exotic wildlife' under 34 Pa.C.S. §2961, which lists only large carnivores, and no rat or rodent appears on the closed importation/possession list in 58 Pa. Code §137.1. The only ambiguity I see is the broad 'wild animal' definition in 34 Pa.C.S. §102, which would literally reach even the common pet fancy rat — yet no active rule appears to apply it to pet rodents.\n\nThe rats I am asking about are captive-bred, hand-tame, kept entirely indoors as pets, and never released into the wild. The concern is the species label, not the animal's tameness.\n\nWould the Commission please confirm in writing that a captive-bred pet roof rat may be kept, bred, and rehomed without an exotic-wildlife possession permit, an importation permit, or any other Commission authorization? A short clarification letter or declaratory ruling would settle the question for many responsible owners.\n\nThank you for your time and guidance.\n\n[Your name]\n[Your county / contact information]"
+      },
+      "confidence_notes": "Branch judgment (agency clarification, not legislation) follows directly from the grounding file and the cited statutes: 34 Pa.C.S. §2961 (exotic wildlife = large carnivores only) and 58 Pa. Code §137.1 (closed import/possession list with no rodent) — there is no list to amend and no prohibition to repeal, so the legislature is a fallback only. VERIFIED current official touchpoints on 2026-06-09 against the Commission's own Contact Information page (pa.gov/agencies/pgc/about-us/contact-information): (1) License Division email pgclicdiv@pa.gov — matches the grounding file and is confirmed as a live official inbox; (2) general public 'Contact Us' staff form at https://pgcforms.pa.gov/CommentsForm; and (3) the PA General Assembly's official 'Find My Legislator' tool at https://www.palegis.us/find-my-legislator (confirmed live as the constituent contact tool). Note: there is also a Special Permits Division reachable by phone (717-783-8164), but I did not find a verified dedicated public email for it, so I did not include one. UNCERTAIN: the keep/breed/transfer 'legal' reading is medium-confidence (the unresolved §102 definitional quirk is exactly why a written agency answer is worth getting); and whether PDA-BAHDS requires a CVI for importing a pet rodent is unconfirmed — that question should go to BAHDS separately (form_url in the grounding file's contacts). Legal language is English, so only the 'en' template is provided. This is a research aid, not legal advice.",
+      "local_lang": "en"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "No Pennsylvania statute/regulation requires a permit to keep a pet rat. R. rattus is not 'exotic wildlife' (34 Pa.C.S. §2961 lists only large carnivores) and is not on the §137.1 possession-prohibition list (felids, canids, ursids, raccoons, nutria, skunks, primates, listed T&E/injurious). The only caveat: the literal §102 / 1 Pa.C.S. §1991 definition technically labels any non-(equine/bovine/sheep/goat/pig) mammal a 'wild animal,' but no active rule converts that into a rodent permit/ban.",
+      "governing_law": "34 Pa.C.S. §102 & §2961; 1 Pa.C.S. §1991; 58 Pa. Code §137.1.",
+      "source_ids": [
+        "pa-2961",
+        "pa-102",
+        "pa-137-1"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "No propagation/breeding permit applies to pet rodents — the Game Commission's propagation and exotic-wildlife-dealer permits attach to enumerated game/furbearer and exotic-carnivore species, not rats. Breeding captive-bred roof rats is unregulated (same definitional caveat as keeping).",
+      "governing_law": "34 Pa.C.S. §§2961-2965; 58 Pa. Code ch. 147; §137.1.",
+      "source_ids": [
+        "pa-2961",
+        "pa-137-1"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Selling/giving a pet rat is not 'exotic wildlife dealer' activity (that permit covers only §2961 carnivores) and rats aren't on the §137.1 sale-prohibition list. A high-volume commercial animal dealer could fall under PA's Domestic Animal Law dealer license (3 Pa.C.S.; broad 'domestic animal' incl. captive wild animals), but ordinary private placement/free adoption is outside it.",
+      "governing_law": "34 Pa.C.S. §2964; 58 Pa. Code §137.1; 3 Pa.C.S. §§2301 et seq.",
+      "source_ids": [
+        "pa-2961",
+        "pa-137-1"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Intrastate transport isn't restricted. For IMPORT, PDA (Bureau of Animal Health) animal-health rules govern; a CVI is the general interstate mechanism but PDA notes not all states require a CVI for small/pocket pets, so treat it as recommended/possibly required and confirm with BAHDS. Game Commission §137.1 import-permit rules don't apply (rats aren't listed). Never release a pet rat (58 Pa. Code §137.1/§137.2).",
+      "governing_law": "3 Pa.C.S. (Domestic Animal Law / animal health); 7 Pa. Code ch. 3; 58 Pa. Code §137.1 (not triggered for rodents).",
+      "source_ids": [
+        "pa-import",
+        "pa-137-1"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "A veterinary health certificate (CVI) may be requested to bring a pet rat into Pennsylvania but isn't clearly required for pocket pets — confirm with PDA-BAHDS. Never release a pet rat into the wild (58 Pa. Code §137.1/§137.2) — it's illegal and ecologically harmful.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "PA Dept of Agriculture, Bureau of Animal Health & Diagnostic Services",
+      "fees": "",
+      "source_ids": [
+        "pa-import",
+        "pa-137-1"
+      ]
+    }
+  ],
+  "inquiry_focus": "Given that 34 Pa.C.S. §2961's 'exotic wildlife' list names only large carnivores and 58 Pa. Code §137.1's import/possession prohibition is a closed enumerated list with no rodent, does the Commission take the position that a captive-bred, domesticated roof rat (Rattus rattus) may be kept, bred, and transferred as a pet WITHOUT an exotic-wildlife possession permit, an importation permit, or any other Commission authorization — notwithstanding the literal 'wild animal' definition in 34 Pa.C.S. §102 / 1 Pa.C.S. §1991? Separately, does PDA-BAHDS require a Certificate of Veterinary Inspection to import a pet rodent?",
+  "sources": [
+    {
+      "id": "pa-2961",
+      "title": "34 Pa.C.S. §2961 — definition of 'exotic wildlife' (large carnivores only)",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/34/00.029.061.000..HTM",
+      "authority": "Pennsylvania General Assembly",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "pa-102",
+      "title": "34 Pa.C.S. §102 — definitions ('wild animals' = all mammals other than domestic per 1 Pa.C.S. §1991)",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/34/00.001.002.000..HTM",
+      "authority": "Pennsylvania General Assembly",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "pa-137-1",
+      "title": "58 Pa. Code §137.1 — Importation, possession, sale, release of certain wildlife (closed list; no rodents)",
+      "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/058/chapter137/s137.1.html",
+      "authority": "PA Game Commission / PA Code & Bulletin",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "pa-import",
+      "title": "PDA Domestic Animal Import Requirements (CVI guidance)",
+      "url": "https://www.pa.gov/agencies/pda/animals/bureau-of-animal-health-and-diagnostic-services-bahds/animal-exhibition-and-movement-rules/domestic-animal-import-requirements",
+      "authority": "PA Dept of Agriculture, BAHDS",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Pennsylvania Game Commission — Bureau of Wildlife Protection (License Division)",
+      "role": "wildlife",
+      "email": "pgclicdiv@pa.gov",
+      "form_url": "",
+      "phone": "717-787-2084",
+      "primary": true
+    },
+    {
+      "agency": "PA Dept of Agriculture — Bureau of Animal Health & Diagnostic Services (BAHDS)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.pa.gov/agencies/pda/animals/bureau-of-animal-health-and-diagnostic-services-bahds/animal-exhibition-and-movement-rules/domestic-animal-import-requirements",
+      "phone": "717-772-2852"
+    }
+  ]
+}

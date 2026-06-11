@@ -1,0 +1,133 @@
+{
+  "jurisdiction": {
+    "id": "ca-sk",
+    "level": "province",
+    "name": "Saskatchewan",
+    "parent": "ca",
+    "country": "CA",
+    "iso": "CA-SK",
+    "language": "en",
+    "slug": "saskatchewan",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Saskatchewan is the clearest 'yes' in Canada. The province runs an aggressive feral-rat eradication program (landowners must destroy wild rats), yet it ALSO explicitly lists the Black Rat (Rattus rattus) on its official Captive Wildlife allowed list. Because the species is named on the allowed list, residents may keep, breed, and sell captive R. rattus as pets with NO captive-wildlife licence and no provincial registration. Large-scale breeding can still trigger municipal zoning or business-licensing rules.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The Black Rat (Rattus rattus) is explicitly named on Saskatchewan's Captive Wildlife allowed list (under The Wildlife Act, 1998 and the Captive Wildlife Regulations, 2021), which exempts listed species from the captive-wildlife licence requirement. So a resident may keep a captive-bred roof rat as a pet with no provincial licence — even though feral rats must be destroyed under the province's pest-control duty.",
+      "governing_law": "The Wildlife Act, 1998; Captive Wildlife Regulations, 2021 (Captive Wildlife allowed list).",
+      "source_ids": [
+        "sk-allowed-list",
+        "sk-captive-regs"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Because the species is on the allowed list, small-scale keeping and breeding are unregulated by wildlife law. A large commercial operation may meet a municipal 'commercial wildlife farm' / kennel definition or local business-licensing and zoning rules, so check your municipality if breeding at scale.",
+      "governing_law": "The Wildlife Act, 1998; Captive Wildlife Regulations, 2021; municipal bylaws.",
+      "source_ids": [
+        "sk-allowed-list",
+        "sk-captive-regs"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Selling or giving an allowed-list captive species is permitted; only large-scale commercial sale brings municipal pet-shop/business licensing into play. No provincial dealer licence is required for an allowed species.",
+      "governing_law": "Captive Wildlife Regulations, 2021; municipal bylaws.",
+      "source_ids": [
+        "sk-allowed-list"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Transport of a captive R. rattus within and into Saskatchewan is legal for an allowed-list species. Interprovincial transport is legal but subject to the destination province's rules — note you cannot transport one into (or, unresolved, through) Alberta.",
+      "governing_law": "The Wildlife Act, 1998.",
+      "source_ids": [
+        "sk-allowed-list"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Feral rats are a different matter: under the Pest Control Act / pest declarations, every landowner and occupant has an affirmative duty to destroy and prevent the spread of wild rats. This applies to feral animals, not to your securely-caged, captive-bred pet — but never release a pet rat.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "sk-pest"
+      ]
+    },
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Operating a large-scale breeding or sales facility may require a municipal business licence and must comply with zoning and provincial animal-welfare standards, even though the species itself needs no wildlife licence.",
+      "steps": [
+        "Check your municipality's business-licensing and zoning rules if breeding/selling at scale"
+      ],
+      "forms": [],
+      "where_to_file": "Your municipality",
+      "fees": "Set locally",
+      "source_ids": [
+        "sk-captive-regs"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "sk-allowed-list",
+      "title": "Saskatchewan Captive Wildlife — Allowed Species List (Black Rat / Rattus rattus listed)",
+      "url": "https://pubsaskdev.blob.core.windows.net/pubsask-prod/127131/Captive%2Bwildlife%2Ballowed%2Blist.pdf",
+      "authority": "Government of Saskatchewan",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "sk-captive-regs",
+      "title": "The Captive Wildlife Regulations, 2021 (under The Wildlife Act, 1998)",
+      "url": "https://svma.sk.ca/wp-content/uploads/2019/12/CAPTIVE-WILDLIFE-Regulations.pdf",
+      "authority": "Government of Saskatchewan / SVMA",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "sk-pest",
+      "title": "Saskatchewan Pests Declaration / Pest Control Act — feral-rat eradication duty",
+      "url": "https://faolex.fao.org/docs/pdf/sk82209.pdf",
+      "authority": "Government of Saskatchewan",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

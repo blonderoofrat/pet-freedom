@@ -1,0 +1,150 @@
+{
+  "jurisdiction": {
+    "id": "us-la",
+    "level": "state",
+    "name": "Louisiana",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-LA",
+    "language": "en",
+    "slug": "louisiana",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Louisiana has no law that expressly prohibits keeping a captive-bred roof rat. The 'potentially dangerous wild quadruped' ban (LAC 76:V-115) covers only big cats, bears, wolves, and primates; the 'outlaw quadruped' list is feral hogs, coyotes, and armadillos — no rodents. Both state and local definitions of 'wild or exotic animal' carve out 'laboratory rats... bred and raised in captivity which have never known the wild' and common 'pocket pets,' which a multi-generation captive-bred roof rat fits. So keeping, breeding, and giving are effectively legal, though R. rattus isn't named by species. The live edge is commercial sale: whether LDWF treats it as a 'nongame quadruped' needing a breeder license (29... §56:262) is unsettled — confirm before selling. Parish ordinances vary; never release one.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "R. rattus is on no Louisiana prohibited/dangerous list: the 'potentially dangerous wild quadruped' rule (LAC 76:V-115) lists only big cats/bears/wolves/primates, and 'outlaw quadrupeds' (RS 56:116.2) are feral hogs/coyotes/armadillos. Both state and local 'wild or exotic animal' definitions carve out 'laboratory rats bred and raised in captivity which have never known the wild' and 'pocket pets,' which a captive-bred roof rat fits. Effectively legal, but R. rattus isn't named by species and no LDWF guidance confirms the carve-out reaches it — hence unclear.",
+      "governing_law": "LAC 76:V-115 (dangerous quadrupeds — no rodents); RS 56:116.2 (outlaw quadrupeds); RS 56:8 / local 'wild or exotic animal' definitions (laboratory-rat carve-out).",
+      "source_ids": [
+        "la-76-v-115",
+        "la-title-56"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "Because keeping is unregulated/unclear, private hobby breeding of captive-born stock falls outside any explicit prohibition. The nongame-quadruped breeder license (RS 56:262) targets wild/fur-associated quadrupeds; a captive-bred non-native commensal rodent not taken from the wild sits in a definitional gap. No-release obligation applies (RS 56:20).",
+      "governing_law": "RS 56:262 (nongame quadruped breeder license); RS 56:20 (no-release).",
+      "source_ids": [
+        "la-title-56"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "Non-commercial giving/rehoming appears to need no permit. Commercial SALE may require a Nongame Quadruped Breeder License (RS 56:262, ~$25/yr) IF LDWF classifies R. rattus as a 'nongame quadruped' — an unresolved question. A commercially-minded seller should get a written LDWF determination first; free vetted adoption avoids the issue.",
+      "governing_law": "RS 56:262; RS 56:32 (penalties for unlicensed wildlife commerce).",
+      "source_ids": [
+        "la-title-56"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "No rule specifically restricts intrastate transport of captive-bred R. rattus. Louisiana's animal-health import rules (LAC 7:XXI) cover dogs/cats (CVI + rabies) and livestock/poultry, not pet rodents; the 'wild or semi-wild animal' import-report rule likely doesn't apply because captive-bred lab-type rats are excluded from 'wild or exotic animal.' So no CVI appears required — confirm with the State Vet. Never release (RS 56:20).",
+      "governing_law": "LAC 7:XXI-571 (dogs/cats CVI — N/A to rodents); RS 56:20 (no-release).",
+      "source_ids": [
+        "la-ldaf-import",
+        "la-title-56"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Commercial sale MAY require a Louisiana Nongame Quadruped Breeder License (RS 56:262) if LDWF classifies R. rattus as a 'nongame quadruped' — unsettled, so get a written determination before advertising for sale. Free/private rehoming needs no permit. Parish ordinances may add limits.",
+      "steps": [
+        "Ask LDWF whether captive-bred R. rattus is a 'nongame quadruped' needing a §56:262 license"
+      ],
+      "forms": [],
+      "where_to_file": "Louisiana Dept of Wildlife & Fisheries (Wildlife Permits)",
+      "fees": "~$25/yr (if applicable)",
+      "source_ids": [
+        "la-title-56"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat (RS 56:20). Parish/municipal ordinances (e.g., Orleans Parish §6-100) define 'wild or exotic animal' and may add local rules — check your parish.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "la-title-56"
+      ]
+    }
+  ],
+  "inquiry_focus": "Does LDWF classify captive-bred Rattus rattus as a 'nongame quadruped' subject to the RS 56:262 breeder/exhibitor license — i.e., does the definition reach a non-native commensal rodent kept purely as a pet, or does the 'laboratory rats... bred and raised in captivity which have never known the wild' carve-out (in state and local 'wild or exotic animal' definitions) exclude it? If a license is needed for commercial sale, what are the terms? Separately, does the Dept of Agriculture & Forestry require a CVI or 10-day import report to bring a captive-bred pet rat into Louisiana?",
+  "sources": [
+    {
+      "id": "la-76-v-115",
+      "title": "LAC 76:V-115 — Potentially Dangerous Wild Quadrupeds / Big Exotic Cats / Primates (no rodents)",
+      "url": "https://www.law.cornell.edu/regulations/louisiana/La-Admin-Code-tit-76-SS-V-115",
+      "authority": "Louisiana Wildlife & Fisheries Commission (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "la-title-56",
+      "title": "La. R.S. Title 56 — Wildlife & Fisheries (RS 56:116.2 outlaw quadrupeds; RS 56:262 nongame breeder license; RS 56:20 no-release)",
+      "url": "https://law.justia.com/codes/louisiana/revised-statutes/title-56/",
+      "authority": "Louisiana Legislature",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "la-ldaf-import",
+      "title": "LAC 7:XXI-571 — Health Requirements Governing Admission (dogs/cats CVI; no pet-rodent rule)",
+      "url": "https://www.law.cornell.edu/regulations/louisiana/La-Admin-Code-tit-7-SS-XXI-571",
+      "authority": "Louisiana Dept of Agriculture & Forestry (via Cornell LII)",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Louisiana Dept of Wildlife & Fisheries — Wildlife Permits Office",
+      "role": "wildlife",
+      "email": "wildlifepermits@wlf.la.gov",
+      "form_url": "",
+      "phone": "(225) 765-2975",
+      "primary": true
+    },
+    {
+      "agency": "Louisiana Dept of Agriculture & Forestry — Office of Animal Health / State Veterinarian",
+      "role": "agriculture",
+      "email": "vetreports@ldaf.state.la.us",
+      "form_url": "",
+      "phone": "(225) 925-3980"
+    }
+  ]
+}

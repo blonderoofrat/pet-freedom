@@ -1,0 +1,119 @@
+{
+  "jurisdiction": {
+    "id": "de",
+    "level": "country",
+    "name": "Germany",
+    "parent": null,
+    "country": "DE",
+    "iso": "DE",
+    "language": "de",
+    "slug": "germany",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Germany has no national 'positive list' and generally permits keeping small pets. The black rat (Hausratte, Rattus rattus) does not appear on the EU list of invasive alien species of Union concern, so keeping it is generally allowed, subject to animal-welfare husbandry rules. Selling animals commercially needs a §11 permit. To be confirmed.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "No national positive list; Rattus rattus is not on the EU list of invasive alien species of Union concern, so private keeping is generally permitted. Animal-welfare husbandry standards (social housing, minimum cage sizes) apply.",
+      "governing_law": "EU Reg. 1143/2014 (R. rattus not listed); Bundesnaturschutzgesetz §40; TierSchG (welfare)",
+      "source_ids": [
+        "eu-ias",
+        "de-tierschg"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Hobby breeding is generally permitted; commercial/regular breeding may require a §11 TierSchG permit.",
+      "governing_law": "Tierschutzgesetz §11",
+      "source_ids": [
+        "de-tierschg"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Selling animals commercially requires a permit under §11 of the Animal Welfare Act (Tierschutzgesetz); occasional private rehoming generally does not.",
+      "governing_law": "Tierschutzgesetz §11",
+      "source_ids": [
+        "de-tierschg"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "low",
+      "why": "Within the EU, movement of pet animals follows EU pet-movement/health rules; no German release of non-native species.",
+      "governing_law": "EU pet movement rules; Bundesnaturschutzgesetz §40 (release)",
+      "source_ids": [
+        "eu-ias"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give",
+        "breed"
+      ],
+      "summary": "Commercial breeding or sale of animals requires a permit under §11 of the Tierschutzgesetz (animal welfare act), issued by the local Veterinäramt.",
+      "steps": [
+        "Apply for a §11 TierSchG permit at your local Veterinäramt"
+      ],
+      "forms": [],
+      "where_to_file": "Local Veterinäramt",
+      "fees": "Varies",
+      "source_ids": [
+        "de-tierschg"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "eu-ias",
+      "title": "EU Regulation 1143/2014 — Invasive Alien Species (Union list)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R1143",
+      "authority": "European Union",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "de-tierschg",
+      "title": "German Animal Welfare Act (Tierschutzgesetz) — overview",
+      "url": "https://www.animallaw.info/statute/germany-cruelty-german-animal-welfare-act",
+      "authority": "Animal Legal & Historical Center (summary)",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Local Veterinäramt (örtliches Veterinäramt)",
+      "role": "veterinary",
+      "email": "",
+      "form_url": "",
+      "phone": ""
+    }
+  ]
+}

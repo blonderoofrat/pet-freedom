@@ -1,0 +1,176 @@
+{
+  "jurisdiction": {
+    "id": "my",
+    "level": "country",
+    "name": "Malaysia",
+    "parent": null,
+    "country": "MY",
+    "iso": "MY",
+    "language": "ms",
+    "inquiry_language": "en",
+    "slug": "malaysia",
+    "local_terms": [
+      "Rattus rattus",
+      "tikus rumah",
+      "tikus bumbung",
+      "roof rat",
+      "black rat"
+    ]
+  },
+  "summary": "Malaysia (Peninsular) is permissive for the roof rat. R. rattus is NOT in the First Schedule (Protected) or Second Schedule (Totally Protected) of the Wildlife Conservation Act 2010 (Act 716) — which governs Peninsular Malaysia and only regulates scheduled species — so it's outside the PERHILITAN wildlife-permit regime. As an introduced pest, it sits in the same position as the fancy rat (R. norvegicus), which is openly bred and sold under the Animal Welfare Act 2015 (Act 772) + a DVS commercial-premises licence for sellers, with no wildlife-law interference. So keeping a captive-bred roof rat needs no wildlife permit (only Act 772 welfare standards); hobby breeding is free while commercial breeding/selling needs a DVS animal-business licence; and import runs through the DVS/MAQIS SPS permit system (health certificate + quarantine). Not CITES-listed. ⚠️ Sabah and Sarawak (East Malaysia) have their own separate wildlife laws — this covers Peninsular Malaysia.",
+  "last_reviewed": "2026-06-08",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Act 716 s.9 requires a PERHILITAN licence only to keep PROTECTED/totally-protected wildlife; R. rattus is on neither schedule (classified as an unprotected pest, e.g., MyBIS), so no wildlife permit is needed for private keeping. The Animal Welfare Act 2015 (Act 772) imposes general welfare duties on any kept animal but doesn't bar keeping pet rats. The fancy rat is kept on the same basis. (Medium confidence: no explicit positive ruling on R. rattus specifically.)",
+      "governing_law": "Wildlife Conservation Act 2010 (Act 716) s.9 + Schedules 1–2 (R. rattus not listed); Animal Welfare Act 2015 (Act 772).",
+      "source_ids": [
+        "my-act716",
+        "my-act772",
+        "my-mybis"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Act 716 captive-breeding permits (ss.9, 68) apply only to scheduled wildlife — not R. rattus. Private non-commercial hobby breeding has no specific permit. Commercial-scale breeding is an 'animal business' under Act 772, needing a DVS commercial-premises/pet licence (~RM100; vet inspection). Malaysian fancy-rat breeders operate openly without wildlife-law challenge.",
+      "governing_law": "Act 716 ss.9, 68 (scheduled species only); Act 772 s.35 (animal-business licence).",
+      "source_ids": [
+        "my-act716",
+        "my-act772"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Selling live animals (incl. rats) as a business needs a DVS commercial-premises licence under Act 772; wildlife law doesn't apply (R. rattus unscheduled). Gratuitous transfer between private individuals has no added legal requirement. No prohibition on trading R. rattus found.",
+      "governing_law": "Act 772 ss.2, 35 (animal-business licence); Act 716 (N/A — unscheduled).",
+      "source_ids": [
+        "my-act772",
+        "my-dvs-petshop"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "IMPORT into Peninsular Malaysia needs (1) prior DVS SPS approval, (2) a MAQIS import permit (E-Permit, 30-day validity), and (3) an origin-country veterinary health certificate (rodents need a health cert, no rabies vaccine). Not CITES-listed. DVS does a case-by-case risk assessment — approval isn't guaranteed; obtain before shipment. INTERNAL peninsular movement of non-protected pet rodents has no specific permit (disease-control powers aside); movement to/from Sabah or Sarawak crosses a separate veterinary frontier (DVS movement permit may apply). Never release.",
+      "governing_law": "Animals Act 1953 (Act 647) + Animals Rules 1962; DVS SPS approval + MAQIS E-Permit; (Sabah/Sarawak separate).",
+      "source_ids": [
+        "my-act647",
+        "my-maqis",
+        "my-dvs-import"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Keeping a captive-bred roof rat in Peninsular Malaysia needs no wildlife permit (R. rattus is unscheduled) — only Act 772 welfare standards. Commercial breeding/selling needs a DVS animal-business/pet-shop licence; importing needs DVS SPS approval + a MAQIS E-Permit + a health certificate. Sabah/Sarawak have separate wildlife laws. Never release.",
+      "steps": [
+        "For commercial breeding/sale: obtain a DVS animal-business (pet-shop) licence",
+        "For import: DVS SPS approval, then MAQIS E-Permit, + origin health certificate"
+      ],
+      "forms": [],
+      "where_to_file": "DVS (animal business; import SPS); MAQIS (import E-Permit)",
+      "fees": "DVS animal-business licence ~RM100",
+      "source_ids": [
+        "my-act772",
+        "my-maqis"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Is Rattus rattus listed in the First or Second Schedule of the Wildlife Conservation Act 2010 (Act 716)? If not scheduled, does a private hobbyist need any PERHILITAN licence to keep/breed captive-bred R. rattus from domestic sources? (2) (DVS) Is R. rattus on any DVS prohibited/restricted live-mammal import list, and what SPS documentation is needed before the MAQIS E-Permit? (3) (DVS) Does keeping/commercially selling captive-bred R. rattus need any licence beyond the standard DVS animal-business premises licence under Act 772?",
+  "sources": [
+    {
+      "id": "my-act716",
+      "title": "Wildlife Conservation Act 2010 (Act 716) — s.9 + Schedules 1–2 (R. rattus not listed); Peninsular Malaysia",
+      "url": "https://faolex.fao.org/docs/pdf/mal107883.pdf",
+      "authority": "Malaysia (via FAOLEX)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "my-act772",
+      "title": "Animal Welfare Act 2015 (Act 772) — welfare duties + s.35 animal-business licence",
+      "url": "https://awa.dvs.gov.my/Akta/1655779446-Akta.pdf",
+      "authority": "Department of Veterinary Services (DVS) Malaysia",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "my-mybis",
+      "title": "MyBIS — Rattus rattus species record (unprotected pest)",
+      "url": "https://www.mybis.gov.my/sp/20385",
+      "authority": "Malaysia Biodiversity Information System (Govt)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "my-act647",
+      "title": "Animals Act 1953 (Act 647) + Animals Rules 1962 — animal import/movement",
+      "url": "https://www.dvs.gov.my/dvs/resources/user_1/2024/Akta/Akta%20Binatang%201953%20[Akta%20647]/Animal_Act_1953_[Act_647].pdf",
+      "authority": "DVS Malaysia",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "my-maqis",
+      "title": "MAQIS — live-animal import procedures (E-Permit)",
+      "url": "http://www.maqis.gov.my/en_US/web/guest/haiwan-prosedur-import",
+      "authority": "Malaysian Quarantine & Inspection Services (MAQIS)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "my-dvs-import",
+      "title": "DVS — Import/Export Division (SPS approval)",
+      "url": "https://www.dvs.gov.my/index.php/pages/view/1941",
+      "authority": "DVS Malaysia",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "my-dvs-petshop",
+      "title": "DVS animal-business / pet-shop licence framework",
+      "url": "https://www.dvs.gov.my/index.php/pages/view/1941",
+      "authority": "DVS Malaysia",
+      "accessed": "2026-06-08"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "PERHILITAN (Dept of Wildlife & National Parks, Peninsular Malaysia)",
+      "role": "wildlife",
+      "email": "spjphelp@wildlife.gov.my",
+      "form_url": "https://www.wildlife.gov.my/en/hubungi-kami/",
+      "phone": "1-800-88-5151",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "DVS — Import/Export Division (+ Animal Welfare Act licensing)",
+      "role": "agriculture",
+      "email": "skie@dvs.gov.my",
+      "form_url": "https://www.dvs.gov.my/index.php/pages/view/1941",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "en"
+    }
+  ]
+}

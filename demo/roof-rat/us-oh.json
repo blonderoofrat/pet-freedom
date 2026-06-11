@@ -1,0 +1,146 @@
+{
+  "jurisdiction": {
+    "id": "us-oh",
+    "level": "state",
+    "name": "Ohio",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-OH",
+    "language": "en",
+    "slug": "ohio",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Keeping, breeding, and selling a roof rat is legal in Ohio. The Dangerous Wild Animals Act (ORC ch. 935, post-Zanesville) lists big cats, bears, primates, large constrictors and the like — no rodents. The roof rat is not native wildlife regulated by ODNR (it's actually named a nuisance pest), no Ohio prohibited/exotic list captures the genus Rattus, and Ohio's commercial breeder/dealer licensing (ORC ch. 956) is dogs-only. The one nuance is interstate IMPORT: Ohio's general animal-import rule likely requires a Certificate of Veterinary Inspection for an incoming pet rat (rodents aren't named in either the domestic or non-domestic import rule), so confirm with the State Veterinarian.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "R. rattus is not a 'dangerous wild animal' under ORC 935.01 (20 enumerated categories; no rodents), not native wildlife regulated by ODNR (it is named a nuisance pest in OAC 1501:31-15-03), and on no Ohio prohibited/exotic-species list (OAC 1501:31-19-01). No statute restricts private possession.",
+      "governing_law": "ORC 935.01; ORC 1531.01 / OAC 1501:31-19-01; OAC 1501:31-15-03.",
+      "source_ids": [
+        "oh-935-01",
+        "oh-1501-31-19-01",
+        "oh-1501-31-15-03"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No Ohio statute restricts breeding rodents; commercial breeder/retailer licensing (ORC ch. 956) is limited to dogs. R. rattus is outside ch. 935 and ODNR's regulated-wildlife scope, so breeding is unregulated (local zoning/nuisance aside).",
+      "governing_law": "ORC ch. 956 (dogs only); ORC 935.01.",
+      "source_ids": [
+        "oh-956",
+        "oh-935-01"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Ohio's animal sales/dealer licensing (ORC ch. 956) covers only dogs and dog pet-stores; no state license attaches to selling or giving away pet rats, and R. rattus is on no restricted/dangerous list. General humane law (ORC ch. 959) applies to all animals.",
+      "governing_law": "ORC ch. 956 (dogs only); ORC 935.01 / OAC 1501:31-19-01.",
+      "source_ids": [
+        "oh-956",
+        "oh-1501-31-19-01"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "In-state transport is unregulated. For IMPORT, ODA's general rule (OAC 901:1-17-01) requires a CVI for 'domestic animals' entering Ohio; a captive-bred pet rat plausibly reads as 'domestic,' but rodents aren't named in either the domestic or non-domestic (901:1-17-12) import rule, so confirm the exact paperwork with the State Veterinarian.",
+      "governing_law": "OAC 901:1-17-01 & 901:1-17-02 (import CVI / definitions).",
+      "source_ids": [
+        "oh-901-1-17-01"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rat into Ohio likely needs a Certificate of Veterinary Inspection (OAC 901:1-17-01); rodents aren't named, so confirm with the ODA State Veterinarian. No CVI for in-state movement.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Ohio Dept of Agriculture, Division of Animal Health",
+      "fees": "",
+      "source_ids": [
+        "oh-901-1-17-01"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat — it's a non-native species (and a declared nuisance in Ohio). Rehome responsibly.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "oh-1501-31-15-03"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "oh-935-01",
+      "title": "ORC §935.01 — Dangerous Wild Animal definition (no rodents)",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
+      "authority": "Ohio General Assembly",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "oh-1501-31-19-01",
+      "title": "OAC 1501:31-19-01 — Wild animal importing/possession (Rattus not listed)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-19-01",
+      "authority": "ODNR Division of Wildlife",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "oh-1501-31-15-03",
+      "title": "OAC 1501:31-15-03 — Nuisance wild animal control (names 'roof rat (Rattus rattus)')",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-03",
+      "authority": "ODNR Division of Wildlife",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "oh-901-1-17-01",
+      "title": "OAC 901:1-17-01 — General import requirements (CVI)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-901:1-17-01",
+      "authority": "Ohio Dept of Agriculture, Division of Animal Health",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "oh-956",
+      "title": "ORC ch. 956 — Dog Breeding Kennels; Dog Retailers (dogs-only licensing)",
+      "url": "https://codes.ohio.gov/orc/956",
+      "authority": "Ohio General Assembly",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "jurisdiction": {
+    "id": "us-pr",
+    "level": "territory",
+    "name": "Puerto Rico",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-PR",
+    "language": "es",
+    "slug": "puerto-rico",
+    "local_terms": [
+      "Rattus rattus",
+      "rata negra",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "In Puerto Rico, keeping a captive-bred roof rat ('rata negra') is currently legal without a DRNA permit: the species is named — with no restrictive asterisk — in Apéndice 4 of the DRNA wildlife regulation (Reg. 6765/6766), the list of low-risk exotics eligible for import, possession, sale, and captive breeding WITHOUT a permit. Only releasing them into the wild is flatly prohibited. Importing into PR still requires a veterinary health certificate and a PR Dept of Agriculture import permit (PR runs its own agricultural quarantine even though it's inside the US customs area). A standing commercial rattery (vs. free private adoption) would also need DRNA's $150 exotic-species dealer permit. WATCH-ITEM: a 2025 law (Ley 93-2025) creates a new prohibited/restricted/unrestricted classification scheme to be filled in by a forthcoming DRNA regulation — so confirm the current status directly with DRNA.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "legislative_watch",
+      "problem": "In Puerto Rico, keeping a captive-bred, tame pet roof rat (\"rata negra,\" Rattus rattus) is legal right now — and that's not a loophole. The species is named, with no restrictive asterisk, in Apéndice 4 of the DRNA wildlife regulation (Reglamento 6765/6766), the list of lower-risk exotics you may import, possess, sell, and breed in captivity WITHOUT a permit. Only releasing one into the wild is flatly prohibited. So the agency is currently reading the law correctly, and there is nothing for it to \"fix\" today. The real issue is on the horizon: a 2025 statute, Ley Núm. 93-2025 (Ley para el Manejo de Especies Introducidas), tells the DRNA to write a NEW regulation that will sort introduced species into \"prohibida,\" \"restringida,\" or \"no restringida\" — and the law's own findings name the rata negra. If that future regulation lumps tame, captive-bred pet lines together with feral pest populations, permit-free keeping could disappear. The danger is in a coming RULE under a NEW LAW, not in any misreading of today's rule.",
+      "ask": "Two things, aimed at the future rule rather than today's status. (1) When the DRNA publishes its draft Ley 93-2025 classification regulation for public comment, ask in writing that Rattus rattus kept as a captive-bred pet be classified \"no restringida\" — or that captive-bred, indoor pet lines be expressly distinguished from feral/invasive populations — consistent with the species already being on Apéndice 4 and with Ley 93-2025 Art. 13, which excludes domestic and already-naturalized species. (2) Tell your senator and representative the same thing: pet roof rats are domesticated companion animals, like the fancy rat, and the implementing regulation should not strip permit-free status from responsible keepers of captive-bred animals. Make the point that these animals are captive-bred, hand-tame, kept strictly indoors, and never released — they are not the source of feral establishment.",
+      "branch_note": "This is a LEGISLATURE / RULEMAKING lever, not an agency-misreading lever — and it's important to be honest about why. Today the DRNA is applying its wildlife regulation correctly: Rattus rattus sits on Apéndice 4 of Reg. 6765/6766 with no restrictive asterisk, so keeping/breeding/selling captive-bred animals is permit-free, and only release is prohibited. There is therefore NOTHING for the agency to reinterpret right now; writing to DRNA asking it to \"clarify that the rat is legal\" would just confirm a status that is already correct, and could not change a law the agency is applying properly. The actual risk and the actual lever both live upstream, in a new statute: Ley Núm. 93-2025 (verified — passed Aug 2025) directs DRNA to promulgate a regulation classifying introduced species as prohibida/restringida/no restringida, and the statute's findings explicitly name the rata negra. That reclassification will be done through a DRNA RULEMAKING with a public-comment window (Ley 93-2025 Art. 5). As of this writing, DRNA's official \"Propuestas de reglamento\" page shows NO posted draft implementing Ley 93-2025, so the comment window is not yet open. The right play is therefore twofold: (a) WATCH the DRNA rulemaking page and file a comment the moment the draft appears, and (b) reach the LEGISLATURE, because Ley 93-2025 is the enabling statute and legislators can shape both the mandate and the agency's posture. The science-based ask — captive-bred indoor pet lines are not the source of feral establishment, the species is already naturalized, and Art. 13 already excludes domestic/naturalized species — belongs in that rulemaking comment and in messages to legislators, NOT in a request for the agency to override its current correct reading.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "DRNA — Propuestas de Reglamento (official proposed-regulations / public-comment page)",
+          "type": "public_comment",
+          "form_url": "https://www.drna.pr.gov/cat/reglamentos-es/prop_reg/",
+          "why": "This is the official page where DRNA posts draft regulations for public comment. The Ley 93-2025 introduced-species classification rule will appear here, with its comment deadline and any public hearing. Check it periodically; as of now no Ley 93-2025 draft is posted, so the comment window is not yet open. When the draft appears, submit the comment asking that captive-bred pet Rattus rattus be classified 'no restringida' / distinguished from feral populations. This is the single most decisive touchpoint because it is where the actual rule gets written."
+        },
+        {
+          "name": "Directorio Legislativo — Oficina de Servicios Legislativos de Puerto Rico (official find-and-contact-your-legislator portal)",
+          "type": "legislature",
+          "form_url": "https://sutra.oslpr.org/directorio",
+          "why": "Verified official OSLPR directory (2025-2028 term) that lets any member of the public look up and contact senators and representatives by name, district, or chamber, with phone and email on each profile. Because Ley 93-2025 is the enabling STATUTE behind the coming reclassification, legislators are the right audience for the message that pet roof rats are domesticated companion animals and the implementing rule should preserve permit-free keeping of captive-bred animals."
+        },
+        {
+          "name": "DRNA — Oficina de Permisos de Vida Silvestre (Especies Exóticas) — wildlife/exotic-species permits office",
+          "type": "agency",
+          "form_url": "https://www.drna.pr.gov/oficinas/oficina-de-permisos-de-vida-silvestre/",
+          "why": "The substantive wildlife authority for exotic/introduced species and the office that will administer the Ley 93-2025 rule. Its public page lists only phone (787-999-2200, ext. 2750/2783 for wildlife) and a mailing address — NO official email or online form — so treat it as a monitoring/inquiry touchpoint (call or mail) to confirm the rule's status and timing, not as a lever to change the law it is correctly applying."
+        }
+      ],
+      "template": {
+        "en": "Subject: Keep captive-bred pet roof rats classified as lower-risk under the Ley 93-2025 regulation\n\nDear Sir or Madam,\n\nI am writing about the introduced-species classification regulation the DRNA must adopt under Ley Núm. 93-2025. I respectfully ask that the captive-bred domestic roof rat (Rattus rattus, \"rata negra\") kept as a pet be classified \"no restringida\" — or that captive-bred, indoor pet lines be expressly distinguished from feral populations.\n\nThis is consistent with current law: the species is already on Apéndice 4 of Reglamento 6765/6766 as a lower-risk exotic, and Ley 93-2025 (Art. 13) already excludes domestic and naturalized species.\n\nThe animals I am writing about are captive-bred, hand-tame, kept strictly indoors, and never released. Like the fancy rat, the pet roof rat is a domesticated companion animal — it is not the source of any feral population, and the distinction is the species' lineage and use, not its name.\n\nI ask that the forthcoming regulation preserve permit-free keeping of captive-bred pet roof rats. Please let me know when the draft regulation opens for public comment.\n\nThank you for your time and service.\n\nSincerely,\n[Your name]\n[Your municipality, Puerto Rico]\n[Your email]",
+        "es": "Asunto: Mantener a la rata negra de compañía criada en cautiverio como especie de menor riesgo en el reglamento de la Ley 93-2025\n\nEstimado señor o señora:\n\nLe escribo sobre el reglamento de clasificación de especies introducidas que el DRNA debe adoptar conforme a la Ley Núm. 93-2025. Respetuosamente solicito que la rata negra doméstica (Rattus rattus) criada en cautiverio y mantenida como mascota se clasifique como \"no restringida\" — o que las líneas de mascota criadas en cautiverio y mantenidas bajo techo se distingan expresamente de las poblaciones asilvestradas.\n\nEsto es congruente con el derecho vigente: la especie ya figura en el Apéndice 4 del Reglamento 6765/6766 como exótico de menor riesgo, y la propia Ley 93-2025 (Art. 13) excluye a las especies domésticas y naturalizadas.\n\nLos animales a los que me refiero son criados en cautiverio, mansos, mantenidos estrictamente bajo techo y nunca liberados. Al igual que la rata fancy, la rata negra de compañía es un animal doméstico de compañía — no es el origen de ninguna población asilvestrada, y la diferencia está en el linaje y el uso de la especie, no en su nombre.\n\nSolicito que el reglamento próximo a adoptarse conserve la tenencia sin permiso de ratas negras de compañía criadas en cautiverio. Le agradeceré me informe cuándo el borrador del reglamento se abra a comentarios públicos.\n\nGracias por su tiempo y servicio.\n\nAtentamente,\n[Su nombre]\n[Su municipio, Puerto Rico]\n[Su correo electrónico]"
+      },
+      "confidence_notes": "VERIFIED: (1) Ley Núm. 93-2025 (Ley para el Manejo de Especies Introducidas) exists and was enacted in 2025; multiple independent sources confirm it directs DRNA to classify introduced species as prohibida/restringida/no restringida and that the rata negra is named in its findings (LexJuris full text; Microjuris al Día 2025-08-05; WIPR; El Nuevo Día). (2) DRNA's official proposed-regulations page (drna.pr.gov/cat/reglamentos-es/prop_reg/) was fetched today and shows NO draft implementing Ley 93-2025 and no open comment window — hence time_sensitive is intentionally empty; I did not invent urgency. (3) DRNA wildlife-permits office page confirmed: it lists phone (787-999-2200, wildlife ext. 2750/2783) and a mailing address but NO official email or online form (matches the json's 2026-06-08 owner note). (4) Legislature touchpoint: the OSLPR Directorio Legislativo (sutra.oslpr.org/directorio) was fetched and confirmed as the official 2025-2028 directory where the public can find and contact senators/representatives (phone + email per profile); the senado.pr.gov senator-list URL in the json's sources returned HTTP 404 today, so I routed to the verified OSLPR directory instead. UNCERTAIN / from prior research (not re-verified line-by-line today): the exact Apéndice 4 listing of 'Rattus rattus' with no asterisk and the Art. 7 / Art. 7.01 permit details — these come from the grounding file's earlier websearch and remain flagged needs_verification; the public letter is written so it holds regardless, since it asks about the FUTURE rule. I did NOT confirm the precise Article number of the public-comment provision (json cites Art. 5) against the statute text today. No individual civil-servant names are used; all channels are official institutional pages. This is a research aid, not legal advice.",
+      "local_lang": "es"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "R. rattus ('rata negra') is expressly listed in Apéndice 4 of DRNA Reg. 6765/6766 — low-risk exotics eligible for import, possession, and sale WITHOUT a permit. Art. 7 makes it illegal to possess only exotics NOT on Apéndice 4; R. rattus is on it (no asterisk). Ley 93-2025 has not yet produced an implementing list reclassifying it, and its Art. 13 excludes domestic/naturalized species.",
+      "governing_law": "Reglamento 6765/6766 (DRNA), Art. 7 + Apéndice 4; Ley 241-1999 (Nueva Ley de Vida Silvestre).",
+      "source_ids": [
+        "pr-reg-6765",
+        "pr-ley-241"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Art. 7 expressly permits captive reproduction of Apéndice 4 species; only species marked with a double asterisk (**) need prior DRNA permission to breed, and R. rattus carries no asterisk. The regulation also expects only captive-born individuals to be imported/sold.",
+      "governing_law": "Reglamento 6765/6766, Art. 7 (reproducción en cautiverio).",
+      "source_ids": [
+        "pr-reg-6765"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Apéndice 4 species may be sold 'sin permiso' (Art. 7), so private sale, giving, or free adoption of captive-bred black rats is permitted (only captive-born individuals). BUT operating a buy/sell BUSINESS in exotics needs a $150 DRNA dealer permit (Art. 7.01); the exemption from that business permit applies only to asterisk-marked agricultural/domestic species, and R. rattus is not asterisk-marked. Free vetted adoption is the unregulated private path.",
+      "governing_law": "Reglamento 6765/6766, Art. 7 (venta sin permiso) & Art. 7.01 (dealer permit).",
+      "source_ids": [
+        "pr-reg-6765"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Intra-PR transport of a permit-free Apéndice 4 species isn't separately restricted. For IMPORT, DRNA Art. 7 requires a veterinary certificate and limits import to captive-born animals, AND the PR Dept of Agriculture (DA-SAHO) requires a pre-shipment import permit + a 30-day veterinary inspection certificate (the DA routes exotic species to DRNA, $50 fee). Although PR is inside the US customs area, its agricultural quarantine is independent. Release into the environment is absolutely prohibited (24-hr escape reporting).",
+      "governing_law": "Reglamento 6765/6766, Art. 7; PR Dept of Agriculture animal-import requirements; Título 5 LPRA (Sanidad Animal).",
+      "source_ids": [
+        "pr-reg-6765",
+        "pr-da-import"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a roof rat into Puerto Rico needs a veterinary health certificate + a PR Dept of Agriculture import permit (exotic species routed to DRNA, ~$50); only captive-born animals. Never release one (24-hour escape reporting).",
+      "steps": [
+        "Obtain the PR Dept of Agriculture import permit (DRNA-routed for exotics)",
+        "Carry a veterinary health certificate"
+      ],
+      "forms": [],
+      "where_to_file": "DRNA (exotic species); PR Dept of Agriculture (DA-SAHO)",
+      "fees": "~$50 import permit",
+      "source_ids": [
+        "pr-da-import",
+        "pr-reg-6765"
+      ]
+    },
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "A standing commercial exotic-species buy/sell business needs DRNA's $150 dealer permit (Art. 7.01). Private sale and FREE vetted adoption of captive-bred black rats need no permit.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "DRNA",
+      "fees": "$150 dealer permit (commercial only)",
+      "source_ids": [
+        "pr-reg-6765"
+      ]
+    }
+  ],
+  "inquiry_focus": "Específicamente, le solicitamos confirmar por escrito: (1) que el Rattus rattus ('rata negra') permanece listado en el Apéndice 4 del Reglamento de Vida Silvestre vigente (Reg. 6765) como especie de menor riesgo elegible para importación, posesión, venta y reproducción en cautiverio SIN permiso, y que no le aplica ningún asterisco restrictivo; (2) si el DRNA ya adoptó (o publicó un borrador de) el reglamento y la lista de clasificación de especies que exige la Ley 93-2025 (Art. 10b) y, de ser así, cómo queda clasificada la rata negra (prohibida/restringida/no restringida); y (3) para quien entrega ratas negras criadas en cautiverio a hogares evaluados de forma GRATUITA (no venta comercial), si se activa algún permiso de comerciante (Art. 7.01).",
+  "sources": [
+    {
+      "id": "pr-reg-6765",
+      "title": "Reglamento 6765/6766 (DRNA) — conservación y manejo de Vida Silvestre y Especies Exóticas (Art. 7; Apéndice 4 lista 'Rattus rattus – Rata negra')",
+      "url": "https://www.drna.pr.gov/reglamentos-es/reglamento-6765-reglamento-para-la-regir-la-conservacion-y-el-manejo-de-la-vida-silvestre-las-especies-exoticas-y-la-caza-en-el-estado-libre-asociado-de-puerto-rico/",
+      "authority": "Departamento de Recursos Naturales y Ambientales (DRNA)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "pr-ley-93-2025",
+      "title": "Ley Núm. 93 de 2025 — Ley para el Manejo de Especies Introducidas (clasificación; Art. 13 exclusión domésticas/naturalizadas)",
+      "url": "https://www.lexjuris.com/lexlex/Leyes2025/lexl2025093.htm",
+      "authority": "Asamblea Legislativa de PR (via LexJuris)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "pr-da-import",
+      "title": "Requisitos para que animales ingresen a Puerto Rico (DA-SAHO; permiso + CVI; exóticos → DRNA)",
+      "url": "https://docs.pr.gov/files/Agricultura/Secretaria%20Auxiliar/Requisitos%20importacion%20animales%20UPDATE%2011.11.24.pdf",
+      "authority": "Departamento de Agricultura de PR (SAHO)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "pr-ley-241",
+      "title": "Ley Núm. 241 de 1999 — Nueva Ley de Vida Silvestre de Puerto Rico",
+      "url": "https://www.drna.pr.gov/",
+      "authority": "Asamblea Legislativa de PR / DRNA",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "DRNA — Oficina de Licencias y Permisos / Negociado de Servicios Especializados (Vida Silvestre, especies exóticas)",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://www.drna.pr.gov/oficinas/oficina-de-permisos-de-vida-silvestre/",
+      "phone": "787-999-2200",
+      "primary": false
+    },
+    {
+      "agency": "Departamento de Agricultura de PR — Servicios Veterinarios / Salud Animal (DA-SAHO)",
+      "role": "agriculture",
+      "email": "zcolon@agricultura.pr.gov",
+      "form_url": "",
+      "phone": "787-796-1650",
+      "primary": true
+    }
+  ]
+}

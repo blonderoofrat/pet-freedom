@@ -1,0 +1,200 @@
+{
+  "jurisdiction": {
+    "id": "sg",
+    "level": "country",
+    "name": "Singapore",
+    "parent": null,
+    "country": "SG",
+    "iso": "SG",
+    "language": "en",
+    "inquiry_language": "en",
+    "slug": "singapore",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Singapore prohibits the roof rat as a pet. It runs a closed 'positive list': only species the Animal & Veterinary Service (AVS, under NParks) has approved may be kept. The approved small-mammal list (rabbits, mice, hamsters, guinea pigs, gerbils, chinchillas) includes NO Rattus species, neither the fancy rat nor the roof rat. Under the Animals and Birds Act, absence from the approved list means the animal may not be kept, bred, sold, or imported as a pet, and rats are additionally classed as public-health vectors/pests under the Control of Vectors and Pesticides Act, so AVS guidance states that animals 'considered vermin will not be allowed.' Import of rats (Rattus sp.) is permitted only to accredited research facilities, never as pets. Penalties run to fines up to S$10,000 per animal and/or up to 12 months' imprisonment. R. rattus is not CITES-listed, so the approved-species rule, not CITES, is the operative bar.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "positive_list",
+      "problem": "Singapore runs a closed \"positive list\" for pets: only species the Animal & Veterinary Service (AVS, under the National Parks Board) has approved may be kept. The approved small-mammal list — rabbits, mice, hamsters, guinea pigs, gerbils and chinchillas — contains no Rattus species at all. That means the domesticated pet rat (Rattus norvegicus, the ordinary \"fancy rat\") is barred, and the roof rat (Rattus rattus) is barred along with it. Because rats are also treated as public-health pests/vectors, AVS guidance says animals considered vermin will not be allowed. Under the Animals and Birds Act, a species that is not on the list may not be kept, bred, sold, given away, or imported as a pet — with penalties up to S$10,000 per animal and/or up to 12 months' imprisonment. Import of rats is permitted only to accredited research institutions, never to private keepers. So the obstacle is not a misunderstanding by an officer — it is the list itself, which simply does not include any domesticated rat.",
+      "ask": "Ask AVS, and Singapore's animal-welfare reform channels, to recognise the domesticated rat as a legitimate companion animal and to add it to the approved small-mammal pet list. Concretely: (1) add the domesticated fancy rat (Rattus norvegicus) — already kept worldwide as a tame, captive-bred indoor pet alongside the hamsters, gerbils and guinea pigs that are already approved — to the AVS approved-pet list; and once that foothold exists, (2) extend the same recognition to the captive-bred domesticated roof rat (Rattus rattus). Ask AVS what the formal process is to apply to add a species to the approved list, and whether any written approval is available to a private keeper for a domesticated, captive-bred rat. Make clear these animals are bred in captivity, tame, kept indoors, and never released — they are not the wild urban rats that public-health rules target.",
+      "branch_note": "This is the LAW/LIST branch, not the bureaucracy-misreading branch. Singapore operates a closed positive list: under the Animals and Birds Act framework, only species AVS has placed on its approved-pet list may be kept, and no Rattus species is on it. AVS is not under-applying or misreading the law when it refuses a pet rat — it is correctly applying a deliberate exclusion, reinforced by the separate classification of rats as pests/vectors under the Control of Vectors and Pesticides Act. So a complaint that \"you've got the law wrong\" will go nowhere; the species genuinely is not on the list and rats are deliberately treated as vermin. The lever is therefore to CHANGE the list, not to appeal an application of it. There are two realistic doors, and both are addressed below: (a) AVS itself owns and updates the approved-pet list, so a formal request asking AVS what its process is to add a species — and to add the domesticated fancy rat — is the correct administrative route to the body that can actually amend it (this is a request to change policy, not to reinterpret law); and (b) because near-term odds are low and AVS rarely adds vermin-classed species on its own, the durable path is policy-reform pressure through Singapore's animal-welfare advocacy channels (ACRES/SPCA), who in August 2025 published a 15-recommendation Animal Welfare White Paper and are the credible vehicle for pushing positive-list reform. The honest framing for a reader: do not expect to win this by arguing the officer is wrong; the win comes from getting a domesticated rat onto the approved list, and the most credible first step is the ordinary fancy rat, then the roof rat.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Animal & Veterinary Service (AVS), National Parks Board — Animal and Bird Feedback form",
+          "type": "agency",
+          "form_url": "https://form.gov.sg/6732a98cabc55bf7c2439dcd",
+          "why": "AVS owns and updates the approved-pet list, so it is the body that can actually amend it. Use the official FormSG 'Animal and Bird Feedback' form (linked from the AVS contact-us page) to ask, in writing, what the process is to apply to add a species to the approved list and whether domesticated rats can be recognised. This is the correct administrative channel — a request to change policy, addressed to the agency that controls the list, not an appeal that the law is being misapplied. The 24-hour helpline 1800 476 1600 is the same channel by phone."
+        },
+        {
+          "name": "ACRES (Animal Concerns Research & Education Society)",
+          "type": "agency",
+          "form_url": "https://acres.org.sg/",
+          "why": "Because AVS is correctly applying a closed list, the durable lever is policy reform. ACRES is Singapore's leading animal-welfare advocacy body and co-authored (with the SPCA) the August 2025 Animal Welfare White Paper with 15 reform recommendations — the credible civil-society vehicle for challenging the approved-pet list. Approaching them aligns a pet-rat request with an existing reform push; the realistic sequence is to get the domesticated fancy rat recognised first, then the roof rat."
+        }
+      ],
+      "template": {
+        "en": "To the Animal & Veterinary Service (AVS), National Parks Board,\n\nI am writing about Singapore's approved-pet list for small mammals. The list currently allows rabbits, mice, hamsters, guinea pigs, gerbils and chinchillas, but it includes no domesticated rat of any kind. I would like to ask AVS to recognise the domesticated rat as a companion animal and to add it to the approved list.\n\nThe pet I have in mind is not the wild urban rat that public-health rules rightly target. I mean the domesticated rat — the captive-bred, hand-tame fancy rat (Rattus norvegicus) kept indoors as a pet around the world, and, once it is recognised, the captive-bred domesticated roof rat (Rattus rattus). These animals are bred in captivity, are gentle and accustomed to people, are kept entirely indoors, and are never released. They are kept the same way as the hamsters, gerbils and guinea pigs that AVS already approves.\n\nThe issue is one of the species being absent from the list, not of domestication: domesticated rats are tame companion animals, distinct from wild rats. Could you please tell me the formal process to apply to add a species to the approved small-mammal pet list, and whether any written approval is available to a private keeper for a domesticated, captive-bred rat? I would be glad to provide husbandry information and to discuss conditions that address any public-health concerns.\n\nThank you for considering this request.\n\n[Your name]\n[Your contact details]"
+      },
+      "confidence_notes": "Verified on 2026-06-09 via the current official AVS site (note: AVS has migrated to its own domain, avs.nparks.gov.sg, from the old nparks.gov.sg/avs paths in the source file). Confirmed live: (1) the approved small-mammal pet list is rabbits, mice, hamsters, guinea pigs, gerbils, chinchillas — no Rattus species (avs.nparks.gov.sg/pets/getting-a-pet/animals-that-can-be-kept-as-pets/); (2) the AVS contact-us page lists the FormSG 'Animal and Bird Feedback' form (form.gov.sg/6732a98cabc55bf7c2439dcd) and the 24-hour helpline 1800 476 1600 — I confirmed the form is titled 'Animal and Bird Feedback' and is the channel linked from the official contact page, so I preferred the form over the AVS_Engage@nparks.gov.sg email in the source file, which I could NOT independently confirm is published on the current contact page (use the form as the verified channel); (3) the SPCA/ACRES Animal Welfare White Paper was released 26 August 2025 with 15 recommendations — it is a published advocacy report, NOT an open government public-comment window, so time_sensitive is left empty (no live bill or open rulemaking window found for the positive list). Legal language is English, so the template is en-only. Classification as 'positive_list' and the law/list (not agency-misreading) branch is well-supported: the Animals and Birds Act closed-list framework plus rats' separate pest/vector classification means the exclusion is deliberate. Not verified to legal certainty: whether AVS has ever exercised Director-General discretion to grant a private individual approval for a non-listed mammal (no documented grant for rats found); the exact internal procedure to petition for a species addition (AVS does not publish a formal 'add-a-species' application — hence the template asks them what it is). This is a research aid, not legal advice.",
+      "local_lang": "en"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Singapore's AVS approved small-mammal pet list (updated 14 May 2026) names rabbits, mice, hamsters, guinea pigs, gerbils, chinchillas — no Rattus species. Under the closed positive-list framework (Animals and Birds Act), species not on the list may not be kept as pets, and AVS guidance says animals considered vermin are not allowed. Rats are also vectors under the Control of Vectors and Pesticides Act 1998. No hobbyist licence pathway exists.",
+      "governing_law": "Animals and Birds Act (Cap. 7); AVS approved-pet list; Control of Vectors and Pesticides Act 1998; Wildlife Act 1965 (as amended 2020).",
+      "source_ids": [
+        "sg-avs-pets",
+        "sg-aba",
+        "sg-cvpa"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Breeding requires an AVS licence under the Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules, issuable only for approved-list species. R. rattus is not approved, so no breeding licence is available to a hobbyist. Research-facility rat breeding is separately governed and irrelevant to pet keeping.",
+      "governing_law": "Animals and Birds (Licensing of Premises...) Rules; AVS approved-pet list.",
+      "source_ids": [
+        "sg-aba-rules",
+        "sg-avs-pets"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Sale or transfer (even free) of pet animals requires an AVS pet-shop/dealer licence and is limited to approved species; R. rattus, being unapproved, cannot lawfully be sold, traded, or given away as a pet. Unlicensed wildlife transfer can also draw penalties under the Wildlife Act. Penalties: up to S$10,000/animal and/or up to 12 months' imprisonment (first offence).",
+      "governing_law": "Animals and Birds Act (Cap. 7) s.9; Licensing Rules; Wildlife Act 1965.",
+      "source_ids": [
+        "sg-aba",
+        "sg-aba-rules",
+        "sg-wildlife"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Importing a small mammal as a pet requires an AVS import licence (apply ≥90 days ahead) and is conditioned on the species being on the approved list. The AVS small-mammal import page lists rabbits/mice/hamsters/gerbils/guinea pigs/chinchillas — no Rattus. Rat (Rattus sp.) import is permitted ONLY to accredited research institutions, explicitly not as pets. R. rattus is not CITES-listed, so the approved-species rule itself bars import. Never release.",
+      "governing_law": "AVS import requirements; Animals and Birds Act (Cap. 7); GoBusiness import-licence framework.",
+      "source_ids": [
+        "sg-avs-import",
+        "sg-avs-lab",
+        "sg-aba"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "The roof rat cannot lawfully be kept, bred, sold, given away, or imported as a pet in Singapore — no Rattus species is on the AVS approved-pet list, and rats are classed as pests/vermin. Only rabbits, mice, hamsters, guinea pigs, gerbils and chinchillas are allowed among small mammals. Penalties up to S$10,000 per animal and/or 12 months' jail. Never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Animal & Veterinary Service (AVS), NParks",
+      "fees": "",
+      "source_ids": [
+        "sg-avs-pets",
+        "sg-aba"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Is any Rattus species — including captive-bred Rattus rattus or R. norvegicus — on the AVS approved pet-species list, or eligible to be added by application/petition? (2) Is there any licence, exemption, or special-permit pathway under the Animals and Birds Act by which a private hobbyist (not a research institution) could legally keep, breed, and transfer captive-bred R. rattus? (3) Does the small-mammal pet-import framework extend to any Rattus species for personal import, or is there a case-by-case approval mechanism?",
+  "sources": [
+    {
+      "id": "sg-avs-pets",
+      "title": "AVS — Animals that can be kept as pets (approved small-mammal list; no Rattus; updated 14 May 2026)",
+      "url": "https://www.nparks.gov.sg/avs/pets/getting-a-pet/animals-that-can-be-kept-as-pets",
+      "authority": "Animal & Veterinary Service (AVS), NParks",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "sg-avs-import",
+      "title": "AVS — Importing small mammals (approved species only; ≥90-day licence)",
+      "url": "https://www.nparks.gov.sg/avs/pets/importing-exporting-a-pet/import/small-mammals",
+      "authority": "AVS, NParks",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "sg-avs-lab",
+      "title": "AVS — Import/export of laboratory animals (rats research-only; not as pets)",
+      "url": "https://www.nparks.gov.sg/avs/businesses/other-businesses/animal-researchers/import-export-laboratory-animals",
+      "authority": "AVS, NParks",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "sg-aba",
+      "title": "Animals and Birds Act (Cap. 7)",
+      "url": "https://sso.agc.gov.sg/Act/ABA1965",
+      "authority": "Singapore Statutes Online / AGC",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "sg-aba-rules",
+      "title": "Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules",
+      "url": "https://sso.agc.gov.sg/SL/7-R2",
+      "authority": "Singapore Statutes Online / AGC",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "sg-cvpa",
+      "title": "Control of Vectors and Pesticides Act 1998 (rats as vectors/pests)",
+      "url": "https://sso.agc.gov.sg/Act/CVPA1998",
+      "authority": "Singapore Statutes Online / AGC",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "sg-wildlife",
+      "title": "Wildlife Act 1965 (as amended 2020) — penalties for unlicensed keeping/trade",
+      "url": "https://sso.agc.gov.sg/Act/WA1965",
+      "authority": "Singapore Statutes Online / AGC",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Animal & Veterinary Service (AVS), National Parks Board",
+      "role": "agriculture",
+      "email": "AVS_Engage@nparks.gov.sg",
+      "form_url": "https://form.gov.sg/6732a98cabc55bf7c2439dcd",
+      "phone": "1800 476 1600",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "ACRES (Animal Concerns Research & Education Society)",
+      "role": "ngo",
+      "email": "",
+      "form_url": "https://acres.org.sg/",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "en"
+    }
+  ]
+}

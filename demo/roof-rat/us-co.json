@@ -1,0 +1,154 @@
+{
+  "jurisdiction": {
+    "id": "us-co",
+    "level": "state",
+    "name": "Colorado",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-CO",
+    "language": "en",
+    "slug": "colorado",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Colorado places the roof rat on its Domestic Animal List: 2 CCR 406-11 §1103(A) lists 'domesticated races of rats (Rattus norvegicus and Rattus)' — a genus-level entry covering Rattus rattus — which exempts captive-bred rats from Parks & Wildlife licensing entirely, and the genus isn't on the prohibited-species list. So keeping a captive-bred roof rat is legal with no CPW license. Breeding/selling is legal as a hobby; at commercial scale (above ~200 rats/mice/gerbils/hamsters transferred per year) a Colorado Dept of Agriculture PACFA license applies. Importing needs a Certificate of Veterinary Inspection; never release one.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "2 CCR 406-11 §1103(A) places 'domesticated races of rats (Rattus norvegicus and Rattus)' on the Domestic Animal List, exempting them from all CPW wildlife licensing; CPW states it doesn't manage domestic rats/mice, and Rattus is not on the prohibited-species list (2 CCR 406-0-008). No license to keep a captive-bred roof rat. (The exemption is for 'domesticated races'/captive-bred, not wild-caught.)",
+      "governing_law": "2 CCR 406-11 §1103(A); 2 CCR 406-0-008 (prohibited list); C.R.S. Title 33.",
+      "source_ids": [
+        "co-1103",
+        "co-prohibited"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No CPW wildlife breeding license is needed for a domestic-list animal. Colorado's PACFA (C.R.S. §35-80) covers rats, but a small-animal hobby breeder is EXEMPT below the Commissioner's threshold (currently ~200 rats/mice/gerbils/hamsters combined transferred per year); above it, a PACFA small-animal breeder license applies.",
+      "governing_law": "2 CCR 406-11 §1103(A); C.R.S. §35-80-102 & 8 CCR 1202-15 (PACFA).",
+      "source_ids": [
+        "co-1103",
+        "co-pacfa-def"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Transfers of a domestic-list animal need no CPW permit. PACFA governs commercial transfer of pet animals (rats included): transferring/selling/adopting-out MORE than ~200 rats (combined with mice/gerbils/hamsters) per year requires a Colorado Dept of Agriculture PACFA license; below that, free giving/adoption and small sales are legal without one.",
+      "governing_law": "C.R.S. §§35-80-101–117; 8 CCR 1202-15.",
+      "source_ids": [
+        "co-pacfa-def",
+        "co-pacfa-license"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Intrastate movement of a domestic-list animal needs no CPW transport permit or in-state health certificate. Interstate IMPORT requires a Certificate of Veterinary Inspection (within 30 days) for small/pocket pets from the Colorado Dept of Agriculture. The no-release rule (2 CCR 406-11) bars ever releasing one into the wild.",
+      "governing_law": "8 CCR 1201-19 (CDA import); CDA 'Bringing Small Animals into Colorado'; 2 CCR 406-11 (no-release).",
+      "source_ids": [
+        "co-cda-import",
+        "co-1103"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Transferring more than ~200 rats/mice/gerbils/hamsters (combined) per year makes you a PACFA-licensed small-animal breeder/dealer (Colorado Dept of Agriculture; ~$425 + inspection). Below the threshold, hobby breeding and free adoption need no license.",
+      "steps": [
+        "Stay under the PACFA small-animal threshold, or obtain a PACFA license"
+      ],
+      "forms": [
+        {
+          "name": "Colorado PACFA Licensing",
+          "url": "https://ag.colorado.gov/animal-welfare/pet-animal-care-facilities-act-pacfa/pacfa-licensing"
+        }
+      ],
+      "where_to_file": "Colorado Dept of Agriculture (PACFA)",
+      "fees": "~$425 (small-animal breeder)",
+      "source_ids": [
+        "co-pacfa-license"
+      ]
+    },
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rat into Colorado requires a Certificate of Veterinary Inspection (within 30 days). No CVI for in-state movement. Never release a roof rat.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Colorado Dept of Agriculture, Animal Health Division",
+      "fees": "",
+      "source_ids": [
+        "co-cda-import"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "co-1103",
+      "title": "2 CCR 406-11 §1103 — Exemptions from license requirements (Domestic Animal List: 'domesticated races of rats (Rattus norvegicus and Rattus)')",
+      "url": "https://www.law.cornell.edu/regulations/colorado/2-CCR-406-11-1103",
+      "authority": "Colorado Parks & Wildlife Commission (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "co-prohibited",
+      "title": "2 CCR 406-0-008 — Possession of Terrestrial Wildlife (prohibited species list; Rattus absent)",
+      "url": "https://www.law.cornell.edu/regulations/colorado/2-CCR-406-0-008",
+      "authority": "Colorado Parks & Wildlife Commission (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "co-pacfa-def",
+      "title": "C.R.S. §35-80-102 — PACFA definitions ('pet animal' includes rats)",
+      "url": "https://law.justia.com/codes/colorado/title-35/pet-animal-care/article-80/section-35-80-102/",
+      "authority": "Colorado General Assembly",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "co-pacfa-license",
+      "title": "PACFA Licensing — Colorado Dept of Agriculture (hobby-breeder threshold + license)",
+      "url": "https://ag.colorado.gov/animal-welfare/pet-animal-care-facilities-act-pacfa/pacfa-licensing",
+      "authority": "Colorado Dept of Agriculture",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "co-cda-import",
+      "title": "Bringing Small Animals into Colorado — CDA Animal Health (CVI for pocket pets)",
+      "url": "https://ag.colorado.gov/bringing-small-animals-into-colorado",
+      "authority": "Colorado Dept of Agriculture, State Veterinarian",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

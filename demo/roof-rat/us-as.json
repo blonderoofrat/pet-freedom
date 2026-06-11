@@ -1,0 +1,154 @@
+{
+  "jurisdiction": {
+    "id": "us-as",
+    "level": "territory",
+    "name": "American Samoa",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-AS",
+    "language": "en",
+    "slug": "american-samoa",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "American Samoa is NOT a closed ban on pet rats - its status is genuinely unsettled. The territory's import rules (Regulation 24, Ch. 3, 1978) prohibit importing enumerated 'miscellaneous pets' - hamsters and rabbits are named - but NEITHER Rattus rattus NOR R. norvegicus appears on that list. A $2 import permit + a government-endorsed health certificate are required for domestic-animal import (sec. 24.0306), and the Director of Agriculture has discretion (sec. 24.0318(b)) to decide whether an unlisted animal counts as a prohibited 'miscellaneous pet' - so pet rats are unresolved at the agency level, not automatically banned. In-territory KEEPING isn't separately regulated (no 'banned to keep' list; the anti-rodent duties in ASCA sec. 20.1716 target wharf/vessel operators, not pet owners). The hard constraint is IMPORT: it needs the permit + health cert + a favorable Director determination, and because American Samoa is outside the US customs territory, shipments even from the US mainland are treated as international imports.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "Law regulates IMPORT, not in-territory possession; no provision of ASCA Title 25 or Regulation 24 prohibits keeping a rat already present, and no 'banned-to-keep' species list exists. ASCA sec. 20.1716 anti-rodent duties apply to wharf/vessel operators, not pet keepers.",
+      "governing_law": "Am. Samoa Reg. 24.0306 / 24.0318 (1978); ASCA sec. 20.1716; 19 CFR sec. 7.2 (outside US customs territory); 50 CFR Part 14 (USFWS).",
+      "source_ids": [
+        "as-reg-24-0318",
+        "as-reg-24-0306",
+        "as-asca-20-1716"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "No breeding-specific prohibition or small-mammal breeding-licence scheme found; unaddressed by current regulation. The 1978 rules + the Director's sec. 24.0318(b) discretionary catch-all leave real uncertainty.",
+      "governing_law": "Am. Samoa Reg. 24.0306 / 24.0318 (1978); ASCA sec. 20.1716; 19 CFR sec. 7.2 (outside US customs territory); 50 CFR Part 14 (USFWS).",
+      "source_ids": [
+        "as-reg-24-0318",
+        "as-reg-24-0306",
+        "as-asca-20-1716"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "No sale/transfer prohibition for pet rodents found in ASCA Title 25 or Regulation 24; no CITES domestic-sales legislation identified. In-territory transfer is unaddressed.",
+      "governing_law": "Am. Samoa Reg. 24.0306 / 24.0318 (1978); ASCA sec. 20.1716; 19 CFR sec. 7.2 (outside US customs territory); 50 CFR Part 14 (USFWS).",
+      "source_ids": [
+        "as-reg-24-0318",
+        "as-reg-24-0306",
+        "as-asca-20-1716"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Importing any rodent needs (a) a $2 import permit obtained in advance from the Dept of Agriculture (sec. 24.0306), (b) a government-endorsed veterinary health certificate, and (c) clearance by the Chief Quarantine Officer at Pago Pago - PLUS a favorable sec. 24.0318(b) Director determination that pet rats aren't 'miscellaneous pets' (no on-island quarantine facility, so failure = return to origin). American Samoa is outside US customs territory; USFWS Form 3-177 applies if routed through a US designated port. Never release.",
+      "governing_law": "Am. Samoa Reg. 24.0306 / 24.0318 (1978); ASCA sec. 20.1716; 19 CFR sec. 7.2 (outside US customs territory); 50 CFR Part 14 (USFWS).",
+      "source_ids": [
+        "as-reg-24-0318",
+        "as-reg-24-0306",
+        "as-asca-20-1716"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "American Samoa doesn't list rats as prohibited and doesn't regulate in-territory keeping - but IMPORT needs a $2 permit + health certificate + a favorable Director determination (sec. 24.0318(b)) that pet rats aren't 'miscellaneous pets.' Get that written determination BEFORE shipping one (no on-island quarantine = denied animals are returned). Never release.",
+      "steps": [
+        "Request a written sec. 24.0318(b) Director determination that pet rats aren't a prohibited 'miscellaneous pet'",
+        "If favorable: apply for the sec. 24.0306 import permit ($2) + a USDA-endorsed health certificate"
+      ],
+      "forms": [],
+      "where_to_file": "American Samoa Dept of Agriculture - Plant & Animal Quarantine Division",
+      "fees": "$2 import permit",
+      "source_ids": [
+        "as-reg-24-0306",
+        "as-reg-24-0318"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Under Regulation 24.0318(b), has the Director of Agriculture issued a written determination classifying domesticated pet rats (Rattus norvegicus or Rattus rattus) as a prohibited 'miscellaneous pet'? If no determination exists, what is the process to request one? (2) If pet rats aren't categorically prohibited, what documentation (import-permit form, health-certificate specs, approved-origin list) is required under sec. 24.0306, and the processing time? (3) Is there a published list of species currently approved or denied under sec. 24.0318(b)?",
+  "sources": [
+    {
+      "id": "as-reg-24-0318",
+      "title": "American Samoa Reg. 24.0318 - Miscellaneous pet importation prohibited (names hamsters/rabbits; NOT Rattus; Director discretion (b))",
+      "url": "https://asbar.org/regulation/24-0318-miscellaneous-pet-importation-prohibited/",
+      "authority": "American Samoa Bar Association (regulations)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "as-reg-24-0306",
+      "title": "American Samoa Reg. 24.0306 - Domestic animal import permit ($2 permit + health certificate)",
+      "url": "https://asbar.org/regulation/24-0306-domestic-animal-import-permit/",
+      "authority": "American Samoa Bar Association",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "as-asca-20-1716",
+      "title": "ASCA sec. 20.1716 - Antirodent measures (applies to wharf/vessel operators, not pet keepers)",
+      "url": "https://asbar.org/code-annotated/20-1716-antirodent-measures-compliance-with-instructions/",
+      "authority": "American Samoa Bar Association",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "as-reg-24-faolex",
+      "title": "American Samoa Regulation 24 Ch. 3 - Quarantine of Pets (full text, Rule 2-78)",
+      "url": "https://faolex.fao.org/docs/pdf/ams68618.pdf",
+      "authority": "FAO Legal Office archive",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "as-19cfr7",
+      "title": "19 CFR sec. 7.2 - American Samoa is outside the US customs territory",
+      "url": "https://www.law.cornell.edu/cfr/text/19/7.2",
+      "authority": "Cornell LII / eCFR",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "American Samoa Dept of Agriculture - Plant & Animal Quarantine (PAQ) Division",
+      "role": "agriculture",
+      "email": "daniel.helsham@doa.as.gov",
+      "form_url": "https://www.doa.as.gov/contact",
+      "phone": "+1 684-699-9272",
+      "primary": true,
+      "inquiry_language": "en"
+    }
+  ]
+}

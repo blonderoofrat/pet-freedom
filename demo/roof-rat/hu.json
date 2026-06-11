@@ -1,0 +1,274 @@
+{
+  "jurisdiction": {
+    "id": "hu",
+    "level": "country",
+    "name": "Hungary",
+    "parent": null,
+    "country": "HU",
+    "iso": "HU",
+    "language": "hu",
+    "inquiry_language": "en",
+    "slug": "hungary",
+    "local_terms": [
+      "Rattus rattus",
+      "házi patkány",
+      "fekete patkány",
+      "patkány"
+    ]
+  },
+  "summary": "Hungary treats the roof rat (Rattus rattus) as an ordinary pet rodent, and the preliminary 'protected-species' worry is resolved against any ban. Deep research confirms R. rattus is NOT protected ('védett') under KöM Decree 13/2001, NOT on the EU or national invasive-alien-species lists (Reg. 1143/2014 / Decree 408/2016), and NOT a dangerous animal (FM Decree 85/2015 — the whole family Muridae is absent) — so it defaults to the general pet-animal regime of Government Decree 41/2010, exactly like the fancy rat (R. norvegicus). Keeping and hobby breeding need no permit (only welfare/caging standards); only COMMERCIAL sale/breeding requires a FELIR identifier from NÉBIH, and cross-border movement requires EU/national veterinary paperwork (an Operator's Declaration intra-EU, a National Veterinary Import Certificate from third countries). One residual quirk — NM Decree 18/1998 lists the 'házi patkány' as a public-health pest subject to eradication of free-roaming infestations — does not reach a securely caged pet, but the burden is on the owner to maintain hygiene and prevent escape. Never release a roof rat.",
+  "last_reviewed": "2026-06-11",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Keeping a roof rat as a private hobby pet is legal in Hungary with no permit or registration. R. rattus is not a protected species (absent from KöM Decree 13/2001 Appendices 2 and 8, so Decree 348/2006's nature-conservation keeping permit does not apply), not a dangerous animal (FM Decree 85/2015 — Muridae unlisted), and not an invasive alien species (absent from EU Reg. 1143/2014 and national Decree 408/2016), so by elimination it defaults to the general pet-animal (kedvtelésből tartott állat) regime of Government Decree 41/2010, which lists 'Patkány' generically and applies to R. rattus exactly as to the fancy rat. The keeper must meet that decree's welfare/caging standards (minimum 0.18 m² for one rat, +0.03 m² per additional animal, ≥0.3 m shortest side and height, daily checks, no constant light/dark) and the anti-cruelty duties of Act XXVIII of 1998. A municipality cannot cap pet numbers arbitrarily (Constitutional Court Decision 146/2011) provided welfare and hygiene standards are met.",
+      "governing_law": "41/2010. (II. 26.) Korm. rendelet (pet animals — welfare/caging, no permit); 1998. évi XXVIII. törvény (Animal Protection Act); KöM 13/2001 (V. 9.) Apps. 2 & 8 (protected species — R. rattus absent); 348/2006 (XII. 23.) Korm. rendelet (protected-species keeping — not triggered); 85/2015 (XII. 17.) FM rendelet (dangerous animals — Muridae unlisted).",
+      "source_ids": [
+        "hu-41-2010",
+        "hu-1998-xxviii",
+        "hu-13-2001",
+        "hu-348-2006",
+        "hu-85-2015"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Private, non-commercial hobby breeding of roof rats is legal in Hungary and needs no breeder's licence — the same as the fancy rat, since R. rattus falls under the general pet-rodent regime of Government Decree 41/2010 rather than any protected-species (Decree 348/2006) or ecologically-dangerous-species (Act XXVIII of 1998 §24/F, Decree 408/2016) restriction, none of which list it. Breeders are bound by animal-welfare law: the Animal Protection Act prohibits over-breeding (túltenyésztés) and deliberately producing animals with debilitating genetic defects, enforceable as animal cruelty (állatkínzás) under Btk. §244. Breeding crosses into a regulated COMMERCIAL enterprise (triggering FELIR registration — see sell_give) once it becomes systematic with intent of regular financial gain; that threshold is defined by intent/systematic sale, not a codified litter quota.",
+      "governing_law": "41/2010. (II. 26.) Korm. rendelet; 1998. évi XXVIII. törvény (over-breeding ban; §24/F ecologically-dangerous species — R. rattus not listed); Btk. §244 (animal cruelty); 348/2006 (XII. 23.) Korm. rendelet (protected-species — not triggered); 408/2016 (XII. 13.) Korm. rendelet (IAS — R. rattus not listed).",
+      "source_ids": [
+        "hu-41-2010",
+        "hu-1998-xxviii",
+        "hu-348-2006",
+        "hu-408-2016"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Giving a roof rat away for free, or occasionally rehoming an accidental litter without profit motive, is unregulated. But anyone engaged in the regular COMMERCIAL sale or systematic breeding of pet animals must obtain a FELIR identifier (Food Chain Supervision Information System) from NÉBIH under Government Decree 578/2020 — a requirement that, since 1 April 2021, sweeps in all pet species including rodents. Registration is via the NÉBIH Client Profile System (ÜPR) through the Ügyfélkapu gateway and subjects the seller to possible inspection by the county government office. A pet shop must also notify the local municipal notary; mail-order/postal sale of live animals is prohibited (Decree 210/2009), and animals must be weaned before transfer. We classify this legal_with_permit because the lawful commercial pathway (FELIR registration) exists and is routine — there is no prohibition.",
+      "governing_law": "578/2020. (XII. 14.) Korm. rendelet (FELIR registration for commercial pet trade/breeding); 41/2010. (II. 26.) Korm. rendelet (pet-animal trade/welfare); 210/2009. (IX. 29.) Korm. rendelet (no mail-order live-animal sale); 1998. évi XXVIII. törvény (welfare at transfer).",
+      "source_ids": [
+        "hu-578-2020",
+        "hu-41-2010",
+        "hu-210-2009"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Moving a roof rat WITHIN Hungary needs no veterinary certificate for a private owner (only general welfare-in-transit standards). Intra-EU movement of pet rodents is non-harmonized under EU Animal Health Law (Reg. (EU) 2016/429): no official veterinary health certificate is required, but the transport must be accompanied by an Operator's Declaration (nyilatkozat) identifying origin/destination, transporter, and the animals (species Rattus rattus, quantity, health) — non-commercial if ≤5 animals accompany the owner with no ownership transfer. Importing from a non-EU third country is the most regulated: it requires the Hungarian National Veterinary Import Certificate (endorsed by an official state vet in the exporting country), entry through a designated Border Control Post, and TRACES-NT CHED pre-notification (Part I) at least one working day ahead, with documentary/identity/physical checks before NAV customs clearance. Because lawful documented pathways exist at every level (declaration / national import certificate), this is legal_with_permit, not prohibited.",
+      "governing_law": "Regulation (EU) 2016/429 (Animal Health Law — Art. 151 Operator's Declaration for non-harmonized species); NÉBIH national import-certificate directives (third-country import via designated BCP + TRACES-NT CHED); 41/2010 / Animal Protection Act (welfare in transit).",
+      "source_ids": [
+        "hu-eu-429",
+        "hu-nebih-import",
+        "hu-nebih-travel"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give",
+        "breed"
+      ],
+      "summary": "Commercial trade or systematic for-profit breeding of pet animals (including rodents) requires a FELIR identifier from NÉBIH (Government Decree 578/2020). Free gifting or occasional non-profit rehoming of an accidental litter does not. A pet shop must additionally notify the local municipal notary; mail-order/postal sale of live animals is banned.",
+      "steps": [
+        "Decide if your activity is commercial (regular sale / systematic breeding for profit) — if yes, register",
+        "Apply electronically for a FELIR identifier via the NÉBIH Client Profile System (ÜPR) using the Ügyfélkapu gateway",
+        "If running a pet shop, notify the local municipal notary (jegyző) of the commercial activity",
+        "Maintain welfare/caging and record-keeping standards for county-government-office inspection"
+      ],
+      "forms": [
+        "FELIR registration via NÉBIH ÜPR (Ügyfélkapu)"
+      ],
+      "where_to_file": "NÉBIH (National Food Chain Safety Office) — ÜPR / e-ügyintézés",
+      "fees": "No species permit fee; FELIR registration itself is administrative (no licence fee for the identifier)",
+      "source_ids": [
+        "hu-578-2020",
+        "hu-210-2009"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Cross-border movement needs paperwork: intra-EU, an Operator's Declaration (nyilatkozat) accompanying the animals (non-commercial if ≤5, owner-accompanied, no sale); third-country import, the Hungarian National Veterinary Import Certificate endorsed by an official state vet, entry through a designated Border Control Post, and TRACES-NT CHED pre-notification ≥1 working day before arrival. Domestic transport within Hungary needs no certificate.",
+      "steps": [
+        "Intra-EU: prepare and sign an Operator's Declaration with origin/destination, transporter, species (Rattus rattus) and quantity, and health statement",
+        "Third-country import: obtain the National Veterinary Import Certificate signed/stamped by an official state vet in the exporting country",
+        "Third-country import: pre-notify the Border Control Post via TRACES-NT (CHED Part I) at least one working day before arrival",
+        "Clear documentary/identity/physical checks at the BCP before NAV customs release"
+      ],
+      "forms": [
+        "Operator's Declaration (intra-EU non-harmonized species)",
+        "National Veterinary Certificate for Pet animals of Rodentia, Reptilia, Amphibia, Lagomorpha, Pisces (third-country import)",
+        "Common Health Entry Document (CHED) via TRACES-NT"
+      ],
+      "where_to_file": "NÉBIH (animal-health import) / designated EU Border Control Post; TRACES-NT for CHED",
+      "fees": "Standard veterinary/BCP inspection fees may apply on third-country import",
+      "source_ids": [
+        "hu-eu-429",
+        "hu-nebih-import",
+        "hu-nebih-travel"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "A regulatory quirk to be aware of: NM Decree 18/1998 lists the 'házi patkány' (roof rat) as a public-health pest (egészségügyi kártevő) and obliges property owners to prevent infestation and eradicate free-roaming rats in inhabited areas. This targets uncontrolled, escaped, free-roaming populations — NOT a securely caged pet. A keeper of contained, captive-bred pets meeting Decree 41/2010 welfare standards is shielded by the Animal Protection Act, but the burden is on the owner to maintain impeccable hygiene and prevent escape so no nuisance/pest-control order is invoked by the local notary. Never release a roof rat.",
+      "steps": [
+        "Keep rats securely caged indoors — prevent any escape into the building or wild",
+        "Maintain strict hygiene/sanitation to avoid a neighbour nuisance complaint to the municipal notary (jegyző)",
+        "Never release or abandon a roof rat"
+      ],
+      "forms": [],
+      "where_to_file": "Local municipal notary (jegyző) handles nuisance/pest complaints; NÉBIH/local authority for welfare",
+      "fees": "",
+      "source_ids": [
+        "hu-18-1998",
+        "hu-41-2010"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Confirm R. rattus is NOT a protected ('védett') species under KöM Decree 13/2001 and therefore needs no Decree 348/2006 nature-conservation keeping permit. (2) Confirm a private person may keep/hobby-breed/transfer captive-bred R. rattus under the ordinary pet-animal rules of Government Decree 41/2010 with no species permit (as for the fancy rat). (3) Clarify the threshold at which hobby breeding/sale becomes commercial activity requiring a FELIR identifier from NÉBIH (Decree 578/2020). (4) Confirm how the NM Decree 18/1998 'health pest' listing interacts with pet-keeping protections for a securely caged animal.",
+  "sources": [
+    {
+      "id": "hu-41-2010",
+      "title": "Government Decree 41/2010 (II.26.) — keeping & trade of pet animals (covers rodents 'Patkány'; welfare/caging standards; no species permit)",
+      "url": "https://njt.hu/jogszabaly/2010-41-20-22",
+      "authority": "Hungarian Government (Nemzeti Jogszabálytár)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-1998-xxviii",
+      "title": "Act XXVIII of 1998 on the protection and humane treatment of animals (over-breeding ban; §24/F ecologically-dangerous species — R. rattus not listed; anti-cruelty)",
+      "url": "https://njt.hu/jogszabaly/1998-28-00-00",
+      "authority": "Hungarian Parliament (Nemzeti Jogszabálytár)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-13-2001",
+      "title": "KöM Decree 13/2001 (V.9.) — list of protected/strictly protected species (Apps. 2 & 8; R. rattus ABSENT → not protected)",
+      "url": "https://termeszetvedelem.hu/vedett-es-fokozottan-vedett-noveny-es-allatfajok/",
+      "authority": "Hungarian Ministry of Environment",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-348-2006",
+      "title": "Government Decree 348/2006 (XII.23.) — keeping/utilization of protected animal species (NOT triggered; R. rattus is not protected)",
+      "url": "https://njt.jog.gov.hu/jogszabaly/2006-348-20-22",
+      "authority": "Hungarian Government (Nemzeti Jogszabálytár)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-85-2015",
+      "title": "FM Decree 85/2015 (XII.17.) — dangerous animal species (family Muridae NOT listed)",
+      "url": "https://net.jogtar.hu/jogszabaly?docid=a1500085.fm",
+      "authority": "Hungarian Ministry of Agriculture",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-408-2016",
+      "title": "Government Decree 408/2016 (XII.13.) — IAS implementation of EU Reg. 1143/2014 (R. rattus NOT on the EU Union or national list)",
+      "url": "https://njt.hu/jogszabaly/2016-408-20-22",
+      "authority": "Hungarian Government (Nemzeti Jogszabálytár)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-578-2020",
+      "title": "Government Decree 578/2020 (XII.14.) — Food Chain Supervision Information System (FELIR registration for commercial pet trade/breeding, incl. rodents)",
+      "url": "https://portal.nebih.gov.hu/-/uj-kotelezettseggel-kell-szamolniuk-a-kedvtelesbol-tartott-allatokkal-kereskedoknek",
+      "authority": "NÉBIH / Hungarian Government",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-18-1998",
+      "title": "NM Decree 18/1998 (VI.3.) — epidemiological measures (classifies wandering & house rat as public-health pests subject to eradication of free-roaming infestations)",
+      "url": "https://net.jogtar.hu/jogszabaly?docid=99800018.nm",
+      "authority": "Hungarian Ministry of Welfare",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-210-2009",
+      "title": "Government Decree 210/2009 (IX.29.) — commercial-activity rules (prohibits mail-order/postal/mobile-vendor sale of live animals)",
+      "url": "https://njt.hu/jogszabaly/2009-210-20-22",
+      "authority": "Hungarian Government (Nemzeti Jogszabálytár)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-eu-429",
+      "title": "Regulation (EU) 2016/429 — Animal Health Law (Art. 151 Operator's Declaration for non-harmonized pet rodents intra-EU)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/429/oj",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-nebih-import",
+      "title": "NÉBIH — national veterinary import certificates for non-EU-harmonized live animals (third-country import via designated BCP + TRACES-NT CHED)",
+      "url": "https://portal.nebih.gov.hu/-/nemzeti-allategeszsegugyi-importbizonyitvanyok-nem-eu-harmonizalt-allati-eredetu-termek-es-eloallat-behozatalahoz",
+      "authority": "NÉBIH",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "hu-nebih-travel",
+      "title": "NÉBIH — information on travelling/moving pet animals (intra-EU & non-commercial movement guidance)",
+      "url": "https://portal.nebih.gov.hu/-/kedvtelesbol-tartott-allatok-utaztatasara-vonatkozo-tajekoztato",
+      "authority": "NÉBIH",
+      "accessed": "2026-06-11"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "NÉBIH — National Food Chain Safety Office (Állategészségügyi és Állatvédelmi Igazgatóság / Animal Health & Welfare Directorate)",
+      "role": "agriculture",
+      "email": "ugyfelszolgalat@nebih.gov.hu",
+      "form_url": "https://portal.nebih.gov.hu/kapcsolat",
+      "phone": "+36-1-336-9302",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Local Municipal Notary (Települési Jegyző)",
+      "role": "local",
+      "email": "",
+      "form_url": "",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "hu"
+    },
+    {
+      "agency": "Nature-conservation authority (national park directorate / county government office green authority)",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://termeszetvedelem.hu/kapcsolatok-kapcsolodasi-lehetosegek/",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "hu"
+    }
+  ]
+}

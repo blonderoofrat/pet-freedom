@@ -1,0 +1,151 @@
+{
+  "jurisdiction": {
+    "id": "cz",
+    "level": "country",
+    "name": "Czechia",
+    "parent": null,
+    "country": "CZ",
+    "iso": "CZ",
+    "language": "cs",
+    "inquiry_language": "cs",
+    "slug": "czechia",
+    "local_terms": [
+      "Rattus rattus",
+      "krysa obecná"
+    ]
+  },
+  "summary": "Czechia is permissive for the roof rat. It uses a negative-list system: under the Animal Protection Act (Zákon 246/1992 Sb.) and Decree 451/2021 Sb., only enumerated species need a 'special-care' permit — and Rattus rattus (Czech: krysa obecná) is NOT on that list, so it's freely kept as a hobby animal. It's also absent from the EU invasive-species Union list and from Czechia's national IAS framework (Zákon 364/2021 Sb.), and not CITES-listed. So a hobbyist may keep, breed and sell/give captive-bred roof rats with no permit; only commercial-scale breeding/trade requires registering with the regional veterinary office (KVS) at least 7 days ahead. Intra-EU movement of pet rodents needs no harmonized health certificate. (Czech usefully distinguishes 'krysa' = R. rattus from 'potkan' = R. norvegicus.)",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "R. rattus is not in Příloha č. 1 of Vyhláška 451/2021 Sb. (the exhaustive list of species requiring special care + a veterinary permit), so private keeping needs no permit/registration — only the general welfare duties of Zákon 246/1992 Sb. Not CITES-listed. Hobby keeping/sale from own breeding is a 'free trade' category under Czech trade law.",
+      "governing_law": "Zákon 246/1992 Sb.; Vyhláška 451/2021 Sb. (special-care list — R. rattus absent).",
+      "source_ids": [
+        "cz-246-1992",
+        "cz-451-2021"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Hobby breeding needs no permit (R. rattus outside the special-care list; no EU/national rule mandates registration of this species). Commercial/business-scale breeding must register with the regional Krajská veterinární správa (KVS) ≥7 days before starting (Zákon 166/1999 Sb. §5(2)). No species-specific prohibition or quota; Zákon 364/2021 Sb. (IAS) doesn't list R. rattus.",
+      "governing_law": "Zákon 166/1999 Sb. §5(2) (commercial registration); Zákon 364/2021 Sb. (IAS — R. rattus not listed).",
+      "source_ids": [
+        "cz-166-1999",
+        "cz-364-2021"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Giving away from one's own hobby breeding is unrestricted; selling from own breeding is a 'free trade' (živnost volná) needing only business notification if operated as a business. Occasional hobbyist-to-hobbyist sales don't ordinarily trigger that. No species ban/permit/quota for R. rattus; welfare conditions of Zákon 246/1992 Sb. §13 apply (e.g., no sale to under-15s without parental consent).",
+      "governing_law": "Zákon 246/1992 Sb. §13; Zákon 455/1991 Sb. (trade law, free-trade annex).",
+      "source_ids": [
+        "cz-246-1992"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Intra-EU non-commercial movement of pet rodents (EU Reg. 576/2013 Annex I Part B; up to 5 animals, owner-accompanied) needs no harmonized health certificate; the Czech veterinary administration (SVS) imposes no conditions provided the origin isn't under an animal-health alert. Commercial consignments may need TRACES NT notification. No IAS bar (R. rattus not on the Union list). Never release.",
+      "governing_law": "EU Reg. 576/2013 Annex I Part B; SVS travel guidance.",
+      "source_ids": [
+        "cz-eu-576",
+        "cz-svs-travel"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "registration",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Keeping/breeding/selling captive-bred roof rats is legal in Czechia with no permit for hobbyists. Only at commercial/business scale must you register with the regional veterinary office (KVS) ≥7 days before starting. Never release a roof rat.",
+      "steps": [
+        "If commercial-scale, register with the regional Krajská veterinární správa (KVS) ≥7 days ahead"
+      ],
+      "forms": [],
+      "where_to_file": "Krajská veterinární správa (KVS) / SVS",
+      "fees": "",
+      "source_ids": [
+        "cz-166-1999"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Objevuje se Rattus rattus (krysa obecná) v Příloze č. 1 vyhlášky č. 451/2021 Sb. jako druh vyžadující zvláštní péči, nebo je zcela mimo tento seznam pro soukromý chov a rozmnožování? (2) Pro soukromého chovatele prodávajícího mláďata z vlastního chovu krysy obecné (malé množství, nekomerční rozsah) — je vyžadována registrace/povolení u KVS, a od jaké úrovně činnosti? (3) Pro nekomerční vnitrounijní přepravu krysy obecné (do 5 zvířat, doprovázené majitelem) vyžaduje Česko nějaké doklady nad rámec nařízení (EU) 576/2013?",
+  "sources": [
+    {
+      "id": "cz-246-1992",
+      "title": "Zákon č. 246/1992 Sb. na ochranu zvířat proti týrání (welfare; §13 sale conditions)",
+      "url": "https://www.zakonyprolidi.cz/cs/1992-246",
+      "authority": "zakonyprolidi.cz (CZ legal database)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "cz-451-2021",
+      "title": "Vyhláška č. 451/2021 Sb. — druhy vyžadující zvláštní péči (special-care species list; R. rattus absent)",
+      "url": "https://www.zakonyprolidi.cz/cs/2021-451",
+      "authority": "zakonyprolidi.cz",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "cz-166-1999",
+      "title": "Zákon č. 166/1999 Sb. o veterinární péči §5(2) (commercial breeder registration with KVS)",
+      "url": "https://www.zakonyprolidi.cz/cs/1999-166",
+      "authority": "zakonyprolidi.cz",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "cz-364-2021",
+      "title": "Zákon č. 364/2021 Sb. — Czech implementation of EU IAS rules (R. rattus not listed)",
+      "url": "https://www.zakonyprolidi.cz/cs/2021-364",
+      "authority": "zakonyprolidi.cz",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "cz-eu-576",
+      "title": "Regulation (EU) 576/2013 — non-commercial pet movement (Annex I Part B: rodents)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2013/576/oj/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "cz-svs-travel",
+      "title": "SVS — Requirements for travelling with other pet animals (no CZ restrictions on EU-origin rodents)",
+      "url": "https://en.svscr.cz/animal-health/travelling-with-pet-animals/vi-requirements-for-travelling-with-other-pet-animals/",
+      "authority": "Státní veterinární správa",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Státní veterinární správa (SVS) — State Veterinary Administration",
+      "role": "agriculture",
+      "email": "epodatelna@svscr.cz",
+      "form_url": "https://www.svscr.cz/kontaktni-formular/",
+      "phone": "+420 227 010 430",
+      "primary": true,
+      "inquiry_language": "cs"
+    }
+  ]
+}

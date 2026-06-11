@@ -1,0 +1,139 @@
+{
+  "jurisdiction": {
+    "id": "us-az",
+    "level": "state",
+    "name": "Arizona",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-AZ",
+    "language": "en",
+    "slug": "arizona",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Arizona Game & Fish regulates 'restricted live wildlife' by family — and the rat family (Muridae) is NOT on the restricted list, so a roof rat needs no special license to keep, breed, or rehome. Importing non-restricted mammals is also allowed without a Game & Fish license. The one requirement is a Certificate of Veterinary Inspection to bring the animal in from out of state (Dept of Agriculture), plus the universal no-release rule. (Legal basis is 'unrestricted wildlife,' since Arizona's narrow definition of 'domestic' doesn't fit a species that still exists in the wild — but the practical result is the same: no permit needed.)",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "R. rattus (family Muridae) is not among the rodent families designated 'restricted live wildlife' in A.A.C. R12-4-406, and a special license is required only to possess restricted wildlife. With no listing, no Game & Fish license is required to keep one.",
+      "governing_law": "A.A.C. R12-4-406 (restricted list — Muridae absent); R12-4-402; R12-4-401.",
+      "source_ids": [
+        "az-r12-4-406",
+        "az-r12-4-402"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Game & Fish special-license/breeder rules attach to restricted wildlife; private game-farm/propagation licenses cover game birds, not murid rodents. Because R. rattus is unrestricted, breeding privately held animals needs no Game & Fish license.",
+      "governing_law": "A.A.C. R12-4-406; R12-4-409/413.",
+      "source_ids": [
+        "az-r12-4-406"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Prohibited activities (sell/give/trade absent a license) apply to restricted wildlife under R12-4-402(A); they don't reach a non-listed species, so transferring/adopting out roof rats isn't barred. A high-volume commercial dealer should confirm with Game & Fish whether any dealer license is triggered.",
+      "governing_law": "A.A.C. R12-4-402(A); R12-4-406.",
+      "source_ids": [
+        "az-r12-4-402",
+        "az-r12-4-406"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Intrastate transport of an unrestricted species isn't licensed; R12-4-405 allows importing non-restricted mammals without a Game & Fish license. But the Dept of Agriculture (A.A.C. R3-2-602) requires a Certificate of Veterinary Inspection for animals imported into Arizona (the rule's 'animal' includes rodents), so carry a CVI on import. Never release (R12-4-402(A)).",
+      "governing_law": "A.A.C. R12-4-405; A.A.C. R3-2-602 (import CVI); R12-4-402(A) (no-release).",
+      "source_ids": [
+        "az-r12-4-405",
+        "az-r3-2-602",
+        "az-r12-4-402"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Bringing a pet rat into Arizona requires a Certificate of Veterinary Inspection (A.A.C. R3-2-602); no Game & Fish import license is needed for an unrestricted species.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Arizona Dept of Agriculture, State Veterinarian",
+      "fees": "",
+      "source_ids": [
+        "az-r3-2-602"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat into the wild — prohibited under A.A.C. R12-4-402(A) and ecologically harmful.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "az-r12-4-402"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "az-r12-4-406",
+      "title": "A.A.C. R12-4-406 — Restricted Live Wildlife (restricted Rodentia families; Muridae/Rattus absent)",
+      "url": "https://www.law.cornell.edu/regulations/arizona/Ariz-Admin-Code-SS-R12-4-406",
+      "authority": "AZ Game & Fish Commission (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "az-r12-4-405",
+      "title": "A.A.C. R12-4-405 — Importing/transporting live wildlife without a license (non-restricted mammals allowed)",
+      "url": "https://www.law.cornell.edu/regulations/arizona/Ariz-Admin-Code-SS-R12-4-405",
+      "authority": "AZ Game & Fish Commission (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "az-r12-4-402",
+      "title": "A.A.C. R12-4-402 — Prohibited activities (apply to restricted wildlife; no-release rule)",
+      "url": "https://www.law.cornell.edu/regulations/arizona/Ariz-Admin-Code-SS-R12-4-402",
+      "authority": "AZ Game & Fish Commission (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "az-r3-2-602",
+      "title": "A.A.C. R3-2-602 — Importation Requirements (CVI required for animals imported into AZ; 'animal' includes rodents)",
+      "url": "https://www.law.cornell.edu/regulations/arizona/Ariz-Admin-Code-SS-R3-2-602",
+      "authority": "AZ Dept of Agriculture (via Cornell LII)",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

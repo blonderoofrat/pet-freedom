@@ -1,0 +1,205 @@
+{
+  "jurisdiction": {
+    "id": "ro",
+    "level": "country",
+    "name": "Romania",
+    "parent": null,
+    "country": "RO",
+    "iso": "RO",
+    "language": "ro",
+    "inquiry_language": "ro",
+    "slug": "romania",
+    "local_terms": [
+      "Rattus rattus",
+      "șobolan negru",
+      "șobolanul de casă"
+    ]
+  },
+  "summary": "Romania has no statute that names the roof rat, and in practice it's treated like the fancy rat (R. norvegicus), which is openly kept and sold as a companion animal with no special permit. R. rattus is NOT on the OUG 57/2007 protected-species annexes (4A/4B), NOT on the EU invasive-species Union list (Reg. 1143/2014), and NOT on Romania's ~20-species national IAS list (2023) — so none of those bar it. The one genuine ambiguity is classification: Legea 205/2004 (Art. 9) requires county DSVSA authorization to keep a 'wild animal,' but companion/domestic animals need only standard welfare compliance. Authorities implicitly treat captive-bred rats as companion animals (sold freely on OLX/Hobby-Zoo under 'rozătoare'), so most likely no permit is needed; only if an authority deemed a captive R. rattus a 'wild animal' would a DSVSA authorization apply. A one-question check to ANSVSA/the Ministry of Environment settles it.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "clarification",
+      "problem": "In Romania there is no law that bans keeping the roof rat (Rattus rattus, \"șobolanul negru\") as a pet. It is not on the protected-species annexes of OUG 57/2007, not on the EU invasive-species Union list (Reg. 1143/2014), and not on Romania's national IAS list. The fancy rat (Rattus norvegicus) is kept and sold freely as a companion animal with no permit. The single open question is classification: Legea 205/2004 (Art. 9) requires a county DSVSA authorization to keep a \"wild animal,\" but companion/domestic animals only need standard welfare compliance. Captive-bred, tame roof rats are sold openly on Romanian pet platforms as \"rozătoare,\" which strongly suggests they are treated as companion animals needing no permit — but no authority has put that classification in writing. So the problem is not a ban; it is an unwritten ambiguity that leaves keepers unsure whether a captive-bred roof rat is a \"companion animal\" (no permit) or a \"wild animal\" (DSVSA authorization).",
+      "ask": "Ask the Ministry of Environment, Waters and Forests for a short written clarification: is a captive-bred, tame Rattus rattus kept indoors as a hobby classified as a companion animal (same regime as the fancy rat, Rattus norvegicus — no special permit), or as a \"wild animal\" requiring a county DSVSA authorization under Legea 205/2004 Art. 9? Also confirm it is not on the OUG 57/2007 protected annexes or the national IAS list, and what (if any) documentation applies to intra-EU transport. The goal is a written answer that keepers can rely on — not a change to any law.",
+      "branch_note": "This is branch (a): the lever is the AGENCY, not the legislature. There is no statute or list that names or bans Rattus rattus in Romania — nothing to repeal and no positive list to be added to. The only obstacle is administrative ambiguity: it is unconfirmed whether officials would read a captive-bred roof rat as a \"companion animal\" (no permit) or a \"wild animal\" under Legea 205/2004 Art. 9 (DSVSA authorization). That is exactly the kind of question an agency can settle with a written interpretation — there is no defective law for a legislature to fix. Importantly, ANSVSA (the veterinary authority) has already replied that roof-rat legality falls OUTSIDE its competence and formally redirected the matter to the Ministry of Environment, Waters and Forests. So the correct and verified touchpoint is the Ministry of Environment, via its Law-544/2001 public-information channel and/or its petition form, requesting a written classification. A legislative or public-comment approach would be the wrong tool here: there is no bill, no list, and no rulemaking window — the species simply has not been addressed in writing, and a clarifying letter to the right ministry is the lever.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Ministry of Environment, Waters and Forests (Ministerul Mediului, Apelor și Pădurilor) — petition form",
+          "type": "agency",
+          "form_url": "https://mmediu.ro/en/formular-petitie/",
+          "why": "The verified competent authority. ANSVSA stated roof-rat legality is outside its competence and redirected the question here. The official petition form is the cleanest written channel for a citizen to request a classification clarification and receive a logged reply."
+        },
+        {
+          "name": "Ministry of Environment, Waters and Forests — Law 544/2001 public-information request",
+          "type": "agency",
+          "email": "solicitari544@mmediu.ro",
+          "why": "The Ministry's official public-information (Law 544/2001) inbox, the exact address ANSVSA provided when redirecting. Use this to request a written statement on whether captive-bred R. rattus is a companion animal or a 'wild animal' under Legea 205/2004 Art. 9, and whether it appears on any protected or invasive list."
+        },
+        {
+          "name": "Ministry of Environment, Waters and Forests — petitions inbox",
+          "type": "agency",
+          "email": "petitii@mmediu.ro",
+          "why": "The Ministry's official petitions email (verified on the ministry's own contact page) — an alternate written channel if the public-information route does not produce a substantive classification answer."
+        }
+      ],
+      "template": {
+        "en": "Subject: Request for written classification — keeping captive-bred roof rats (Rattus rattus) as pets\n\nDear Ministry of Environment, Waters and Forests,\n\nI am writing to request a written clarification about the legal status of keeping the roof rat (Rattus rattus, șobolanul negru) as a companion animal in Romania. ANSVSA has indicated this question falls within your competence.\n\nThe animals in question are captive-bred, tame, kept indoors for their whole lives, and never released into the wild — exactly like the commonly kept fancy rat (Rattus norvegicus). As far as I can determine, R. rattus is not listed on the protected-species annexes of OUG 57/2007, nor on the EU invasive-species Union list, nor on Romania's national IAS list.\n\nMy questions are: (1) Is a captive-bred, tame Rattus rattus kept as a hobby treated as a companion animal under the same regime as the fancy rat (no special permit), or as a 'wild animal' requiring a county DSVSA authorization under Legea 205/2004 Art. 9? (2) Is R. rattus on any protected (OUG 57/2007) or national invasive-species list? (3) What documentation, if any, applies to intra-EU transport of captive-bred rats?\n\nA written answer would let responsible keepers comply with confidence. Thank you for your time.\n\nSincerely,\n[Your name]\n[Your contact details]",
+        "ro": "Subiect: Solicitare de clasificare scrisă — deținerea ca animale de companie a șobolanilor negri (Rattus rattus) crescuți în captivitate\n\nStimată / Stimate doamnă / domnule,\n\nVă adresez o solicitare de clarificare în scris privind statutul legal al deținerii șobolanului negru (Rattus rattus, șobolanul de casă) ca animal de companie în România. ANSVSA a indicat că această chestiune intră în competența dumneavoastră.\n\nAnimalele în cauză sunt crescute în captivitate, blânde, ținute în interior toată viața și niciodată eliberate în natură — întocmai ca șobolanul de companie crescut frecvent (Rattus norvegicus). Din câte am putut constata, R. rattus nu figurează pe anexele speciilor protejate din OUG 57/2007, nici pe lista Uniunii privind speciile invazive, nici pe lista națională a speciilor invazive.\n\nÎntrebările mele sunt: (1) Un exemplar de Rattus rattus crescut în captivitate și blând, deținut ca hobby, este tratat ca animal de companie în același regim ca șobolanul de companie (fără permis special), sau ca „animal sălbatic” care necesită o autorizație DSVSA județeană conform Legii 205/2004 art. 9? (2) Figurează R. rattus pe vreo listă a speciilor protejate (OUG 57/2007) sau pe lista națională a speciilor invazive? (3) Ce documente, dacă este cazul, sunt necesare pentru transportul intra-UE al șobolanilor crescuți în captivitate?\n\nUn răspuns în scris ar permite deținătorilor responsabili să se conformeze cu încredere. Vă mulțumesc pentru timpul acordat.\n\nCu stimă,\n[Numele dumneavoastră]\n[Datele dumneavoastră de contact]"
+      },
+      "confidence_notes": "Verified on 2026-06-09 via the Ministry's own website that the Ministry of Environment, Waters and Forests (mmediu.ro) is contactable through: the official petition form (https://mmediu.ro/en/formular-petitie/), the Law 544/2001 public-information email (solicitari544@mmediu.ro), and the petitions email (petitii@mmediu.ro) — all confirmed current on the ministry's contact pages. The redirection from ANSVSA to the Ministry of Environment is from the project's own research log (agency reply dated 2026-06-09); I did not independently re-verify that email exchange, but the Ministry being a competent authority for wildlife/species classification is consistent and its contact channels are independently verified. Note the form page states anonymous petitions are not considered, so a name/contact is required — reflected in the template placeholders. The underlying legal picture (R. rattus not on OUG 57/2007 annexes, not on EU Reg. 1143/2014 Union list, not on Romania's national IAS list; fancy rat kept freely; Legea 205/2004 Art. 9 'wild animal' authorization is the only ambiguity) is from prior project research dated 2026-06-07 and was not re-litigated against primary legal texts in this pass. No live bill, pending list, or open public-comment window was found, so time_sensitive is intentionally empty. This is a research aid, not legal advice.",
+      "local_lang": "ro"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "No Romanian law defines R. rattus as protected (not in OUG 57/2007 Annex 4A/4B) or invasive (not on the EU or national IAS list), so no prohibition applies; the fancy rat is kept freely as a companion animal with no permit. The unresolved point: Legea 205/2004 Art. 9 requires DSVSA authorization to keep a 'wild animal,' and it's unconfirmed whether authorities would class a captive-bred R. rattus as 'wild' or 'companion' (police guidance on 'wild animals' targets primates/big cats/raptors/venomous reptiles, not commensal rodents). Practically treated as a pet → likely no permit.",
+      "governing_law": "Legea 205/2004 Art. 9 (wild-animal keeping authorization); OUG 57/2007 Annex 4A/4B (R. rattus not listed).",
+      "source_ids": [
+        "ro-205-2004",
+        "ro-oug-57-2007",
+        "ro-politia"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "Hobby-scale breeding of standard domesticated rodents needs no licence; commercial breeding registers the unit with the county DSVSA (ANSVSA framework). Scientific/feeder breeding facilities need Legea 43/2014 authorization. If R. rattus were classed as a 'wild animal,' Legea 205/2004 Art. 9 authorization would apply. No blanket breeding ban; the barrier is classification ambiguity, not a prohibition.",
+      "governing_law": "Legea 205/2004 Art. 9; ANSVSA unit registration; Legea 43/2014 (scientific use).",
+      "source_ids": [
+        "ro-205-2004",
+        "ro-ansvsa-reg"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "Rodents (inc. rats) are sold openly on Romanian pet-trade platforms; commercial sale requires a DSVSA-registered pet-shop/breeder unit, while private gifting/adoption is subject only to general welfare law (Legea 205/2004). No specific prohibition on selling/giving R. rattus. Commercial wild-caught native fauna is barred, but captive-bred animals from registered operations are treated differently. Same classification dependency.",
+      "governing_law": "Legea 205/2004; ANSVSA unit registration.",
+      "source_ids": [
+        "ro-205-2004",
+        "ro-ansvsa-reg"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Intra-EU non-commercial movement of pet rodents (Reg. (EU) 576/2013 Annex I Part B; national rules apply pending EU Part-B harmonisation) needs owner documentation; commercial movement needs a veterinary health certificate. R. rattus isn't on the EU IAS list, so no IAS import bar. Internal transport of a lawfully-held companion animal is unrestricted (if classed 'wild,' an ANSVSA movement doc may apply). Third-country import needs border vet inspection + health cert + TRACES. Never release.",
+      "governing_law": "Reg. (EU) 576/2013 Annex I Part B; ANSVSA transport/import rules; Reg. (EU) 1143/2014 (R. rattus not listed).",
+      "source_ids": [
+        "ro-eu-576",
+        "ro-ansvsa-transport",
+        "ro-eu-1143"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Romania most likely treats a captive-bred roof rat like the fancy rat — a companion animal needing no permit — but it hasn't been confirmed whether authorities might class it as a 'wild animal' (which would need a county DSVSA authorization under Legea 205/2004 Art. 9). It's on no protected or invasive list. Confirm the classification with ANSVSA/the Ministry of Environment before acquiring. Never release a roof rat.",
+      "steps": [
+        "Ask ANSVSA whether captive-bred R. rattus is a companion animal (no permit) or a 'wild animal' (DSVSA authorization)"
+      ],
+      "forms": [],
+      "where_to_file": "ANSVSA / county DSVSA; Ministry of Environment",
+      "fees": "",
+      "source_ids": [
+        "ro-205-2004"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Is keeping/breeding/selling captive-bred Rattus rattus (șobolan negru) as a hobby classified as a 'companion animal' or a 'wild animal' under Legea 205/2004 and OUG 57/2007 — and does it need a DSVSA authorization or only standard companion-rodent registration? (2) Is R. rattus on the OUG 57/2007 protected annexes (4A/4B) or Romania's national IAS list, and is there any specific restriction on captive keeping/breeding? (3) What documentation is required for intra-EU (commercial and non-commercial) transport of captive-bred rats to/from Romania — is a DSVSA veterinary health certificate needed?",
+  "sources": [
+    {
+      "id": "ro-205-2004",
+      "title": "Legea 205/2004 privind protecția animalelor (republicată) — Art. 9 (wild-animal keeping authorization)",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/52646",
+      "authority": "Portal Legislativ (Romania)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ro-oug-57-2007",
+      "title": "OUG 57/2007 — regimul ariilor naturale protejate (Annex 4A/4B protected species; R. rattus not listed)",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/83289",
+      "authority": "Portal Legislativ",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ro-ansvsa-reg",
+      "title": "ANSVSA — Înregistrarea și autorizarea unităților (pet breeder/seller unit registration)",
+      "url": "https://www.ansvsa.ro/industrie-si-afaceri/inregistrare-si-autorizare/",
+      "authority": "ANSVSA",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ro-ansvsa-transport",
+      "title": "ANSVSA — Transport necomercial de animale (intra-EU companion-animal movement)",
+      "url": "http://www.ansvsa.ro/sanatate-bunastare-si-nutritie-animala/transport-animale/transport-necomercial-de-animale/",
+      "authority": "ANSVSA",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ro-politia",
+      "title": "Poliția Română — conditions for keeping wild animals (targets primates/big cats/raptors/venomous, not commensal rodents)",
+      "url": "https://politiaromana.ro/ro/utile/intrebari-frecvente/in-ce-conditii-pot-detine-animale-salbatice",
+      "authority": "Romanian Police",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ro-eu-576",
+      "title": "Regulation (EU) 576/2013 — non-commercial pet movement (Annex I Part B: rodents)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2013/576/2024-03-26/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ro-eu-1143",
+      "title": "Regulation (EU) 1143/2014 — Union IAS list (R. rattus not listed)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2014/1143/oj/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "ANSVSA (National Sanitary Veterinary & Food Safety Authority)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.ansvsa.ro/reclamatii-si-solicitari/",
+      "phone": "0372 184 979",
+      "primary": false,
+      "inquiry_language": "ro"
+    },
+    {
+      "agency": "Ministerul Mediului, Apelor și Pădurilor (Ministry of Environment, Waters and Forests)",
+      "role": "wildlife",
+      "email": "solicitari544@mmediu.ro",
+      "form_url": "https://mmediu.ro/en/formular-petitie/",
+      "phone": "",
+      "primary": true,
+      "inquiry_language": "ro"
+    }
+  ]
+}

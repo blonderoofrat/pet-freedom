@@ -1,0 +1,234 @@
+{
+  "jurisdiction": {
+    "id": "es",
+    "level": "country",
+    "name": "Spain",
+    "parent": null,
+    "country": "ES",
+    "iso": "ES",
+    "language": "es",
+    "inquiry_language": "es",
+    "slug": "spain",
+    "local_terms": [
+      "Rattus rattus",
+      "rata negra",
+      "rata campestre",
+      "rata de barco"
+    ]
+  },
+  "summary": "Earlier research wrongly treated the roof rat as banned nationwide; the environment ministry has now corrected that. On the Spanish mainland (and everywhere outside the Canary Islands) Rattus rattus is NOT a cataloged invasive species, so the Real Decreto 630/2013 Art. 7.1 possession/breeding/transport/trade ban does not apply there — keeping is instead governed by the 2023 animal-welfare law (Ley 7/2023) and its forthcoming companion-animal 'listado positivo' (positive list), which is still pending and not yet in force. In the Canary Islands, by contrast, R. rattus IS listed in the Catálogo Español de Especies Exóticas Invasoras for that territory alone, so there the Art. 7.1 ban (possess/breed/sell/transport live specimens) does apply. Commercial breeding or sale anywhere in Spain requires a núcleo zoológico (establishment) authorization from the relevant Comunidad Autónoma, and animal health/identification/movement of bred or traded animals falls under the Ministry of Agriculture. So the country-level reality is split: not prohibited on the mainland (welfare-regulated, positive list pending) but cataloged-and-prohibited in the Canaries.",
+  "last_reviewed": "2026-06-11",
+  "agency_confirmations": [
+    "Spain's environment ministry for ecological transition (biodiversity mailbox), written reply June 2026, corrected the prior nationwide-ban reading: Rattus rattus is included in the Catálogo Español de Especies Exóticas Invasoras EXCLUSIVELY for the case of the Canary Islands, not nationwide. The ministry also set out the competence split: invasive-species catalogues and exotic/wildlife matters sit with the environment ministry (natural heritage and biodiversity); the animal-welfare framework for companion animals is Ley 7/2023, with competence mainly at the social-rights/consumer ministry (which is also building the companion-animal positive list); animal health, identification, movement, and the sanitary conditions of breeding, trade and transport sit with the Ministry of Agriculture, Fisheries and Food; and authorization of núcleos zoológicos, breeding centres and establishment registries sits with the Comunidades Autónomas (regional governments). The practical effect: on the mainland R. rattus is not cataloged, so the Art. 7.1 ban does not reach it and keeping is permissible under the general welfare law pending the positive list; in the Canary Islands it is cataloged and the Art. 7.1 ban applies."
+  ],
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "positive_list",
+      "problem": "Spain's picture for the roof rat (Rattus rattus) is territorial, not a blanket ban — a point the environment ministry confirmed in writing in June 2026. The species is written into the Catálogo Español de Especies Exóticas Invasoras (Real Decreto 630/2013) ONLY for the Canary Islands; on the mainland and elsewhere it is not a cataloged invasive species, so the Article 7.1 possession/breeding/transport/trade ban does not reach it there. Mainland keeping is instead governed by the 2023 animal-welfare law (Ley 7/2023), under which the companion-animal 'listado positivo' (positive list) of species that may be kept as pets is still being written and is not yet in force. The live concern is what happens when that list takes effect: the law generally excludes catalogue-listed invasive species from the positive list, and because R. rattus is cataloged in one territory (the Canaries) it is an awkward edge case — a captive-bred domestic line that is perfectly legal to keep on the mainland today could be left off the national positive list by default unless the rulemaking treats it deliberately. So the barrier is not a current prohibition; it is the risk that a future list quietly closes the door that is open today.",
+      "ask": "Ask the ministry responsible for the Ley 7/2023 companion-animal positive list (social-rights/consumer) to ensure captive-bred Rattus rattus is INCLUDED on the listado positivo — or, failing inclusion, handled through registration and welfare conditions — so that a species which is lawful to keep on the mainland today remains keepable once the list takes effect. Concretely, ask the rulemaking to address the partially-cataloged edge case explicitly: because R. rattus is cataloged only for the Canary Islands and is not an invasive species on the mainland, its captive-bred, indoor, never-released lineages should not be swept out of the national positive list by the general 'no catálogo species' exclusion, which was designed for species cataloged across Spain. Separately, for keepers in the Canary Islands, ask the environment ministry about the formal exclusión (de-cataloguing) procedure under Article 64 of Ley 42/2007 and RD 630/2013 to remove captive-origin R. rattus from the catalogue for that territory.",
+      "branch_note": "Two distinct, correct levers — pick by territory and by question. (1) POSITIVE LIST = a RULEMAKING lever at the social-rights/consumer ministry (Dirección General de Derechos de los Animales), which owns the Ley 7/2023 'listado positivo' royal decree still in progress. The ask is inclusion of captive-bred R. rattus, with explicit treatment of the partial-catalogue edge case (cataloged only in the Canaries, not on the mainland). This is the primary lever because mainland keeping is otherwise already lawful and the only real future risk is exclusion-by-default from the positive list. (2) CANARY-ISLANDS DE-CATALOGUING = an AGENCY-PROCEDURE lever at the environment ministry (which owns the Catálogo de EEI). The formal exclusión procedure (Art. 64 Ley 42/2007 + RD 630/2013) is open to any citizen or organisation with scientific justification and is the route to lift the Art. 7.1 ban for the Canaries; it is secondary because it only matters for keepers in that territory. Authorization of breeding/sale establishments (núcleos zoológicos) is a separate Comunidad-Autónoma matter, and animal health/movement sits with the Ministry of Agriculture — neither is an advocacy barrier, just the ordinary permitting layer. There is NO front-desk 'clarification' that changes any of this, and the prior positive-list public-comment window is closed, so route the positive-list ask through the rulemaking ministry's mailbox (and consider a keeper-rights ally to carry the scientific case).",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Ministerio de Derechos Sociales, Consumo y Agenda 2030 — Dirección General de Derechos de los Animales (Ley 7/2023 listado positivo rulemaking)",
+          "type": "agency",
+          "form_url": "https://www.dsca.gob.es/es/consulta-publica/proyecto-real-decreto-se-desarrolla-listado-positivo-especies-domesticas-compania",
+          "why": "This is the ministry writing the Ley 7/2023 companion-animal positive list — the instrument that will decide, going forward, whether captive-bred R. rattus may be kept as a pet on the mainland once the list is in force. It is the correct office to ask that captive-bred R. rattus be INCLUDED on the positive list and that the partial-catalogue edge case (cataloged only in the Canaries) be resolved deliberately rather than by the default 'no catálogo species' exclusion. The prior public-comment window (17 Apr – 8 May 2026) is closed, so engage via the ministry's published rulemaking channel rather than as an open consultation."
+        },
+        {
+          "name": "Environment ministry — biodiversity sub-directorate (Catálogo Español de EEI): exclusión / de-cataloguing procedure for the Canary Islands listing",
+          "type": "agency",
+          "form_url": "https://sede.miteco.gob.es/portal/site/seMITECO/ficha-procedimiento?procedure_suborg_responsable=14&procedure_etiqueta_pdu=null&procedure_id=703&by=theme",
+          "email": "buzon-sgb@miteco.es",
+          "why": "This office owns the invasive-species catalogue and confirmed in June 2026 that R. rattus is cataloged ONLY for the Canary Islands. Its formal 'Catalogación o descatalogación de taxones' procedure (Art. 64 Ley 42/2007 + RD 630/2013) is open to any citizen or organisation to request exclusión (de-listing) with scientific justification. This is the correct lever ONLY for the Canaries, where the Art. 7.1 ban actually applies — it is irrelevant on the mainland, where the species is not cataloged."
+        },
+        {
+          "name": "Federación FAUNA — keeper/breeder rights federation (advocacy ally, not a government body)",
+          "type": "agency",
+          "form_url": "https://federacionfauna.org",
+          "why": "Spain's principal keeper/breeder federation, active in the listado-positivo rulemaking. As an organisation it can carry the scientific/husbandry case for INCLUDING captive-bred R. rattus on the positive list (and, for Canaries keepers, a de-cataloguing petition) more effectively than a lone keeper. Engage as an ally to the rulemaking ask, not as a substitute for it. (Do NOT route this to the conservation-aligned Coalición para el Listado Positivo.)"
+        }
+      ],
+      "template": {
+        "en": "To: Dirección General de Derechos de los Animales (Ministerio de Derechos Sociales, Consumo y Agenda 2030)\nRe: Treatment of captive-bred Rattus rattus in the Ley 7/2023 companion-animal positive list (listado positivo)\n\nDear Sir or Madam,\n\nI am writing as a member of the public who cares about the welfare of domesticated roof rats (Rattus rattus). I understand from the environment ministry that R. rattus is included in the Catálogo Español de Especies Exóticas Invasoras only for the case of the Canary Islands, and is not a cataloged invasive species on the mainland — where keeping it is currently governed by Ley 7/2023 rather than by any catalogue ban.\n\nMy concern is the forthcoming companion-animal positive list. Because the law generally excludes catalogue-listed species from the positive list, a species that is cataloged in only one territory (the Canary Islands) risks being left off the national list by default, even though on the mainland it is not an invasive species and is lawful to keep today.\n\nI would respectfully ask: (1) that captive-bred Rattus rattus be INCLUDED on the listado positivo, so that a domesticated, indoor, never-released line that is keepable on the mainland today remains keepable once the list is in force; and (2) that the rulemaking address the partial-catalogue situation explicitly, distinguishing the Canary-Islands listing from mainland status, rather than applying the general 'no catálogo species' exclusion to a species that is invasive in only one region. If full inclusion is not possible, please advise whether captive-bred lineages could instead be handled through registration and welfare conditions.\n\nThank you for your time and for your work on animal welfare.\n\nSincerely,\n[Your name]\n[Your town / province]\n[Date]",
+        "es": "A: Dirección General de Derechos de los Animales (Ministerio de Derechos Sociales, Consumo y Agenda 2030)\nAsunto: Tratamiento de la Rattus rattus criada en cautividad en el listado positivo de animales de compañía de la Ley 7/2023\n\nEstimados señores:\n\nLes escribo como ciudadano preocupado por el bienestar de las ratas domésticas (Rattus rattus). Según me ha indicado el ministerio competente en medio ambiente, la R. rattus está incluida en el Catálogo Español de Especies Exóticas Invasoras únicamente para el caso de las Islas Canarias, y no es especie catalogada invasora en la península, donde su tenencia se rige por la Ley 7/2023 y no por ninguna prohibición del Catálogo.\n\nMi preocupación es el futuro listado positivo de animales de compañía. Dado que la ley excluye con carácter general del listado positivo a las especies catalogadas, una especie catalogada en un solo territorio (las Islas Canarias) corre el riesgo de quedar fuera del listado nacional por defecto, pese a que en la península no es una especie invasora y hoy su tenencia es lícita.\n\nLes ruego respetuosamente: (1) que la Rattus rattus criada en cautividad se INCLUYA en el listado positivo, de modo que un linaje doméstico, mantenido en el interior del hogar y nunca liberado, que hoy puede tenerse en la península, siga pudiendo mantenerse cuando el listado entre en vigor; y (2) que el desarrollo reglamentario aborde de forma expresa la situación de catalogación parcial, distinguiendo la inclusión en Canarias del estatus peninsular, en lugar de aplicar la exclusión general de 'especies catalogadas' a una especie que es invasora en una sola región. Si la inclusión plena no fuera posible, les ruego me indiquen si los linajes criados en cautividad podrían regularse mediante registro y condiciones de bienestar.\n\nLes agradezco su tiempo y la labor que realizan en favor del bienestar animal.\n\nAtentamente,\n[Su nombre]\n[Su localidad / provincia]\n[Fecha]"
+      },
+      "confidence_notes": "Re-evaluated June 2026 after the environment ministry's written correction. (1) The central prior error — that R. rattus is cataloged and banned NATIONWIDE under RD 630/2013 Art. 7.1 — is now corrected by the agency: the species is in the Catálogo Español de EEI EXCLUSIVELY for the Canary Islands, so the Art. 7.1 possession/breeding/transport/trade ban applies only there, not on the mainland. (2) Competence split confirmed by the agency: invasive catalogues = environment ministry; companion-animal welfare = Ley 7/2023 under the social-rights/consumer ministry (which owns the positive-list rulemaking); animal health/identification/movement/trade-sanitary = Ministry of Agriculture; núcleos zoológicos / breeding-centre authorization = Comunidades Autónomas. (3) buzon-sgb@miteco.es is the official published environment-ministry biodiversity mailbox and is now ANSWERED on this question. (4) The Ley 7/2023 positive list is still PENDING / not in force; its public-comment window ran 17 Apr – 8 May 2026 and is CLOSED, so time_sensitive is left empty (no open window to ride). (5) The advocacy ask is therefore re-pointed from 'de-catalogue nationwide' (moot) to (a) INCLUSION of captive-bred R. rattus on the forthcoming positive list, addressing the partial-catalogue edge case, and (b) Canary-Islands de-cataloguing for keepers in that territory. RESIDUAL UNCERTAINTY: exactly how the positive-list rulemaking will treat a species cataloged in only one territory (the general 'no catálogo species' exclusion was written for nationwide listings) is genuinely open and is why advocacy.flag stays true; this should be confirmed with the rulemaking ministry. Federación FAUNA is an NGO ally, not a government body (tagged 'agency' only to satisfy the schema enum; non-governmental status stated in its 'why'). This is a research aid, not legal advice.",
+      "local_lang": "es"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "On the Spanish mainland (and outside the Canary Islands), R. rattus is NOT in the Catálogo Español de EEI, so the RD 630/2013 Art. 7.1 possession ban does not apply and keeping is not prohibited; it is instead governed by the general animal-welfare framework of Ley 7/2023, with the companion-animal positive list still pending and not yet in force. In the Canary Islands, by contrast, R. rattus IS cataloged, so there Art. 7.1 prohibits possession of live specimens. The country-level reality is therefore 'legal on the mainland, prohibited in the Canaries'; confidence is medium because the forthcoming positive list could change mainland keepability once it takes effect.",
+      "governing_law": "RD 630/2013 Art. 7.1 + Catálogo (BOE-A-2013-8565) — applies to R. rattus ONLY in the Canary Islands; Ley 7/2023 (BOE-A-2023-7936) welfare framework + pending listado positivo (mainland); Ley 42/2007 (framework).",
+      "source_ids": [
+        "es-rd-630-2013",
+        "es-miteco-ficha",
+        "es-ley-7-2023"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "On the mainland R. rattus is not cataloged, so the RD 630/2013 Art. 7.1 breeding ban does not apply there; breeding for sale or as an establishment requires a núcleo zoológico authorization from the relevant Comunidad Autónoma (the regional government that authorizes breeding centres and establishment registries), and animal health/identification of bred animals falls under the Ministry of Agriculture. In the Canary Islands, where R. rattus IS cataloged, Art. 7.1 prohibits reproduction of live specimens, so breeding there is barred. Country-level best fit is legal_with_permit (regional núcleo-zoológico authorization on the mainland); confidence medium pending the positive-list outcome.",
+      "governing_law": "RD 630/2013 Art. 7.1 (BOE-A-2013-8565) — Canaries only; Comunidad Autónoma núcleo-zoológico authorization (establishment/breeding-centre registry); Ley 7/2023 (BOE-A-2023-7936); animal-health rules under the Ministry of Agriculture; Ley 42/2007.",
+      "source_ids": [
+        "es-rd-630-2013",
+        "es-ley-7-2023"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "On the mainland R. rattus is not cataloged, so the RD 630/2013 Art. 7.1 trade/commerce ban does not apply there; selling or commercially supplying live animals requires a núcleo zoológico authorization from the Comunidad Autónoma, with animal-health/identification/movement conditions under the Ministry of Agriculture, and welfare/transfer requirements under Ley 7/2023. In the Canary Islands, where the species IS cataloged, Art. 7.1 prohibits 'tráfico y comercio de ejemplares vivos,' so sale/transfer there is barred. Private free rehoming on the mainland is not banned but is subject to the Ley 7/2023 welfare framework; commercial sale needs the establishment authorization — hence legal_with_permit at country level.",
+      "governing_law": "RD 630/2013 Art. 7.1 (BOE-A-2013-8565) — Canaries only; Comunidad Autónoma núcleo-zoológico authorization; Ley 7/2023 (BOE-A-2023-7936); animal-health/movement rules under the Ministry of Agriculture.",
+      "source_ids": [
+        "es-rd-630-2013",
+        "es-ley-7-2023"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "On the mainland R. rattus is not cataloged, so the RD 630/2013 Art. 7.1 transport ban does not apply there; movement of bred or traded animals is instead subject to the animal-health, identification and sanitary-movement rules administered by the Ministry of Agriculture (and ordinary welfare-in-transport requirements). In the Canary Islands, where the species IS cataloged, Art. 7.1 prohibits 'transporte' of live specimens. R. rattus is not on the EU Union list, so there is no EU-level border ban; non-commercial pet movement within the EU follows Reg. (EU) 576/2013, but the Canary-Islands catalogue prohibition takes effect on Canarian soil. Country-level best fit is legal_with_permit (sanitary/movement conditions on the mainland); never release.",
+      "governing_law": "RD 630/2013 Art. 7.1 (BOE-A-2013-8565) — Canaries only; animal-health/identification/movement rules under the Ministry of Agriculture; Reg. (EU) 576/2013; Reg. (EU) 1143/2014 (R. rattus not on Union list).",
+      "source_ids": [
+        "es-rd-630-2013",
+        "es-eu-1143"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Territorial split. CANARY ISLANDS: R. rattus is a cataloged invasive species (RD 630/2013 Art. 7.1), so possessing, breeding, selling/giving or transporting a live one is prohibited there. MAINLAND (and elsewhere outside the Canaries): R. rattus is NOT cataloged, so it is not banned — keeping is governed by Ley 7/2023 (welfare; companion-animal positive list still pending/not in force), commercial breeding or sale needs a Comunidad-Autónoma núcleo zoológico authorization, and animal health/identification/movement fall under the Ministry of Agriculture. Never release anywhere.",
+      "steps": [
+        "Mainland: keep under the Ley 7/2023 welfare framework; watch for the forthcoming companion-animal positive list",
+        "Mainland commercial breeding/sale: obtain a núcleo zoológico authorization from the relevant Comunidad Autónoma; meet Ministry of Agriculture animal-health/movement rules",
+        "Canary Islands: do not acquire, breed, sell or move R. rattus (cataloged invasive, Art. 7.1 ban)",
+        "If advocating: ask the positive-list rulemaking ministry to include captive-bred R. rattus; for the Canaries, the formal exclusión/de-cataloguing procedure"
+      ],
+      "forms": [],
+      "where_to_file": "Comunidad Autónoma (núcleo zoológico authorization); environment ministry — biodiversity (Catálogo de EEI / Canaries de-cataloguing); social-rights/consumer ministry (positive list)",
+      "fees": "",
+      "source_ids": [
+        "es-rd-630-2013",
+        "es-ley-7-2023"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Confirmado por el ministerio (junio 2026): la Rattus rattus está en el Catálogo Español de EEI EXCLUSIVAMENTE para el caso de las Islas Canarias; por tanto la prohibición del art. 7.1 (tenencia/cría/transporte/comercio) solo aplica allí, no en la península. (2) En la península, ¿se confirma que la tenencia se rige por la Ley 7/2023 (bienestar) y que la cría/venta comercial requiere autorización de núcleo zoológico de la Comunidad Autónoma, con sanidad/movimiento bajo el Ministerio de Agricultura? (3) En el desarrollo del listado positivo (Ley 7/2023, aún pendiente), ¿cómo se tratará una especie catalogada en un solo territorio (Canarias)? ¿Se incluirá a la R. rattus criada en cautividad o quedará excluida por la regla general de 'especies catalogadas'?",
+  "sources": [
+    {
+      "id": "es-rd-630-2013",
+      "title": "Real Decreto 630/2013 — Catálogo Español de Especies Exóticas Invasoras (Art. 7.1 prohibitions; R. rattus cataloged ONLY for the Canary Islands per MITECO June 2026)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565",
+      "authority": "BOE / Gobierno de España",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "es-miteco-ficha",
+      "title": "MITECO — Ficha de especie Rattus rattus (Catálogo Español de EEI)",
+      "url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/rattus_rattus_2013_tcm30-69972.pdf",
+      "authority": "MITECO",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "es-ley-7-2023",
+      "title": "Ley 7/2023 de protección de los derechos y el bienestar de los animales (companion-animal welfare framework; positive-list mandate, list still pending/not in force)",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936",
+      "authority": "BOE / Gobierno de España",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "es-miteco-ecommerce",
+      "title": "MITECO — Código de Conducta sobre comercio electrónico de flora y fauna exótica invasora (reaches cataloged species only — i.e. R. rattus in the Canaries)",
+      "url": "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/codigocomercioelectronicoes_tcm30-537685.pdf",
+      "authority": "MITECO",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "es-positive-consulta",
+      "title": "Proyecto de Real Decreto — listado positivo de animales de compañía (rulemaking pending; public-information window 17 Apr – 8 May 2026 now closed)",
+      "url": "https://www.dsca.gob.es/es/consulta-publica/proyecto-real-decreto-se-desarrolla-listado-positivo-especies-domesticas-compania",
+      "authority": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "es-eu-1143",
+      "title": "Regulation (EU) 1143/2014 + 2025/1422 update — Union list (R. rattus NOT listed; Spain's national catálogo applies only in the Canary Islands)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2014/1143/oj/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Environment ministry — biodiversity sub-directorate (Catálogo Español de EEI)",
+      "role": "wildlife",
+      "email": "buzon-sgb@miteco.es",
+      "form_url": "",
+      "phone": "",
+      "primary": true,
+      "inquiry_language": "es"
+    },
+    {
+      "agency": "Ministerio de Derechos Sociales, Consumo y Agenda 2030 — Dirección General de Derechos de los Animales (Ley 7/2023 listado positivo)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.dsca.gob.es/es/consulta-publica/proyecto-real-decreto-se-desarrolla-listado-positivo-especies-domesticas-compania",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "es"
+    },
+    {
+      "agency": "Ministerio de Agricultura, Pesca y Alimentación — animal health / identification / movement",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.mapa.gob.es",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "es"
+    },
+    {
+      "agency": "Comunidades Autónomas (regional governments) — núcleos zoológicos / breeding-centre authorization",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "es"
+    },
+    {
+      "agency": "Federación FAUNA — keeper/breeder rights federation (advocacy ally)",
+      "role": "ngo",
+      "email": "federate@federacionfauna.org",
+      "form_url": "https://federacionfauna.org",
+      "phone": "+34 688 919 811",
+      "primary": false,
+      "inquiry_language": "es"
+    }
+  ]
+}

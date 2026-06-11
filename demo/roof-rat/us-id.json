@@ -1,0 +1,167 @@
+{
+  "jurisdiction": {
+    "id": "us-id",
+    "level": "state",
+    "name": "Idaho",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-ID",
+    "language": "en",
+    "slug": "idaho",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Idaho is currently legal for the roof rat — but it's the state to watch. R. rattus is not on Idaho's 'deleterious exotic animal' list (IDAPA 02.04.27), which is the rule that bans high-risk exotics, so keeping, breeding, and selling/giving a captive-bred roof rat is legal with no Dept of Agriculture possession permit. Importing animals into Idaho requires a Certificate of Veterinary Inspection (and the deleterious-animal import ban doesn't reach R. rattus). ⚠️ Advocacy watch: in the 2026 session, Idaho's Senate passed S1271 — the 'Rodents of Unusual Size Act' — which would have explicitly banned possessing roof rats (and several other rodents); it DIED in the House (failed 32–38). It can return in 2027, so Idaho keepers should monitor the legislature and be ready to testify.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "legislative_watch",
+      "time_sensitive": "Watch for a 2027 successor to Senate Bill S1271 — and act when it is introduced, before the committee hearing.",
+      "problem": "Keeping a domesticated roof rat is currently legal in Idaho. But in 2026, Senate Bill S1271 (the “Rodents of Unusual Size Act”) would have added roof rats to the state’s prohibited list; it passed the Senate and failed only narrowly in the House (32–38), so a successor bill could return.",
+      "ask": "Ask your Idaho state legislators to oppose any future bill that bans privately kept, captive-bred roof rats, and to distinguish domesticated pet <em>Rattus rattus</em> from wild pest populations.",
+      "branch_note": "This is a <em>law-as-written</em> question, not a bureaucratic one. The threat is a future statute, so the people who matter are your elected Senator and Representative (and testifying when a bill is in committee). Writing a state agency will not stop a bill.",
+      "targets": [
+        {
+          "name": "Find &amp; write your Idaho State Senator and Representative",
+          "type": "legislature",
+          "form_url": "https://legislature.idaho.gov/legislators/whosmylegislator/",
+          "why": "They cast the votes on any ban — S1271 was decided here, 32–38 in the House."
+        },
+        {
+          "name": "House &amp; Senate committees that hear these bills",
+          "type": "legislature",
+          "form_url": "https://legislature.idaho.gov/sessioninfo/2026/standingcommittees/",
+          "why": "Bills are heard in committee first; signing up to testify there is high-leverage."
+        }
+      ],
+      "template": {
+        "en": "Dear Senator / Representative [name],\n\nI am a constituent in [town]. I'm writing to ask you to oppose any bill that would ban privately kept, captive-bred roof rats (Rattus rattus) as pets, such as the 2026 \"Rodents of Unusual Size Act\" (S1271).\n\nDomesticated, captive-bred roof rats are not the wild pests the bill is aimed at. They are kept in cages indoors, never released, and are no more an agricultural threat than the fancy pet rats Idahoans already keep legally. A ban would punish responsible pet owners without affecting wild populations.\n\nPlease distinguish domesticated pet R. rattus from wild pests in any future legislation, and vote against a blanket ban.\n\nThank you for your time,\n[Your name, town]"
+      }
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Idaho prohibits possession of 'deleterious exotic animals' listed in IDAPA 02.04.27 (admin rule under Idaho Code §25-3900 et seq.); Rattus rattus is NOT on that list, so no Dept of Agriculture possession permit is required to keep a captive-bred roof rat. (Idaho Fish & Game governs native wildlife, not pet rodents.) Currently legal — but see the 2026 S1271 advocacy watch.",
+      "governing_law": "Idaho Code §25-3900 et seq.; IDAPA 02.04.27 (deleterious exotic animals — R. rattus not listed).",
+      "source_ids": [
+        "id-idapa-02-04-27",
+        "id-25-3900"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Because R. rattus isn't a deleterious exotic animal, no ISDA possession/propagation permit applies, and Idaho has no separate breeder-license regime for pet rodents (federal USDA/AWA may apply at commercial scale). Hobby breeding is legal.",
+      "governing_law": "IDAPA 02.04.27; Idaho Code §25-3900 et seq.",
+      "source_ids": [
+        "id-idapa-02-04-27"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No Idaho law restricts selling or giving away a non-deleterious pet rodent, and there's no state pet-dealer license reaching private rodent sales/rehoming. Sale and free rehoming of captive-bred R. rattus are legal at the state level.",
+      "governing_law": "IDAPA 02.04.27 (R. rattus not listed); (no ID pet-dealer licensing for rodents).",
+      "source_ids": [
+        "id-idapa-02-04-27"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Importing animals into Idaho generally requires a Certificate of Veterinary Inspection (IDAPA 02.04.21); the deleterious-exotic import ban doesn't reach R. rattus. Whether a CVI is enforced for owner-traveled pet rodents is unclear (small-pet leniency is common) — confirm with the State Vet before crossing. Intrastate transport is unregulated. Never release a roof rat.",
+      "governing_law": "IDAPA 02.04.21 (import/CVI); IDAPA 02.04.27 (deleterious — N/A to R. rattus).",
+      "source_ids": [
+        "id-idapa-02-04-21",
+        "id-idapa-02-04-27"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing into Idaho may require a Certificate of Veterinary Inspection (IDAPA 02.04.21); confirm whether owner-traveled pet rodents are exempt. No paperwork for in-state movement. Never release a roof rat.",
+      "steps": [
+        "Confirm pet-rodent import requirements with the ID State Veterinarian"
+      ],
+      "forms": [],
+      "where_to_file": "Idaho State Dept of Agriculture, Animal Industries",
+      "fees": "",
+      "source_ids": [
+        "id-idapa-02-04-21"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give"
+      ],
+      "summary": "⚠️ Legislative watch: 2026 Senate Bill S1271 ('Rodents of Unusual Size Act') would have banned possessing roof rats — it passed the Senate but failed the House (32–38). It could return in 2027. Idaho keepers should monitor the legislature and be ready to testify (captive-bred pet ≠ wild pest). Check local ordinances too.",
+      "steps": [
+        "Monitor the Idaho Legislature for a re-introduced rodent-ban bill (successor to S1271)"
+      ],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "id-s1271"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "id-idapa-02-04-27",
+      "title": "IDAPA 02.04.27 — Rules Governing Deleterious Exotic Animals (R. rattus not listed)",
+      "url": "https://adminrules.idaho.gov/rules/current/02/020427.pdf",
+      "authority": "Idaho State Dept of Agriculture",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "id-25-3900",
+      "title": "Idaho Code §25-3900 et seq. — Deleterious Exotic Animals (authorizing statute)",
+      "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH39/",
+      "authority": "Idaho Legislature",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "id-idapa-02-04-21",
+      "title": "IDAPA 02.04.21 — Rules Governing the Importation of Animals (CVI)",
+      "url": "https://adminrules.idaho.gov/rules/current/02/020421.pdf",
+      "authority": "Idaho State Dept of Agriculture",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "id-s1271",
+      "title": "Idaho Senate Bill S1271 (2026) — 'Rodents of Unusual Size Act' (passed Senate, failed House 32–38)",
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1271/",
+      "authority": "Idaho Legislature",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

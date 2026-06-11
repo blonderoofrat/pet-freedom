@@ -1,0 +1,167 @@
+{
+  "jurisdiction": {
+    "id": "jp",
+    "level": "country",
+    "name": "Japan",
+    "parent": null,
+    "country": "JP",
+    "iso": "JP",
+    "language": "en",
+    "slug": "japan",
+    "local_terms": [
+      "Rattus rattus",
+      "クマネズミ (kumanezumi)",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "In Japan, keeping and hobby-breeding a captive-bred roof rat is legal and unregulated federally: the species is deliberately NOT a 'Specified Animal' (特定動物, hazardous) and NOT a 'Designated Invasive Alien Species' (特定外来生物) — a 2005 expert committee chose to exclude it because it's too long-established to regulate. Commercial activity (breeding for profit, retail sale, exhibition, or large-scale free rehoming) triggers registration as a First-Class (or Second-Class) Animal Handling Business with facility/welfare standards. The big restriction is IMPORT: bringing a roof rat into Japan is de-facto prohibited for the public — the Ministry of Health requires imported rodents to have lived since birth in a foreign-government-designated biosecure facility (homes/hobby breeders don't qualify). Never release one.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Private possession needs no federal permit: R. rattus is not a 'Specified Animal' (特定動物 — that list targets primates, big carnivores, large/venomous reptiles, not rodents), and it is not a 'Designated Invasive Alien Species' (特定外来生物). The 2005 Ministry of the Environment expert committee deliberately excluded it (long-established via maritime trade; eradication-vs-pet distinction). Domestic keeping is treated like keeping a fancy rat or guinea pig.",
+      "governing_law": "Act on Welfare and Management of Animals (動物愛護管理法); Invasive Alien Species Act (外来生物法) — R. rattus not listed; Specified Animal list (rodents excluded).",
+      "source_ids": [
+        "jp-ias-list",
+        "jp-specified",
+        "jp-ias-committee"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Private breeding without intent to profit/advertise/distribute commercially is entirely outside the commercial animal-handling law. (Commercial-scale breeding triggers First-Class Animal Handling Business registration — see sell_give.)",
+      "governing_law": "Act on Welfare and Management of Animals (動物愛護管理法).",
+      "source_ids": [
+        "jp-handling"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Selling for profit (or breeding to sell) requires registration as a First-Class Animal Handling Business (第一種動物取扱業) with the prefecture, plus facility/caging/disclosure standards and an Animal Handling Manager. Giving animals away free to 'a large number of unspecified people' on a continuing basis requires Second-Class (第二種) notification. Occasional free rehoming to friends/family is unregulated.",
+      "governing_law": "Act on Welfare and Management of Animals — First-Class (第一種) & Second-Class (第二種) Animal Handling Business registration.",
+      "source_ids": [
+        "jp-handling",
+        "jp-second-class"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "DOMESTIC transport between prefectures is unregulated (subject only to carrier policies). IMPORT is de-facto prohibited for pets: under the Infectious Diseases Control Law's Animal Import Notification System, all live rodents need a health certificate from the EXPORTING government certifying the animal lived since birth in a government-designated disease-free facility — which homes and hobby breeders cannot obtain, so a pet roof rat cannot legally be imported. (R. rattus is not on the absolute-prohibition list, but the facility rule is an effective ban.) Export from Japan is legal with the destination country's health certificate (MAFF AQS). Never release.",
+      "governing_law": "Act on the Prevention of Infectious Diseases (感染症法) — Animal Import Notification System (MHLW); Domestic Animal Infectious Diseases Control Law (MAFF AQS) for export.",
+      "source_ids": [
+        "jp-import",
+        "jp-import-warning"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Commercial selling/breeding (for profit) = First-Class Animal Handling Business registration (第一種動物取扱業) with the prefecture: facility floor plans, cleanable escape-resistant enclosures, space to 'stand/lie/move' naturally, an Animal Handling Manager, and written species/sex/origin disclosure at transfer. Large-scale non-commercial giveaway = Second-Class (第二種) notification (penalty up to ¥300,000 for failing to notify).",
+      "steps": [
+        "Register as a First-Class Animal Handling Business before any commercial sale/breeding",
+        "Or file a Second-Class notification for large-scale free rehoming"
+      ],
+      "forms": [],
+      "where_to_file": "Prefectural government (animal welfare center / public health dept)",
+      "fees": "",
+      "source_ids": [
+        "jp-handling",
+        "jp-second-class"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a roof rat into Japan is effectively impossible for pet owners: imported rodents need an exporting-government health certificate proving the animal lived since birth in a government-DESIGNATED biosecure facility (homes/hobby breeders can't qualify). MHLW states such pets 'basically cannot be brought into Japan.'",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Ministry of Health, Labour and Welfare (quarantine station at port of entry)",
+      "fees": "",
+      "source_ids": [
+        "jp-import",
+        "jp-import-warning"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "jp-ias-list",
+      "title": "Designated Invasive Alien Species list — Ministry of the Environment (R. rattus NOT listed)",
+      "url": "https://www.env.go.jp/nature/intro/2outline/list.html",
+      "authority": "Japan Ministry of the Environment (MOE)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "jp-specified",
+      "title": "List of Specified Animals (特定動物) — rodents excluded",
+      "url": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/1903/pdf/19.pdf",
+      "authority": "Japan Ministry of the Environment (MOE)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "jp-ias-committee",
+      "title": "MOE Expert Group minutes (July 2005) — rationale for excluding R. rattus (established; Watase/Blakiston lines)",
+      "url": "https://www.env.go.jp/nature/intro/4document/data/sentei/mamm_bird04/ref03.pdf",
+      "authority": "Japan Ministry of the Environment (MOE)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "jp-handling",
+      "title": "Regulation of Animal Handling Business (動物取扱業の規制) — First-Class registration scope",
+      "url": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/1903/pdf/12.pdf",
+      "authority": "Japan Ministry of the Environment (MOE)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "jp-second-class",
+      "title": "Second-Class Animal Handling Business (第二種動物取扱業) — non-commercial large-scale transfer",
+      "url": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/r0210a/12_16.pdf",
+      "authority": "Japan Ministry of the Environment (MOE)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "jp-import",
+      "title": "Animal Import Notification System for rodents (designated-facility health certificate) — MHLW",
+      "url": "https://www.mhlw.go.jp/content/10900000/001152256.pdf",
+      "authority": "Japan Ministry of Health, Labour and Welfare (MHLW)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "jp-import-warning",
+      "title": "MHLW public warning — pet rodents 'basically cannot be brought into Japan'",
+      "url": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou18/dl/zoonosis_poster_other_2006.pdf",
+      "authority": "Japan Ministry of Health, Labour and Welfare (MHLW)",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

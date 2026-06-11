@@ -1,0 +1,230 @@
+{
+  "jurisdiction": {
+    "id": "us-ri",
+    "level": "state",
+    "name": "Rhode Island",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-RI",
+    "language": "en",
+    "slug": "rhode-island",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat",
+      "exotic wild animal"
+    ]
+  },
+  "summary": "Rhode Island is a clear species-not-domestication trap. Its regs (250-RICR-40-05-3) exempt ONLY the Norway rat (Rattus norvegicus) — naming it explicitly as a 'domestic animal' and on the Appendix A exempt list — and say nothing about Rattus rattus. By default (and by the doctrine 'expressing one excludes the other'), the roof rat is therefore an 'Exotic Wild Animal,' which is legal to keep but ONLY with a DEM Exotic Animal Possession Permit ($5 PER animal, a Rhode Island-licensed vet's commitment letter, and a DEM-approved written husbandry plan, plus escape-reporting and possible inspections). Rodents aren't in RI's flat-prohibited class (that's wild carnivores/primates), so a permit is obtainable. Breeding needs the possession permit for the parents; selling needs a Pet Shop License ($100 retail) or Dealer License (wholesale) — the hobby-breeder exemption is restricted to dogs and cats only. Import needs the possession permit approved ≥7 days ahead + a CVI counter-signed by the origin State Vet. So everything is legal-with-a-permit, and the disparity vs the fancy rat is the advocacy hook: petition DEM to add captive-bred R. rattus to the Appendix A exempt list.",
+  "last_reviewed": "2026-06-08",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "agency_species_trap",
+      "problem": "In Rhode Island, keeping a pet roof rat (Rattus rattus) is legal but burdensome, while keeping the common \"fancy rat\" (the Norway rat, Rattus norvegicus) is not regulated at all. The reason is a quirk of wording, not biology. The state's wild-animal rules (250-RICR-40-05-3) name only the Norway rat as a \"domestic animal\" and put only the Norway rat on the Appendix A list of exempt animals. Because the regulation names one rat and is silent on the other, the captive-bred roof rat falls by default into the catch-all \"Exotic Wild Animal\" category. That triggers a DEM Exotic Animal Possession Permit: $5 per animal, a Rhode Island-licensed veterinarian's commitment letter, and a DEM-approved written husbandry plan before you can legally own one, plus escape/death reporting and possible inspections. Two tame, captive-bred rats of nearly identical care needs are treated completely differently for no reason other than which species the list happened to mention.",
+      "ask": "Ask the Rhode Island Department of Environmental Management (DEM) to add the captive-bred/domesticated roof rat (Rattus rattus) to the Appendix A list of exempt animals in 250-RICR-40-05-3.17, so it is treated the same as the already-exempt Norway rat (Rattus norvegicus). This is a regulatory fix DEM can make itself through its normal rulemaking process — it does not require a new law. Point to states that already do this sensibly: New Jersey exempts the whole genus, and Wyoming names both rat species. Until then, individual keepers can still apply for the Exotic Animal Possession Permit through the DEM DAFE portal, and anyone who wants to be heard on a future rule change can subscribe to the Secretary of State's rulemaking notices to catch the next public-comment window.",
+      "branch_note": "This is an AGENCY problem, and the lever is the AGENCY (DEM) — not the legislature. The roof rat is NOT named on any statutory prohibited list; it is swept into the \"Exotic Wild Animal\" default purely because DEM's own regulation, 250-RICR-40-05-3, names only Rattus norvegicus as exempt (in the definitions and on the Appendix A list at 3.17) and is silent on Rattus rattus. Appendix A is a DEM-controlled regulatory list, not a fixed item in the General Laws, so DEM has the authority to amend it through ordinary rulemaking. We know this concretely: in the 2026 cycle (notice filed 04/13/2026, comment period through 05/20/2026, hearing mid-May) DEM proposed and processed amendments to this very Part — banning tegus and giant African land snails and clarifying dealer exemptions — proving the agency routinely revises this list itself. So the right move is a written request / administrative petition to DEM's Division of Fish & Wildlife (the unit that authors Appendix A) to add captive-bred R. rattus to the exempt list, reinforced by participating in DEM's annual public-comment window for this Part. Going to the General Assembly would be the wrong door: there is no statute to repeal that bans the roof rat — the fix lives in a regulation DEM writes and can change. (If DEM declines on invasive/structural-pest grounds, that is a policy judgment to escalate via the comment record, not a sign the lever was wrong.)",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "RI DEM — Division of Fish & Wildlife (general division inbox)",
+          "type": "agency",
+          "email": "DEM.DFW@dem.ri.gov",
+          "form_url": "https://dem.ri.gov/natural-resources-bureau/fish-wildlife",
+          "why": "This is the DEM division that authors and maintains the Appendix A exempt-animal list in 250-RICR-40-05-3. Send the request here to add captive-bred Rattus rattus to the exempt list. Verified as the official, non-personal division inbox on DEM's live Fish & Wildlife page (phone 401-789-0281)."
+        },
+        {
+          "name": "RI DEM — Division of Agriculture & Forest Environment (DAFE) Permit Portal",
+          "type": "agency",
+          "form_url": "https://dem.ri.gov/dafe-portal",
+          "why": "The official portal for filing the Exotic Animal Possession Permit (and Pet Shop/Dealer licenses) that a roof-rat keeper currently needs while the rule stands. Use it both to comply today and as the formal contact point for permit questions about the species."
+        },
+        {
+          "name": "RI Secretary of State — Rulemaking notice subscription",
+          "type": "public_comment",
+          "form_url": "https://rules.sos.ri.gov/subscriptions/subscribe/all",
+          "why": "The official statewide system to be notified the moment DEM opens its next public-comment window on 250-RICR-40-05-3. DEM amends this Part on roughly an annual cycle (it did so in 2026), so subscribing lets you submit a formal comment supporting the roof-rat exemption when the window reopens."
+        }
+      ],
+      "template": {
+        "en": "To the Rhode Island Department of Environmental Management, Division of Fish & Wildlife:\n\nI am writing to ask DEM to add the captive-bred, domesticated roof rat (Rattus rattus) to the Appendix A list of exempt animals in 250-RICR-40-05-3.17.\n\nUnder the current rule, the closely related Norway rat (Rattus rattus's cousin, Rattus norvegicus) is named as a domestic animal and listed as exempt, but the roof rat is not mentioned at all. Because of that silence, a tame pet roof rat defaults into the \"Exotic Wild Animal\" category and requires a possession permit, a veterinarian's commitment letter, and an approved husbandry plan — while an essentially identical pet Norway rat requires nothing. This difference comes from which species the list happens to name, not from any difference in the animals.\n\nThe roof rats kept as pets are captive-bred, hand-tamed, housed indoors in secure cages, and never released to the wild. They are kept the same way as the fancy rats already exempt under your rule. New Jersey exempts the entire genus and Wyoming names both rat species, so there is sound precedent for harmonizing the two.\n\nI respectfully ask the Division to add captive-bred Rattus rattus to the Appendix A exempt list, or to advise how I may petition for that amendment and when the next public-comment period on this Part will open.\n\nThank you for your time and consideration.\n\n[Your name]\n[Your town, Rhode Island]\n[Your email]"
+      },
+      "confidence_notes": "Verified on 2026-06-09 against live sources. Confirmed the species-trap structure from the prior research: 250-RICR-40-05-3 names only R. norvegicus as exempt and Appendix A (3.17) lists only the Norway rat (rules.sos.ri.gov; Cornell LII). Verified that DEM controls this list via rulemaking — DEM filed proposed amendments to this exact Part in the 2026 cycle (Secretary of State promulgation page: comment period 04/13/2026–05/20/2026, public hearing mid-May 2026; subject matter = tegus, giant African land snails, dealer-exemption clarification). That 2026 public-comment window is now CLOSED, so time_sensitive is intentionally left blank — no live window to act on today. DEM appears to run this rulemaking on a roughly annual cycle, so a future window is predictable but not yet announced; the Secretary of State subscription (rules.sos.ri.gov/subscriptions/subscribe/all) is the official way to be notified. Verified the name-free official Division of Fish & Wildlife inbox DEM.DFW@dem.ri.gov and phone 401-789-0281 directly on the live DEM Fish & Wildlife page — used instead of any individual employee's named email for OPSEC. The DAFE permit portal (dem.ri.gov/dafe-portal) is the permit-application channel per DEM's permit materials. Did NOT independently re-verify the per-pup $5 question or the Pet Shop License threshold for hobby sellers; those are open items in the underlying research and are not relied on for the advocacy ask here. This is a research aid, not legal advice.",
+      "local_lang": "en"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "R. rattus is not on RI's 'domestic animal' list or Appendix A exempt list (which name only R. norvegicus), so by default it's an 'Exotic Wild Animal' (250-RICR-40-05-3.6(A)(8)). Rodents are not in the flat-prohibited class (wild carnivores w/o rabies vaccine, primates), so possession is permissible WITH a DEM Exotic Animal Possession Permit: $5 per specimen (one application per animal), a RI-licensed veterinarian's commitment letter, and a DEM-approved written husbandry plan secured BEFORE the permit issues; plus escape/death reporting and possible unannounced inspections (DEM has discretion to deny). Keeping without the permit = 'contraband' (seizure). The Norway rat needs none of this — the disparity is the advocacy point.",
+      "governing_law": "250-RICR-40-05-3.6 (definitions), 3.7, 3.9, 3.11 (Exotic Animal Possession Permit); Appendix A 3.17 (exempts only R. norvegicus); R.I. Gen. Laws ch. 4-18.",
+      "source_ids": [
+        "ri-ricr-3",
+        "ri-appendixA",
+        "ri-exotic-app",
+        "ri-ch418"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Breeding requires the Exotic Animal Possession Permit to legally hold the parent animals; commercial propagation for sale additionally requires a Pet Shop License (retail) or Dealer License (wholesale). Critically, RI's coveted 'hobby breeder' exemption (R.I. Gen. Laws §4-19-2) is restricted to DOGS AND CATS — there is no hobby exemption for rodents, so even small-scale home breeding of R. rattus for sale is treated as operating a Pet Shop. (Open: whether DEM requires a separate $5 possession application for each unweaned pup before transfer — see inquiry.)",
+      "governing_law": "250-RICR-40-05-3.11 (possession permit); R.I. Gen. Laws ch. 4-19 §§4-19-2 (no rodent hobby exemption); 250-RICR-40-05-4.",
+      "source_ids": [
+        "ri-ricr-3",
+        "ri-ch419",
+        "ri-petshop-app"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Commercial RETAIL sale to the public requires a Pet Shop License ($100/yr); WHOLESALE requires a Dealer License — the rodent seller can't use the dog/cat hobby exemption (§4-19-2). Even private, non-commercial transfer requires DEM authorization, and the RECIPIENT must independently obtain their own Exotic Animal Possession Permit before taking custody (permits are non-transferable). A pet shop in good standing can hold a species-level 'resale permit' (250-RICR-40-05-3.8) instead of per-animal permits, but the buyer still needs their own.",
+      "governing_law": "R.I. Gen. Laws §4-19-2(d) (Pet Shop), §4-19-2(12) (Dealer); 250-RICR-40-05-3.11(C) (non-transferable; recipient permit); 3.8 (resale permit).",
+      "source_ids": [
+        "ri-ch419",
+        "ri-ricr-3",
+        "ri-petshop-app"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "IMPORT: you cannot just drive a roof rat into RI — the Exotic Animal Possession Permit application must reach DEM at least 7 days before shipment, accompanied by a Certificate of Veterinary Inspection from a federally-accredited vet in the origin state, COUNTER-SIGNED by the origin State Veterinarian, declaring freedom from infectious/zoonotic disease; DEM approves the point of entry and may impose case-by-case quarantine (R.I. Gen. Laws ch. 4-18). INTRASTATE: the permit is tied to the inspected/approved location and is non-transferable, so even moving the animal to a new RI address needs DEM written permission. Never release (escape must be reported immediately).",
+      "governing_law": "R.I. Gen. Laws §4-18-3, §4-18-10; 250-RICR-40-05-3.11(A) (7-day pre-approval + counter-signed CVI + quarantine).",
+      "source_ids": [
+        "ri-ch418",
+        "ri-ricr-3"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Keeping a roof rat in RI requires a DEM Exotic Animal Possession Permit: $5 PER animal (one application each), a RI-licensed vet's commitment letter, and a DEM-approved written husbandry plan BEFORE issuance; escape/death must be reported; possible inspections. To IMPORT: file the permit application ≥7 days before shipment + a CVI counter-signed by the origin State Vet; DEM sets entry point + possible quarantine. Apply via the DAFE Permit Portal. Never release.",
+      "steps": [
+        "Line up a RI-licensed vet willing to give a commitment letter for ongoing DEM-required testing",
+        "Write a husbandry plan (enclosure/diet/enrichment) for DEM approval",
+        "File an Exotic Animal Possession Permit application ($5/animal) via the DAFE portal — ≥7 days before any import, with a counter-signed CVI"
+      ],
+      "forms": [
+        {
+          "name": "Exotic Animal Possession Permit Application",
+          "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/agriculture/documents/exoticapp.pdf"
+        }
+      ],
+      "where_to_file": "RI DEM — Division of Agriculture & Forest Environment (DAFE) Permit Portal",
+      "fees": "$5 per animal (possession); $100/yr Pet Shop License (to sell)",
+      "source_ids": [
+        "ri-exotic-app",
+        "ri-ricr-3"
+      ]
+    },
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give",
+        "breed"
+      ],
+      "summary": "Selling roof rats (or breeding them for sale) requires a Pet Shop License ($100/yr retail) or Dealer License (wholesale) — RI's hobby-breeder exemption is for dogs/cats ONLY, so it does not cover rodents. Buyers must each obtain their own possession permit.",
+      "steps": [
+        "For any sale/commercial breeding: obtain a Pet Shop License (retail) or Dealer License (wholesale) from DEM"
+      ],
+      "forms": [
+        {
+          "name": "Pet Shop License Application",
+          "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/agriculture/documents/petshopapp.pdf"
+        }
+      ],
+      "where_to_file": "RI DEM — DAFE",
+      "fees": "$100/yr (Pet Shop)",
+      "source_ids": [
+        "ri-ch419",
+        "ri-petshop-app"
+      ]
+    }
+  ],
+  "inquiry_focus": "(DEM Fish & Wildlife — David Kalb) Is the Division currently reviewing, or would it consider, an administrative petition to add captive-bred/domesticated Rattus rattus to the Appendix A list of exempt exotic animals (250-RICR-40-05-3.17), harmonizing it with the already-exempt Norway rat (Rattus norvegicus) — or does it view the roof rat as too high a structural-pest/invasive risk to deregulate? (DEM DAFE Animal Health) Does a private individual who breeds and occasionally sells captive-bred R. rattus from home need the $100 Pet Shop License (given §4-19-2(d)'s home-breeding exemption covers only dogs/cats), and must they file a separate $5 possession-permit application for every unweaned pup before sale?",
+  "sources": [
+    {
+      "id": "ri-ricr-3",
+      "title": "250-RICR-40-05-3 — Importation & Possession of Wild Animals (§3.6 definitions; §3.11 Exotic Animal Possession Permit; only R. norvegicus 'domestic')",
+      "url": "https://rules.sos.ri.gov/regulations/part/250-40-05-3",
+      "authority": "RI Dept of Environmental Management",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "ri-appendixA",
+      "title": "250-RICR-40-05-3.17 Appendix A — Exempt Exotic Animals (lists Norway Rat (R. norvegicus); R. rattus NOT listed)",
+      "url": "https://www.law.cornell.edu/regulations/rhode-island/250-RICR-40-05-3.17",
+      "authority": "RI DEM (via Cornell LII)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "ri-ch418",
+      "title": "R.I. Gen. Laws ch. 4-18 — Importation of Wild Animals (7-day pre-approval, CVI, quarantine, penalties)",
+      "url": "https://law.justia.com/codes/rhode-island/title-4/chapter-4-18/",
+      "authority": "Rhode Island General Assembly",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "ri-ch419",
+      "title": "R.I. Gen. Laws ch. 4-19 — Animal Care (Pet Shop/Dealer licenses; hobby exemption dogs/cats only; 'Animal' includes rodent)",
+      "url": "https://law.justia.com/codes/rhode-island/title-4/chapter-4-19/",
+      "authority": "Rhode Island General Assembly",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "ri-exotic-app",
+      "title": "Exotic Animal Possession Permit Application ($5/specimen; husbandry plan; vet commitment)",
+      "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/agriculture/documents/exoticapp.pdf",
+      "authority": "RI DEM Division of Agriculture",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "ri-petshop-app",
+      "title": "Pet Shop License Application ($100/yr; 'Animal' includes rodent; home-breeding exemption = canine/feline only)",
+      "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/agriculture/documents/petshopapp.pdf",
+      "authority": "RI DEM Division of Agriculture",
+      "accessed": "2026-06-08"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "RI DEM — Division of Fish & Wildlife (species classification / Appendix A)",
+      "role": "wildlife",
+      "email": "David.Kalb@dem.ri.gov",
+      "form_url": "https://dem.ri.gov/dafe-portal",
+      "phone": "401-789-0281",
+      "primary": true
+    },
+    {
+      "agency": "RI DEM — Division of Agriculture & Forest Environment (DAFE), Animal Health (State Veterinarian)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://dem.ri.gov/dafe-portal",
+      "phone": "401-222-2781",
+      "primary": false
+    }
+  ]
+}

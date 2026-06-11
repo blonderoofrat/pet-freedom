@@ -1,0 +1,130 @@
+{
+  "jurisdiction": {
+    "id": "us-mn",
+    "level": "state",
+    "name": "Minnesota",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-MN",
+    "language": "en",
+    "slug": "minnesota",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Minnesota is permissive for the roof rat. Its 'regulated animals' law (Minn. Stat. §346.155) targets only big cats, bears, and primates — not rodents — and DNR rule Minn. R. 6216.0270 affirmatively classifies BOTH Rattus rattus and Rattus norvegicus as 'unregulated nonnative species,' outside the invasive-species controls of ch. 84D. So keeping, breeding, and selling/giving a captive-bred roof rat needs no state permit. The one requirement is animal-health: importing a mammal needs a Certificate of Veterinary Inspection (confirm the pet-rodent application with the Board of Animal Health). Never release one; check local ordinances.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Minn. Stat. §346.155 ('regulated animals') covers only Felidae (non-domestic cats), bears, and nonhuman primates — no rodents — and Minn. R. 6216.0270 explicitly lists R. rattus and R. norvegicus as 'unregulated nonnative species' not subject to ch. 84D. No DNR permit is required to keep one.",
+      "governing_law": "Minn. Stat. §346.155; Minn. R. 6216.0270; Minn. Stat. ch. 84D.",
+      "source_ids": [
+        "mn-346-155",
+        "mn-6216-0270"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Minnesota's commercial-breeder licensing (Minn. Stat. §§347.58–347.60) covers dogs and cats only; no state license reaches rodent breeders. R. rattus is 'unregulated nonnative,' so ch. 84D propagation bans don't apply.",
+      "governing_law": "Minn. Stat. §§347.58–347.60 (dogs/cats); Minn. R. 6216.0270.",
+      "source_ids": [
+        "mn-6216-0270"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Pet-dealer protections (Minn. Stat. §325F.791) apply to dogs/cats; no state dealer license is required for rodents. The pet-rodent care standards (Minn. Stat. §346.41) bind commercial facilities, not private breeders rehoming animals.",
+      "governing_law": "Minn. Stat. §325F.791 (dogs/cats); §346.41 (commercial facilities); Minn. R. 6216.0270.",
+      "source_ids": [
+        "mn-6216-0270"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Intrastate transport is unregulated for an unregulated-nonnative species. For IMPORT, Minn. R. 1721.0040 requires a Certificate of Veterinary Inspection for all imported mammals unless exempted; no rodent-specific exemption was confirmed, so carry a CVI — confirm the pet-rodent application with the Board of Animal Health. Releasing any nonnative animal is unlawful (Minn. Stat. ch. 84D).",
+      "governing_law": "Minn. R. 1721.0040 (import CVI); Minn. R. 6216.0270; ch. 84D (no-release).",
+      "source_ids": [
+        "mn-1721",
+        "mn-6216-0270"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rat into Minnesota requires a Certificate of Veterinary Inspection (Minn. R. 1721.0040, all mammals); confirm the pet-rodent application with the Board of Animal Health. No CVI for in-state movement.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Minnesota Board of Animal Health",
+      "fees": "",
+      "source_ids": [
+        "mn-1721"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat (Minn. Stat. ch. 84D). Local city/county ordinances may add limits — check yours.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "mn-6216-0270"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "mn-346-155",
+      "title": "Minn. Stat. §346.155 — Possessing Regulated Animals (cats/bears/primates; no rodents)",
+      "url": "https://www.revisor.mn.gov/statutes/cite/346.155",
+      "authority": "Minnesota Office of the Revisor of Statutes",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "mn-6216-0270",
+      "title": "Minn. R. 6216.0270 — Unregulated Nonnative Species (R. rattus + R. norvegicus listed)",
+      "url": "https://www.revisor.mn.gov/rules/6216.0270/",
+      "authority": "Minnesota DNR / Revisor of Statutes",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "mn-1721",
+      "title": "Minn. R. ch. 1721 (1721.0040) — Importation of Animals / CVI for mammals",
+      "url": "https://www.revisor.mn.gov/rules/1721/full",
+      "authority": "Minnesota Board of Animal Health",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

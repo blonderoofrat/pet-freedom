@@ -1,0 +1,174 @@
+{
+  "jurisdiction": {
+    "id": "us-ct",
+    "level": "state",
+    "name": "Connecticut",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-CT",
+    "language": "en",
+    "slug": "connecticut",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Connecticut is restrictive — and the roof rat is caught by another 'species-not-domestication' gap. A permit is required to import or possess any 'wild mammal' (CGS §26-55), and the regulation's domestic-animal exemption list (Conn. Agencies Regs. §26-55-6) names rodents species-by-species — including Rattus norvegicus (the fancy rat) — but NOT Rattus rattus. The regulation also says captive breeding does not make an animal 'domestic' if it's 'wild by nature.' So a roof rat is a regulated wild mammal with no private-owner permit pathway (only zoos/labs/exhibitors qualify) — making keeping, breeding, selling, and importing effectively prohibited for a pet keeper. A strong advocacy/clarification target. (Note: CGS §26-40a, the 'dangerous animal' list, does NOT cover rats — the operative rule is §26-55.)",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "agency_species_trap",
+      "problem": "In Connecticut, the domesticated pet roof rat (Rattus rattus) gets caught by a \"species trap\" in a regulation. State law (Conn. Gen. Stat. Sec. 26-55) requires a permit to import or possess any \"wild mammal,\" and the implementing regulation (Conn. Agencies Regs. Sec. 26-55-6) treats the entire order Rodentia as a regulated wild animal EXCEPT for a short hand-written list of domestic rodents. That list names the common fancy rat (Rattus norvegicus), the house mouse, guinea pig, gerbil, chinchilla, hamster, dwarf hamster, Patagonia mara, and beaver — but it does NOT name Rattus rattus. The regulation also says an animal that is captive-bred \"even over many generations\" but \"still wild by nature\" is not \"domestic.\" Because the roof rat's close cousin, the fancy rat, was specifically written onto the exemption list and the roof rat was simply left off, a captive-bred, tame pet roof rat is technically classified the same as a regulated wild mammal — with no permit pathway available to an ordinary private pet owner (permits effectively reach only zoos, labs, and exhibitors). The result is that keeping, breeding, transferring, or importing a pet roof rat is effectively off-limits, even though it is no more \"wild\" than the fancy rat sitting right next to it on the list.",
+      "ask": "Ask Connecticut DEEP to fix the omission by adding the captive-bred domestic roof rat (Rattus rattus) to the list of exempt domestic rodents in Conn. Agencies Regs. Sec. 26-55-6 — the same list that already names the fancy rat (Rattus norvegicus). This can be requested two ways under Connecticut's Administrative Procedure Act: (1) a petition to amend the regulation (Conn. Gen. Stat. Sec. 4-174), asking DEEP to add R. rattus to the exemption; and/or (2) a petition for a declaratory ruling (Sec. 4-176) asking DEEP to confirm whether a captive-bred, domesticated R. rattus kept as a pet falls inside the existing domestic-rodent exemption. Make the simple point: a tame, indoor, captive-bred roof rat is a pet, not wildlife — list it alongside the fancy rat.",
+      "branch_note": "LEVER = THE AGENCY (DEEP), not the legislature. This is the favorable kind of case. The barrier is NOT a species written onto a statute that DEEP is merely enforcing; it is an omission from an exemption list inside a regulation that DEEP itself wrote and controls — Conn. Agencies Regs. Sec. 26-55-6. The enabling statute (Sec. 26-55) just tells DEEP to regulate \"wild mammals\" and to set exemptions by regulation; the actual decision of WHICH rodents count as exempt domestic animals is made in DEEP's own rule. DEEP already exercised that power to list Rattus norvegicus (the fancy rat). So DEEP can add Rattus rattus the same way, without any act of the legislature. Concretely, Connecticut's Uniform Administrative Procedure Act gives any person the right to (a) petition an agency to amend a regulation (Sec. 4-174 — DEEP must, within 30 days, either start rulemaking or deny in writing with reasons), and (b) petition for a declaratory ruling on how an existing regulation applies (Sec. 4-176 — DEEP must respond within 60 days). Because the problem is the agency under-applying/omitting from its own exemption list rather than a statute correctly applied, appealing to DEEP is exactly the right move and CAN change the outcome. The legislature is a fallback only if DEEP denies the petition and refuses to act — at which point a bill amending Sec. 26-55, or pressure through one's own legislator, becomes the second-line lever. Lead with the agency.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Connecticut DEEP — Wildlife Division (permits & wild-animal regulation)",
+          "type": "agency",
+          "email": "deep.wildlife@ct.gov",
+          "form_url": "https://portal.ct.gov/deep/about/contact-us/general-contact-information",
+          "why": "Primary lever. DEEP owns and can amend the exemption list in Conn. Agencies Regs. Sec. 26-55-6, where the fancy rat is named but the roof rat is omitted. Start here with a written request to add captive-bred R. rattus to the domestic-rodent exemption, and/or to confirm whether a domesticated pet R. rattus already falls within it. Email verified on DEEP's official general-contact page (Wildlife Division: deep.wildlife@ct.gov, (860) 424-3011)."
+        },
+        {
+          "name": "Connecticut DEEP — Declaratory Rulings / Adjudications process",
+          "type": "agency",
+          "form_url": "https://portal.ct.gov/deep/adjudications/guidelines-for-declaratory-rulings",
+          "why": "Formal route for a Sec. 4-176 petition asking DEEP to rule on whether a captive-bred, domesticated, indoor-kept R. rattus is covered by the existing Sec. 26-55-6 domestic-rodent exemption. Useful if you want a binding determination rather than only an informal email answer. DEEP must respond within 60 days."
+        },
+        {
+          "name": "Connecticut General Assembly — Find Your Legislator",
+          "type": "legislature",
+          "form_url": "https://www.cga.ct.gov/asp/menu/cgafindleg.asp",
+          "why": "Second-line lever, only if DEEP declines to amend or rule favorably. Use this official lookup to contact your own state senator and representative about a bill amending Conn. Gen. Stat. Sec. 26-55 (or directing DEEP to update the exemption). Do not start here — the regulation, not the statute, is the actual barrier."
+        }
+      ],
+      "template": {
+        "en": "To: Connecticut DEEP, Wildlife Division\n\nSubject: Petition to add the captive-bred domestic roof rat (Rattus rattus) to the domestic-rodent exemption in Conn. Agencies Regs. Sec. 26-55-6\n\nDear Wildlife Division,\n\nI am writing about a small but consequential gap in Conn. Agencies Regs. Sec. 26-55-6. The regulation exempts the order Rodentia as domestic animals except for a named list — which includes the fancy rat, Rattus norvegicus — but it does not name the domesticated roof rat, Rattus rattus. As written, that leaves a tame pet roof rat classified as a regulated wild mammal under Sec. 26-55, with no permit pathway for an ordinary pet owner.\n\nThe issue is the species name on the list, not domestication. These are captive-bred, hand-tame animals, kept entirely indoors and never released to the wild — exactly like the fancy rat already on your exemption list. They differ only by species label.\n\nUnder Conn. Gen. Stat. Sec. 4-174, I respectfully petition DEEP to amend Sec. 26-55-6 to add captive-bred Rattus rattus to the exempt domestic-rodent list. In the alternative, under Sec. 4-176, I ask for a declaratory ruling on whether a captive-bred, domesticated pet R. rattus already falls within the existing domestic-rodent exemption.\n\nThank you for your consideration. I am glad to provide any further information.\n\nRespectfully,\n[Your name]\n[Town, Connecticut]\n[Email / phone]"
+      },
+      "confidence_notes": "Verified on 2026-06-09 via official and primary sources. CONFIRMED: (1) Conn. Agencies Regs. Sec. 26-55-6 treats the order Rodentia as a regulated wild animal EXCEPT a named domestic list, and that list names Rattus norvegicus (fancy rat) but NOT Rattus rattus (verified via Cornell LII and the CT eRegulations portal). The exact structure is \"a member within the order Rodentia, except for [guinea pig, gerbil, chinchilla, rat (Rattus norvegicus), mouse (Mus musculus), hamster, dwarf hamster, Patagonia mara, and American beaver].\" (2) The regulation's \"domestic animal\" definition expressly excludes animals captive-bred \"even over many generations\" that are \"still wild by nature.\" (3) Sec. 26-55 (statute) requires a DEEP permit to import/possess wild mammals and delegates the exemption-setting to regulation. (4) Connecticut's UAPA gives any person the right to petition to amend a regulation (Sec. 4-174, 30-day agency response) and to petition for a declaratory ruling (Sec. 4-176, 60-day response); DEEP publishes declaratory-ruling guidelines. (5) DEEP Wildlife Division contact deep.wildlife@ct.gov and (860) 424-3011 verified on DEEP's official general-contact page. (6) The CGA \"Find Your Legislator\" page verified live. KEY JUDGMENT (high confidence): because the barrier is an omission from DEEP's own regulation rather than a species fixed in statute, the agency is the correct primary lever and CAN change the outcome. UNCERTAIN / not independently confirmed: whether DEEP has ever issued a determination treating a captive-bred domesticated R. rattus as domestic (no public record found — worth asking directly); whether DEEP would treat the fancy-rat precedent as persuasive; and the precise current intake form for a Sec. 4-174/4-176 petition (the general-contact page and the declaratory-rulings guidelines page are the verified entry points). This is a research aid, not legal advice; confirm directly with DEEP before relying on it.",
+      "local_lang": "en"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "CGS §26-55 requires a permit to import or possess any 'wild mammal,' and Conn. Agencies Regs. §26-55-6 exempts rodents by species — listing Rattus norvegicus, guinea pig, gerbil, chinchilla, hamster, etc. — but NOT Rattus rattus. The regulation expressly says captive-bred animals 'wild by nature' aren't 'domestic.' So R. rattus is a regulated wild mammal, and the permit categories reach only institutions (zoos/labs/exhibitors), with no private-pet pathway — effectively barring private possession.",
+      "governing_law": "CGS §26-55; Conn. Agencies Regs. §26-55-6 (exemption list names R. norvegicus, not R. rattus).",
+      "source_ids": [
+        "ct-26-55",
+        "ct-26-55-6"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "There's no separate breeding permit — the §26-55 possession authorization is the prerequisite, and it's unavailable to private individuals for a non-exempt wild mammal. So breeding R. rattus is equally restricted; DEEP also prohibits liberation and may bar activities threatening native species.",
+      "governing_law": "CGS §26-55; Conn. Agencies Regs. §26-55-6.",
+      "source_ids": [
+        "ct-26-55",
+        "ct-26-55-6"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "Transferring a wild mammal that the recipient can't lawfully possess is itself barred under §26-55. CGS §22-344 pet-shop/importer licensing covers dogs/cats and creates no pathway for non-exempt rodents. Because private possession of R. rattus is unauthorized, sale or gift exposes both parties to liability.",
+      "governing_law": "CGS §26-55; Conn. Agencies Regs. §26-55-6; CGS §22-344.",
+      "source_ids": [
+        "ct-26-55",
+        "ct-26-55-6"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "CGS §26-55 prohibits importing/introducing any wild mammal without a DEEP permit, and R. rattus is non-exempt — so import is barred for a private keeper. In-state transport of an unlawfully-possessed animal compounds the §26-55 violation. (A CT Dept of Agriculture CVI would be a second layer only if a DEEP permit existed.)",
+      "governing_law": "CGS §26-55; Conn. Agencies Regs. §26-55-6; CT Dept of Agriculture import requirements.",
+      "source_ids": [
+        "ct-26-55",
+        "ct-26-55-6"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Because R. rattus is not on the §26-55-6 domestic-rodent exemption list (which names only Rattus norvegicus), there is no private-owner permit pathway — keeping it as a pet is effectively prohibited (civil penalty up to $1,000/offense + seizure). Confirm with DEEP Wildlife before acting; consider a petition to add captive-bred R. rattus to the exemption list.",
+      "steps": [
+        "Ask DEEP Wildlife whether R. rattus is a Category Two wild animal and whether any private pathway exists",
+        "Consider a §26-55-6 rule-amendment petition"
+      ],
+      "forms": [],
+      "where_to_file": "Connecticut DEEP Wildlife Division",
+      "fees": "",
+      "source_ids": [
+        "ct-26-55-6"
+      ]
+    }
+  ],
+  "inquiry_focus": "Under Conn. Agencies Regs. §26-55-6, is Rattus rattus classified as a regulated 'wild mammal' (e.g., Category Two) requiring a §26-55 permit, given the rodent exemption list names Rattus norvegicus but not Rattus rattus — and is there ANY permit pathway available to a PRIVATE individual to keep a captive-bred R. rattus as a pet, or is possession limited to institutions (zoos/labs/exhibitors)? Has DEEP ever issued a determination that a captive-bred, domesticated R. rattus qualifies as 'domestic'? Would DEEP consider a petition to add captive-bred R. rattus to the §26-55-6 domestic-animal list?",
+  "sources": [
+    {
+      "id": "ct-26-55",
+      "title": "CGS §26-55 — Permit to import/possess/liberate wild birds, mammals, etc.",
+      "url": "https://law.justia.com/codes/connecticut/title-26/chapter-490/section-26-55/",
+      "authority": "Connecticut General Assembly",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ct-26-55-6",
+      "title": "Conn. Agencies Regs. §26-55-6 — domestic-animal exemption list (names Rattus norvegicus, NOT R. rattus)",
+      "url": "https://www.law.cornell.edu/regulations/connecticut/Regs-Conn-State-Agencies-SS-26-55-6",
+      "authority": "CT DEEP (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ct-26-40a",
+      "title": "CGS §26-40a — Potentially dangerous animals (big cats/bears/wolves/apes; NOT rats — ruled out)",
+      "url": "https://law.justia.com/codes/connecticut/title-26/chapter-490/section-26-40a/",
+      "authority": "Connecticut General Assembly",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Connecticut DEEP — Wildlife Division (permits)",
+      "role": "wildlife",
+      "email": "deep.wildlife@ct.gov",
+      "form_url": "https://portal.ct.gov/DEEP/Wildlife",
+      "phone": "(860) 424-3011",
+      "primary": true
+    },
+    {
+      "agency": "Connecticut Dept of Agriculture — Office of the State Veterinarian",
+      "role": "agriculture",
+      "email": "ctstate.vet@ct.gov",
+      "form_url": "",
+      "phone": "(860) 713-2505"
+    }
+  ]
+}

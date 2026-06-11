@@ -1,0 +1,144 @@
+{
+  "jurisdiction": {
+    "id": "us-mt",
+    "level": "state",
+    "name": "Montana",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-MT",
+    "language": "en",
+    "slug": "montana",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Montana law puts the roof rat clearly in the clear: MCA 87-5-702 defines 'domestic animal' to expressly include 'rodents,' which removes them from the Fish, Wildlife & Parks exotic-wildlife scheme entirely (prohibited/controlled/noncontrolled) — and no Rattus species is on the prohibited (ARM 12.6.2215) or controlled list. So keeping, breeding, and selling/giving a captive-bred roof rat is legal statewide with no FWP permit. The one procedural item is import (a Certificate of Veterinary Inspection for rodents under the Dept of Livestock rule, with an informal owner-pet waiver — confirm). ⚠️ BIG local exception: the City of Billings bans keeping/breeding/selling rats within city limits (Municipal Code §4-304) — a prime example of why you must check your city.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "MCA 87-5-702 defines 'domestic animal' to include 'livestock..., dogs, cats, rodents, Eurasian ferrets, and poultry' — so rodents (incl. R. rattus) are outside FWP's exotic-wildlife classification. R. rattus is on neither the prohibited (ARM 12.6.2215) nor controlled list, and no state dangerous-animal statute reaches captive rodents. No FWP permit to keep one. (Local ordinances can differ — see Billings.)",
+      "governing_law": "MCA 87-5-702 (rodents = domestic animals); ARM 12.6.2215 (prohibited — no Rattus); Billings Municipal Code §4-304 (city ban).",
+      "source_ids": [
+        "mt-87-5-702",
+        "mt-12-6-2215",
+        "mt-billings"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Breeding follows lawful possession; because rodents are domestic animals outside the FWP exotic-wildlife scheme, no FWP breeder/dealer license applies, and no state livestock-breeder framework reaches pet rodents. (Billings §4-304 bans 'raising' rats within that city.)",
+      "governing_law": "MCA 87-5-702; Billings Municipal Code §4-304.",
+      "source_ids": [
+        "mt-87-5-702",
+        "mt-billings"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No Montana state law prohibits selling or giving domestic-category rodents between private parties, and no FWP exotic-wildlife dealer license applies. (Billings §4-304 prohibits offering for sale / giving away rats within city limits.)",
+      "governing_law": "MCA 87-5-702; MCA 87-5-706 (noncontrolled may be sold without permit, a fortiori for domestic rodents); Billings §4-304.",
+      "source_ids": [
+        "mt-87-5-702",
+        "mt-billings"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Intrastate transport is unregulated by FWP (rodents are domestic animals). For IMPORT, the Dept of Livestock (MCA 81-2-703 / ARM 32.3.206) nominally requires a Certificate of Veterinary Inspection for rodents entering Montana within 30 days, but the Department may waive it where there's no significant health risk and informally does so for owner-traveled small pets — confirm in writing before crossing. Never release a roof rat.",
+      "governing_law": "MCA 81-2-703 (import CVI + waiver authority); ARM 32.3.206; MCA 87-5-702.",
+      "source_ids": [
+        "mt-81-2-703",
+        "mt-87-5-702"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give"
+      ],
+      "summary": "⚠️ City of Billings: Municipal Code §4-304 (since 1967) bans keeping, raising, selling, giving away, or transporting rats of any species within city limits, except as feed for raptors/reptiles or under a scientific/educational exception. Check your specific city/county ordinance — Montana state law is permissive, but municipalities can ban rats outright.",
+      "steps": [
+        "Check your city/county animal ordinance (Billings bans rats)"
+      ],
+      "forms": [],
+      "where_to_file": "Your municipality",
+      "fees": "",
+      "source_ids": [
+        "mt-billings"
+      ]
+    },
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a rodent into Montana nominally requires a Certificate of Veterinary Inspection (MCA 81-2-703), though the Dept of Livestock may waive it for owner-traveled pets — confirm with livpermits@mt.gov. No CVI for in-state movement; never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Montana Dept of Livestock, Animal Health Division",
+      "fees": "",
+      "source_ids": [
+        "mt-81-2-703"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "mt-87-5-702",
+      "title": "MCA 87-5-702 — Definitions ('domestic animal' includes rodents; excludes them from exotic-wildlife scheme)",
+      "url": "https://mca.legmt.gov/bills/mca/title_0870/chapter_0050/part_0070/section_0020/0870-0050-0070-0020.html",
+      "authority": "Montana Legislature",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "mt-12-6-2215",
+      "title": "ARM 12.6.2215 — List of Prohibited Species (no Rattus / rodents)",
+      "url": "https://rules.mt.gov/gateway/ruleno.asp?RN=12.6.2215",
+      "authority": "Montana Fish, Wildlife & Parks",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "mt-81-2-703",
+      "title": "MCA 81-2-703 — Documents required for importation (rodents; CVI + waiver authority)",
+      "url": "https://mca.legmt.gov/bills/mca/title_0810/chapter_0020/part_0070/section_0030/0810-0020-0070-0030.html",
+      "authority": "Montana Legislature / Dept of Livestock",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "mt-billings",
+      "title": "Billings Municipal Code Ch. 4 §4-304 — rats banned city-wide (feeder/scientific exception)",
+      "url": "https://library.municode.com/mt/billings/codes/code_of_ordinances?nodeId=CICO_CH4AN",
+      "authority": "City of Billings, Montana",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

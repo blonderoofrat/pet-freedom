@@ -1,0 +1,230 @@
+{
+  "jurisdiction": {
+    "id": "za",
+    "level": "country",
+    "name": "South Africa",
+    "parent": null,
+    "country": "ZA",
+    "iso": "ZA",
+    "language": "en",
+    "inquiry_language": "en",
+    "slug": "south-africa",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "house rat",
+      "swartrot",
+      "dakrot"
+    ]
+  },
+  "summary": "South Africa's status is now agency-confirmed (DFFE Biodiversity Risk Management, the Alien & Invasive Species Issuing Authority, June 2026). Rattus rattus is listed Category 1b under the 2020 NEMBA Alien & Invasive Species Regulations, a designation tied to offshore islands. DFFE's plain guidance for a private keeper: you MAY KEEP one as a pet with NO permit, but you may NOT breed or multiply them, NOT sell or give them away, and NOT transport them, except under a research permit. So keeping is open while breeding, trade and movement are effectively closed to hobbyists (a containment regime). A separate provincial layer can add a 'wild animal in captivity' permit in some provinces (liaise with your provincial environmental department), and international import is handled separately by the National Department of Agriculture's State Veterinary import permit. ⚠️ Live advocacy window: DFFE confirmed the AIS list amendment is under Law Reform review and will be gazetted for PUBLIC COMMENT this financial year — the moment to engage on how the species is treated.",
+  "last_reviewed": "2026-06-09",
+  "agency_confirmations": [
+    "DFFE Directorate: Biodiversity Risk Management (the Alien & Invasive Species Issuing Authority), written reply June 2026: Rattus rattus is NEMBA AIS Category 1b (designated to offshore islands). KEEPING one as a pet requires NO permit. BREEDING/multiplying, SELLING or giving away, and TRANSPORTING are permitted ONLY under a research permit. The AIS amendment list is under Law Reform review and will be gazetted for public comment this financial year. Provincial environmental departments may also regulate (liaise with the relevant province), and veterinary import is handled by the National Department of Agriculture."
+  ],
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "public_comment_window",
+      "time_sensitive": "Act when the NEMBA Alien &amp; Invasive Species amendment is gazetted for public comment (expected 2026 per DFFE).",
+      "problem": "South Africa’s environment department (DFFE) confirmed (June 2026) that an amendment to the NEMBA Alien and Invasive Species lists is in Law-Reform review and will be gazetted for public comment.",
+      "ask": "When the amended AIS list is gazetted for comment, submit a comment asking that domesticated <em>R. rattus</em> kept as pets be handled distinctly from wild invasive populations — for example a keeping/permit pathway rather than a blanket prohibition.",
+      "branch_note": "This is executive rulemaking with a built-in public-comment step — so the lever is the gazette comment window (and a letter to DFFE’s biodiversity directorate), not Parliament.",
+      "targets": [
+        {
+          "name": "Dept. of Forestry, Fisheries &amp; the Environment (DFFE) — Biodiversity / AIS",
+          "type": "public_comment",
+          "why": "DFFE runs the AIS listing and its comment process; the official comment address is published with the gazette notice.",
+          "email": "AISpermits@dffe.gov.za"
+        }
+      ],
+      "template": {
+        "en": "To the Department of Forestry, Fisheries and the Environment (DFFE), Biodiversity,\n\nI am commenting on the amendment to the NEMBA Alien and Invasive Species lists.\n\nI ask that domesticated roof rats (Rattus rattus) kept as pets be handled distinctly from wild invasive populations. Captive-bred pet roof rats are tame, kept indoors in secure cages, and never released. Rather than a blanket prohibition, a keeping or permit pathway would meet the conservation aim without penalising responsible pet owners.\n\nPlease consider this distinction in the amended list.\n\nSincerely,\n[Your name]"
+      }
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "DFFE (the AIS Issuing Authority) confirmed in writing (June 2026) that NO permit is required to keep Rattus rattus as a pet; permits for the species are issued only for research purposes. Note a separate provincial layer: some provinces (e.g., Western Cape, Eastern Cape, Northern Cape, KwaZulu-Natal, Free State) may require a general 'wild animal in captivity' permit, so confirm with your provincial environmental department.",
+      "governing_law": "NEMBA AIS Regulations & Lists (2020); DFFE Biodiversity Risk Management written confirmation (June 2026); provincial nature-conservation ordinances.",
+      "source_ids": [
+        "za-nemba-list",
+        "za-nemba-regs",
+        "za-prov-overview"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "DFFE confirmed (June 2026): you cannot breed or multiply Rattus rattus unless it is for research purposes. There is no hobbyist/companion breeding permit; the only permits available for the species are research permits. This makes captive propagation by a private keeper effectively prohibited.",
+      "governing_law": "NEMBA AIS Regulations (2020) s.71 (restricted activities); DFFE BRM written confirmation (June 2026).",
+      "source_ids": [
+        "za-nemba-regs"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "DFFE confirmed (June 2026) that selling or giving away Rattus rattus is not permitted ('No'); as with breeding, the only permits issued for the species are for research. Note the practical contrast: the fancy rat (R. norvegicus) carries the same island Cat 1b listing yet is openly traded — a species-not-domestication inconsistency to raise in the public-comment process.",
+      "governing_law": "NEMBA AIS Regulations (2020) s.71; DFFE BRM written confirmation (June 2026).",
+      "source_ids": [
+        "za-nemba-regs",
+        "za-petshop-study"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "DFFE confirmed (June 2026) that you may transport Rattus rattus only for research purposes, so there is no ordinary pet-transport pathway. Inter-provincial movement also implicates provincial transport permits, and international import is handled separately by the National Department of Agriculture (State Veterinary import permit + health protocol). Never release a roof rat.",
+      "governing_law": "NEMBA AIS Regulations (2020); provincial transport ordinances; DALRRD State Veterinary import permit; DFFE BRM written confirmation (June 2026).",
+      "source_ids": [
+        "za-nemba-regs",
+        "za-prov-transport",
+        "za-dalrrd-import"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "ban",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "DFFE (the AIS Issuing Authority) has confirmed that, for a privately kept Rattus rattus, you may keep one as a pet without a permit, but you may NOT breed/multiply or sell/give them away except under a research permit. There is no companion/hobbyist breeding or sales permit for the species. Never release a roof rat.",
+      "steps": [
+        "If your purpose is genuine research, apply to DFFE Biodiversity Risk Management for a research permit",
+        "Otherwise: keeping is allowed, but do not breed, sell, or give the animal away"
+      ],
+      "forms": [],
+      "where_to_file": "DFFE Biodiversity Risk Management (AIS Issuing Authority)",
+      "fees": "",
+      "source_ids": [
+        "za-nemba-regs"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "No NATIONAL permit is needed to keep a roof rat as a pet (DFFE confirmed). But some provinces (Western Cape, Eastern Cape, Northern Cape, KwaZulu-Natal, Free State) may require a general 'wild animal in captivity' permit; the other four do not. Confirm with your provincial environmental department.",
+      "steps": [
+        "Check your provincial conservation authority (e.g., CapeNature in the Western Cape) on whether a captivity permit is required"
+      ],
+      "forms": [],
+      "where_to_file": "Provincial environmental department / conservation authority",
+      "fees": "",
+      "source_ids": [
+        "za-prov-overview"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Transport of Rattus rattus is permitted only for research purposes (DFFE). International import is separately handled by the National Department of Agriculture's State Veterinary Import Permit (apply before shipment) + health certificate. Inter-provincial movement also implicates provincial transport permits.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "DFFE (research transport); National Dept of Agriculture / DALRRD (import); provincial authority (inter-provincial)",
+      "fees": "",
+      "source_ids": [
+        "za-dalrrd-import",
+        "za-prov-transport"
+      ]
+    }
+  ],
+  "inquiry_focus": "RESOLVED June 2026 by DFFE Biodiversity Risk Management: keep-as-pet needs no permit; breed/sell/transport are research-permit only; AIS amendment list to be gazetted for public comment this financial year. Remaining per-province question: does a captive R. rattus need a 'wild animal in captivity' permit in your specific province? And international import: confirm the State Veterinary import protocol with the National Dept of Agriculture.",
+  "sources": [
+    {
+      "id": "za-nemba-list",
+      "title": "NEMBA Alien & Invasive Species Lists (GG 43726, GN 1003, 18 Sep 2020) — R. rattus Category 1b",
+      "url": "https://www.dffe.gov.za/sites/default/files/legislations/nemba_invasivespecieslist_g43726gon1003.pdf",
+      "authority": "DFFE",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "za-nemba-regs",
+      "title": "NEMBA Alien & Invasive Species Regulations (GG 43735, GN 1020, 2020) — s.71 restricted activities",
+      "url": "https://www.gov.za/sites/default/files/gcis_document/202009/43735rg11176gon1020.pdf",
+      "authority": "DFFE / South African Government",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "za-petshop-study",
+      "title": "Genetic diversity of rodent species sold in South African pet shops (Afr. J. Ecol. 2022) — fancy rat openly traded",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/aje.13085",
+      "authority": "African Journal of Ecology (Wiley)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "za-prov-overview",
+      "title": "Province-by-province exotic-pet permit overview (some provinces require captivity permits)",
+      "url": "https://absoluteexoticssa.co.za/specialized-care/south-african-laws-regarding-exotics-permits-and-more/279-south-african-laws-on-keeping-exotic-animals-as-pets-a-province-by-province-overview",
+      "authority": "Absolute Exotics SA (secondary)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "za-prov-transport",
+      "title": "Traveling with an exotic pet in South Africa — inter-provincial transport permit",
+      "url": "https://www.absoluteexoticssa.co.za/animal-blog-news/south-african-law-and-exotic-animals/278-traveling-with-your-exotic-pet-in-s-a-important-considerations-and-travel-permit-regulations-2",
+      "authority": "Absolute Exotics SA (secondary)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "za-dalrrd-import",
+      "title": "DALRRD — South African Veterinary Import Permit application process",
+      "url": "https://www.nda.gov.za/images/Branches/AgricProducHealthFoodSafety/animal-health/information/south-african-veterinary-import.pdf",
+      "authority": "National Dept of Agriculture (DALRRD)",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "DFFE — Directorate: Biodiversity Risk Management (Alien & Invasive Species Issuing Authority)",
+      "role": "wildlife",
+      "email": "AISpermits@dffe.gov.za",
+      "form_url": "https://www.dffe.gov.za/legislation/permitapplication_invasivespeciesactivities",
+      "phone": "+27 21 441 2748",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "National Department of Agriculture — State Veterinary Import Permits",
+      "role": "agriculture",
+      "email": "VetPermits@dalrrd.gov.za",
+      "form_url": "https://www.gov.za/services/import/import-animals-and-animal-products",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "CapeNature (Western Cape provincial example)",
+      "role": "wildlife",
+      "email": "permits@capenature.co.za",
+      "form_url": "https://www.capenature.co.za/permits/wild-animals-in-captivity",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "en"
+    }
+  ]
+}

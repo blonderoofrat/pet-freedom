@@ -1,0 +1,175 @@
+{
+  "jurisdiction": {
+    "id": "se",
+    "level": "country",
+    "name": "Sweden",
+    "parent": null,
+    "country": "SE",
+    "iso": "SE",
+    "language": "sv",
+    "inquiry_language": "en",
+    "slug": "sweden",
+    "local_terms": [
+      "Rattus rattus",
+      "svartråtta",
+      "takråtta"
+    ]
+  },
+  "summary": "Sweden is permissive for the roof rat — now confirmed in writing by the Swedish Board of Agriculture (Jordbruksverket, June 2026). There is no species-specific ban: R. rattus is not on the EU invasive-species Union list (Reg. 1143/2014) and not on Sweden's national invasive list (Förordning 2026:311). The Animal Welfare Act (Djurskyddslagen 2018:1192) regulates HOW animals are kept, not WHICH rodent species, and the Board of Agriculture's rules (SJVFS 2019:15) cover rats generically as gnagare. Jordbruksverket confirmed it is permitted to keep R. rattus as pets as long as they are not wild-caught, with NO permit and NO registration; only PROFESSIONAL (yrkesmässig) keeping/breeding/selling needs to check with the county board (länsstyrelsen) — larger-scale but non-professional hobby activity is EXEMPT from the permit requirement (except breeding animals intended as feeder/feed animals). Welfare and enclosure standards apply (SJVFS 2019:15 ch. 1; enclosure size/enrichment per SJVFS 2019:29 ch. 11 §§17-18). Ironically R. rattus is classed as EXTINCT (RE) in the wild in Sweden, so captive pets pose essentially zero invasion risk. Cross-border transport of pet rodents needs no registration (commercial transport requires authorisation as an animal transporter); intra-EU commercial movement, or more than 5 pet animals, needs an Article 151 Animal Health Law self-declaration from a registered establishment — no TRACES notification and no health certificate. Non-EU import is tighter.",
+  "last_reviewed": "2026-06-10",
+  "agency_confirmations": [
+    "Swedish Board of Agriculture (Jordbruksverket), written reply June 2026: it is permitted to keep Rattus rattus as pets in Sweden as long as the animals are not caught in the wild, with NO permit and NO registration required (SJVFS 2019:15, ch. 1 §§4-5). Welfare and enclosure-size/enrichment standards apply (SJVFS 2019:15 ch. 1; SJVFS 2019:29 ch. 11 §§17-18). A permit is only relevant for PROFESSIONAL (yrkesmässig) keeping, breeding, or selling — larger-scale but non-professional hobby activity is exempt (except breeding animals intended as feeder/feed animals); professional operators should ask their county administrative board (länsstyrelsen) whether a permit is needed. Cross-border transport of pet rodents needs no registration; commercial transport requires authorisation as an animal transporter, and intra-EU commercial movement (or more than 5 pet animals) needs an Article 151 Animal Health Law self-declaration from a registered establishment — no TRACES notification and no health certificate. The agency also confirmed the '6 enclosures' figure refers to the number of cages."
+  ],
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Jordbruksverket confirmed (June 2026) it is permitted to keep R. rattus as pets as long as they are not wild-caught, with no permit and no registration (SJVFS 2019:15 ch. 1 §§4-5). Djurskyddslagen 2018:1192 imposes welfare duties but no species ban; R. rattus is absent from the EU Union list and Sweden's national invasive list (Förordning 2026:311). Keepers must meet welfare/enclosure standards (SJVFS 2019:15 ch. 1; enclosure size/furnishing/enrichment per SJVFS 2019:29 ch. 11 §§17-18) and the social-species rule (keep ≥2 rats).",
+      "governing_law": "Djurskyddslag 2018:1192; SJVFS 2019:15 ch. 1 §§4-6; SJVFS 2019:29 ch. 11 §§17-18; Förordning 2026:311 (R. rattus not listed); Reg. (EU) 1143/2014 (not listed).",
+      "source_ids": [
+        "se-djurskyddslag",
+        "se-sjvfs-2019-15",
+        "se-forordning-2026-311",
+        "se-eu-1143"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Jordbruksverket confirmed (June 2026) that keeping, breeding, or selling pets other than dogs and cats at larger scale but NOT in a professional manner is EXEMPT from the permit requirement — so a private/hobby rattery needs no permit regardless of cage count. Only PROFESSIONAL (yrkesmässig) breeding must ask the county administrative board (länsstyrelsen) whether a permit is required, and the exemption does NOT cover breeding animals intended to be sold as feeder/feed animals. (The agency clarified the '6 enclosures' figure refers to the number of cages.) Welfare standards apply throughout.",
+      "governing_law": "Djurskyddslag 2018:1192 6 kap.; Djurskyddsförordning 2019:66; SJVFS 2019:15; SJVFS 2019:27 (permit obligation — professional activity).",
+      "source_ids": [
+        "se-djurskyddslag",
+        "se-sjvfs-2019-15",
+        "se-sjvfs-2019-27"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Free transfers and sales between hobbyists are permit-free: Jordbruksverket confirmed (June 2026) that larger-scale but non-professional keeping/breeding/selling of pets other than dogs and cats is exempt from the permit requirement (Sweden has no separate pet-shop licence). Only PROFESSIONAL (yrkesmässig) selling must check with the county administrative board (länsstyrelsen). SJVFS 2019:15 sets sale conditions (health checks, documentation). No species ban or price cap on captive-bred R. rattus; the exemption excludes breeding animals sold as feeder/feed animals.",
+      "governing_law": "Djurskyddslag 2018:1192 6 kap.; SJVFS 2019:15; SJVFS 2019:27 (permit only for professional activity).",
+      "source_ids": [
+        "se-djurskyddslag",
+        "se-sjvfs-2019-15"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Jordbruksverket confirmed (June 2026): cross-border transport of pet rodents needs NO registration. If animals are moved in connection with an economic activity, the carrier must be authorised as an animal transporter (SJVFS 2019:7; minimum rodent-container requirements in Annex/Bilaga 1.11). For intra-EU COMMERCIAL movement, or movement of more than 5 pet animals, no health certificate and no TRACES notification are required, but an Article 151 Animal Health Law (Reg. 2016/429) self-declaration is — issued by the operator at the place of origin, which must itself be registered as an establishment for terrestrial animals (Art. 84). There is no numeric cap on a single commercial movement and no fixed template for the self-declaration. Non-EU import follows different, tighter rules. Internal transport is unregulated beyond welfare. Never release.",
+      "governing_law": "SJVFS 2019:7 (transport of live animals; Bilaga 1.11 rodent containers); EU Reg. 2016/429 (Animal Health Law, Arts. 84 & 151); Djurskyddslag 2018:1192.",
+      "source_ids": [
+        "se-jv-gnagare",
+        "se-eu-429"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Only PROFESSIONAL (yrkesmässig) keeping, breeding, or selling of pet rodents needs to check with your county administrative board (länsstyrelsen) about a permit — larger-scale but non-professional hobby activity is EXEMPT (Jordbruksverket, June 2026), except breeding animals intended to be sold as feeder/feed animals, which is not exempt. Transport in connection with an economic activity requires authorisation as an animal transporter (SJVFS 2019:7). Meet the welfare rules (minimum enclosure size, enrichment, and keep rats in groups of ≥2). Never release a roof rat.",
+      "steps": [
+        "If operating professionally, ask your länsstyrelsen whether a permit is required",
+        "For transport in connection with an economic activity, register as an authorised animal transporter with Jordbruksverket"
+      ],
+      "forms": [],
+      "where_to_file": "Länsstyrelsen (county administrative board); Jordbruksverket for transporter authorisation",
+      "fees": "",
+      "source_ids": [
+        "se-sjvfs-2019-27",
+        "se-sjvfs-2019-15"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Does SJVFS 2019:27 set the '6 enclosures' figure as the threshold at which rodent keeping/breeding becomes 'larger scale' requiring a 6 kap. Djurskyddslagen permit, and does 'enclosure' mean a distinct cage or a breeding colony? (2) For importing more than 5 captive-bred R. rattus from another EU member state, is a health certificate / TRACES notification required, or does the 5-animal personal exemption not apply to commercial transfers? (3) Does the county permit process distinguish Rattus rattus from R. norvegicus in any way given R. rattus's extinct-in-the-wild (RE) status in Sweden?",
+  "sources": [
+    {
+      "id": "se-djurskyddslag",
+      "title": "Djurskyddslag (2018:1192) — Animal Welfare Act (no species ban for pet rodents; 6 kap. permit at scale)",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddslag-20181192_sfs-2018-1192/",
+      "authority": "Sveriges Riksdag",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "se-sjvfs-2019-15",
+      "title": "SJVFS 2019:15 — conditions for keeping/breeding/selling companion & hobby animals (covers rats/gnagare)",
+      "url": "https://lagen.nu/sjvfs/2019:15",
+      "authority": "Statens jordbruksverk",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "se-sjvfs-2019-27",
+      "title": "SJVFS 2019:27 — permit obligation (tillståndsplikt); ~6-enclosure 'larger scale' threshold for rodents",
+      "url": "https://lagen.nu/sjvfs/2019:27",
+      "authority": "Statens jordbruksverk",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "se-forordning-2026-311",
+      "title": "Förordning (2026:311) om invasiva främmande arter — national list (34 species, all plants/aquatic; R. rattus absent)",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2026311-om-invasiva-frammande-arter_sfs-2026-311/",
+      "authority": "Sveriges Riksdag / Naturvårdsverket",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "se-jv-gnagare",
+      "title": "Jordbruksverket — Gnagare som sällskapsdjur (rodents as pets; import + 5-animal intra-EU rule)",
+      "url": "https://jordbruksverket.se/djur/hundar-katter-och-smadjur/gnagare",
+      "authority": "Jordbruksverket",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "se-eu-1143",
+      "title": "Regulation (EU) 1143/2014 on invasive alien species — Union list (R. rattus not listed)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2014/1143/oj/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "se-eu-429",
+      "title": "Regulation (EU) 2016/429 — Animal Health Law (intra-EU movement framework)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32016R0429",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "se-artdatabanken",
+      "title": "SLU Artdatabanken — svartråtta (Rattus rattus) Rödlista 2025: Utdöd (RE) in Swedish wild",
+      "url": "https://artfakta.se/taxa/100121/rodlistning",
+      "authority": "SLU Artdatabanken",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Jordbruksverket (Swedish Board of Agriculture)",
+      "role": "agriculture",
+      "email": "jordbruksverket@jordbruksverket.se",
+      "form_url": "https://jordbruksverket.se/languages/english/swedish-board-of-agriculture/about-the-swedish-board-of-agriculture/about-us",
+      "phone": "+46 36 15 50 00",
+      "primary": true,
+      "inquiry_language": "en"
+    }
+  ]
+}

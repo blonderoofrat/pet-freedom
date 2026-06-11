@@ -1,0 +1,132 @@
+{
+  "jurisdiction": {
+    "id": "au",
+    "level": "country",
+    "name": "Australia",
+    "parent": null,
+    "country": "AU",
+    "iso": "AU",
+    "language": "en",
+    "slug": "australia",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Australia is very restrictive. No exotic rodents may be imported as pets (only cats, dogs, rabbits, horses and certain birds can be imported), and the black rat (Rattus rattus) is a declared pest in parts of the country. Keeping a black rat as a pet is effectively prohibited or heavily restricted, and varies by state/territory.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "positive_list",
+      "problem": "In Australia, you can legally keep the fancy rat (Rattus norvegicus, the domesticated brown rat) as a pet in most states, but the roof rat / black rat (Rattus rattus) is treated very differently — not because tame, captive-bred roof rats behave like pests, but because of how two lists are written. (1) At the federal level, the only animals allowed to be imported as live pets are a short approved set (dogs, cats, rabbits, horses and certain birds); exotic rodents are simply not on the EPBC Act \"Live Import List,\" so importing one is prohibited. (2) At the state/territory level, Rattus rattus is named on pest-animal declarations as a widespread \"established invasive animal\" (for example under the Northern Territory pest listing and Victoria's Catchment and Land Protection Act 1994 classifications). The result is that an animal kept as a beloved, indoor-only pet elsewhere in the world is, in Australia, defined by law as a pest species — even when the individual rat was bred in captivity, has never lived wild, and will never be released. The barrier here is the wording of the lists themselves, not an official misunderstanding them.",
+      "ask": "Australia's rules turn on lists, so the meaningful change is a change to those lists — and that goes through formal application and public-comment (rulemaking) channels, not a request for an official to \"reinterpret.\" We ask supporters to: (1) write to the federal Department of Climate Change, Energy, the Environment and Water (DCCEEW), which administers the EPBC Act Live Import List, to register interest in having domesticated/captive-bred rat lineages considered, and to watch and respond to the public \"invitations to comment\" when relevant species are proposed; and (2) raise the species-versus-domestication distinction with the relevant state/territory biosecurity authority and, ultimately, elected members, so any future review of pest-animal declarations distinguishes wild pest populations from tame, captive-bred companion animals kept strictly indoors. The specific change sought: recognise that captive-bred, domesticated Rattus rattus kept indoors as pets are not the wild pest the lists were written to control, and create a lawful pathway for them — the same way Rattus norvegicus is already kept as a pet.",
+      "branch_note": "BRANCH (b): the problem is the LAW/LISTS AS WRITTEN, not a bureaucracy misreading them — so do NOT ask an agency to \"reinterpret.\" Concretely for Australia, there are two written instruments and both correctly exclude/flag the species: (1) the EPBC Act Live Import List (administered by DCCEEW) is a positive list — only species ON it may be imported as pets, and exotic rodents including Rattus rattus are not on it; an official applying that list to refuse import is applying the law correctly. The only way it changes is a formal application to amend the Live Import List, which triggers a risk assessment and a public consultation window — i.e. rulemaking. (2) State/territory pest-animal declarations (e.g. NT pest listing; Victoria's prohibited/controlled/regulated/established classifications under the Catchment and Land Protection Act 1994) name Rattus rattus as an established invasive pest; an official applying that declaration is, again, applying the law correctly. Removing or carving an exemption out of a declaration requires changing the regulation/declaration, not a clarification letter. Therefore the lever is the rulemaking / public-comment process (DCCEEW Live Import List amendment + open invitations to comment) and, behind it, the minister/legislature who set these instruments — plus a longer-game appeal to state biosecurity bodies and elected members to distinguish wild pests from tame captive-bred pets. A polite letter to an agency inbox is still worth sending to register interest and seed a future review, but supporters should understand it will not by itself change a list the agency is correctly applying.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Department of Climate Change, Energy, the Environment and Water (DCCEEW) — EPBC Act Live Import List / exotic species assessment",
+          "type": "agency",
+          "email": "exotic.species@dcceew.gov.au",
+          "form_url": "https://www.dcceew.gov.au/environment/wildlife-trade/live-import-list",
+          "why": "DCCEEW administers the federal positive list (the Live Import List under the EPBC Act) that determines which animals may be imported as pets — exotic rodents are not on it. This is the correct touchpoint to register interest in, and ask about, the formal process to amend the list. Changing the list, not reinterpreting it, is the real lever."
+        },
+        {
+          "name": "DCCEEW — Wildlife trade 'Invitations to comment' (public consultation portal)",
+          "type": "public_comment",
+          "form_url": "https://www.dcceew.gov.au/environment/wildlife-trade/comment",
+          "why": "Amendments to the Live Import List go through a public-comment window. This is the official portal where open consultations are posted and the public can lodge submissions — the rulemaking channel where supporters' voices actually count. Watch it and respond when a relevant species is proposed."
+        },
+        {
+          "name": "Department of Agriculture, Fisheries and Forestry (DAFF) — Biosecurity import enquiries",
+          "type": "agency",
+          "form_url": "https://www.agriculture.gov.au/about/contact/online-enquiry",
+          "why": "DAFF administers biosecurity import rules under the Biosecurity Act 2015. Use this official online enquiry form to ask about the lawful pathway (or current absence of one) for a domesticated rat and to register interest. Note: DAFF applies the import rules as written, so this seeds a future review rather than overriding the list."
+        }
+      ],
+      "template": {
+        "en": "To the Live Import List / exotic species team,\n\nI am writing as a supporter of responsible, domesticated pet-rat keeping. In most Australian states people lawfully keep the fancy rat (Rattus norvegicus) as a gentle, family companion. I am asking that domesticated, captive-bred roof rats (Rattus rattus) be given a lawful pathway too.\n\nMy concern is with how the rules are written, not with how your team applies them. The roof rat is excluded from the Live Import List and is named on state pest declarations as a wild invasive animal. But the animals I am writing about are captive-bred, tame, kept strictly indoors, and never released — they are pets, not the wild pest those lists were designed to control. The distinction is species-versus-domestication: a domesticated lineage is not its wild relative, just as the pet fancy rat is already treated differently.\n\nCould you please tell me the current process to apply to amend the Live Import List, and how I can be notified of any public consultation relevant to domesticated rats? I would value the chance to make a submission.\n\nThank you for your time and for the opportunity to comment.\n\n[Your name]\n[Your suburb/state, Australia]\n[Your email]"
+      },
+      "confidence_notes": "Verified via official Australian government web sources (June 2026): the EPBC Act Live Import List is administered by DCCEEW; the public application/amendment process exists and includes a public-consultation step, with enquiries directed to exotic.species@dcceew.gov.au and an official \"invitations to comment\" portal at dcceew.gov.au/environment/wildlife-trade/comment. The federal import-enquiry channel (DAFF online enquiry form, agriculture.gov.au/about/contact/online-enquiry) is confirmed and matches our prior research; DAFF previously sent an automated acknowledgement of our import enquiry (10-working-day reply window) with no substantive answer yet. State classification verified for Victoria (prohibited/controlled/regulated/established categories under the Catchment and Land Protection Act 1994; Rattus rattus treated as an established invasive animal, like the house mouse) and the Northern Territory pest listing; pet-keeping of Rattus rattus is governed at the state/territory level and varies, so anyone acting should confirm their own state's current declaration. I could not directly load several Agriculture Victoria and Queensland PDFs (server returned 403 / timeouts), so the exact text of each state's declaration and any per-state permit pathway should be confirmed before relying on it. No open public-comment window specific to rats/rodents was found as of this review, so time_sensitive is left empty — do not assume urgency. This is a research aid, not legal advice."
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "prohibited",
+      "confidence": "medium",
+      "why": "The black rat is a declared/feral pest in parts of Australia (e.g., the Northern Territory), and exotic rodents are not approved as pets; domestic fancy rats (R. norvegicus) are the only commonly kept pet rat. Confirm per state/territory.",
+      "governing_law": "State/territory biosecurity & pest-animal declarations (e.g., Vic declared prohibited pest animals; NT pest listing)",
+      "source_ids": [
+        "au-daff",
+        "nt-blackrat"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "low",
+      "why": "Breeding a declared pest species is restricted/prohibited under state biosecurity law.",
+      "governing_law": "State biosecurity law",
+      "source_ids": [
+        "nt-blackrat"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "low",
+      "why": "Selling/trading a declared pest species is restricted/prohibited under state biosecurity law.",
+      "governing_law": "State biosecurity law",
+      "source_ids": [
+        "nt-blackrat"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "medium",
+      "why": "No exotic rodents may be imported into Australia as pets; only specified species (cats, dogs, rabbits, horses, some birds) qualify.",
+      "governing_law": "Dept of Agriculture, Fisheries & Forestry import rules",
+      "source_ids": [
+        "au-daff"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [],
+  "sources": [
+    {
+      "id": "au-daff",
+      "title": "Unique or exotic pets (import) — DAFF",
+      "url": "https://www.agriculture.gov.au/biosecurity-trade/travelling/bringing-mailing-goods/unique-exotic-pets",
+      "authority": "Australian Dept of Agriculture",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nt-blackrat",
+      "title": "Black rat — NT.GOV.AU (feral animal/pest)",
+      "url": "https://nt.gov.au/environment/animals/feral-animals/black-rat",
+      "authority": "Northern Territory Government",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Dept of Agriculture, Fisheries and Forestry (Biosecurity)",
+      "role": "agriculture",
+      "email": "imports@aff.gov.au",
+      "form_url": "https://www.agriculture.gov.au/about/contact/online-enquiry",
+      "phone": ""
+    }
+  ]
+}

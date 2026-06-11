@@ -1,0 +1,227 @@
+{
+  "jurisdiction": {
+    "id": "us-ny",
+    "level": "state",
+    "name": "New York",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-NY",
+    "language": "en",
+    "slug": "new-york",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Keeping, breeding, and selling pet roof rats is legal in New York — both statewide and in New York City. The state classifies Rattus rattus as 'unprotected wildlife,' which may be possessed and sold without restriction (ECL §11-0917(2)); it is not a prohibited 'wild animal' and not on the invasive-species list. NYC's Health Code bans only 'large rodents,' so small pet rats are allowed (a Class P pet-shop permit is needed only for commercial retail). Bringing a rat into NY from another state needs a 30-day vet health certificate; international movement is federally restricted.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "New York classifies Rattus rattus as 'unprotected wildlife,' which ECL §11-0917(2) says 'may be possessed, transported, bought and sold without restriction.' It is not a prohibited 'wild animal' (ECL §11-0512 / §11-0103(6)(e) lists primates, big cats, canids, bears, venomous reptiles, crocodilians — not rodents) and is not on the state invasive-species list (6 NYCRR Part 575). New York CITY allows it too: the NYC Health Code (Art. 161.01(b)(14)) bans only 'large rodents' (beaver, capybara, prairie dog, porcupine, etc.); small domestic rats are permitted.",
+      "governing_law": "NY Envtl. Conservation Law §11-0917(2) (unprotected wildlife) & §11-0512/§11-0103(6) (wild-animal pet ban — rodents excluded); NYC Health Code art. 161.01.",
+      "source_ids": [
+        "ny-ecl-917",
+        "ny-ecl-512",
+        "nyc-161"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No New York breeder license for rodents — the 'Pet Dealer' law (Agriculture & Markets Law Art. 26-A, §400) defines 'animal' as only dogs and cats, so breeding rats at any volume is outside it; only the general anti-cruelty rules apply. In NYC, hobby breeding is fine, but sanitation/nuisance rules (odor, escapes) apply.",
+      "governing_law": "NY Agric. & Markets Law Art. 26-A §400 (Pet Dealer — dogs/cats only); NYC Health Code §161.03 (nuisance).",
+      "source_ids": [
+        "ny-agm-400"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Statewide, selling roof rats is legal — a retailer must just give buyers written/digital care instructions for 'small animals' (which the law lists as including rats), per General Business Law §391-t. In New York CITY, a commercial retail seller needs a Class P 'Pet Shop' permit (NYCHC §161.09); NYC's Local Law 132 (2024) banned the retail sale of dogs, cats, guinea pigs and rabbits, but rats remain sellable. Giving rats away or private/face-to-face placement needs no permit. (Federal USDA licensing applies to wholesale/sight-unseen sales — see United States.)",
+      "governing_law": "NY Gen. Bus. Law §391-t (care instructions); NYC Health Code §161.09 & ch. 5 (Class P pet-shop permit; Local Law 132/2024).",
+      "source_ids": [
+        "ny-gbs-391t",
+        "nyc-petshop"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Within New York, no permit is required. Bringing a rat INTO New York from another state requires a Certificate of Veterinary Inspection (health certificate) issued within 30 days (1CRR-NY 67.2); no rabies vaccine is required for rodents, and enforcement against a private owner with a single pet is reportedly minimal. International import/export is restricted at the federal level (USFWS Form 3-177; CDC African-rodent ban) — see United States.",
+      "governing_law": "1CRR-NY 67.2 (companion-animal import CVI); federal USFWS 50 CFR 14.4 / CDC 42 CFR 71.56.",
+      "source_ids": [
+        "ny-import-cvi"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "In New York CITY, a commercial retail seller of rats needs a Class P 'Pet Shop' permit from DOHMH (facility inspections; integrated pest management). Rats remain legally sellable in NYC even after Local Law 132 (2024) banned retail sale of dogs/cats/guinea pigs/rabbits. Private/face-to-face placement and giveaways need no permit.",
+      "steps": [
+        "If running an NYC retail storefront, obtain a DOHMH Class P pet-shop permit"
+      ],
+      "forms": [
+        {
+          "name": "NYC Health Code Ch. 5 — Pet Shops",
+          "url": "https://www.nyc.gov/assets/doh/downloads/pdf/about/healthcode/chapter5-petshops.pdf"
+        }
+      ],
+      "where_to_file": "NYC DOHMH",
+      "fees": "Municipal pet-shop permit fee",
+      "source_ids": [
+        "nyc-petshop"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Statewide, a retailer selling rats must give the buyer written or digital care instructions for the species at the time of sale (GBS §391-t), and keep copies on file.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "ny-gbs-391t"
+      ]
+    },
+    {
+      "type": "health_cert",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Bringing a rat into New York from another state requires a Certificate of Veterinary Inspection (CVI) issued within 30 days by a USDA-accredited vet (1CRR-NY 67.2). No rabies vaccine is required for rodents.",
+      "steps": [
+        "Have a USDA-accredited vet issue a CVI within 30 days of entry"
+      ],
+      "forms": [
+        {
+          "name": "NY Companion Animal Import & Export",
+          "url": "https://agriculture.ny.gov/companion-animal-import-and-export"
+        }
+      ],
+      "where_to_file": "Carried with the animal",
+      "fees": "Veterinary fee",
+      "source_ids": [
+        "ny-import-cvi"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Keep rats in escape-proof caging — an escaped pet rat is legally indistinguishable from a feral pest under NYC's rodent-control rules (Art. 151), and harborage/active-rodent-signs carry fines. Never release a nonnative species.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "nyc-161"
+      ]
+    }
+  ],
+  "inquiry_focus": "We want to confirm New York treats a captive-bred Rattus rattus as a legal small companion animal (statewide 'unprotected wildlife' and NYC 'small rodent', not a banned 'large rodent' or prohibited wild animal), and whether the 30-day interstate import CVI (1CRR-NY 67.2) is enforced for a non-commercial private owner moving one pet rat.",
+  "sources": [
+    {
+      "id": "ny-ecl-917",
+      "title": "NY ECL §11-0917(2) — unprotected wildlife 'may be possessed, transported, bought and sold without restriction'",
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/11-0917",
+      "authority": "NY State Senate (Consolidated Laws)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ny-ecl-512",
+      "title": "NY ECL §11-0512 / §11-0103(6) — wild-animal pet ban (enumerated dangerous species; rodents excluded)",
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/11-0512",
+      "authority": "NY State Senate",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nyc-161",
+      "title": "NYC Health Code Art. 161.01 — 'large rodents' banned; small rats permitted",
+      "url": "https://www.nyc.gov/assets/doh/downloads/pdf/about/healthcode/health-code-article161.pdf",
+      "authority": "NYC DOHMH",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ny-agm-400",
+      "title": "NY Agric. & Markets Law Art. 26-A §400 — 'Pet Dealer' = dogs/cats only",
+      "url": "https://law.justia.com/codes/new-york/agm/article-26-a/400/",
+      "authority": "NY Consolidated Laws",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ny-gbs-391t",
+      "title": "NY Gen. Bus. Law §391-t — sale of small animals (incl. rats); care instructions",
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/391-T",
+      "authority": "NY State Senate",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nyc-petshop",
+      "title": "NYC Health Code Ch. 5 — Pet Shops (Class P; Local Law 132/2024)",
+      "url": "https://www.nyc.gov/assets/doh/downloads/pdf/about/healthcode/chapter5-petshops.pdf",
+      "authority": "NYC DOHMH",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ny-import-cvi",
+      "title": "NY Dept. of Agriculture & Markets — Companion Animal Import & Export (CVI)",
+      "url": "https://agriculture.ny.gov/companion-animal-import-and-export",
+      "authority": "NY Dept. of Agriculture & Markets",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "NY State DEC (Special Licenses Unit)",
+      "role": "wildlife",
+      "email": "SpecialLicenses@dec.ny.gov",
+      "form_url": "https://dec.ny.gov/regulatory/permits-licenses/fish-wildlife-plant/special-licenses",
+      "phone": "518-402-8985"
+    },
+    {
+      "agency": "NY Dept. of Agriculture & Markets (Animal Import/Export)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://agriculture.ny.gov/animals/animal-import-export",
+      "phone": "(518) 457-3502"
+    },
+    {
+      "agency": "NYC DOHMH (Veterinary & Pest Control)",
+      "role": "health",
+      "email": "",
+      "form_url": "https://portal.311.nyc.gov/",
+      "phone": "311"
+    }
+  ]
+}

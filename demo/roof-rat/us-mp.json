@@ -1,0 +1,155 @@
+{
+  "jurisdiction": {
+    "id": "us-mp",
+    "level": "territory",
+    "name": "Northern Mariana Islands",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-MP",
+    "language": "en",
+    "slug": "northern-mariana-islands",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat",
+      "CNMI"
+    ]
+  },
+  "summary": "The Northern Mariana Islands (CNMI) is NOT a closed-list ban on pet rats - it's a permit pathway. Its Animal Quarantine rules (NMIAC T85-20.1) require a written entry permit for ALL animal imports from the Chief of Animal Health & Industry, but the only prohibited pet/guard mammals are a NAMED list (skunks, bats, raccoons, foxes, coyotes, wolves, wild/feral canids and felids and crosses) - NEITHER Rattus rattus NOR R. norvegicus appears on it. DLNR's own import page treats non-cat/dog animals as case-by-case ('email us, regulations vary by species'), and Customs classifies all animals as 'permits-required,' not prohibited. So a rat can be imported under an entry permit + a vet health certificate (rodents need no rabies vaccine), plus a DFW wildlife import permit ($10/species); once lawfully imported, keeping isn't separately restricted. Federal overlay: R. rattus (unlike the exempt R. norvegicus) needs a USFWS Form 3-177 wildlife declaration and must route through a designated port (Honolulu) or get a Designated Port Exception Permit. Breeding/intra-island transfer are simply unaddressed by CNMI law.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Once a rat is lawfully imported under an entry permit, no CNMI statute prohibits keeping it - the T85-20.1 prohibited-pet-mammal list names only skunks/bats/raccoons/foxes/coyotes/wolves/wild canids+felids, not Rattus. CNMI PL 21-31 (cruelty/theft) doesn't restrict rat ownership.",
+      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
+      "source_ids": [
+        "mp-t85-20-1",
+        "mp-dlnr-import"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "No CNMI law addresses private captive breeding of pet rodents; the permit scheme governs import, not domestic breeding. The DFW non-native-release prohibition is an indirect constraint if stock escaped. Closed-colony breeding from lawfully-imported animals appears outside any specific prohibition but isn't affirmatively authorized - confirm with DLNR.",
+      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
+      "source_ids": [
+        "mp-dfw",
+        "mp-t85-20-1"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "No CNMI statute specifically prohibits or permits intra-island sale/transfer of captive-born pet rats; the DFW permit regime is for import/export, and the cruelty law governs treatment, not sale. No commercial-pet licensing framework identified - confirm with DLNR.",
+      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
+      "source_ids": [
+        "mp-dfw"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Import requires an entry permit from the Chief of Animal Health & Industry (advance inquiry; permit fee; USDA-accredited vet health certificate within 10 days; rodents need no rabies vaccine) + a DFW wildlife import permit ($10/species). Federal: R. rattus needs a USFWS Form 3-177 + a USFWS-designated port (Honolulu) or a Designated Port Exception Permit (R. norvegicus is exempt). CNMI is outside US customs territory but USFWS/APHIS/CDC apply. Never release.",
+      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
+      "source_ids": [
+        "mp-t85-20-1",
+        "mp-dlnr-import",
+        "mp-usfws"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "To bring a rat into CNMI: email DLNR Animal Health in advance, obtain an entry permit from the Chief of Animal Health & Industry + a USDA-accredited vet health certificate (within 10 days; no rabies vaccine for rodents), and a DFW wildlife import permit ($10/species). For R. rattus add a USFWS Form 3-177 + route via a designated port (Honolulu) or a Designated Port Exception Permit. Never release.",
+      "steps": [
+        "Email CNMI DLNR Animal Health (cnmianimalhealth@gmail.com) with species/number/purpose",
+        "Obtain the entry permit + DFW import permit + USDA health certificate",
+        "For R. rattus: file USFWS Form 3-177 + designated-port/DPEP"
+      ],
+      "forms": [
+        {
+          "name": "USFWS Form 3-177 (wildlife declaration - R. rattus)",
+          "url": "https://www.fws.gov/media/wildlife-shipments-declaration-form-3-177"
+        }
+      ],
+      "where_to_file": "CNMI DLNR - Division of Agriculture, Animal Health Section",
+      "fees": "CNMI entry permit fee + DFW $10/species",
+      "source_ids": [
+        "mp-dlnr-import",
+        "mp-usfws"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Are domestically-bred pet rats (Rattus norvegicus and Rattus rattus) eligible for an animal entry permit under NMIAC T85-20.1, and what documentation/health-certificate/quarantine requirements apply specifically to pet rats? (2) Does the Chief of Animal Health & Industry have discretion to permit pet rodent species not named in the prohibited-animal list (which covers only skunks/bats/raccoons/foxes/coyotes/wolves/wild canids+felids)? (3) Are separate permits required from BOTH the Animal Health Section and the Division of Fish & Wildlife ($10/species), or does one entry permit suffice?",
+  "sources": [
+    {
+      "id": "mp-t85-20-1",
+      "title": "NMIAC Title 85-20.1 - Animal Quarantine Rules (entry permit for all imports; named prohibited-mammal list excludes Rattus)",
+      "url": "https://cnmilaw.org/pdf/admincode/T85/T85-20.1.pdf",
+      "authority": "CNMI Law Revision Commission",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "mp-dlnr-import",
+      "title": "CNMI DLNR - Importing a Pet into the CNMI (case-by-case for non-cat/dog; Animal Health contact)",
+      "url": "https://dlnr.cnmi.gov/animal-import.html",
+      "authority": "CNMI Dept of Lands & Natural Resources",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "mp-dfw",
+      "title": "NMIAC Title 85-30.1 - Non-Commercial Fish & Wildlife Regulations (DFW import permit $10/species; no-release rule)",
+      "url": "https://cnmilaw.org/pdf/admincode/T85/T85-30.1.pdf",
+      "authority": "CNMI Law Revision Commission",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "mp-usfws",
+      "title": "USFWS - Importers & Exporters (R. norvegicus exempt from Form 3-177; R. rattus NOT exempt -> declaration + designated port)",
+      "url": "https://www.fws.gov/program/office-of-law-enforcement/information-importers-exporters",
+      "authority": "US Fish & Wildlife Service",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "mp-customs",
+      "title": "CNMI Customs - Import Requirements (animals = permits-required, not prohibited)",
+      "url": "https://www.finance.gov.mp/cus-import-requirements.php",
+      "authority": "CNMI Department of Finance / Customs",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "CNMI DLNR - Division of Agriculture, Animal Health Section",
+      "role": "agriculture",
+      "email": "cnmianimalhealth@gmail.com",
+      "form_url": "https://dlnr.cnmi.gov/animal-import.html",
+      "phone": "+1 670-256-3319",
+      "primary": true,
+      "inquiry_language": "en"
+    }
+  ]
+}

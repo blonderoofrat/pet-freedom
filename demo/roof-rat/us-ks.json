@@ -1,0 +1,124 @@
+{
+  "jurisdiction": {
+    "id": "us-ks",
+    "level": "state",
+    "name": "Kansas",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-KS",
+    "language": "en",
+    "slug": "kansas",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Kansas is among the most permissive states for the roof rat. The Dangerous Regulated Animals Act (K.S.A. 32-1301+) covers only big cats, bears, and non-native venomous snakes — no rodents. KDWP's exotic-wildlife rule (K.A.R. 115-20-3) AFFIRMATIVELY allows possessing, breeding, and selling non-native species with no permit (just confine them and never release). The Pet Animal Act covers rodents but exempts a resident home breeder who sells only animals raised on their own premises, and its dealer license targets dog/cat sellers. So keeping, breeding, and selling/giving a captive-bred roof rat is legal; the only open edge is whether an import CVI applies (pocket pets are exempt from the import permit; confirm the CVI with the Dept of Agriculture).",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The Dangerous Regulated Animals Act (K.S.A. 32-1301/-1302) lists only big cats, bears, and non-native venomous snakes — no rodents. KDWP's exotic-wildlife rule (K.A.R. 115-20-3) permits possession of non-native species (confined, not released) with NO permit. KDWP's nuisance-control guidance states no permit is required for Norway rats or house mice. No statute restricts keeping a captive-bred roof rat.",
+      "governing_law": "K.S.A. 32-1301 & 32-1302; K.A.R. 115-20-3.",
+      "source_ids": [
+        "ks-32-1301",
+        "ks-115-20-3"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "K.A.R. 115-20-3 permits possession/breeding of non-native species without a permit. The Pet Animal Act (K.S.A. 47-1701+) covers rodents but EXEMPTS a resident home breeder who sells only animals produced and raised on their own premises — so hobby breeding needs no license.",
+      "governing_law": "K.A.R. 115-20-3; K.S.A. 47-1701 (home-breeder exemption).",
+      "source_ids": [
+        "ks-115-20-3",
+        "ks-47-1701"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "K.A.R. 115-20-3 expressly authorizes sale of exotic (non-native) wildlife with no KDWP permit. The Pet Animal Act's pet-shop license is needed for retail of animals NOT raised on your premises; a resident home breeder selling their own is exempt, and the 'animal distributor' license targets dog/cat dealers. Free adoption is unregulated.",
+      "governing_law": "K.A.R. 115-20-3; K.S.A. 47-1701/-1703 (home-breeder exemption; dealer = dogs/cats).",
+      "source_ids": [
+        "ks-115-20-3",
+        "ks-47-1701"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "K.A.R. 115-20-3 requires confinement but doesn't restrict intrastate movement. For IMPORT, the Dept of Agriculture exempts 'pocket pets' (rats/hamsters/gerbils/mice) from the zoo/exotic-animal import permit; whether the general 30-day CVI rule applies to pet rodents isn't explicit — confirm with the KDA Import Desk. Never release (K.A.R. 115-20-3 no-release).",
+      "governing_law": "K.A.R. 115-20-3 (confinement/no-release); KDA Division of Animal Health import rules (pocket pets exempt from permit).",
+      "source_ids": [
+        "ks-115-20-3",
+        "ks-kda-import"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "K.A.R. 115-20-3 requires exotic wildlife to be confined and never released into Kansas lands/waters. Importing? Pocket pets are exempt from the KDA import permit; confirm any CVI with the Import Desk. Check local ordinances.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "ks-115-20-3"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ks-32-1301",
+      "title": "K.S.A. 32-1301 / 32-1302 — Dangerous Regulated Animals (big cats/bears/venomous snakes; no rodents)",
+      "url": "https://ksrevisor.gov/statutes/chapters/ch32/032_013_0001.html",
+      "authority": "Kansas Statute Revisor",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ks-115-20-3",
+      "title": "K.A.R. 115-20-3 — Exotic Wildlife; Possession, Sale & Requirements (non-native allowed, no permit)",
+      "url": "https://www.animallaw.info/administrative/kansas-exotic-pets-115-20-3-exotic-wildlife-possession-sale-and-requirements",
+      "authority": "KDWP (via MSU Animal Legal & Historical Center)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ks-47-1701",
+      "title": "K.S.A. 47-1701 et seq. — Pet Animal Act (resident home-breeder exemption; dealer = dogs/cats)",
+      "url": "https://ksrevisor.gov/statutes/chapters/ch47/047_017_0001.html",
+      "authority": "Kansas Statute Revisor",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ks-kda-import",
+      "title": "Kansas Dept of Agriculture — Import & Export Regulations (pocket pets exempt from import permit)",
+      "url": "https://www.agriculture.ks.gov/divisions-programs/division-of-animal-health/import-and-export-regulations",
+      "authority": "Kansas Dept of Agriculture, Division of Animal Health",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

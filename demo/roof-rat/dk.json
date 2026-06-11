@@ -1,0 +1,208 @@
+{
+  "jurisdiction": {
+    "id": "dk",
+    "level": "country",
+    "name": "Denmark",
+    "parent": null,
+    "country": "DK",
+    "iso": "DK",
+    "language": "da",
+    "inquiry_language": "en",
+    "slug": "denmark",
+    "local_terms": [
+      "Rattus rattus",
+      "sort rotte",
+      "husrotte",
+      "tagrotte"
+    ]
+  },
+  "summary": "Denmark is a genuinely unsettled — and likely restrictive — case for the roof rat, because of an unusual conflict. The forbidden-exotic-pets order (BEK 1261/2015) does NOT list Rattus rattus, so there's no exotic-permit bar. BUT Denmark's mandatory rat-control law (Bekendtgørelse om forebyggelse og bekæmpelse af rotter, BEK 2307/2021, updated 2024, under the Environmental Protection Act) explicitly names BOTH Rattus norvegicus AND Rattus rattus in its scope and imposes a duty on every citizen to REPORT, and on every municipality to ERADICATE, any occurrence of these rats — with no written exemption for captive-bred pets. Danish natural-history and pest authorities consistently read this as meaning R. rattus cannot lawfully be kept as a pet (unlike the de-facto-tolerated domesticated tamrotte, R. norvegicus). Whether a caged pet roof rat actually triggers the report-and-destroy duty has never been resolved by published agency guidance — the single most important question, which we've queued.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "agency_species_trap",
+      "problem": "In Denmark, the roof rat (Rattus rattus) is not on the forbidden-exotic-pets list, so there is no exotic-permit ban. The obstacle comes from a different place: Denmark's mandatory rat-control order (currently BEK nr. 1170 of 8 September 2023, in force since 1 January 2024, issued under the Environmental Protection Act) names BOTH the brown rat (Rattus norvegicus) AND the roof rat (Rattus rattus) by species in its scope. That order makes it every citizen's duty to report any \"occurrence\" (forekomst) of these rats and every municipality's duty to eradicate them — and it contains no written exemption for a captive-bred, caged pet. Because the order targets the SPECIES, not wild behaviour, a tame indoor roof rat reads as caught by the same rule that targets pest infestations. No published guidance has ever resolved whether a single caged pet actually triggers the report-and-destroy duty, which leaves keepers in legal limbo. (Note: the brown rat — the familiar \"fancy rat\" or tamrotte — is named in exactly the same order, yet is kept freely as a pet across Denmark; the roof rat is treated differently only by reputation, not by any difference in the rule's wording.)",
+      "ask": "We are asking Miljøstyrelsen (the Danish Environmental Protection Agency, which authors the rat-control order) for one of two concrete, lawful clarifications: (1) a written ruling or published guidance note stating that an individually captive-bred Rattus rattus kept in a secure cage indoors is NOT a reportable \"forekomst\" under the rat-control order — i.e., the report-and-eradicate duty reaches only free-living rat populations, not a contained pet; OR (2) at the next revision of the order, a small captive-pet carve-out exempting securely housed, captive-bred pet specimens — the same practical treatment the brown rat (fancy rat) already enjoys under the identical wording. We also flag to the Folketing's Environment and Food Committee that the species-level wording, with no pet carve-out, appears to be a drafting oversight worth correcting, since neighbouring countries (Netherlands, Sweden) allow roof-rat pets without this conflict.",
+      "branch_note": "This is principally a LAW-AS-WRITTEN problem with an agency-rulemaking lever — a hybrid, but the controlling fact is that the species sits on a statutory list. The roof rat (Rattus rattus) is named BY SPECIES in the rat-control order (BEK nr. 1170 of 8 Sept 2023, under Miljøbeskyttelsesloven). The municipal eradication duty and the citizen report duty flow directly from that wording, so an enforcing municipality or the agency is applying the rule CORRECTLY when it treats a roof rat as in-scope. Therefore appealing for mercy or arguing \"you're misreading the law\" will NOT work — the text says what it says. The real lever is to change or clarify the text. Crucially, in Denmark the rat-control order is a ministerial bekendtgørelse drafted and administered by Miljøstyrelsen, NOT primary legislation passed line-by-line by the Folketing — so the agency itself is the body that can fix it, either by a published scope-clarification (confirming a caged pet is not a \"forekomst\") or by adding a captive-pet exemption at the next revision. That makes Miljøstyrelsen the primary, legitimate target even though this is a \"law on a list\" case. The one genuinely open agency-misreading angle worth preserving is the unresolved definitional question — whether a contained pet is even a \"forekomst\" at all — which is a clarification request, not a plea against correct enforcement. The Folketing's Environment and Food Committee is the legislative backstop if the agency declines to amend its own order. Note for keepers: do NOT expect a single caseworker to grant a personal exemption to a written rule on the spot — the fix is a guidance note or a rule amendment, which is a policy step, not a frontline discretion.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Miljøstyrelsen — Rat control unit (Rottebekæmpelse)",
+          "type": "agency",
+          "email": "rotter@mst.dk",
+          "form_url": "https://mst.dk/om-miljoestyrelsen/kontakt-miljoestyrelsen",
+          "why": "Miljøstyrelsen drafts and administers the rat-control order (BEK 1170/2023) that names Rattus rattus by species — so it is the body that can either publish a scope clarification (a caged pet is not a reportable 'forekomst') or add a captive-pet exemption at the next revision. rotter@mst.dk is the verified subject-specific rat-control inbox; the contact page is the official backup channel. This is the primary, correct target for both the clarification ask and the rule-amendment ask."
+        },
+        {
+          "name": "Folketinget — Miljø- og Fødevareudvalget (Environment and Food Committee)",
+          "type": "legislature",
+          "form_url": "https://www.ft.dk/da/udvalg/udvalgene/MOF",
+          "why": "Legislative backstop. If Miljøstyrelsen declines to amend its own order or clarify scope, the Folketing's Environment and Food Committee is the channel that can press the Minister to add a captive-pet carve-out at revision. Use this only as escalation, and contact the committee via its official page — never an individual member by name."
+        },
+        {
+          "name": "Fødevarestyrelsen (Danish Veterinary and Food Administration)",
+          "type": "agency",
+          "form_url": "https://en.foedevarestyrelsen.dk/about-us/contact",
+          "why": "Secondary cross-check. The roof rat is NOT on Fødevarestyrelsen's forbidden-exotic list (BEK 1261/2015), so this agency can confirm in writing that the exotic-pet regime poses no bar — pinning the issue squarely on the rat-control order and strengthening the case put to Miljøstyrelsen. Useful for documenting that no exotic-permit pathway is even required."
+        }
+      ],
+      "template": {
+        "en": "Subject: Request for clarification / captive-pet exemption — Rattus rattus under the rat-control order (BEK nr. 1170 of 8 September 2023)\n\nDear Miljøstyrelsen,\n\nI am writing about the keeping of captive-bred roof rats (Rattus rattus) as pets. The rat-control order names this species alongside the brown rat (Rattus norvegicus) but contains no written exemption for a tame, captive-bred animal kept in a secure cage.\n\nThe animals I am asking about are bred in captivity, hand-tame, kept permanently indoors in a closed enclosure, and never released. They pose none of the public-health risks the order is designed to address — exactly like the brown rat (the fancy rat / tamrotte), which is named in the same order yet is kept freely as a pet throughout Denmark.\n\nI respectfully request either: (1) a written confirmation that an individually caged, captive-bred Rattus rattus is not a reportable 'forekomst' under the order; or (2) a small captive-pet exemption at the next revision, matching the practical treatment the brown rat already receives.\n\nThank you for your consideration. I would be grateful for a written reply.\n\nKind regards,\n[Your name]\n[Your town/region, if you wish]",
+        "da": "Emne: Anmodning om afklaring / undtagelse for kæledyr — Rattus rattus efter rottebekendtgørelsen (BEK nr. 1170 af 8. september 2023)\n\nKære Miljøstyrelse\n\nJeg skriver vedrørende hold af opdrættede husrotter (Rattus rattus) som kæledyr. Rottebekendtgørelsen nævner denne art sammen med den brune rotte (Rattus norvegicus), men indeholder ingen skriftlig undtagelse for et tamt, i fangenskab opdrættet dyr, der holdes i et sikkert bur.\n\nDe dyr, jeg spørger om, er opdrættet i fangenskab, håndtamme, holdes permanent indendørs i en lukket indhegning og sættes aldrig ud i naturen. De udgør ingen af de sundhedsrisici, som bekendtgørelsen skal imødegå — præcis som den brune rotte (tamrotten), der er nævnt i samme bekendtgørelse, men holdes frit som kæledyr i hele Danmark.\n\nJeg anmoder respektfuldt om enten: (1) en skriftlig bekræftelse af, at en individuelt indburet, i fangenskab opdrættet Rattus rattus ikke udgør en anmeldelsespligtig 'forekomst' efter bekendtgørelsen; eller (2) en mindre undtagelse for kæledyr ved næste revision, svarende til den praktiske behandling, den brune rotte allerede får.\n\nTak for jeres overvejelse. Jeg vil være taknemmelig for et skriftligt svar.\n\nMed venlig hilsen\n[Dit navn]\n[Din by/region, hvis du ønsker det]"
+      },
+      "confidence_notes": "VERIFIED (June 2026 web searches): The current Danish rat-control order is BEK nr. 1170 of 08/09/2023, in force since 1 January 2024 — it SUPERSEDES the BEK 2307/2021 cited in our internal file; both our targets and template now reference the live order. Confirmed the current order's scope expressly covers BOTH Rattus norvegicus AND Rattus rattus (Miljøstyrelsen news page + lovguiden summary). Confirmed the official rat-control inbox rotter@mst.dk appears across multiple official mst.dk contexts (R1 authorisation submissions, system access); it is the correct subject-specific Miljøstyrelsen channel, with the general contact page at mst.dk/om-miljoestyrelsen/kontakt-miljoestyrelsen as backup. Confirmed Fødevarestyrelsen's official contact page (en.foedevarestyrelsen.dk/about-us/contact, tel +45 72 27 69 00); the roof rat is NOT on its forbidden-exotic list (BEK 1261/2015), so Fødevarestyrelsen is a secondary/cross-check touchpoint, not the primary lever. UNCERTAIN / not resolved by any published source: whether a single caged pet roof rat legally counts as a reportable \"forekomst\" — no agency ruling, guidance note, or enforcement case against a hobbyist was found; this remains the open question the kit asks the agency to answer. I could not load the full statutory text of retsinformation.dk (HTTP 403/429) or lovguiden directly, so the species-scope confirmation rests on the official Miljøstyrelsen news page and the lovguiden summary rather than a first-hand reading of the operative clause. Danish (da) is the sole official legal language; template provided in en + da. This is a research aid, not legal advice — keepers should get a written ruling before acquiring a roof rat.",
+      "local_lang": "da"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "The rat-control order BEK 2307/2021 (under Miljøbeskyttelsesloven §17a) defines its scope as control of R. norvegicus AND R. rattus and imposes a citizen duty to report + a municipal duty to eradicate all occurrences, with no textual carve-out for captive specimens. Danish authorities (Naturbasen, Dansk Pattedyratlas, Dansk Pattedyrforening) read this as making it impractical/unlawful to keep R. rattus as a pet — though no published enforcement ruling against a hobbyist was found. The separate forbidden-exotic order (BEK 1261/2015) does NOT list R. rattus, so the restriction stems from rat-control law, not an exotic ban.",
+      "governing_law": "BEK 2307/2021 (rat control; names R. rattus) under Miljøbeskyttelsesloven §17a; BEK 1261/2015 (forbidden exotics — R. rattus NOT listed).",
+      "source_ids": [
+        "dk-bek-2307",
+        "dk-bek-1261",
+        "dk-pattedyratlas"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Breeding compounds the keeping problem: if a single specimen triggers the rat-control report duty, offspring amplify it. Hobby breeding of the domesticated tamrotte (R. norvegicus) needs no permit, but for R. rattus the species-level rat-control status is the binding constraint. Commercial breeding/sale of any species needs a Fødevarestyrelsen tilladelse (BEK 1366/2017), which for R. rattus would likely be a non-starter.",
+      "governing_law": "BEK 2307/2021; Dyrevelfærdsloven LBK 1597/2021; BEK 1366/2017 (commercial trade permit).",
+      "source_ids": [
+        "dk-bek-2307",
+        "dk-bek-1366",
+        "dk-dyrevelfaerd"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Commercial sale of animals needs a Fødevarestyrelsen tilladelse (BEK 1366/2017); hobby transfer of common pets (e.g., R. norvegicus) isn't regulated at the transfer step. For R. rattus the same rat-control conflict applies regardless of commercial vs gratuitous: moving a live roof rat onto another person's premises introduces a rat-control-regulated species there. The Danish pet-rat scene (Den Danske Tamrotteforening) focuses on R. norvegicus; R. rattus is practically unavailable in the trade.",
+      "governing_law": "BEK 1366/2017; Dyrevelfærdsloven LBK 1597/2021; BEK 2307/2021.",
+      "source_ids": [
+        "dk-bek-1366",
+        "dk-bek-2307"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "Intra-EU: EU pet-movement harmonisation (Reg. 576/2013) covers only dogs/cats/ferrets, so national rules apply; Denmark's guidance for non-dog/cat/ferret pets says check national rules, and no specific inbound health-certificate rule for pet rodents was found. BUT the rat-control restriction on R. rattus would attach the moment the animal enters Denmark, making transport moot if keeping is restricted. Internal movement likewise introduces a reportable species at the destination. No permit pathway identified. Never release.",
+      "governing_law": "EU Reg. 2016/429; Fødevarestyrelsen travel guidance; BEK 2307/2021 (binding constraint).",
+      "source_ids": [
+        "dk-fvst-travel",
+        "dk-bek-2307"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Denmark's mandatory rat-control law names Rattus rattus and requires reporting/eradication of rat occurrences, with no written pet exemption — so keeping a roof rat is at best legally uncertain and likely restricted, even though it's not on the forbidden-exotic list. Get a written ruling from Fødevarestyrelsen / Miljøstyrelsen BEFORE acquiring one. Never release a roof rat.",
+      "steps": [
+        "Request a written ruling on whether a caged pet R. rattus triggers the rat-control report/destroy duty (Fødevarestyrelsen + Miljøstyrelsen)"
+      ],
+      "forms": [],
+      "where_to_file": "Fødevarestyrelsen (exotic-pet) / Miljøstyrelsen (rat control)",
+      "fees": "",
+      "source_ids": [
+        "dk-bek-2307"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Does the rat-control order (BEK 2307/2021, incl. the 2024 update) apply to an individually captive-bred Rattus rattus kept in a secure cage as a pet — i.e., does 'forekomst' (occurrence) cover a caged pet rat on private premises — or is the report/eradicate duty limited to free-living rat populations? (2) If captive R. rattus is covered, is there any dispensation or written ruling (from Miljøstyrelsen or the municipality) by which a hobbyist can lawfully keep it? (3) Does Fødevarestyrelsen's forbidden-exotic list (BEK 1261/2015) cover R. rattus, or does it fall entirely outside the exotic-pet regime so the only bar is the rat-control law?",
+  "sources": [
+    {
+      "id": "dk-bek-2307",
+      "title": "BEK nr. 2307 af 06/12/2021 — Bekendtgørelse om forebyggelse og bekæmpelse af rotter (names R. norvegicus AND R. rattus)",
+      "url": "https://www.retsinformation.dk/eli/lta/2021/2307",
+      "authority": "Miljøministeriet (Retsinformation)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "dk-bek-1261",
+      "title": "BEK nr. 1261 af 17/11/2015 — Bekendtgørelse om forbud mod hold af særlige dyr (Bilag 1 Rodentia; Rattus NOT listed)",
+      "url": "https://www.retsinformation.dk/eli/lta/2015/1261",
+      "authority": "Ministeriet for Fødevarer, Landbrug og Fiskeri",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "dk-pattedyratlas",
+      "title": "Husrotte (Rattus rattus) — Dansk Pattedyratlas/Lex: covered without exception by rat-control law",
+      "url": "https://pattedyratlas.lex.dk/Husrotte",
+      "authority": "Dansk Pattedyratlas / Lex",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "dk-dyrevelfaerd",
+      "title": "Dyrevelfærdsloven LBK nr. 1597 af 08/07/2021 — Animal Welfare Act",
+      "url": "https://www.retsinformation.dk/eli/lta/2021/1597",
+      "authority": "Retsinformation",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "dk-bek-1366",
+      "title": "BEK nr. 1366 af 01/12/2017 — erhvervsmæssig handel med dyr (commercial animal-trade permit)",
+      "url": "https://www.retsinformation.dk/eli/lta/2017/1366",
+      "authority": "Retsinformation",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "dk-fvst-travel",
+      "title": "Fødevarestyrelsen — Travelling with pet animals (non-dog/cat/ferret: check national rules)",
+      "url": "https://en.foedevarestyrelsen.dk/animals/travelling-with-pet-animals",
+      "authority": "Fødevarestyrelsen",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "dk-eu-1143",
+      "title": "Regulation (EU) 1143/2014 — Union list (R. rattus not among the listed species)",
+      "url": "https://eur-lex.europa.eu/eli/reg_impl/2025/1422/oj/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Fødevarestyrelsen (Danish Veterinary and Food Administration)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://en.foedevarestyrelsen.dk/about-us/contact",
+      "phone": "+45 72 27 69 00",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Miljøstyrelsen (Danish Environmental Protection Agency)",
+      "role": "environment",
+      "email": "",
+      "form_url": "https://mst.dk/service/kontakt/",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "en"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "jurisdiction": {
+    "id": "pl",
+    "level": "country",
+    "name": "Poland",
+    "parent": null,
+    "country": "PL",
+    "iso": "PL",
+    "language": "pl",
+    "inquiry_language": "pl",
+    "slug": "poland",
+    "local_terms": [
+      "Rattus rattus",
+      "szczur śniady",
+      "szczur czarny"
+    ]
+  },
+  "summary": "Poland is permissive for the roof rat. Rattus rattus is NOT on the EU invasive-species Union list (Reg. 1143/2014) and NOT on Poland's national IAS list (Council of Ministers Regulation of 9 Dec 2022, Dz.U. 2022 poz. 2649), so the blanket keep/breed/sell/transport prohibitions of the 2021 Alien Species Act (Ustawa o gatunkach obcych) do not apply. It's also not on the CITES appendices (so no registry duty) and not on Poland's dangerous-animals list (so no RDOŚ permit). That leaves only the general Animal Welfare Act's standard care duties. So a hobbyist may keep, breed, give away and transport captive-bred roof rats. One caveat: ecologists do classify R. rattus as an alien synanthropic species present in Polish seaports/the Odra corridor, and the IAS framework is designed to add species when evidence supports it — so a future national-list addition can't be excluded. We've queued a GDOŚ confirmation inquiry.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "legislative_watch",
+      "problem": "Good news first: in Poland, keeping, breeding, giving away and transporting captive-bred roof rats (Rattus rattus, \"szczur śniady\") is currently legal. The roof rat is NOT on the EU Union list of invasive alien species (Reg. 1143/2014), NOT on Poland's national invasive-species list (Council of Ministers Regulation of 9 Dec 2022, Dz.U. 2022 poz. 2649), NOT on CITES, and NOT on the dangerous-animals list. That means the keep/breed/sell/transport bans of the 2021 Alien Species Act (Ustawa o gatunkach obcych) do not apply, and only the general Animal Welfare Act care duties do. The catch: this is a watch-item, not a settled freedom. Polish ecologists (IOP Kraków) record R. rattus as an alien synanthropic species present in Polish seaports and the Odra corridor, and it sits on the IUCN \"100 worst invasives\" list. The national invasive-species framework is built to ADD species as evidence accumulates, through GDOŚ-run analyses and consultations. If R. rattus were ever added to the national list, keeping and breeding would flip overnight to prohibited-without-permit — sweeping up tame, captive-bred pets alongside any feral concern. The job now is to make sure that, if listing is ever proposed, the distinction between domesticated captive stock and wild/feral populations is on the record before a rule is written.",
+      "ask": "Ask GDOŚ to (1) confirm in writing that Rattus rattus is not currently on, and is not actively proposed for, Poland's national invasive-alien-species list, and what the status of any such process is; (2) confirm that a private person running a closed, non-commercial hobby colony of captive-bred roof rats has no registration or permit duty under the Alien Species Act, and that giving away or selling captive-bred animals to private individuals needs no permit; and (3) note for the record — for any future listing assessment — that responsible keepers want domesticated, captive-bred indoor stock treated as a distinct category from feral/wild populations, with a captive-keeping exemption or grandfathering for existing tame animals rather than a blanket ban. Then monitor GDOŚ consultations so you can comment IF and WHEN a listing is ever proposed.",
+      "branch_note": "This is branch (b)-adjacent but with a critical twist: there is NO current law restricting roof rats, so there is nothing an agency is misreading and nothing yet to repeal. The lever is NOT a clarification fight and NOT a present rulemaking comment — it is WATCH-AND-PREPARE. The binding instrument is a Council of Ministers regulation (a list) issued under the Alien Species Act; a species lands on it only after GDOŚ commissions a scientific risk analysis and runs public consultations. So if the status ever changes, the real decision is legislative/executive (the regulation + the Sejm-passed Act behind it), and appealing to GDOŚ to \"exempt my pets\" once a species is correctly listed would not work — a listing decision rides on ecological risk, not on individual keeping. The productive moves NOW are: (1) get GDOŚ's written confirmation of the current non-listed status and the absence of any permit duty (a declaratory/informational request the agency CAN answer, because it administers the list), and (2) put the captive-bred-vs-feral distinction on record and subscribe to GDOŚ's IAS consultation channel so that IF a national-listing proposal ever opens a comment window, keepers can argue for a captive-keeping carve-out at the rulemaking stage — the only stage where it can actually be built in. In short: lever = the AGENCY for confirmation today, and the FUTURE PUBLIC-COMMENT/rulemaking window for any listing proposal; there is no live bill to fight right now.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Generalna Dyrekcja Ochrony Środowiska (GDOŚ) — General Directorate for Environmental Protection",
+          "type": "agency",
+          "why": "Administers Poland's invasive-alien-species framework (the national list under the Alien Species Act) and runs the species risk-analysis and public consultations. The right body to (a) confirm in writing that Rattus rattus is not listed and not actively proposed, and (b) confirm there is no permit/registration duty for a closed captive hobby colony. Official inbox verified live on the GDOŚ gov.pl contact page: kancelaria@gdos.gov.pl.",
+          "email": "kancelaria@gdos.gov.pl",
+          "form_url": "https://www.gov.pl/web/gdos/kontakt"
+        },
+        {
+          "name": "GDOŚ — Invasive Alien Species (IGO) consultations / project pages",
+          "type": "public_comment",
+          "why": "GDOŚ publishes its analyzed-species lists and any open public consultations on invasive species here. This is the channel to monitor so that IF a national listing of Rattus rattus is ever proposed, keepers can submit comments during the official window arguing for a captive-bred/domesticated carve-out. No roof-rat consultation is open now — this is for ongoing watch.",
+          "form_url": "https://www.gov.pl/web/gdos/konsultacje-komisji-europejskiej-w-sprawie-poszerzenia-unijnej-listy-inwazyjnych-gatunkow-obcych"
+        }
+      ],
+      "template": {
+        "en": "To: General Directorate for Environmental Protection (GDOŚ)\nSubject: Status of Rattus rattus (szczur śniady) under the invasive alien species framework and keeping of captive-bred animals\n\nDear Sir or Madam,\n\nI keep tame, captive-bred roof rats (Rattus rattus) as pets. They are bred in human care, kept indoors their whole lives, and are never released into the wild.\n\nI understand that Rattus rattus is not on the EU Union list, nor on Poland's national list of invasive alien species (Dz.U. 2022 poz. 2649), and that the keeping/breeding prohibitions of the Act on Alien Species (Dz.U. 2021 poz. 1718) therefore do not apply. I would be grateful for written confirmation of three points:\n1) Is Rattus rattus currently on, or actively proposed for, Poland's national invasive-species list, and what is the status of any such process?\n2) Does a private person running a closed, non-commercial hobby colony of captive-bred roof rats have any registration or permit duty under the Act on Alien Species?\n3) Does giving away or selling captive-bred roof rats to private individuals require any permit or registration?\n\nFinally, should listing ever be assessed, I ask that domesticated, captive-bred indoor animals be considered a distinct category from feral populations, and that any future rule allow continued keeping of existing tame animals rather than a blanket ban.\n\nThank you for your time.\n[Your name]\n[Your contact details]",
+        "pl": "Do: Generalna Dyrekcja Ochrony Środowiska (GDOŚ)\nDotyczy: Status Rattus rattus (szczura śniadego) na gruncie przepisów o inwazyjnych gatunkach obcych oraz utrzymywanie zwierząt pochodzących z hodowli zamkniętej\n\nSzanowni Państwo,\n\nUtrzymuję jako zwierzęta domowe oswojone szczury śniade (Rattus rattus) pochodzące z hodowli. Zwierzęta te rodzą się i są wychowywane pod opieką człowieka, przebywają wyłącznie w pomieszczeniach zamkniętych i nigdy nie są wypuszczane do środowiska.\n\nZ posiadanych przeze mnie informacji wynika, że Rattus rattus nie figuruje na liście unijnej ani na krajowej liście inwazyjnych gatunków obcych (Dz.U. 2022 poz. 2649), wobec czego zakazy utrzymywania i hodowli wynikające z Ustawy o gatunkach obcych (Dz.U. 2021 poz. 1718) nie mają zastosowania. Będę wdzięczny/wdzięczna za pisemne potwierdzenie trzech kwestii:\n1) Czy Rattus rattus jest obecnie umieszczony na krajowej liście inwazyjnych gatunków obcych lub jest aktywnie rozważany do umieszczenia na niej, i jaki jest status tego procesu?\n2) Czy osoba prywatna prowadząca zamkniętą, niekomercyjną hodowlę hobbystyczną szczurów śniadych pochodzenia hodowlanego podlega jakimkolwiek obowiązkom rejestracyjnym lub zezwoleniowym na gruncie Ustawy o gatunkach obcych?\n3) Czy nieodpłatne przekazanie lub sprzedaż osobom prywatnym szczurów śniadych z hodowli zamkniętej wymaga zezwolenia lub rejestracji?\n\nNa koniec, gdyby kiedykolwiek rozważano umieszczenie tego gatunku na liście, proszę o potraktowanie zwierząt udomowionych, pochodzących z hodowli i utrzymywanych w pomieszczeniach zamkniętych jako odrębnej kategorii względem populacji dziko żyjących, oraz o to, by ewentualne przyszłe przepisy dopuszczały dalsze utrzymywanie już posiadanych oswojonych zwierząt, a nie wprowadzały całkowitego zakazu.\n\nDziękuję za poświęcony czas.\n[Imię i nazwisko]\n[Dane kontaktowe]"
+      },
+      "confidence_notes": "Verified this session (June 2026): GDOŚ official contact page https://www.gov.pl/web/gdos/kontakt is live and confirms kancelaria@gdos.gov.pl as the correct official inbox (postal: Al. Jerozolimskie 136, 02-305 Warszawa; phone 22 310-67-00); a dedicated public-information line/email also exists (sekretariat.bp@gdos.gov.pl). Confirmed GDOŚ runs the national invasive-species analyses and consultations (projekty.gdos.gov.pl/igo and the gov.pl consultation pages). The EU-level consultation on expanding the Union list closed on 24 March 2025; R. rattus was not confirmed among the proposed species, and I found no open Polish national consultation involving R. rattus — hence time_sensitive is empty. Grounding facts from pl.json (last reviewed 2026-06-07): R. rattus is not on the EU Union list, the Polish national list (Dz.U. 2022 poz. 2649), CITES, or the dangerous-animals list, so keeping is legal (high confidence); breed/sell/transport legal (medium). Uncertainties: I could not load the IOP project species-list page (projekty.gdos.gov.pl returned a connection error) to independently re-confirm whether R. rattus appears on GDOŚ's broader 118-species analysis set — IOP Kraków does maintain an alien-species record for it, so it is on scientists' radar even though it is not regulatorily listed. The exact form of any future listing (and whether a captive-keeping carve-out would be entertained) is unknown. This is a research aid, not legal advice; for a binding answer, request GDOŚ's written position using the letter above.",
+      "local_lang": "pl"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "R. rattus is on neither the EU Union list nor Poland's national IAS list (Dz.U. 2022 poz. 2649), so the Art. 7 keeping prohibition of the 2021 Alien Species Act doesn't apply. Not on CITES (so no Art. 64 registry duty) and not on the dangerous-animals list (Dz.U. 2011 nr 173 poz. 1037, so no RDOŚ permit). Only the Animal Welfare Act's general care duties apply.",
+      "governing_law": "Ustawa o gatunkach obcych (2021, Dz.U. 2021 poz. 1718) Art. 7; Rozp. RM 9 Dec 2022 (Dz.U. 2022 poz. 2649); Rozp. MŚ 3 Aug 2011 (Dz.U. 2011 nr 173 poz. 1037); Ustawa o ochronie zwierząt (Dz.U. 2023/1580).",
+      "source_ids": [
+        "pl-gatunki-obce",
+        "pl-rm-2022",
+        "pl-dangerous"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "No permit/registration exists for breeding captive R. rattus: the Animal Welfare Act licenses only dog/cat breeding, and the Alien Species Act's prohibitions apply only to listed IAS (R. rattus isn't listed). Hobby rat breeders operate without state registration (voluntary club affiliation only). Confidence not maximal because R. rattus's ecological 'alien' status leaves a future listing possible.",
+      "governing_law": "Ustawa o ochronie zwierząt Art. 10a (dogs/cats only); Ustawa o gatunkach obcych Art. 7; Dz.U. 2022/2649.",
+      "source_ids": [
+        "pl-gatunki-obce",
+        "pl-rm-2022"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Sale/gift of captive-bred R. rattus is unprohibited: the Alien Species Act bans 'introduction to trade' only for listed IAS (R. rattus not listed), and no CITES restriction applies. General consumer/animal-welfare standards apply to sales. No authoritative Polish ruling specifically on R. rattus sale was found → medium confidence.",
+      "governing_law": "Ustawa o gatunkach obcych Art. 7; Council Reg. (EC) 338/97 (CITES — R. rattus not listed); Ustawa o ochronie zwierząt.",
+      "source_ids": [
+        "pl-gatunki-obce"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Internal transport is unrestricted. Intra-EU non-commercial movement of pet rodents (EU Reg. 576/2013) needs no certificate/passport if owner-accompanied. Commercial cross-border movement of rodents needs an intra-EU health certificate (Comm. Impl. Reg. 2021/403). No IAS bar applies (R. rattus unlisted). Never release.",
+      "governing_law": "EU Reg. 576/2013 (non-commercial); Comm. Impl. Reg. (EU) 2021/403 (commercial); Ustawa o gatunkach obcych (no bar for unlisted species).",
+      "source_ids": [
+        "pl-eu-576",
+        "pl-gatunki-obce"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Keeping a captive-bred roof rat is legal in Poland (not on the EU or national invasive list), subject to standard Animal Welfare Act care. ⚠️ Watch GDOŚ: R. rattus could be added to the national IAS list in a future revision, which would flip its status. Never release a roof rat.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "pl-gatunki-obce"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Czy Rattus rattus jest lub był rozważany do umieszczenia na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski (Dz.U. 2022 poz. 2649), i jaki jest status tego procesu? (2) Czy osoba prywatna prowadząca zamkniętą hodowlę szczurów śniadych pochodzenia hodowlanego (cele niekomercyjne/hobbystyczne) podlega obowiązkom rejestracyjnym lub zezwoleniowym na gruncie Ustawy o gatunkach obcych? (3) Czy sprzedaż lub nieodpłatne przekazanie osobom prywatnym szczurów śniadych z hodowli zamkniętej wymaga zezwolenia lub rejestracji?",
+  "sources": [
+    {
+      "id": "pl-gatunki-obce",
+      "title": "Ustawa z 11 sierpnia 2021 o gatunkach obcych (Dz.U. 2021 poz. 1718) — Art. 7 (IAS prohibitions apply only to listed species)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001718",
+      "authority": "ISAP / Sejm RP",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pl-rm-2022",
+      "title": "Rozporządzenie RM z 9 grudnia 2022 (Dz.U. 2022 poz. 2649) — national + Union IAS lists (R. rattus NOT listed)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002649",
+      "authority": "ISAP / Sejm RP",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pl-dangerous",
+      "title": "Rozporządzenie MŚ z 3 sierpnia 2011 (Dz.U. 2011 nr 173 poz. 1037) — dangerous animals list (R. rattus not listed)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111731037",
+      "authority": "ISAP / Sejm RP",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pl-eu-576",
+      "title": "Regulation (EU) 576/2013 — non-commercial movement of pet rodents (no certificate, owner-accompanied)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2013/576/2024-03-26/eng",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pl-iop",
+      "title": "IOP Kraków — Rattus rattus alien-species record (alien synanthropic; not regulatorily listed)",
+      "url": "https://www.iop.krakow.pl/ias/gatunki/606",
+      "authority": "Instytut Ochrony Przyrody PAN",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Generalna Dyrekcja Ochrony Środowiska (GDOŚ)",
+      "role": "wildlife",
+      "email": "kancelaria@gdos.gov.pl",
+      "form_url": "https://www.gov.pl/web/gdos/kontakt",
+      "phone": "+48 22 310 68 00",
+      "primary": true,
+      "inquiry_language": "pl"
+    }
+  ]
+}

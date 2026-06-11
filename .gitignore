@@ -1,0 +1,35 @@
+# ── Pet Freedom — never commit secrets or any adopter/owner data ──
+# Credentials
+.env
+*.local
+*.local.*
+
+# The adopter's live configuration (copy from config.example.json)
+config.json
+
+# The adopter's own jurisdiction data + research provenance (THEIR content, not the skill)
+/data/
+data/jurisdictions/*.json
+data/prompts/*.md
+!data/**/.gitkeep
+
+# Inquiry queue + mailbox state (may contain real agency addresses, replies, Message-IDs)
+inquiries.json
+.mail_state.json
+mailstate/
+
+# Deep-Research result dumps
+*.dr.md
+research-dumps/
+
+# Dry-run / local render output (never published)
+out/
+render-out/
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# NOTE: the demo/roof-rat/ sample data IS committed on purpose (worked example + funnel).

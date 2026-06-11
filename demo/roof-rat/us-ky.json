@@ -1,0 +1,115 @@
+{
+  "jurisdiction": {
+    "id": "us-ky",
+    "level": "state",
+    "name": "Kentucky",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-KY",
+    "language": "en",
+    "slug": "kentucky",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Kentucky is one of the clearest 'yes' states: its exotic-wildlife rule (301 KAR 2:082 §7) names 'domesticated races of rats (Rattus norvegicus or Rattus rattus)' by binomial as PERMIT-EXEMPT for importation, transport, and possession. So keeping, breeding, and transferring a captive-bred roof rat needs no state wildlife permit, and the roof rat is not on Kentucky's inherently-dangerous prohibited-species list. The only open edge is whether the Dept of Agriculture requires an import Certificate of Veterinary Inspection for pet rodents (rodents aren't named in its entry list — likely no, confirm with the State Vet). Never release one.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "301 KAR 2:082 §7 lists 'domesticated races of rats (Rattus norvegicus or Rattus rattus) or mice (Mus musculus)' as animals that 'shall not require permits... for importation, transportation into Kentucky, or possession.' R. rattus is named by species, and it is not on the inherently-dangerous prohibited-species list. No permit to keep one.",
+      "governing_law": "301 KAR 2:082 §7; KRS 150.183 / 150.010.",
+      "source_ids": [
+        "ky-301-2-082",
+        "ky-prohibited"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Because possession is permit-exempt, breeding needs no KDFWR permit; Kentucky's pet-breeder statutes (KRS ch. 258) cover dogs/cats/rabbits, not rodents. (Federal USDA/AWA can apply to large commercial dealers.)",
+      "governing_law": "301 KAR 2:082 §7; KRS ch. 258 (not rodents).",
+      "source_ids": [
+        "ky-301-2-082"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No state permit/dealer license applies to selling or giving away captive-bred roof rats; the permit-exempt status covers transfer, and KRS ch. 258 commercial-establishment licensing is dogs/cats/rabbits. General cruelty law (KRS 525) applies.",
+      "governing_law": "301 KAR 2:082 §7; KRS ch. 258.",
+      "source_ids": [
+        "ky-301-2-082"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "301 KAR 2:082 §7 exempts R. rattus from the wildlife transportation/import permit. For animal health, the Dept of Agriculture entry rule (302 KAR 20:040) lists CVIs for specific species (dogs/cats/livestock); rodents aren't named, so a CVI is likely not required — confirm with the State Vet before interstate movement. Never release (301 KAR 2:082 bars liberation of exotic wildlife).",
+      "governing_law": "301 KAR 2:082 §7 (no wildlife transport permit); 302 KAR 20:040 (KDA entry — rodents not named).",
+      "source_ids": [
+        "ky-301-2-082",
+        "ky-302-20-040"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat into the wild — 301 KAR 2:082 prohibits liberating exotic wildlife, and it's an invasive species. Rehome responsibly. Check local county/city ordinances.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "ky-301-2-082"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ky-301-2-082",
+      "title": "301 KAR 2:082 §7 — Transportation/Holding of Live Exotic Wildlife (permit-exempt: 'Rattus norvegicus or Rattus rattus')",
+      "url": "https://apps.legislature.ky.gov/law/kar/titles/301/002/082/",
+      "authority": "Kentucky Legislative Research Commission / KDFWR",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ky-prohibited",
+      "title": "KDFWR Prohibited Species (inherently dangerous; Gambian/multimammate rats + nutria listed, R. rattus absent)",
+      "url": "https://fw.ky.gov/Licenses/Documents/ProhibitedSpecies_simplified_version.pdf",
+      "authority": "Kentucky Dept of Fish & Wildlife Resources",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "ky-302-20-040",
+      "title": "302 KAR 20:040 — Entry into Kentucky (KDA import CVI; rodents not named)",
+      "url": "https://apps.legislature.ky.gov/law/kar/titles/302/020/040/",
+      "authority": "Kentucky Dept of Agriculture, Office of State Veterinarian",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

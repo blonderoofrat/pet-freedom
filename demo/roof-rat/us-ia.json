@@ -1,0 +1,141 @@
+{
+  "jurisdiction": {
+    "id": "us-ia",
+    "level": "state",
+    "name": "Iowa",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-IA",
+    "language": "en",
+    "slug": "iowa",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Iowa is one of the cleaner states for the roof rat. The Dangerous Wild Animals law (Iowa Code ch. 717F) is a closed list — big cats, bears, wolves, primates, crocodilians, venomous snakes — that includes NO rodents, and DNR jurisdiction (ch. 481A) covers native wildlife and wild releases, not an indoor captive-bred pet. So keeping, breeding, and selling/giving are legal at the state level. Two administrative touchpoints: a pet-shop/dealer license (IDALS) only kicks in above $500/yr OR 6+ animals/yr in sales, and importing needs a Certificate of Veterinary Inspection (Iowa's prohibited-rodent import list — the monkeypox seven — does NOT include Rattus). Never release one.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Iowa Code §717F.1 defines 'dangerous wild animal' as a closed list of enumerated families/orders (Canidae, Felidae, Ursidae, Rhinocerotidae, Proboscidea, Primates, Crocodilia, venomous snakes/lizards) — order Rodentia is absent. DNR (ch. 481A) regulates native wildlife and wild introductions, not a captive-bred indoor pet rodent. No state possession permit applies.",
+      "governing_law": "Iowa Code §717F.1 (dangerous wild animal — no rodents); Iowa Code §481A.47 (native wildlife / wild introduction).",
+      "source_ids": [
+        "ia-717f",
+        "ia-481a"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "ch. 717F doesn't cover rodents and §481A.47 governs only wild introductions, not closed-colony captive breeding. IDALS Animal Welfare rules (IAC 21 ch. 67) require a pet-shop/dealer license only above the thresholds ($500/yr OR 6+ animals/yr); hobby breeding below that is unregulated.",
+      "governing_law": "Iowa Code §717F.1; IAC 21-67 (pet-shop thresholds).",
+      "source_ids": [
+        "ia-717f",
+        "ia-iac-67"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No Iowa law prohibits selling/giving captive-bred rodents not on the ch. 717F list. Commercial sale above $500/yr OR 6+ animals/yr makes you a 'pet shop' needing an IDALS license (IAC 21-67); free adoption and small sales are exempt.",
+      "governing_law": "IAC 21-67.1 (pet-shop definition + thresholds); Iowa Code ch. 162.",
+      "source_ids": [
+        "ia-iac-67"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Intrastate transport is unregulated. IMPORT requires a Certificate of Veterinary Inspection under IAC 21-65; Iowa's prohibited-rodent import list (prairie dogs, Gambian rats, dormice, etc. — the 2003 monkeypox seven) does NOT include Rattus rattus. Confirm the pet-rodent CVI application with IDALS. Never release a roof rat.",
+      "governing_law": "IAC 21-65.3 (import CVI + prohibited-rodent list, Rattus absent).",
+      "source_ids": [
+        "ia-iac-65",
+        "ia-717f"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "An IDALS pet-shop/dealer license is required only if you sell/breed above the thresholds ($500/yr OR 6+ animals/yr); below that, hobby breeding and free adoption need no license.",
+      "steps": [
+        "Stay under the IAC 21-67 thresholds, or obtain an IDALS pet-shop license"
+      ],
+      "forms": [],
+      "where_to_file": "Iowa Dept of Agriculture & Land Stewardship (Animal Welfare)",
+      "fees": "",
+      "source_ids": [
+        "ia-iac-67"
+      ]
+    },
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rat into Iowa requires a Certificate of Veterinary Inspection (IAC 21-65). Rattus is not on Iowa's prohibited-import rodent list. No CVI for in-state movement; never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "IDALS Animal Industry Bureau",
+      "fees": "",
+      "source_ids": [
+        "ia-iac-65"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ia-717f",
+      "title": "Iowa Code ch. 717F / §717F.1 — Dangerous Wild Animals (closed list; no rodents)",
+      "url": "https://www.legis.iowa.gov/docs/code/717F.1.pdf",
+      "authority": "Iowa Legislature",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ia-481a",
+      "title": "Iowa Code §481A.47 — Importing/introducing fish & game (native wildlife / wild introduction)",
+      "url": "https://www.legis.iowa.gov/docs/code/481A.47.pdf",
+      "authority": "Iowa Legislature / Iowa DNR",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ia-iac-65",
+      "title": "IAC 21 ch. 65 (21-65.3) — Animal & Livestock Importation (CVI; prohibited-rodent list excludes Rattus)",
+      "url": "https://www.law.cornell.edu/regulations/iowa/Iowa-Admin-Code-r-21-65-3",
+      "authority": "Iowa Dept of Agriculture & Land Stewardship (via Cornell LII)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ia-iac-67",
+      "title": "IAC 21 ch. 67 — Animal Welfare (pet-shop/dealer license; $500 / 6-animal thresholds)",
+      "url": "https://www.legis.iowa.gov/docs/iac/chapter/07-09-2025.21.67.pdf",
+      "authority": "Iowa Dept of Agriculture & Land Stewardship",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

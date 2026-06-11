@@ -1,0 +1,174 @@
+{
+  "jurisdiction": {
+    "id": "us-nv",
+    "level": "state",
+    "name": "Nevada",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-NV",
+    "language": "en",
+    "slug": "nevada",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Nevada is permissive and the roof rat is almost certainly fine — but there's a wording gap. NRS 501.097 defines 'wildlife' to include wild mammals 'whether raised in captivity or not,' and the key exemption (NAC 503.140) frees 'domesticated races of rats and mice' from any NDOW permit. R. rattus is NOT on Nevada's prohibited-species list (only the African multimammate rat is). The open question is whether NDOW reads 'domesticated races of rats' to include captive-bred R. rattus (it clearly covers the fancy rat). If yes — as is likely — keeping, breeding, selling, and transporting are fully legal with no permit. We've asked NDOW to confirm.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "agency_species_trap",
+      "problem": "Good news first: in Nevada, keeping a pet roof rat (Rattus rattus) is almost certainly already legal. The roof rat is NOT on Nevada's prohibited-species list (NAC 503.110 lists only the African multimammate rat, Mastomys), and a state regulation, NAC 503.140, exempts \"domesticated races of rats and mice\" from any Nevada Department of Wildlife (NDOW) permit or license — the same rule that covers the ordinary pet \"fancy rat.\" So this is not a case of a law banning the animal.\n\nThe single gap is a wording/interpretation question. Nevada's wildlife definition (NRS 501.097) sweeps in wild mammals \"whether raised in captivity or not.\" NDOW has not published anything confirming that its \"domesticated races of rats and mice\" exemption reaches captive-bred R. rattus specifically (everyone agrees it covers R. norvegicus, the fancy rat). Until NDOW says so in writing, an owner, breeder, or seller of pet roof rats is left guessing whether they need a possession license or an importation permit — even though the most natural reading is that multi-generational, captive-bred, tame roof rats are exactly the \"domesticated races of rats\" the regulation already exempts.",
+      "ask": "Ask NDOW to confirm, in writing, that the NAC 503.140 exemption for \"domesticated races of rats and mice\" includes captive-bred Rattus rattus kept as companion animals — so that possessing, breeding, gifting/selling, and importing pet roof rats requires no NDOW permit or license, exactly as for the fancy rat. A short written confirmation (or a declaratory ruling) closes the gap. If NDOW will not read the existing exemption that way, ask it to bring a rule petition to the Board of Wildlife Commissioners to add R. rattus by name to the NAC 503.140 exemption list. Separately, ask the Nevada Department of Agriculture whether any certificate of veterinary inspection or entry permit applies to a small pet rodent brought into Nevada.",
+      "branch_note": "This is an AGENCY-clarification lever, not a legislative one — and that distinction is the whole point in Nevada. The roof rat is not on any statutory or regulatory prohibited list, so there is no \"bad law\" to repeal: appealing to the Legislature would be aimed at a ban that does not exist. The real obstacle is interpretive — whether NDOW reads its own already-on-the-books exemption (NAC 503.140, \"domesticated races of rats and mice\") to reach captive-bred R. rattus. Because the exemption text and the absence of R. rattus from the NAC 503.110 prohibited list both already point toward \"legal,\" the correct first move is to ask NDOW for a written confirmation or declaratory ruling that the exemption covers the captive-bred roof rat. That is something the AGENCY can do today without any new rule. The optional, second-line lever is quasi-legislative within the agency: if NDOW declines to confirm by interpretation, a member of the public can petition the Board of Wildlife Commissioners (the body that adopts and amends NAC wildlife regulations) to add R. rattus by name to the NAC 503.140 exemption — a rulemaking/public-comment route, not an ordinary statute. We are NOT asking NDOW to override a law it is correctly applying; we are asking it to map an exemption it already administers onto a species the law does not prohibit. Keep the request that modest and it is well within NDOW's authority.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Nevada Department of Wildlife (NDOW) — general inquiry / Wildlife Diversity",
+          "type": "agency",
+          "form_url": "https://www.ndow.org/contact-us/",
+          "email": "ndowinfo@ndow.org",
+          "why": "Primary lever. NDOW administers the NAC 503.140 exemption and the prohibited-species list. Its contact form lets you direct the inquiry to the Wildlife Diversity division; ask for a written confirmation (or declaratory ruling) that the 'domesticated races of rats and mice' exemption covers captive-bred Rattus rattus. The form is preferable; ndowinfo@ndow.org is the verified general inbox if you'd rather email."
+        },
+        {
+          "name": "Nevada Board of Wildlife Commissioners — written public comment / rule petition",
+          "type": "agency",
+          "email": "wildlifecommission@ndow.org",
+          "why": "Second-line / escalation lever. If NDOW will not confirm by interpretation, the Commission is the body that adopts and amends NAC wildlife regulations. This verified address receives written public comment and petition correspondence; use it to ask the Commission to add Rattus rattus by name to the NAC 503.140 exemption through its rulemaking process."
+        },
+        {
+          "name": "Nevada Department of Agriculture — Animal Disease / Entry Permits",
+          "type": "agency",
+          "email": "entrypermits@agri.nv.gov",
+          "why": "Narrow, separate question only: whether a certificate of veterinary inspection or entry permit applies to a small pet rodent brought into Nevada. (Email carried from prior research; confirm before relying on it.)"
+        }
+      ],
+      "template": {
+        "en": "To the Nevada Department of Wildlife, Wildlife Diversity Division:\n\nI am writing to ask for a written clarification about pet roof rats (Rattus rattus). I keep these animals as companion pets, and I want to be sure I am following Nevada law.\n\nRoof rats kept as pets are captive-bred over many generations, hand-tame, housed indoors in cages, and never released into the wild. They are kept exactly like the ordinary pet \"fancy rat\" (Rattus norvegicus).\n\nMy question is one of wording, not of any ban: R. rattus is not on the NAC 503.110 prohibited-species list, and NAC 503.140 already exempts \"domesticated races of rats and mice\" from any NDOW permit or license. Captive-bred pet roof rats appear to be exactly such a \"domesticated race of rats.\"\n\nWould NDOW please confirm in writing that the NAC 503.140 exemption includes captive-bred Rattus rattus kept as companion animals, so that possessing, breeding, gifting, and importing them requires no NDOW permit or license? If NDOW reads the exemption otherwise, would it consider a rule petition to add R. rattus by name to that list?\n\nThank you for your time and for the work you do.\n\nSincerely,\n[Your name]\n[Your city, Nevada]\n[Your email / phone]"
+      },
+      "confidence_notes": "Verified on official NDOW pages (June 2026): the general agency inbox ndowinfo@ndow.org and the live contact form at https://www.ndow.org/contact-us/, which lets you route an inquiry to the Wildlife Diversity division. Verified across multiple official Nevada Board of Wildlife Commissioners meeting agendas that wildlifecommission@ndow.org is the correct address for written public comment and for support material/petition correspondence to the Commission (the body that adopts/amends NAC wildlife regulations). The legal substance is from prior research grounded in NRS 501.097, NAC 503.140, and NAC 503.110 via leg.state.nv.us and Cornell LII. NOT independently re-verified in this pass and flagged uncertain: (1) the exact current text of NAC 503.140 and whether NDOW has any newer published guidance; (2) whether an NDOW importation permit/CVI applies to pet rodents; (3) the Nevada Department of Agriculture entry-permit email (entrypermits@agri.nv.gov) and phone are carried from the jurisdiction file and were not re-checked here. Local Clark County/Las Vegas/Henderson business or breeder permits may apply to commercial activity regardless of species. This is a research aid, not legal advice; confirm current rules with the agencies before relying on them.",
+      "local_lang": "en"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "NAC 503.140 exempts 'domesticated races of rats and mice' from NDOW possession licensing; if captive-bred R. rattus is a 'domesticated race,' no license is needed. R. rattus is not on the NAC 503.110 prohibited list (only Mastomys is), so prohibition is unlikely — but NDOW hasn't published a ruling confirming the exemption reaches R. rattus specifically (vs. just R. norvegicus). Likely legal; confirm with NDOW.",
+      "governing_law": "NRS 501.097 (wildlife defn incl. captive-bred); NAC 503.140 (exempt 'domesticated races of rats and mice'); NAC 503.110 (prohibited list).",
+      "source_ids": [
+        "nv-501-097",
+        "nv-503-140",
+        "nv-503-110"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "If R. rattus qualifies under the NAC 503.140 exemption, breeding needs no NDOW permit; if not, a NAC 504 possession license would apply. No species-specific breeding prohibition exists. Commercial-scale operations may need a local business/breeder permit regardless of species.",
+      "governing_law": "NAC 503.140; NAC 504 (possession license framework); local breeder ordinances.",
+      "source_ids": [
+        "nv-503-140"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "NAC 503.140 expressly allows lawfully-acquired exempt species to be sold in Nevada without an NDOW dealer permit; if R. rattus is within 'domesticated races,' private sale/free adoption is fine. Local business licenses apply to commercial activity.",
+      "governing_law": "NAC 503.140 (sale of exempt species); NAC 504; local ordinances.",
+      "source_ids": [
+        "nv-503-140"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "NAC 503.140 species may be transported and imported without an NDOW permit/CVI; if R. rattus is exempt, no importation permit is needed. If treated as non-exempt wildlife, an NDOW importation permit + CVI would apply. The NDA's separate import rules don't appear to require a CVI for small pet rodents — confirm. Never release (R. rattus is a pest under NRS 567).",
+      "governing_law": "NRS 503.597 / NAC 503 (importation permit); NAC 503.140 (import exemption for listed species); NDA import rules.",
+      "source_ids": [
+        "nv-503-140",
+        "nv-ndow-import"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat — it's treated as a pest in the wild (NRS 567). Local (Clark County / Las Vegas / Henderson) business or breeder permits apply to commercial activity regardless of species.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "nv-503-140"
+      ]
+    }
+  ],
+  "inquiry_focus": "Does NDOW interpret the phrase 'domesticated races of rats and mice' in NAC 503.140 to include multi-generational captive-bred Rattus rattus (roof rat) kept as companion animals — so that possession, breeding, sale/gift, and interstate import require no NDOW permit or license (the same practical status as Rattus norvegicus)? If NDOW instead treats R. rattus as regulated wildlife under the NRS 501.097 definition, what permit (NAC 504) applies, and would NDOW consider a rule petition to name R. rattus within the NAC 503.140 exemption? Separately, does the Dept of Agriculture require a CVI/import permit for a pet rodent entering Nevada?",
+  "sources": [
+    {
+      "id": "nv-501-097",
+      "title": "NRS 501.097 — 'Wildlife' defined (wild mammals, whether raised in captivity or not)",
+      "url": "https://www.leg.state.nv.us/nrs/nrs-501.html",
+      "authority": "Nevada Legislature",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nv-503-140",
+      "title": "NAC 503.140 — Species exempt from permit/license ('domesticated races of rats and mice'); sale of exempt species allowed",
+      "url": "https://www.law.cornell.edu/regulations/nevada/NAC-503-140",
+      "authority": "Nevada Board of Wildlife Commissioners / NDOW (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nv-503-110",
+      "title": "NAC 503.110 — Prohibited species (Mastomys multimammate rat listed; R. rattus absent)",
+      "url": "https://www.leg.state.nv.us/NAC/NAC-503.html",
+      "authority": "Nevada Board of Wildlife Commissioners / NDOW",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nv-ndow-import",
+      "title": "NDOW Wildlife Importation Permit instructions (CVI for wildlife; NAC 503.140 species exempt)",
+      "url": "https://www.ndow.org/",
+      "authority": "Nevada Dept of Wildlife",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Nevada Dept of Wildlife (NDOW) — Wildlife Diversity / Exotic Wildlife",
+      "role": "wildlife",
+      "email": "ndowinfo@ndow.org",
+      "form_url": "https://www.ndow.org/apply-buy/apply-buy-slaps/",
+      "phone": "(775) 688-1500",
+      "primary": true
+    },
+    {
+      "agency": "Nevada Dept of Agriculture — Animal Disease / Entry Permits",
+      "role": "agriculture",
+      "email": "entrypermits@agri.nv.gov",
+      "form_url": "",
+      "phone": "(775) 353-3709"
+    }
+  ]
+}

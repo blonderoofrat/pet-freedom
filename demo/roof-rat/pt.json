@@ -1,0 +1,245 @@
+{
+  "jurisdiction": {
+    "id": "pt",
+    "level": "country",
+    "name": "Portugal",
+    "parent": null,
+    "country": "PT",
+    "iso": "PT",
+    "language": "pt",
+    "inquiry_language": "pt",
+    "slug": "portugal",
+    "local_terms": [
+      "Rattus rattus",
+      "ratazana-preta",
+      "rato-preto",
+      "rato-do-telhado"
+    ]
+  },
+  "summary": "Portugal is legal-with-permit for the roof rat on the MAINLAND, and prohibited only on the ISLANDS — the earlier 'prohibited' reading was wrong. The key is an easy-to-miss detail: in Decreto-Lei 92/2019, the national invasive list (LNEI) entry 'Rattus spp.' carries an ASTERISK, meaning it is classified invasive ONLY in the Autonomous Region of Madeira, not on continental Portugal. So on the mainland the roof rat is an ordinary non-native species that ICNF (the conservation institute) licenses under Article 5 — a captive-keeping/breeding license (valid 3 years, annual stock registry, escape-proof containment) that issues a breeder's-license number against which the animals are registered. That is exactly how mainland breeders lawfully keep and breed 'all kinds of Rattus.' The genuine prohibition is on the islands: Madeira (DLR 17/2023/M) and the Azores (DLR 15/2012/A) list Rattus as invasive and bar captive keeping/breeding, with no keeper derogation found. Once licensed, mainland keepers can transfer animals with a declaração de cedência bearing the license number.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "agency_species_trap",
+      "problem": "On mainland (continental) Portugal, the domesticated roof rat (Rattus rattus) is NOT actually banned — but a one-character detail in the law makes it look that way, and that ambiguity is the real barrier. Portugal's invasive-species law, Decreto-Lei 92/2019, lists \"Rattus spp.\" on the National List of Invasive Species (LNEI), but the entry carries an asterisk (*). The law's own legend states that asterisked species are \"classified as invasive ONLY in the Autonomous Region of Madeira.\" That means the Article 16 prohibition applies to Rattus on Madeira (and, separately, the Azores have their own ban) — but NOT on the mainland, where the roof rat is simply a non-native exotic species that ICNF (the national conservation institute) can license under Article 5 (a hold/breed license, valid 3 years, with escape-proof containment and an annual stock census). The problem is that this asterisk is easy to miss and under-communicated: the conservation community itself flags it as an anomaly \"to be corrected in a future revision,\" and front-line ICNF officers may read \"Rattus spp.\" as a flat genus-wide ban and wrongly refuse keepers. On top of that, the Article 5 license was designed for commercial breeders and researchers, not hobbyists, so even keepers who clear the misreading face a process built for someone else. On the islands of Madeira and the Azores, the ban is real and written into regional law — that is a different, legislative problem, and a keeper there should not expect the agency to override it.",
+      "ask": "For mainland keepers: ask ICNF, in writing, to confirm the plain meaning of its own law — that because the LNEI \"Rattus spp.\" entry is asterisked (Madeira-only), the Article 16 prohibition does NOT apply on continental Portugal, and the roof rat is therefore an exotic species licensable under Article 5. Ask for a written clarification or circular stating this, and for a clear, proportionate licensing pathway suited to a private companion-animal keeper (containment criteria for small rodents, the current form, the decision time, and the fee). These rats are captive-bred, tame, kept indoors in escape-proof enclosures, and never released. We are not asking the agency to change a law — we are asking it to apply, and communicate, the law it already has.",
+      "branch_note": "PRIMARY LEVER = THE AGENCY (ICNF), via written clarification + a fit-for-purpose licensing pathway. On the MAINLAND this is squarely a bureaucracy-misreading / under-application problem, not a bad-law problem. The statute is actually favorable: the LNEI \"Rattus spp.\" entry is asterisked, and DL 92/2019's own legend defines the asterisk as \"invasive ONLY in the Autonomous Region of Madeira.\" So the Article 16 ban does not reach the mainland, where Article 5 licensing governs exotic species. The barrier is that the asterisk is obscure (the conservation sector itself calls it an anomaly \"to be corrected in a future revision\"), so officers may apply a flat genus-wide ban that the law does not require — exactly the kind of error a declaratory/written clarification from ICNF fixes. Asking ICNF to issue that clarification is asking it to apply its own law correctly; it is the right and sufficient lever for mainland keepers, and no legislative change is needed. SECONDARY / DIFFERENT BRANCH — the ISLANDS: in Madeira (DLR 17/2023/M) and the Azores (DLR 15/2012/A), Rattus is listed invasive by regional statute with no keeper derogation found. That is the law as written, correctly applied, and appealing to the regional agency will NOT change it — relief there would require the regional legislature or an EU Reg. 1143/2014 derogation mechanism (e.g., for sterilized/contained companion animals). This kit's targets are aimed at the mainland (the agency branch), where the realistic win lives; island keepers are flagged that their fight is legislative, not administrative.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "ICNF — Espécies Exóticas (exotic-species licensing inbox)",
+          "type": "agency",
+          "email": "exoticas@icnf.pt",
+          "form_url": "https://www.icnf.pt/conservacao/especiesexoticas/licenciamentodeespeciesexoticas",
+          "why": "The national conservation institute that grants Article 5 exotic-species licenses and administers the LNEI. This is the office that can confirm in writing that the asterisked 'Rattus spp.' entry is Madeira-only, so the mainland roof rat is licensable, not prohibited. exoticas@icnf.pt is the verified official inbox for exotic-species licensing forms and queries; the linked page is the official licensing procedure."
+        },
+        {
+          "name": "ICNF — general inquiries (geral@icnf.pt)",
+          "type": "agency",
+          "email": "geral@icnf.pt",
+          "form_url": "https://www.icnf.pt/ondeestamos",
+          "why": "ICNF's verified general inbox and contact page (HQ: Av. Dr. Alfredo Magalhães Ramalho 1, 1495-165 Algés; tel. +351 213 507 900). Use as a backstop to route a formal written request for clarification to the responsible division (Divisão de Aplicação de Normativos) if the exotic-species inbox does not respond."
+        },
+        {
+          "name": "ICNF — Formulários de Espécies Exóticas (official application form)",
+          "type": "agency",
+          "form_url": "https://www.icnf.pt/conservacao/especiesexoticas/eeformularios",
+          "why": "Where the unified Article 5 licensing form and guidance notes are published. A mainland keeper who wants to actually apply (not just seek clarification) submits the completed form here / to exoticas@icnf.pt. Included so the kit shows the concrete next step, not only the advocacy ask."
+        }
+      ],
+      "template": {
+        "en": "Subject: Request for written clarification — keeping Rattus rattus on mainland Portugal under DL 92/2019\n\nTo the ICNF Exotic Species team,\n\nI am writing about keeping domesticated roof rats (Rattus rattus) as companion animals on mainland Portugal, and I would be grateful for a written clarification.\n\nIn the National List of Invasive Species (Annex II, DL 92/2019), the entry \"Rattus spp.\" carries an asterisk, and the legend states that asterisked species are classified as invasive only in the Autonomous Region of Madeira. On that reading, the Article 16 prohibition does not apply on continental Portugal, and Rattus rattus is an exotic species that may be kept and bred under an Article 5 license.\n\nPlease confirm: (1) that on the mainland Rattus rattus is treated under Article 5 (license), not the Article 16 prohibition; and (2) the current form, the containment criteria for small rodents, the decision time, and the fee for a private keeper.\n\nThese animals are captive-bred, tame, kept permanently indoors in escape-proof enclosures, and are never released into the wild. We seek only to keep them lawfully and responsibly.\n\nThank you for your time.\n\n[Your name]\n[Your contact details] [Your town/district]",
+        "pt": "Assunto: Pedido de esclarecimento por escrito — detenção de Rattus rattus em Portugal continental ao abrigo do DL 92/2019\n\nÀ equipa de Espécies Exóticas do ICNF,\n\nVenho expor a detenção de ratos-pretos domesticados (Rattus rattus) como animais de companhia em Portugal continental e solicitar, com agradecimento, um esclarecimento por escrito.\n\nNa Lista Nacional de Espécies Invasoras (Anexo II do DL 92/2019), a entrada \"Rattus spp.\" tem um asterisco, e a legenda indica que as espécies assinaladas com asterisco são classificadas como invasoras apenas na Região Autónoma da Madeira. Nessa leitura, a proibição do artigo 16.º não se aplica no continente, sendo o Rattus rattus uma espécie exótica passível de detenção e criação ao abrigo de uma licença do artigo 5.º.\n\nAgradeço que confirmem: (1) que, no continente, o Rattus rattus é tratado ao abrigo do artigo 5.º (licença) e não da proibição do artigo 16.º; e (2) o formulário em vigor, os critérios de confinamento para pequenos roedores, o prazo de decisão e a taxa aplicável a um detentor particular.\n\nEstes animais são criados em cativeiro, dóceis, mantidos permanentemente em interior, em alojamentos à prova de fuga, e nunca são libertados na natureza. Pretendemos apenas detê-los de forma lícita e responsável.\n\nGrato(a) pela atenção dispensada.\n\n[O seu nome]\n[Os seus contactos] [A sua localidade/distrito]"
+      },
+      "confidence_notes": "VERIFIED: (1) The asterisk legend is confirmed from two independent sources — the official ICNF LNEI document and the invasoras.pt authority — both stating asterisked species are \"classified as invasive only in the Autonomous Region of Madeira,\" and that \"Rattus spp.\" carries that asterisk; invasoras.pt also explicitly calls the mainland status of asterisked species an anomaly \"to be corrected in a future revision,\" which corroborates the under-communication / misreading risk. (2) The Article 5 exotic-species licensing scheme under DL 92/2019 (hold/breed license, 45-day decision) is confirmed via Diário da República and ICNF pages. (3) exoticas@icnf.pt is confirmed as the official inbox for exotic-species licensing forms/queries; geral@icnf.pt and the Algés HQ address/phone (+351 213 507 900) are confirmed from the official ICNF contact page. The licensing and forms page URLs are the live official ICNF pages (JS-rendered, so a deep field-by-field fetch was limited, but the URLs and their role are correct). NOT INDEPENDENTLY VERIFIED / DROPPED: the named individual DAN/CITES contacts (P. Carmo, J. Loureiro) from the source file were intentionally excluded per official-channels-only policy — use exoticas@icnf.pt instead. The current Article 5 fee is unconfirmed (set by Portaria; ask ICNF). UNCERTAIN: whether front-line ICNF practice actually follows the Madeira-only reading on the mainland is the open question the clarification request is designed to resolve — the precise legal text supports it, but agency practice has not been independently confirmed, which is exactly why the lever is a written clarification. TIME-SENSITIVE: none — a future LNEI revision is acknowledged by the sector but no scheduled bill or open public-comment window was found, so no urgency is claimed. ISLANDS: Madeira (DLR 17/2023/M) and Azores (DLR 15/2012/A) bans are noted in the source file as real, statutory, with no keeper derogation found; this kit does not target island agencies because that is a legislative matter. This is a research aid, not legal advice.",
+      "local_lang": "pt"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "On mainland Portugal, 'Rattus spp.' in LNEI Annex II is asterisked = invasive only in Madeira, so the Art. 16 prohibition does NOT apply on the continent. Rattus is an exotic species keepable under an ICNF Art. 5 license (detenção/criação), granted to private persons who demonstrate escape-proof containment; the license number serves as the animals' registration. (ISLANDS: prohibited — Madeira DLR 17/2023/M; Azores DLR 15/2012/A.)",
+      "governing_law": "DL 92/2019 Art. 5 (license) + Annex II asterisk (Madeira-only for Rattus); Art. 16 (prohibition — islands only); Madeira DLR 17/2023/M; Azores DLR 15/2012/A.",
+      "source_ids": [
+        "pt-dl-92-2019",
+        "pt-icnf-lnei",
+        "pt-icnf-licensing",
+        "pt-madeira",
+        "pt-azores"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Breeding (criação em cativeiro) is explicitly a licensed activity under DL 92/2019 Art. 5 — the ICNF license covers 'detenção, cultivo ou criação' of exotic species for commercial/scientific/educational purposes, valid 3 years (renewable) with an annual stock census to ICNF. A mainland breeder licensed to breed Rattus operating under an ICNF breeder-license number is the direct case. (ISLANDS: prohibited.)",
+      "governing_law": "DL 92/2019 Art. 5(1),(3),(4); Annex II asterisk; (islands: Art. 16).",
+      "source_ids": [
+        "pt-dl-92-2019",
+        "pt-icnf-licensing",
+        "pt-icnf-forms"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Transfer/sale of specimens of a licensed exotic species is part of the Art. 5 framework: each transfer is accompanied by a declaração de cedência bearing the breeder's license number, which the recipient retains. Transfers to other licensed keepers, labs, or facilities are the standard case; transfer to an unlicensed private buyer who then registers appears permissible but should be confirmed with ICNF. (ISLANDS: prohibited.)",
+      "governing_law": "DL 92/2019 Art. 5; ICNF transfer-declaration (declaração de cedência) framework.",
+      "source_ids": [
+        "pt-dl-92-2019",
+        "pt-icnf-licensing"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Intra-mainland transport of licensed specimens is permitted with documentation identifying the license holder + species. ⚠️ Cross-territory movement (mainland↔islands) is separately controlled by DGAV and would likely be barred to Madeira/Azores, where Rattus is listed invasive with no derogation. Intra-EU movement of pet rodents otherwise follows Reg. 576/2013. Never release.",
+      "governing_law": "DL 92/2019 Art. 5; DGAV continent↔autonomous-regions transit rules; Madeira/Azores invasive bans.",
+      "source_ids": [
+        "pt-dl-92-2019",
+        "pt-dgav-regions",
+        "pt-madeira"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give"
+      ],
+      "summary": "On mainland Portugal, get an ICNF Art. 5 exotic-species license (detenção/criação) BEFORE keeping/breeding a roof rat: apply via ICNF's unified form, show escape-proof containment, then file an annual stock census; the license (valid 3 yrs) gives you a breeder/registration number that goes on transfer declarations. ⚠️ In MADEIRA and the AZORES, Rattus is a prohibited invasive species — do not keep/breed/import there. Never release.",
+      "steps": [
+        "Apply for an ICNF Art. 5 license (Divisão de Aplicação de Normativos) via the unified form, with a containment plan",
+        "Submit the annual stock registry to ICNF",
+        "Use a declaração de cedência (with the license number) for any transfer"
+      ],
+      "forms": [
+        {
+          "name": "ICNF — Licenciamento de Espécies Exóticas (formulário único)",
+          "url": "https://www.icnf.pt/conservacao/especiesexoticas/eeformularios"
+        }
+      ],
+      "where_to_file": "ICNF — Divisão de Aplicação de Normativos (DAN)",
+      "fees": "Set by Portaria; confirm current fee with ICNF (initially uncharged pending the implementing Portaria)",
+      "source_ids": [
+        "pt-icnf-licensing",
+        "pt-icnf-forms"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "ISLAND BAN: In the Autonomous Regions of Madeira (DLR 17/2023/M) and the Azores (DLR 15/2012/A), Rattus is listed as an invasive species and keeping/breeding/transporting it is prohibited, with no keeper derogation identified. The mainland license pathway does not extend to the islands.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "IFCN (Madeira); SRRN (Azores)",
+      "fees": "",
+      "source_ids": [
+        "pt-madeira",
+        "pt-azores"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) No DL 92/2019, Anexo II, 'Rattus spp.' está assinalado com asterisco (*) = invasora apenas na Região Autónoma da Madeira. Em Portugal continental, o ICNF trata Rattus spp. como sujeito à proibição do art. 16.º, ou como espécie exótica licenciável ao abrigo do art. 5.º? É necessária autorização excecional (art. 21.º) ou basta a licença do art. 5.º? (2) Para um particular no continente que pretenda licença (art. 5.º) para deter e criar Rattus rattus: qual o formulário atual, os critérios de confinamento para pequenos roedores, o prazo de decisão e a taxa em vigor? (3) Que documentação (declaração de cedência) deve acompanhar a transferência de espécimes entre detentores licenciados, e é permitida a cedência a um comprador particular que depois se registe?",
+  "sources": [
+    {
+      "id": "pt-dl-92-2019",
+      "title": "Decreto-Lei 92/2019 — Arts. 5 (licença), 16 (proibição, p/ territórios onde listada), 21 (autorização excecional); Anexo II (LNEI; 'Rattus spp.' com asterisco = só Madeira)",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739",
+      "authority": "Diário da República / Governo de Portugal",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pt-icnf-lnei",
+      "title": "ICNF — Lista Nacional de Espécies Invasoras (LNEI) com legenda do asterisco (Madeira-only para Rattus spp.)",
+      "url": "https://www.icnf.pt/api/file/doc/cf455e5a84ab1d96",
+      "authority": "ICNF",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pt-icnf-licensing",
+      "title": "ICNF — Licenciamento de Espécies Exóticas (procedimento Art. 5/21)",
+      "url": "https://www.icnf.pt/conservacao/especiesexoticas/licenciamentodeespeciesexoticas",
+      "authority": "ICNF",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pt-icnf-forms",
+      "title": "ICNF — Formulários Espécies Exóticas (formulário único; normas orientadoras)",
+      "url": "https://www.icnf.pt/conservacao/especiesexoticas/eeformularios",
+      "authority": "ICNF",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pt-madeira",
+      "title": "Decreto Legislativo Regional 17/2023/M (Madeira) — regime de espécies exóticas invasoras (Rattus proibido)",
+      "url": "https://files.dre.pt/1s/2023/05/10400/0000300005.pdf",
+      "authority": "Região Autónoma da Madeira / DRE",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pt-azores",
+      "title": "Decreto Legislativo Regional 15/2012/A (Açores) — conservação da natureza; Rattus invasor, detenção proibida",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893",
+      "authority": "Região Autónoma dos Açores / DRE",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pt-dgav-regions",
+      "title": "DGAV — Trânsito de animais entre o Continente e as Regiões Autónomas",
+      "url": "https://www.dgav.pt/vaiviajar/conteudo/conteudo-animais-de-companhia/transito-entre-o-continente-e-as-regioes-autonomas/",
+      "authority": "DGAV",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "pt-cites",
+      "title": "CITES — Portugal national authorities (ICNF/DAN contacts: P. Carmo, J. Loureiro)",
+      "url": "https://cites.org/eng/node/111619",
+      "authority": "CITES Secretariat",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "ICNF — Divisão de Aplicação de Normativos (DAN) — exotic-species licensing",
+      "role": "wildlife",
+      "email": "p.carmo@icnf.pt",
+      "form_url": "https://www.icnf.pt/conservacao/especiesexoticas/licenciamentodeespeciesexoticas",
+      "phone": "+351 213 507 900",
+      "primary": true,
+      "inquiry_language": "pt"
+    },
+    {
+      "agency": "Federação Ornitológica Portuguesa (FOP) — breeder-registration model (analog/advocacy)",
+      "role": "ngo",
+      "email": "",
+      "form_url": "https://fop.pt/",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "pt"
+    }
+  ]
+}

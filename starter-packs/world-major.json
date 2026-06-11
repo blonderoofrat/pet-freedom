@@ -1,0 +1,48 @@
+[
+  { "id": "us", "level": "country", "parent": null, "name": "United States", "slug": "united-states", "country": "US", "language": "en" },
+  { "id": "ca", "level": "country", "parent": null, "name": "Canada", "slug": "canada", "country": "CA", "language": "en" },
+  { "id": "gb", "level": "country", "parent": null, "name": "United Kingdom", "slug": "united-kingdom", "country": "GB", "language": "en" },
+  { "id": "ie", "level": "country", "parent": null, "name": "Ireland", "slug": "ireland", "country": "IE", "language": "en" },
+  { "id": "au", "level": "country", "parent": null, "name": "Australia", "slug": "australia", "country": "AU", "language": "en" },
+  { "id": "nz", "level": "country", "parent": null, "name": "New Zealand", "slug": "new-zealand", "country": "NZ", "language": "en" },
+
+  { "id": "fr", "level": "country", "parent": null, "name": "France", "slug": "france", "country": "FR", "language": "fr" },
+  { "id": "de", "level": "country", "parent": null, "name": "Germany", "slug": "germany", "country": "DE", "language": "de" },
+  { "id": "nl", "level": "country", "parent": null, "name": "Netherlands", "slug": "netherlands", "country": "NL", "language": "nl" },
+  { "id": "be", "level": "country", "parent": null, "name": "Belgium", "slug": "belgium", "country": "BE", "language": "nl" },
+  { "id": "ch", "level": "country", "parent": null, "name": "Switzerland", "slug": "switzerland", "country": "CH", "language": "de" },
+  { "id": "at", "level": "country", "parent": null, "name": "Austria", "slug": "austria", "country": "AT", "language": "de" },
+  { "id": "es", "level": "country", "parent": null, "name": "Spain", "slug": "spain", "country": "ES", "language": "es" },
+  { "id": "pt", "level": "country", "parent": null, "name": "Portugal", "slug": "portugal", "country": "PT", "language": "pt" },
+  { "id": "it", "level": "country", "parent": null, "name": "Italy", "slug": "italy", "country": "IT", "language": "it" },
+
+  { "id": "se", "level": "country", "parent": null, "name": "Sweden", "slug": "sweden", "country": "SE", "language": "sv" },
+  { "id": "no", "level": "country", "parent": null, "name": "Norway", "slug": "norway", "country": "NO", "language": "no" },
+  { "id": "dk", "level": "country", "parent": null, "name": "Denmark", "slug": "denmark", "country": "DK", "language": "da" },
+  { "id": "fi", "level": "country", "parent": null, "name": "Finland", "slug": "finland", "country": "FI", "language": "fi" },
+  { "id": "is", "level": "country", "parent": null, "name": "Iceland", "slug": "iceland", "country": "IS", "language": "is" },
+
+  { "id": "pl", "level": "country", "parent": null, "name": "Poland", "slug": "poland", "country": "PL", "language": "pl" },
+  { "id": "cz", "level": "country", "parent": null, "name": "Czech Republic", "slug": "czech-republic", "country": "CZ", "language": "cs" },
+  { "id": "hu", "level": "country", "parent": null, "name": "Hungary", "slug": "hungary", "country": "HU", "language": "hu" },
+  { "id": "gr", "level": "country", "parent": null, "name": "Greece", "slug": "greece", "country": "GR", "language": "el" },
+  { "id": "ro", "level": "country", "parent": null, "name": "Romania", "slug": "romania", "country": "RO", "language": "ro" },
+
+  { "id": "jp", "level": "country", "parent": null, "name": "Japan", "slug": "japan", "country": "JP", "language": "ja" },
+  { "id": "kr", "level": "country", "parent": null, "name": "South Korea", "slug": "south-korea", "country": "KR", "language": "ko" },
+  { "id": "tw", "level": "country", "parent": null, "name": "Taiwan", "slug": "taiwan", "country": "TW", "language": "zh" },
+  { "id": "hk", "level": "country", "parent": null, "name": "Hong Kong", "slug": "hong-kong", "country": "HK", "language": "zh" },
+  { "id": "sg", "level": "country", "parent": null, "name": "Singapore", "slug": "singapore", "country": "SG", "language": "en" },
+
+  { "id": "mx", "level": "country", "parent": null, "name": "Mexico", "slug": "mexico", "country": "MX", "language": "es" },
+  { "id": "br", "level": "country", "parent": null, "name": "Brazil", "slug": "brazil", "country": "BR", "language": "pt" },
+  { "id": "ar", "level": "country", "parent": null, "name": "Argentina", "slug": "argentina", "country": "AR", "language": "es" },
+  { "id": "cl", "level": "country", "parent": null, "name": "Chile", "slug": "chile", "country": "CL", "language": "es" },
+  { "id": "co", "level": "country", "parent": null, "name": "Colombia", "slug": "colombia", "country": "CO", "language": "es" },
+
+  { "id": "za", "level": "country", "parent": null, "name": "South Africa", "slug": "south-africa", "country": "ZA", "language": "en" },
+  { "id": "il", "level": "country", "parent": null, "name": "Israel", "slug": "israel", "country": "IL", "language": "he" },
+  { "id": "ae", "level": "country", "parent": null, "name": "United Arab Emirates", "slug": "united-arab-emirates", "country": "AE", "language": "ar" },
+  { "id": "in", "level": "country", "parent": null, "name": "India", "slug": "india", "country": "IN", "language": "en" },
+  { "id": "ph", "level": "country", "parent": null, "name": "Philippines", "slug": "philippines", "country": "PH", "language": "en" }
+]

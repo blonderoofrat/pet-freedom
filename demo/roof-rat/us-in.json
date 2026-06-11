@@ -1,0 +1,132 @@
+{
+  "jurisdiction": {
+    "id": "us-in",
+    "level": "state",
+    "name": "Indiana",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-IN",
+    "language": "en",
+    "slug": "indiana",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Indiana is permissive for the roof rat. The DNR Wild Animal Possession Permit (312 IAC 9-11) applies only to enumerated Class I/II/III animals — bears, big cats, native furbearers, venomous reptiles, etc. — none of which include rats or the genus Rattus, and DNR's permit authority reaches only protected-native or harmful/dangerous wildlife. The roof rat is also off the exotic-mammal and invasive-vertebrate lists. So keeping, breeding, and selling/giving are legal with no state permit (Indiana's commercial-breeder law is dog-only), and import needs no mandated pet-rodent CVI (rodents aren't a listed entry species) — though confirming with the Board of Animal Health is prudent. Never release one.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The DNR Wild Animal Possession Permit scheme (312 IAC 9-11) applies only to the exhaustively enumerated Class I/II/III lists, which include no rats/Rattus; the authority (IC 14-22-26-3) reaches only protected-native or harmful/dangerous wildlife, and R. rattus is a non-native species Indiana neither protects nor lists as dangerous. It's also absent from the exotic-mammal rule (312 IAC 9-3-18.5) and invasive-vertebrate bans. No permit to keep one.",
+      "governing_law": "IC 14-22-26-3; 312 IAC 9-11; IC 14-8-2-318; 312 IAC 9-3-18.5.",
+      "source_ids": [
+        "in-14-22-26",
+        "in-312-9-11",
+        "in-14-8-2-318"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Because keeping is unregulated by DNR, breeding is too (no possession permit attaches to a non-listed pet rodent). Indiana's only commercial-breeder statute (IC 15-21) is dogs-only. No state breeding license for pet rats.",
+      "governing_law": "IC 15-21 (dogs only); 312 IAC 9-11.",
+      "source_ids": [
+        "in-15-21",
+        "in-312-9-11"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No Indiana statute licenses or restricts selling pet rodents; the exotic/wild-animal sale rules don't list Rattus, and dealer/breeder registration (IC 15-21) is dogs-only. A seller of pet roof rats is not a regulated 'animal dealer' under state law (federal USDA/AWA can apply to some commercial dealers).",
+      "governing_law": "IC 15-21 (dogs only); 312 IAC 9-3-18.5; 312 IAC 9-11.",
+      "source_ids": [
+        "in-15-21",
+        "in-312-9-11"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "In-state transport is unrestricted. The Board of Animal Health imposes entry CVI requirements only on enumerated species (livestock, poultry, dogs/cats/ferrets) — pet rodents aren't listed, so no CVI is mandated to bring a pet rat into Indiana; confirm with BOAH before interstate movement. Never release a non-native rodent.",
+      "governing_law": "Indiana BOAH Entry Health Requirements (IC 15-17 authority); 312 IAC 9-11 (inapplicable).",
+      "source_ids": [
+        "in-boah",
+        "in-312-9-11"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat — it's a non-native species; rehome responsibly. Local city/county ordinances may add limits — check yours.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "in-312-9-11"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "in-14-22-26",
+      "title": "IC 14-22-26 — Wild Animal Permit (authority reaches only protected/harmful-dangerous wildlife)",
+      "url": "https://www.in.gov/dnr/fish-and-wildlife/files/fw-WAP_Laws.pdf",
+      "authority": "Indiana DNR / Indiana Code",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "in-312-9-11",
+      "title": "312 IAC 9-11 — Wild Animal Possession Permits (Class I/II/III lists; no rats)",
+      "url": "https://www.law.cornell.edu/regulations/indiana/312-IAC-9-11-6",
+      "authority": "Indiana Administrative Code (via Cornell LII)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "in-14-8-2-318",
+      "title": "IC 14-8-2-318 — definition of 'Wild Animal'",
+      "url": "https://law.justia.com/codes/indiana/title-14/article-8/chapter-2/section-14-8-2-318/",
+      "authority": "Indiana Code (via Justia)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "in-15-21",
+      "title": "IC 15-21 — Commercial Dog Breeder Regulation (dogs only)",
+      "url": "https://iga.in.gov/ic/2024/Title_15/Article_21.pdf",
+      "authority": "Indiana General Assembly",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "in-boah",
+      "title": "Indiana Entry Health Requirements (import CVI; rodents not a listed species)",
+      "url": "https://www.in.gov/boah/indiana-entry-health-requirements/",
+      "authority": "Indiana State Board of Animal Health",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

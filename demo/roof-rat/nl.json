@@ -1,0 +1,134 @@
+{
+  "jurisdiction": {
+    "id": "nl",
+    "level": "country",
+    "name": "Netherlands",
+    "parent": null,
+    "country": "NL",
+    "iso": "NL",
+    "language": "nl",
+    "slug": "netherlands",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Since 1 July 2024 the Netherlands keeps a 'positive list' (huis- en hobbydierenlijst) of mammals that may be kept, bred, or sold without a permit. The brown rat (Rattus norvegicus) is on it, but the black rat (Rattus rattus) is NOT, so keeping, breeding, importing, or trading black rats as pets is not permitted. A clear advocacy case to add the species.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "positive_list",
+      "problem": "Since 1 July 2024 the Netherlands has used a \"positive list\" for mammals — the huis- en hobbydierenlijst. You may only keep, breed, buy or sell a mammal species if it is ON that list. The list was built by scientifically assessing more than 300 species. The brown/fancy rat (Rattus norvegicus forma domestica) IS on the list, so keeping domesticated brown rats is fully legal. The black rat / roof rat (Rattus rattus) is NOT on the list, so under the current rules a captive-bred, tame pet roof rat may not legally be kept, bred, or rehomed in the Netherlands. The barrier here is not an agency misreading the law — the law genuinely does not (yet) include this species. The legal framework is the Wet dieren and the Besluit houders van dieren, administered by RVO (Rijksdienst voor Ondernemend Nederland) with enforcement by the NVWA.",
+      "ask": "Ask RVO to assess the domesticated black rat / roof rat (Rattus rattus, kept-strain) for addition to the huis- en hobbydierenlijst, using the official assessment procedure. The Dutch positive-list system has a built-in legal pathway: any interested party can submit an assessment request (\"beoordeling aanvragen\") for an unlisted mammal species through Mijn RVO. The fancy brown rat is already on the list, which establishes that a domesticated Rattus species can meet the welfare criteria; the request is that the closely-related, equally domesticable roof rat be evaluated on the same six-factor framework (human health, nutrition, habitat, thermoregulation, social behaviour/reproduction, and domestication). First, contact RVO's helpdesk to confirm the exact steps and what scientific documentation is needed; then, if you are prepared to pursue it, file the formal assessment request.",
+      "branch_note": "This is branch (b): the LAW AS WRITTEN, specifically the species' ABSENCE from a statutory positive list. The Netherlands uses a \"verboden tenzij\" (forbidden-unless) positive-list scheme under the Wet dieren / Besluit houders van dieren: only the ~30 mammal species placed on the huis- en hobbydierenlijst (in force since 1 July 2024) may be kept, bred or traded. Rattus rattus is simply not on that list. RVO and the NVWA are applying the rule correctly when they say the roof rat may not be kept — so a complaint, an appeal, or a request that the agency \"reinterpret\" the rule will NOT work, because there is nothing being misread. The lever is to CHANGE WHAT IS ON THE LIST. Crucially, the Dutch system does not require a legislative bill or a one-off public-comment window for this: the regulation contains its own standing rulemaking/petition mechanism. Any belanghebbende (interested party) may file an official \"beoordeling aanvragen\" with RVO (via Mijn RVO, €500 per species, decision within 6 — extendable to 9 — months), supported by scientific sources on the assessment criteria, and the Adviescollege huis- en hobbydierenlijst evaluates the species for addition. That is the correct and only effective lever here, and it is administrative rulemaking, not agency reinterpretation. The strong tailwind for the Netherlands: the fancy brown rat (Rattus norvegicus forma domestica) is ALREADY on the list, which proves a domesticated Rattus line can satisfy the criteria — making the roof-rat case an evidence-driven extension rather than a novel claim.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "RVO (Rijksdienst voor Ondernemend Nederland) — general contact form / helpdesk for the huis- en hobbydierenlijst",
+          "type": "agency",
+          "form_url": "https://www.rvo.nl/onderwerpen/contact/formulier",
+          "why": "RVO administers the positive list and runs the assessment process. Use the helpdesk first to confirm exactly what an assessment request must contain and how an individual files it (DigiD via Mijn RVO). This is the right first touchpoint to understand the official pathway before committing the €500 application fee. Dutch-language form; RVO aims to reply within 3 working days. Phone: 088 042 47 47 (weekdays 08:30-17:00)."
+        },
+        {
+          "name": "RVO — official species-assessment request portal (\"diersoort laten beoordelen\" / Mijn RVO)",
+          "type": "public_comment",
+          "form_url": "https://www.rvo.nl/onderwerpen/huis-en-hobbydierenlijst/diersoort-laten-beoordelen",
+          "why": "This is the statutory rulemaking lever: the official page describing how an interested party formally requests that a mammal species (here, Rattus rattus) be assessed for addition to the huis- en hobbydierenlijst. The actual request is submitted through Mijn RVO (https://mijn.rvo.nl/huisdierenlijst, DigiD login for individuals), costs €500 per species, and gets a decision within 6 months (extendable to 9). This — not an appeal to the agency — is what can actually change the list."
+        },
+        {
+          "name": "NVWA (Nederlandse Voedsel- en Warenautoriteit) — enforcement authority, for status confirmation",
+          "type": "agency",
+          "form_url": "https://www.nvwa.nl/over-de-nvwa/contact/vraag-stellen-aan-de-nvwa",
+          "why": "The NVWA enforces which animals may be kept and is the right place to confirm in writing the current keeping status of Rattus rattus before you act. Useful as documentation, but note: the NVWA cannot add a species to the list — that is RVO's assessment process. Dutch-language web form."
+        }
+      ],
+      "template": {
+        "en": "Subject: Request to assess the domesticated black rat (Rattus rattus) for the huis- en hobbydierenlijst\n\nTo the RVO team responsible for the huis- en hobbydierenlijst,\n\nI am writing about a domesticated companion animal that is currently kept successfully elsewhere but cannot be kept in the Netherlands: the tame black rat / roof rat (Rattus rattus). I understand that since 1 July 2024 only mammal species on the huis- en hobbydierenlijst may be kept, and that Rattus rattus is not on it.\n\nI would like to request that a domesticated, captive-bred line of Rattus rattus be assessed for addition to the list. These animals are bred in captivity, are tame and handleable, are kept indoors as pets, and are never released into the wild — exactly like the fancy brown rat (Rattus norvegicus forma domestica), which is already on the list. The relevant question is therefore the suitability of the kept, domesticated strain against your six assessment criteria, not the behaviour of wild populations.\n\nCould you please confirm the exact steps for submitting an assessment request (beoordeling aanvragen) for this species, and what scientific documentation the Adviescollege expects? I am prepared to pursue the formal application.\n\nThank you for your time.\n\n[Your name]\n[Your contact details]",
+        "nl": "Onderwerp: Verzoek tot beoordeling van de gedomesticeerde zwarte rat (Rattus rattus) voor de huis- en hobbydierenlijst\n\nGeacht RVO-team verantwoordelijk voor de huis- en hobbydierenlijst,\n\nIk schrijf u over een gedomesticeerd gezelschapsdier dat elders met succes wordt gehouden, maar in Nederland niet gehouden mag worden: de tamme zwarte rat / dakrat (Rattus rattus). Ik begrijp dat sinds 1 juli 2024 alleen zoogdiersoorten op de huis- en hobbydierenlijst gehouden mogen worden, en dat Rattus rattus daar niet op staat.\n\nGraag verzoek ik om een gedomesticeerde, in gevangenschap gefokte lijn van Rattus rattus te laten beoordelen voor opname op de lijst. Deze dieren worden in gevangenschap gefokt, zijn tam en hanteerbaar, worden binnenshuis als huisdier gehouden en worden nooit in het wild losgelaten — precies zoals de tamme bruine rat (Rattus norvegicus forma domestica), die al op de lijst staat. De relevante vraag is dus de geschiktheid van de gehouden, gedomesticeerde lijn aan de hand van uw zes beoordelingscriteria, en niet het gedrag van wilde populaties.\n\nKunt u mij bevestigen wat de exacte stappen zijn om een beoordeling aan te vragen voor deze soort, en welke wetenschappelijke onderbouwing het Adviescollege verwacht? Ik ben bereid de formele aanvraag in te dienen.\n\nMet vriendelijke groet,\n\n[Uw naam]\n[Uw contactgegevens]"
+      },
+      "confidence_notes": "Verified on 2026-06-09 via RVO and NVWA official pages. CONFIRMED: (1) Since 1 July 2024 the Netherlands operates the huis- en hobbydierenlijst as a positive list under the Wet dieren / Besluit houders van dieren — only listed mammal species may be kept, bred, bought or sold (rvo.nl/onderwerpen/huis-en-hobbydierenlijst). (2) The fancy brown rat (Rattus norvegicus forma domestica) IS on the list; the black rat (Rattus rattus) is NOT — confirmed against the RVO list page. (3) There is an official, built-in assessment-request procedure (\"beoordeling aanvragen\" / \"diersoort laten beoordelen\"): an interested party submits via Mijn RVO (mijn.rvo.nl/huisdierenlijst, DigiD for individuals / eHerkenning 2+ for businesses), pays €500 per species, and receives a decision within 6 months (extendable to 9); the Adviescollege huis- en hobbydierenlijst evaluates against six factors (human health, nutrition, habitat, thermoregulation, social behaviour/reproduction, domestication). Decisions can be objected to within 6 weeks. VERIFIED contact channels: RVO general contact form https://www.rvo.nl/onderwerpen/contact/formulier (phone 088 042 47 47); RVO assessment page https://www.rvo.nl/onderwerpen/huis-en-hobbydierenlijst/diersoort-laten-beoordelen; NVWA question form https://www.nvwa.nl/over-de-nvwa/contact/vraag-stellen-aan-de-nvwa. UNCERTAIN: I could not load the interactive zoektool/zoekregister, so I could not confirm whether Rattus rattus was specifically assessed-and-rejected among the 300+ species or simply not assessed — this is worth checking in the register before filing, because a prior negative assessment changes the strategy (a re-assessment/herbeoordeling requires new scientific evidence on at least one risk factor). The grounding file's contact (info@nvwa.nl) is noted there as a public inbox but the file's own note says NVWA has no public email and to use the web form — I used the form URL accordingly. This is a research aid, not legal advice; confirm details with RVO before applying, and note the €500 fee is non-trivial and the applicant must qualify as a belanghebbende.",
+      "local_lang": "nl"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "prohibited",
+      "confidence": "medium",
+      "why": "Only the ~30 mammal species on the positive list (huis- en hobbydierenlijst, in force since 1 July 2024) may be kept; the brown rat is listed but the black rat is not, so keeping it is not permitted.",
+      "governing_law": "Wet dieren; Besluit houders van dieren (huis- en hobbydierenlijst)",
+      "source_ids": [
+        "nl-nvwa",
+        "nl-licg"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "medium",
+      "why": "Species not on the positive list may not be bred by private keepers.",
+      "governing_law": "Besluit houders van dieren (positive list)",
+      "source_ids": [
+        "nl-nvwa"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "medium",
+      "why": "Species not on the positive list may not be bought, sold, or freely traded by private individuals.",
+      "governing_law": "Besluit houders van dieren (positive list)",
+      "source_ids": [
+        "nl-nvwa"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "medium",
+      "why": "Species not on the positive list may not be imported by private keepers.",
+      "governing_law": "Besluit houders van dieren (positive list)",
+      "source_ids": [
+        "nl-nvwa"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "Wij willen graag bevestigen dat Rattus rattus niet op de huis- en hobbydierenlijst staat, en vragen welke procedure bestaat om een gedomesticeerde lijn van deze soort te laten beoordelen voor opname op de lijst.",
+  "sources": [
+    {
+      "id": "nl-nvwa",
+      "title": "Welke dieren mag ik als huisdier houden? — NVWA",
+      "url": "https://www.nvwa.nl/onderwerpen/dier/huisdieren-houden/welke-dieren-mag-ik-als-huisdier-houden",
+      "authority": "NVWA (Netherlands)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "nl-licg",
+      "title": "Huis- en hobbydierenlijst (positieflijst) — LICG",
+      "url": "https://www.licg.nl/huis-en-hobbydierenlijst-positieflijst/",
+      "authority": "LICG (NL info centre)",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "NVWA (Nederlandse Voedsel- en Warenautoriteit)",
+      "role": "agriculture",
+      "email": "info@nvwa.nl",
+      "form_url": "https://www.nvwa.nl/over-de-nvwa/contact/vraag-stellen-aan-de-nvwa",
+      "phone": "+31 88 223 22 33"
+    }
+  ]
+}

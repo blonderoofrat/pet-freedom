@@ -1,0 +1,262 @@
+{
+  "jurisdiction": {
+    "id": "us-tn",
+    "level": "state",
+    "name": "Tennessee",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-TN",
+    "language": "en",
+    "slug": "tennessee",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Tennessee classifies wildlife into five mutually exclusive classes (TCA §70-4-403), and the roof rat lands in Class III — the residual catch-all 'all species not listed in other classes,' which 'requires no permits except those required by the department of agriculture.' A DR correction: the statute does NOT enumerate 'rats, mice'; non-native rodents qualify purely through that residual clause. Because R. rattus is non-native (so not Class II/IV), not inherently dangerous (not Class I), and has not been elevated to the injurious Class V list, keeping, breeding, and selling/giving a captive-bred roof rat is entirely unregulated by TWRA — and the law draws no distinction between R. rattus and the fancy rat (R. norvegicus). The only state layer is animal-health: importing a rodent across state lines needs a Certificate of Veterinary Inspection (normally valid 30 days), and a June 4, 2026 TDA emergency screwworm order tightens that to a 7-day CVI plus entry permit for animals from infested/high-risk states. Never release one — it is a banned invasive release.",
+  "last_reviewed": "2026-06-10",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "TCA §70-4-403(3) defines Class III as the residual class that 'requires no permits except those required by the department of agriculture, and includes all species not listed in other classes.' R. rattus is non-native (so not Class II/IV), is not inherently dangerous (not Class I), and is absent from the injurious Class V list, so it defaults to Class III. No TWRA possession permit, registration, facility inspection, or fee is required to keep one as a pet; ordinary proof of legal (non-wild) origin such as a bill of sale or breeder receipt suffices.",
+      "governing_law": "Tenn. Code Ann. §70-4-403(3); Tenn. Comp. R. & Regs. ch. 1660-01-18 (Classes of Wildlife); agency: Tennessee Wildlife Resources Agency (TWRA).",
+      "source_ids": [
+        "tn-70-4-403",
+        "tn-1660-01-18"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "TWRA commercial propagation permits are required only for Class I or Class II wildlife, so no propagation permit applies to a Class III roof rat (TCA §70-4-403(3); Tenn. Comp. R. & Regs. 1660-01-37-.06). Tennessee's Commercial Breeder Act (TCA Title 44 ch. 17 pt. 7) covered only unsterilized dogs and cats and expired under its sunset clause on June 30, 2014, leaving no active state breeder license for rodents. Hobby and commercial rat breeding are unregulated by the state; large wholesale operations selling to labs or pet-store chains may still need federal USDA Animal Welfare Act licensing (see United States), and local zoning may apply to a home business.",
+      "governing_law": "Tenn. Code Ann. §70-4-403(3); Tenn. Comp. R. & Regs. 1660-01-37-.06 (Propagation Permits — Class I/II only); Tenn. Code Ann. §44-17-703 (Commercial Breeder Act, expired 6/30/2014). Agency: TWRA / Tennessee Dept of Agriculture (TDA).",
+      "source_ids": [
+        "tn-70-4-403",
+        "tn-1660-01-37",
+        "tn-breeder-act"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No TWRA sale/transfer permit applies to a Class III rodent — the 'Commercial Use of Wildlife' rule (Tenn. Comp. R. & Regs. 1660-01-17-.01) restricts only endangered, threatened, or native species and contains no bar on buying/selling/bartering legally obtained non-native wildlife. The TDA Livestock Dealer License (TCA Title 44 ch. 10) applies only to traditional livestock (cattle, swine, sheep, goats, horses, poultry), so pet rodents are exempt. Selling or gifting roof rats is therefore unregulated by state agencies; only local municipal/county zoning for a home-based commercial business may apply.",
+      "governing_law": "Tenn. Comp. R. & Regs. 1660-01-17-.01 (commercial use = endangered/threatened/native only); Tenn. Code Ann. §44-10-203 (Livestock Dealer License — traditional livestock only). Agency: TWRA / TDA.",
+      "source_ids": [
+        "tn-1660-01-17",
+        "tn-livestock-dealer",
+        "tn-70-4-403"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Intrastate transport needs no health certificate, CVI, or TWRA permit, and TWRA importation rules expressly exempt Class III wildlife (Tenn. Comp. R. & Regs. 1660-01-15-.01(h)). But the TDA asserts jurisdiction over all animals crossing the state line: under Tenn. Comp. R. & Regs. 0080-02-01, an animal entering Tennessee must be free of communicable disease and accompanied by a Certificate of Veterinary Inspection (normally valid 30 days). The June 4, 2026 TDA 'Order of the State Veterinarian' for New World Screwworm applies to all warm-blooded mammals — explicitly including 'Class III animals as classified by Tenn. Code Ann. §70-4-403(3)' — and, for animals from infested/high-risk states, requires a CVI issued within 7 days, the statement 'All animals listed on the CVI have been inspected and are free from screwworm larvae infestation,' freedom from open wounds, and a prior entry permit number from the State Veterinarian's Office. A lawful pathway plainly exists; transporting without the required CVI risks civil penalties up to $500.",
+      "governing_law": "Tenn. Comp. R. & Regs. 1660-01-15-.01(h) (Class III import exemption — TWRA); Tenn. Comp. R. & Regs. 0080-02-01-.02/.14 (CVI for all animals — TDA); TDA Order of the State Veterinarian, June 4, 2026 (New World Screwworm interstate movement). Agency: Tennessee Dept of Agriculture (State Veterinarian).",
+      "source_ids": [
+        "tn-1660-01-15",
+        "tn-0080-02-01",
+        "tn-import",
+        "tn-nws-order",
+        "tn-70-4-403"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rodent into Tennessee from out of state requires a Certificate of Veterinary Inspection (CVI) from an accredited vet in the origin state, declaring the animal free of communicable disease. Normally valid 30 days; the TDA is phasing out fillable-PDF CVIs in favor of electronic CVIs (eCVI) after June 30, 2026. No CVI is needed for movement entirely within Tennessee.",
+      "steps": [
+        "Have an accredited veterinarian in the origin state examine the rat and issue a CVI before crossing the state line",
+        "Prefer an electronic CVI (GlobalVetLink / VSPS / Vet Sentry) — PDF CVIs not accepted after June 30, 2026",
+        "Carry the CVI during transport into Tennessee"
+      ],
+      "forms": [
+        "Certificate of Veterinary Inspection (CVI / eCVI)"
+      ],
+      "where_to_file": "Issued by an accredited veterinarian in the state of origin; TN Dept of Agriculture (Office of the State Veterinarian) oversees import compliance",
+      "fees": "Veterinary exam/CVI fee set by the issuing vet; no state filing fee",
+      "source_ids": [
+        "tn-import",
+        "tn-0080-02-01"
+      ]
+    },
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "EMERGENCY (effective June 4, 2026): the TDA New World Screwworm order applies to all warm-blooded mammals, including Class III pets. For rodents originating from a screwworm-infested or USDA high-risk state, the standard 30-day CVI is insufficient — a 7-day CVI with a specific screwworm-free inspection statement, freedom from open wounds, and a pre-issued entry permit number (plus prophylactic-treatment declaration for infested zones) are required. Confirm your origin state's current status with the TDA on the day of shipment.",
+      "steps": [
+        "Check whether the origin state is currently an infested/high-risk state (status is fluid — confirm with TDA on shipment day)",
+        "If high-risk: obtain a CVI issued within 7 days of entry bearing the screwworm-free inspection statement; ensure the animal has no open wounds",
+        "If from an infested zone: obtain a prior entry permit number from the State Veterinarian's Office and a prophylactic-treatment declaration on the CVI"
+      ],
+      "forms": [
+        "CVI (issued within 7 days) with screwworm inspection statement",
+        "Entry permit (infested-zone origins)"
+      ],
+      "where_to_file": "Tennessee Dept of Agriculture — Office of the State Veterinarian (entry permits); accredited vet issues the CVI",
+      "fees": "No state fee for the order; veterinary CVI fee applies. Civil penalties up to $500 per violation for non-compliant transport.",
+      "source_ids": [
+        "tn-nws-order",
+        "tn-import"
+      ]
+    },
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "No state breeder or dealer license is required for rodents (Commercial Breeder Act expired 6/30/2014; Livestock Dealer License covers traditional livestock only). A large-scale commercial breeder operating from a residence may still need a generic local business license, and federal USDA Animal Welfare Act licensing applies to wholesale / sight-unseen sales to labs or pet-store chains (see United States).",
+      "steps": [
+        "Verify with your county clerk / city whether a generic business license is needed for a home-based animal husbandry enterprise",
+        "If selling wholesale or sight-unseen, check federal USDA AWA licensing"
+      ],
+      "forms": [],
+      "where_to_file": "Local county clerk / municipal licensing (business license); USDA APHIS (federal wholesale)",
+      "fees": "Set locally / federally",
+      "source_ids": [
+        "tn-breeder-act",
+        "tn-livestock-dealer"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "It is a serious violation of Tennessee wildlife law to release any wildlife — including unregulated Class III animals — into the wild, and the roof rat is a highly invasive non-native pest. Intentional release or abandonment could trigger both wildlife violations and municipal nuisance-abatement fines. Rehome responsibly; never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "tn-70-4-403",
+        "tn-shelby-rodent"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "tn-70-4-403",
+      "title": "Tenn. Code Ann. §70-4-403 — Classifications of wildlife (Class III = residual 'all species not listed'; no TWRA permit)",
+      "url": "https://law.justia.com/codes/tennessee/title-70/chapter-4/part-4/section-70-4-403/",
+      "authority": "Tennessee General Assembly (via Justia)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-1660-01-18",
+      "title": "Tenn. Comp. R. & Regs. 1660-01-18-.03 — Classes of Wildlife (R. rattus absent from Class I/V lists)",
+      "url": "https://publications.tnsosfiles.com/rules/1660/1660-01/1660-01-18.20220130.pdf",
+      "authority": "TWRA (via TN Secretary of State)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-1660-01-15",
+      "title": "Tenn. Comp. R. & Regs. 1660-01-15-.01 — Animal Importation (Class III wildlife exempt from TWRA import permit, subsec. (h))",
+      "url": "https://publications.tnsosfiles.com/rules/1660/1660-01/1660-01-15.20120801.pdf",
+      "authority": "TWRA (via TN Secretary of State)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-1660-01-17",
+      "title": "Tenn. Comp. R. & Regs. 1660-01-17-.01 — General Provisions for Commercial Use (restrictions only for endangered/threatened/native)",
+      "url": "https://www.animallaw.info/administrative/tn-wildlife-commercial-use-1660-01-17-01-general-provisions-commercial-use",
+      "authority": "TWRA (via Animal Legal & Historical Center)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-1660-01-37",
+      "title": "Tenn. Comp. R. & Regs. 1660-01-37-.06 — Propagation Permits (Class I/II only)",
+      "url": "https://www.law.cornell.edu/regulations/tennessee/Tenn-Comp-R-Regs-1660-01-37-.06",
+      "authority": "TWRA (via Cornell LII)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-0080-02-01",
+      "title": "Tenn. Comp. R. & Regs. 0080-02-01-.02 &.14 — Animal Health: CVI required for animals entering the state",
+      "url": "https://publications.tnsosfiles.com/rules/0080/0080-02/0080-02-01.20210621.pdf",
+      "authority": "TN Dept of Agriculture (via TN Secretary of State)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-import",
+      "title": "Import Requirements for Animals — Class III definition, CVI (30-day), eCVI transition",
+      "url": "https://www.tn.gov/agriculture/animals/animal-movement-requirements/import-requirements1.html",
+      "authority": "TN Dept of Agriculture (State Veterinarian)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-nws-order",
+      "title": "Order of the State Veterinarian (June 4, 2026) — New World Screwworm interstate movement (7-day CVI, entry permit, applies to Class III)",
+      "url": "https://www.tn.gov/content/dam/tn/agriculture/documents/animalhealth/2026/NWS%20Order%2006042026_v11%20(002)%20-%20SignedADA.pdf",
+      "authority": "TN Dept of Agriculture (State Veterinarian)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-breeder-act",
+      "title": "Tenn. Code Ann. §44-17-703 — Commercial Breeder Act (dogs/cats only; expired 6/30/2014)",
+      "url": "https://www.animallaw.info/statute/tn-breeder-part-7-commercial-breeder-act",
+      "authority": "Tennessee General Assembly (via Animal Legal & Historical Center)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-livestock-dealer",
+      "title": "Tenn. Code Ann. §44-10-203 — Livestock Dealer Licensing (traditional livestock only; rodents exempt)",
+      "url": "https://www.tn.gov/agriculture/animals/animal-health-resources/animal-health-forms-regs.html",
+      "authority": "TN Dept of Agriculture",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "tn-shelby-rodent",
+      "title": "Rodent Control / Urban & Rural Sanitation — feral R. rattus nuisance/eradication (no captive-keeping ban)",
+      "url": "https://www.shelbytnhealth.com/149/Rodent-ControlUrban-Rural-Sanitation",
+      "authority": "Shelby County Health Department",
+      "accessed": "2026-06-10"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Tennessee Department of Agriculture (TDA) — Division of Animal Health / Office of the State Veterinarian",
+      "role": "agriculture",
+      "email": "animal.health@tn.gov",
+      "form_url": "https://www.tn.gov/agriculture/animals/animal-movement-requirements/import-requirements1.html",
+      "phone": "(615) 837-5120",
+      "primary": true
+    },
+    {
+      "agency": "Tennessee Wildlife Resources Agency (TWRA) — Captive Wildlife / Permits Program",
+      "role": "wildlife",
+      "email": "twra.permitprogram@tn.gov",
+      "form_url": "",
+      "phone": "(615) 781-6500",
+      "primary": false
+    }
+  ]
+}

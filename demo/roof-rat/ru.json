@@ -1,0 +1,166 @@
+{
+  "jurisdiction": {
+    "id": "ru",
+    "level": "country",
+    "name": "Russia",
+    "parent": null,
+    "country": "RU",
+    "iso": "RU",
+    "language": "ru",
+    "inquiry_language": "ru",
+    "slug": "russia",
+    "local_terms": [
+      "Rattus rattus",
+      "чёрная крыса",
+      "декоративная крыса"
+    ]
+  },
+  "summary": "Russia is permissive for the roof rat. Federal Law 498-FZ ('On Responsible Treatment of Animals') lets the government publish a list of species banned from private keeping — and neither the old Decree 795/2019 nor its replacement (Disposition 1163-r, in force 1 Sept 2025) lists ANY Rattus among the ~121 prohibited taxa (those are big carnivores, primates, elephants, cetaceans, etc.). The ordinary decorative/fancy rat (R. norvegicus domestica) is kept and sold freely with no permit, and because R. rattus is nowhere prohibited, the same route applies to captive-bred roof rats. R. rattus does sit on a scientific invasive-species advisory list (SEVIN Top-100) but that carries NO enforceable keeping ban. Selling/giving needs only the normal vet documentation (vet passport / accompanying certificate); internal transport uses a vet Form 1 (between regions) or Form 4 (local), and import from outside the EAEU uses the EAEU veterinary-certificate regime via Rosselkhoznadzor.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "R. rattus is not named in the Art. 10 / 498-FZ prohibited-keeping list (Disposition 1163-r, 2025, nor the prior Decree 795/2019), so no exotic permit applies; it's kept under the same regime as the decorative R. norvegicus (Art. 13 welfare duties only). The SEVIN Top-100 invasive listing is advisory, not a legal bar. (A one-line Rosselkhoznadzor confirmation that R. rattus is treated as a 'decorative animal' would remove all doubt.)",
+      "governing_law": "Federal Law 498-FZ Art. 10, 13; Disposition 1163-r (08.05.2025) — Rattus not listed.",
+      "source_ids": [
+        "ru-498fz",
+        "ru-1163r"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "No licence/registration for private non-commercial breeding of decorative rodents (498-FZ Arts. 8–9 define 'nurseries/kennels' with welfare/vet-supervision duties, not a state licence for hobby breeding). Commercial-scale breeding triggers vet oversight under the Law on Veterinary Medicine (No. 4979-1). R. rattus not prohibited; in practice Russian breeders treat it like R. norvegicus.",
+      "governing_law": "498-FZ Arts. 8–9; Law on Veterinary Medicine No. 4979-1.",
+      "source_ids": [
+        "ru-498fz",
+        "ru-vetlaw"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Sale of decorative rodents is allowed but must follow the Retail Trade Rules (Decree 2463/2020, Section IX): the seller provides a vet passport/accompanying document, species/care info, and confirmation the species isn't on the prohibited list. No seller's licence for private transactions; free giving is unregulated beyond welfare. R. rattus may be sold/given exactly as R. norvegicus.",
+      "governing_law": "Decree 2463/2020 Section IX; 498-FZ Art. 10.",
+      "source_ids": [
+        "ru-2463",
+        "ru-498fz"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Internal transport needs a state-vet accompanying document (Form 1 across regions; Form 4 local). International import (from a non-EAEU country) uses the EAEU Unified Veterinary Certificate Form 41 (CTS Decision 607/2011) with a ~21-day pre-export quarantine + origin health certificate, presented to the Rosselkhoznadzor border post (VetIS/Mercury e-cert); a simplified travellers' regime (CTS Decision 317/2010 Ch. 15) may apply to ≤2 non-commercial animals — confirm with Rosselkhoznadzor. Never release.",
+      "governing_law": "CTS Decision 607/2011 (Form 41); CTS Decision 317/2010 (Ch. 15/40); vet-transport rules; 498-FZ Art. 13.",
+      "source_ids": [
+        "ru-eaeu-607",
+        "ru-eaeu-317",
+        "ru-rsn-import"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Selling/transporting a decorative rat in Russia needs vet documentation (vet passport for sale; Form 1/Form 4 for movement; EAEU Form 41 + quarantine for third-country import). No keeping permit. Never release a roof rat.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Rosselkhoznadzor (border/vet) / state veterinary service",
+      "fees": "",
+      "source_ids": [
+        "ru-rsn-import"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Does Rosselkhoznadzor classify captive-bred Rattus rattus (чёрная крыса) kept as a decorative pet the same as the decorative R. norvegicus (no permit), or as a 'wild animal' requiring authorization? (2) Which EAEU veterinary certificate is required to import 1–3 captive-bred decorative R. rattus from a third country — Form 41 (CTS 607/2011) or the simplified travellers' regime (CTS 317/2010 Ch. 15) — and is pre-import quarantine mandatory? (3) Is any registration/notification required to commercially breed and sell captive-bred R. rattus, and under which instrument?",
+  "sources": [
+    {
+      "id": "ru-498fz",
+      "title": "Federal Law 498-FZ (2018) 'On Responsible Treatment of Animals' — Arts. 8–10, 13",
+      "url": "http://publication.pravo.gov.ru/Document/View/0001201812270064",
+      "authority": "Russian Federation (official publication portal)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ru-1163r",
+      "title": "Government Disposition No. 1163-r (08.05.2025) — list of animals prohibited from keeping (Rattus NOT listed)",
+      "url": "http://publication.pravo.gov.ru/document/0001202505210010",
+      "authority": "Government of the Russian Federation",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ru-2463",
+      "title": "Government Decree No. 2463 (31.12.2020) — Retail Trade Rules, Section IX (sale of animals: vet documents)",
+      "url": "https://www.consultant.ru/document/cons_doc_LAW_373622/",
+      "authority": "Government of the Russian Federation (via ConsultantPlus)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ru-vetlaw",
+      "title": "Law on Veterinary Medicine No. 4979-1 (1993, as amended)",
+      "url": "https://www.consultant.ru/document/cons_doc_LAW_4424/",
+      "authority": "Russian Federation (via ConsultantPlus)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ru-eaeu-607",
+      "title": "EAEU CTS Decision 607/2011 — Unified Veterinary Certificate Form 41 (zoo/exotic animals from third countries)",
+      "url": "https://eec.eaeunion.org/comission/department/depsanmer/veterinarno-sanitarnye-mery/formy-edinykh-veterinarnykh-sertifikatov.php",
+      "authority": "Eurasian Economic Commission",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ru-eaeu-317",
+      "title": "EAEU CTS Decision 317/2010 — Single Veterinary-Sanitary Rules (Ch. 15 companion animals / Ch. 40 zoo)",
+      "url": "https://alta.ru/tamdoc/10sr0317/",
+      "authority": "Customs Union Commission / EAEU",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ru-rsn-import",
+      "title": "Rosselkhoznadzor — How to import a domestic animal into Russia",
+      "url": "https://fsvps.gov.ru/puteshestvujushhim-s-pitomcami-vvoz-vyvo/instrukcija-kak-vvezti-domashnee-zhivotnoe-v-rossiju/",
+      "authority": "Rosselkhoznadzor",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "ru-sevin",
+      "title": "SEVIN IEE RAS — Invasive Species of Russia Top-100: Rattus rattus (scientific advisory, NOT law)",
+      "url": "https://www.sevin.ru/Top100Worst/priortargets/Mammals/rattus.html",
+      "authority": "Institute of Ecology & Evolution, RAS",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Россельхознадзор (Rosselkhoznadzor — Federal Veterinary & Phytosanitary Service)",
+      "role": "agriculture",
+      "email": "info@fsvps.gov.ru",
+      "form_url": "https://ereception.fsvps.gov.ru/",
+      "phone": "",
+      "primary": true,
+      "inquiry_language": "ru"
+    }
+  ]
+}

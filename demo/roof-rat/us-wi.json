@@ -1,0 +1,150 @@
+{
+  "jurisdiction": {
+    "id": "us-wi",
+    "level": "state",
+    "name": "Wisconsin",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-WI",
+    "language": "en",
+    "slug": "wisconsin",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Wisconsin is now DR-verified. Keeping and breeding a pet roof rat are legal and largely deregulated: the DNR exempts non-native, non-harmful wild animals from possession and captive-wildlife-farm licensing (Wis. Stat. ch. 169), and the roof rat is not on the 'harmful wild animal' list. The open question is on the agriculture side: commercial SALE may require a DATCP Animal Dealer license, and IMPORT may require a Wild Animal Import Permit (on top of the standard veterinary certificate), depending on whether DATCP classifies a captive-bred R. rattus as a 'domestic animal' (ATCP 10.02(8)) or a 'wild animal' — a definition DATCP has not pinned down for R. rattus. (Local ordinances can also restrict exotic pets.)",
+  "last_reviewed": "2026-06-10",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "clarification",
+      "problem": "Keeping and breeding roof rats in Wisconsin are clearly legal (the DNR exempts non-native, non-harmful animals). But the <em>commercial sale</em> and <em>import</em> sit in a gray zone: the agriculture department (DATCP) regulates dealers and importers of 'wild animals' while exempting 'domestic' ones, and it is unconfirmed whether DATCP's 'domestic rat' covers captive-bred <em>Rattus rattus</em> or only the fancy rat (<em>R. norvegicus</em>).",
+      "ask": "Ask DATCP's Division of Animal Health to confirm in writing that a captive-bred, domesticated <em>Rattus rattus</em> is a 'domestic animal' under ATCP 10.02(8) — so selling it needs no $220 Animal Dealer license (ATCP 12) and importing it needs only a Certificate of Veterinary Inspection, not a Wild Animal Import Permit (ATCP 10.84).",
+      "branch_note": "This is a bureaucratic-clarification case (agency), not a law-as-written one: the rules already exempt 'domestic' animals; the only open question is whether DATCP reads 'domestic rat' to include R. rattus. The lever is a written determination from DATCP, not the legislature.",
+      "time_sensitive": "",
+      "local_lang": "en",
+      "targets": [
+        {
+          "name": "Wisconsin DATCP &mdash; Division of Animal Health",
+          "type": "agency",
+          "form_url": "https://datcp.wi.gov/",
+          "why": "DATCP decides whether R. rattus is 'domestic' (ATCP 10.02(8)) for Animal Dealer-license and import-permit purposes. Reach the Division of Animal Health via its Animal Imports / Movement contact on datcp.wi.gov."
+        }
+      ],
+      "template": {
+        "en": "To the Wisconsin DATCP, Division of Animal Health,\n\nI keep and, on a small scale, breed domesticated roof rats (Rattus rattus) as pets. Wisconsin's DNR exempts them from wildlife licensing as non-native, non-harmful animals. I am writing to confirm how DATCP classifies them for commercial and import purposes.\n\nSpecifically: is a captive-bred, domesticated Rattus rattus a \"domestic animal\" under ATCP 10.02(8) (like the domestic rat/mouse in your pet-movement guidance), so that (a) selling them does not require an Animal Dealer license under ATCP 12, and (b) importing one requires only a Certificate of Veterinary Inspection, not a Wild Animal Import Permit under ATCP 10.84?\n\nThese animals are captive-bred over generations for tameness, kept indoors, and never released. A written confirmation I can rely on would be greatly appreciated.\n\nThank you,\n[Your name]"
+      },
+      "confidence_notes": "Per the Gemini DR: keep/breed clearly exempt (Wis. Stat. 169.04(4)(b), 169.08(2)); the DATCP 'domestic vs wild' classification of R. rattus is the genuinely open point. Contact = DATCP Division of Animal Health (verify the current Animal Health/Imports contact on datcp.wi.gov before sending)."
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Rattus rattus is a non-native wild animal that is not endangered and not a designated 'harmful wild animal', so it is statutorily exempt from any DNR possession license (Wis. Stat. 169.04(4)(b); the harmful-wild-animal list, 169.11(1)(a), names only cougars, bears, and wild/feral swine). No permit, testing, or inspection by the DNR. Note: municipalities may impose stricter local exotic-pet rules (169.11(3)).",
+      "governing_law": "Wis. Stat. 169.04(4)(b); 169.11(1)(a) (harmful-wild-animal list); 169.11(3) (local control).",
+      "source_ids": [
+        "wi-169-04",
+        "wi-nr40"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Propagation is tied to the possession exemption: Wis. Stat. 169.08(2) exempts from the Captive Wild Animal Farm License any animal exempt under 169.04(4)(b). So hobby and commercial breeding of roof rats need no DNR breeding permit, inspection, or fee (and the NR 16.30 caging standards apply only to ch.169-licensed animals, so they do not bind roof-rat keepers).",
+      "governing_law": "Wis. Stat. 169.08(2) (propagation exemption); NR 16.30(1) (caging applies only to ch.169-licensed animals).",
+      "source_ids": [
+        "wi-169-04"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "low",
+      "why": "The DNR requires no sales license (169.10(1)(b), via the same exemption). BUT commercial selling may trigger a DATCP Animal Dealer license ($220/yr; Wis. Stat. 95.69, ATCP 12.03) IF DATCP classifies R. rattus as a 'wild animal' rather than a 'domestic animal' (ATCP 10.02(8)). DATCP's pet-movement guidance lists the 'domestic rat' as a household pet, but it is unconfirmed whether that covers R. rattus or only R. norvegicus. Giving away privately is unproblematic; commercial sale is the gray zone.",
+      "governing_law": "Wis. Stat. 169.10(1)(b) (DNR exemption); Wis. Stat. 95.69 + ATCP 12.03 (Animal Dealer license); ATCP 10.02(8) ('domestic animal' definition).",
+      "source_ids": [
+        "wi-169-04"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Intrastate movement of a healthy pet is unregulated. IMPORT into Wisconsin requires a Certificate of Veterinary Inspection for every animal (ATCP 10.06(1)) — no rabies/test requirement for rodents — and MAY additionally require a Wild Animal Import Permit (ATCP 10.84) if DATCP treats R. rattus as a 'wild animal' rather than 'domestic'. Never release a roof rat.",
+      "governing_law": "ATCP 10.06(1) (CVI on import); ATCP 10.84 (Wild Animal Import Permit, if 'wild').",
+      "source_ids": [
+        "wi-atcp10",
+        "wi-nr40"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rat into Wisconsin requires a Certificate of Veterinary Inspection (ATCP 10.06); no special tests or import permit for a domestic-rodent household pet. No CVI for in-state movement.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Wisconsin DATCP, Division of Animal Industry",
+      "fees": "",
+      "source_ids": [
+        "wi-atcp10"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat (Wis. Stat. §169.30 / NR 40). Local city/village/county ordinances may be stricter (Wis. Stat. §169.11(3)) — check yours.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "wi-169-04"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "wi-169-04",
+      "title": "Wis. Stat. §169.04 — Possession of live wild animals (nonnative exemption §169.04(5))",
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/169/04",
+      "authority": "Wisconsin Legislature / DNR",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "wi-nr40",
+      "title": "Wis. Admin. Code NR 40 — Invasive Species (prohibited mammals: nutria, feral swine, monk parakeet; Rattus absent)",
+      "url": "https://docs.legis.wisconsin.gov/code/admin_code/nr/001/40",
+      "authority": "Wisconsin DNR",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "wi-atcp10",
+      "title": "Wis. Admin. Code ATCP 10.06 / 10.01 — Animal import CVI + household-pet 'domestic rodent' definition",
+      "url": "https://docs.legis.wisconsin.gov/code/admin_code/atcp/010/10",
+      "authority": "Wisconsin DATCP",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

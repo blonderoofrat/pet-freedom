@@ -1,0 +1,158 @@
+{
+  "jurisdiction": {
+    "id": "nz",
+    "level": "country",
+    "name": "New Zealand",
+    "parent": null,
+    "country": "NZ",
+    "iso": "NZ",
+    "language": "en",
+    "slug": "new-zealand",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "ship rat",
+      "kiore (Pacific rat, distinct species)"
+    ]
+  },
+  "summary": "New Zealand bars the ship rat (Rattus rattus) at the border and treats it as a top conservation pest, but the keeping picture is more nuanced than a flat ban. The Ministry for Primary Industries (MPI) confirmed in writing (June 2026) that pet rats CANNOT be imported into New Zealand, and that there are NO registration or permit requirements under the Animal Welfare Act 1999 for keeping, breeding, or selling rats (only the Act's general welfare duties and codes of welfare apply). R. rattus is nonetheless central to the Predator Free 2050 programme and is managed as a pest under the Biosecurity Act 1993 and regional pest-management plans; whether private possession of a ship rat specifically (as opposed to the usual pet, the fancy rat R. norvegicus) is restricted under the Biosecurity Act / an unwanted-organism declaration is the open question MPI's welfare team did not resolve. Importing one is firmly prohibited; never release any rat.",
+  "last_reviewed": "2026-06-10",
+  "agency_confirmations": [
+    "Ministry for Primary Industries (MPI), Animal Welfare Team, written reply June 2026: there are NO registration or permit requirements under the Animal Welfare Act 1999 for people keeping, breeding, or selling rats (only the Act's general welfare duties and codes of welfare apply; there is no pet-rat-specific code of welfare). MPI also confirmed that pet rats CANNOT be imported into New Zealand (per MPI's 'Bringing pets to NZ other than cats and dogs' guidance). Note: this welfare-team reply did not address whether the ship rat (Rattus rattus) specifically is restricted for private possession or breeding as a pest / 'unwanted organism' under the Biosecurity Act 1993 or regional pest-management plans."
+  ],
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "MPI confirmed (June 2026) there is no Animal Welfare Act 1999 registration or permit to keep rats, so keeping is not permit-gated at the welfare layer. However, R. rattus is a declared conservation pest central to Predator Free 2050 and is managed under the Biosecurity Act 1993 and regional pest-management plans; whether private possession of a ship rat specifically is restricted (for example as an 'unwanted organism') was not addressed by MPI's welfare team. Genuinely unsettled for R. rattus pending a Biosecurity-Act clarification (the fancy rat, R. norvegicus, is the species ordinarily kept as a pet).",
+      "governing_law": "Animal Welfare Act 1999 (no keeping permit — MPI, June 2026); Biosecurity Act 1993 + regional pest-management plans (R. rattus pest status — to confirm).",
+      "source_ids": [
+        "nz-awa",
+        "nz-doc",
+        "nz-mpi-import"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": true,
+      "verified_by": "maintainer"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "MPI confirmed (June 2026) there are no Animal Welfare Act registration or permit requirements for breeding rats. As with keeping, the unresolved layer is the Biosecurity Act 1993 / pest-management status of breeding R. rattus specifically — propagating a declared pest may be restricted even though the welfare framework imposes no permit. Unsettled for R. rattus pending Biosecurity confirmation.",
+      "governing_law": "Animal Welfare Act 1999 (no breeding permit — MPI, June 2026); Biosecurity Act 1993 (pest status — to confirm).",
+      "source_ids": [
+        "nz-awa",
+        "nz-doc"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": true,
+      "verified_by": "maintainer"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "MPI confirmed (June 2026) there are no Animal Welfare Act registration or permit requirements for selling rats. The open question is again the Biosecurity Act 1993: 'spreading' or trading a declared pest / unwanted organism can be restricted regardless of the welfare framework. Unsettled for R. rattus specifically pending Biosecurity confirmation.",
+      "governing_law": "Animal Welfare Act 1999 (no dealer permit — MPI, June 2026); Biosecurity Act 1993 (spread/trade of pests — to confirm).",
+      "source_ids": [
+        "nz-awa",
+        "nz-doc"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": true,
+      "verified_by": "maintainer"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "MPI confirmed in writing (June 2026) that pet rats CANNOT be imported into New Zealand — its 'Bringing pets to NZ (other than cats and dogs)' guidance lists rats among animals that may not be imported. Importation is therefore prohibited under NZ's strict biosecurity controls. Internal transport of any lawfully held animal is otherwise subject to the Animal Welfare (Transport within New Zealand) code of welfare. Never release.",
+      "governing_law": "Biosecurity Act 1993; MPI import health standards ('pets other than cats and dogs' — rats not importable; MPI, June 2026); Animal Welfare (Transport within New Zealand) Code of Welfare 2018.",
+      "source_ids": [
+        "nz-mpi-import",
+        "nz-doc"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Pet rats cannot be imported into New Zealand (MPI, June 2026) — there is no import pathway for a roof rat from any country. Internal transport of a lawfully held animal must meet the Animal Welfare (Transport within New Zealand) Code of Welfare. Never release any rat into the environment; R. rattus is a primary Predator Free 2050 eradication target.",
+      "steps": [
+        "Do not attempt to import a roof rat into New Zealand — it is not permitted",
+        "For any internal transport, meet the Animal Welfare (Transport within New Zealand) Code of Welfare"
+      ],
+      "forms": [],
+      "where_to_file": "Ministry for Primary Industries (MPI) — Biosecurity / Animal Imports",
+      "fees": "",
+      "source_ids": [
+        "nz-mpi-import"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Keepers of any animal owe the Animal Welfare Act 1999 duties (meet the animal's physical, health, and behavioural needs; provide treatment for sickness or injury); breaching a minimum standard in a code of welfare can support a prosecution. There is no code of welfare specific to pet rats, but the general duties apply. Never release a rat — release/spread of a pest is a serious biosecurity matter.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "nz-awa"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "nz-awa",
+      "title": "Animal Welfare Act 1999 — owner/keeper duties; codes of welfare (no registration/permit to keep/breed/sell rats — MPI, June 2026)",
+      "url": "https://www.legislation.govt.nz/act/public/1999/142/latest/DLM49664.html",
+      "authority": "New Zealand Legislation (Parliamentary Counsel Office)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "nz-mpi-import",
+      "title": "Bringing pets to NZ (other than cats and dogs) — pet rats cannot be imported into New Zealand",
+      "url": "https://www.mpi.govt.nz/bring-send-to-nz/pets-travelling-to-nz/bringing-pets-to-nz-other-than-cats-and-dogs/",
+      "authority": "Ministry for Primary Industries (MPI)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "nz-doc",
+      "title": "Rats — Department of Conservation (pests & threats; R. rattus a primary Predator Free 2050 target)",
+      "url": "https://www.doc.govt.nz/nature/pests-and-threats/animal-pests-and-threats/rats/",
+      "authority": "NZ Department of Conservation",
+      "accessed": "2026-06-10"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Ministry for Primary Industries (MPI) — Animal Welfare Team",
+      "role": "agriculture",
+      "email": "info@mpi.govt.nz",
+      "form_url": "",
+      "phone": "0800 008 333",
+      "primary": true
+    },
+    {
+      "agency": "Department of Conservation (DOC)",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://www.doc.govt.nz/footer-links/contact-us/",
+      "phone": "0800 362 468",
+      "primary": false
+    }
+  ]
+}

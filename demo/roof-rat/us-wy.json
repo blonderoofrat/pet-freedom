@@ -1,0 +1,153 @@
+{
+  "jurisdiction": {
+    "id": "us-wy",
+    "level": "state",
+    "name": "Wyoming",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-WY",
+    "language": "en",
+    "slug": "wyoming",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat",
+      "domesticated rat"
+    ]
+  },
+  "summary": "Wyoming is one of the clearest 'yes' states for the roof rat — it names the species. Game & Fish Commission Regulation Chapter 10 §2(j) lists 'Domesticated rat (Rattus norvegicus AND Rattus rattus)' by binomial name in its 'Domesticated Animals' category, and §16 exempts domestic/domesticated animals from all importation/possession permits. So keeping a captive-bred roof rat is legal statewide with no wildlife permit, and there's no by-name disparity vs the fancy rat. Breeding and selling/giving are also unregulated at the state level — Wyoming licenses no pet breeders, kennels, or pet shops (LSO report 10 RM 017). The one real requirement is INTERSTATE IMPORT: the Livestock Board (Chapter 8) requires a Certificate of Veterinary Inspection (CVI) for any vertebrate entering the state, and rodents are NOT in the dog/cat/ferret travel waiver — but no separate entry permit is needed for a pet rat. Intrastate movement is unregulated. Never release one (a released roof rat loses its 'domesticated' protection and becomes a takeable pest); watch local 'harboring rodents' ordinances.",
+  "last_reviewed": "2026-06-08",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "WGFD Commission Regulation Chapter 10 §2(j) expressly lists 'Domesticated rat (Rattus norvegicus and Rattus rattus)' as a 'Domesticated Animal,' and §16(a) states that animals in the domestic/domesticated categories 'do not require an importation or possession permit from the Department.' Wyoming distinguishes 'Domestic Animals' (§2(i), genetic divergence) from 'Domesticated Animals' (§2(j), tame/tractable, with an explicit species list that includes R. rattus) — so a captive roof rat is legally indistinguishable from a fancy rat. No caging/facility standards for private keeping (only general anti-cruelty, Title 6).",
+      "governing_law": "WGFD Commission Reg. Ch. 10 §2(j) (Domesticated Animals — names R. rattus) + §16(a) (no permit for domestic/domesticated).",
+      "source_ids": [
+        "wy-ch10",
+        "wy-ch10-quickref"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Wyoming licenses/regulates no pet breeding kennels, boarding kennels, grooming shops, or pet shops at the state level (Legislative Service Office research report 10 RM 017), and there is no propagation quota for exempt companion rodents. Hobby and commercial breeding of R. rattus are both unregulated by the state (federal USDA Animal Welfare Act applies only to sight-unseen/wholesale operations).",
+      "governing_law": "WGFD Ch. 10 §16; LSO report 10 RM 017 (no state pet-breeder/pet-shop licensing); federal USDA AWA (wholesale/sight-unseen only).",
+      "source_ids": [
+        "wy-ch10",
+        "wy-lso"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No Wyoming pet-shop, pet-dealer, or secondhand-dealer license exists — commercial and private transfers of domesticated rodents are structurally unregulated (LSO 10 RM 017; Wolters Kluwer business-license survey). A hobbyist giving a roof rat away and a commercial seller face the same absence of state animal-sales licensing (general business registration + sales tax aside).",
+      "governing_law": "WGFD Ch. 10 §16; no WY pet-dealer/secondhand-dealer license; W.S. Title 11 (no rodent-breeder licensing).",
+      "source_ids": [
+        "wy-ch10",
+        "wy-lso"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "INTRASTATE movement is fully unregulated (exempt species). INTERSTATE IMPORT: once across the line, jurisdiction shifts to the Wyoming Livestock Board (Chapter 8 Import Rules), which requires a Certificate of Veterinary Inspection (CVI) for 'any living vertebrate' entering the state (Ch. 8 §5(b)); a roof rat — exempt from WGFD wildlife status — defaults to this broad 'Animal' definition. The §8-9 pet travel waiver (rabies cert instead of CVI) covers ONLY dogs, cats, and ferrets, so by expressio unius it does NOT extend to rodents → a CVI is legally required. However, NO entry permit is needed (those apply only to cattle/sheep/swine/bison). Export is unregulated by Wyoming. (Open: how strictly the CVI is enforced against private 'pocket pets' in passenger vehicles — a discretion question, not a legal exemption.) Never release.",
+      "governing_law": "Wyoming Livestock Board Ch. 8 Import Rules §§4(a)(iii), 5(b) (CVI for any vertebrate); §8-9 (pet waiver — dogs/cats/ferrets only); WGFD Ch. 10 §16 (intrastate exempt).",
+      "source_ids": [
+        "wy-lsb-ch8",
+        "wy-ch10"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "health_cert",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "To bring a roof rat INTO Wyoming, carry a Certificate of Veterinary Inspection (CVI) from an accredited vet in the origin state (valid ~30 days) — rodents are NOT covered by the dog/cat/ferret travel waiver. No entry permit is needed. No paperwork for in-state movement. NEVER release a roof rat: a released/escaped one loses its 'domesticated' protection (W.S. 11-20-101 feral definition) and becomes a takeable pest. Watch local 'harboring rodents' nuisance ordinances (e.g., Thermopolis) — keep enclosures hygienic + secure.",
+      "steps": [
+        "For interstate import: obtain a CVI from an accredited veterinarian before entering Wyoming"
+      ],
+      "forms": [],
+      "where_to_file": "Wyoming Livestock Board (Animal Health Division)",
+      "fees": "veterinary fee for the CVI",
+      "source_ids": [
+        "wy-lsb-ch8"
+      ]
+    }
+  ],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "wy-ch10",
+      "title": "WGFD Commission Reg. Chapter 10 — Importation/Possession of Live Warm-Blooded Wildlife (§2(j) names 'Domesticated rat (Rattus norvegicus and Rattus rattus)'; §16 no-permit exemption)",
+      "url": "https://wgfd.wyo.gov/media/27666/download?inline",
+      "authority": "Wyoming Game & Fish Commission",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "wy-ch10-quickref",
+      "title": "WGFD 'Application for Importation & Possession of Live Warm-Blooded Wildlife' / Quick Reference — 'Rat, Domesticated' = no permit; common pet rodents exempt",
+      "url": "https://wgfd.wyo.gov/media/23455/download?inline",
+      "authority": "Wyoming Game & Fish Department",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "wy-lsb-ch8",
+      "title": "Wyoming Livestock Board Chapter 8 Import Rules (§5(b) CVI for any vertebrate; §8-9 pet waiver dogs/cats/ferrets only)",
+      "url": "https://wlsb.state.wy.us/editable-page/animal-health/downloadFile?filename=Chapter%208%20Import.pdf",
+      "authority": "Wyoming Livestock Board",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "wy-lso",
+      "title": "Legislative Service Office research report 10 RM 017 — Wyoming does not license/regulate pet breeding kennels or pet shops",
+      "url": "https://wyoleg.gov/LSOResearch/2010/10RM017.pdf",
+      "authority": "Wyoming Legislative Service Office",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "wy-feral",
+      "title": "W.S. 11-20-101 (feral-animal definition) + W.S. 11-6-104 (predatory/destructive rodent control) — a released roof rat loses protection",
+      "url": "https://wyoleg.gov/statutes/compress/title11.pdf",
+      "authority": "Wyoming State Legislature",
+      "accessed": "2026-06-08"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Wyoming Livestock Board — Animal Health Division",
+      "role": "agriculture",
+      "email": "lsbforms-applications@wyo.gov",
+      "form_url": "https://wlsb.state.wy.us/public",
+      "phone": "(307) 777-7515",
+      "primary": true
+    },
+    {
+      "agency": "Wyoming Game & Fish Department — Wildlife Division",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://wgfd.wyo.gov/about-us/contact-us",
+      "phone": "(307) 777-4600",
+      "primary": false
+    }
+  ]
+}

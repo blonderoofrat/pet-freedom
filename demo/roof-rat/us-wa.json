@@ -1,0 +1,130 @@
+{
+  "jurisdiction": {
+    "id": "us-wa",
+    "level": "state",
+    "name": "Washington",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-WA",
+    "language": "en",
+    "slug": "washington",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Washington is now DR-verified and is cleanly legal at the state level. The wildlife statute excludes \"old world rats and mice of the family Muridae\" from the definition of \"wildlife\" (RCW 77.08.010(74)), so the roof rat (Rattus rattus) is outside WDFW jurisdiction with no species trap (R. rattus and R. norvegicus are treated identically), and it is on neither the dangerous-wild-animal list (RCW 16.30.010) nor the deleterious-exotic-wildlife list (WAC 220-640-200). Keeping, breeding, and selling are unregulated by the state (WSDA licenses no breeders; a rat sale is treated as personal property) — commercial breeding/retail defer to LOCAL zoning and animal-business codes. Importing one requires a Certificate of Veterinary Inspection as a \"pocket pet\" (WAC 16-54-170 / WSDA), but no exotic entry permit. Never release a roof rat (it is a recognized invasive species; WAC 220-450-010).",
+  "last_reviewed": "2026-06-10",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The roof rat is excluded from the statutory definition of \"wildlife\" — RCW 77.08.010(74) excludes \"old world rats and mice of the family Muridae\" — so WDFW has no jurisdiction. It is also absent from the dangerous-wild-animal list (RCW 16.30.010) and the deleterious-exotic-wildlife list (WAC 220-640-200). No state permit, caging, or inspection (only general anti-cruelty, RCW 16.52). Local exotic-pet ordinances may still apply.",
+      "governing_law": "RCW 77.08.010(74) (Muridae excluded from wildlife); RCW 16.30.010 (dangerous list — no rodents); WAC 220-640-200 (deleterious list — no rodents).",
+      "source_ids": [
+        "wa-rcw-16-30",
+        "wa-wac-220-640-200"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No state rodent breeder license: WDFW breeding rules cover only dangerous/deleterious species (neither covers R. rattus), and the WSDA does not license, register, or regulate breeders of any species. Hobby breeding is unrestricted; commercial breeding defers to LOCAL county/municipal animal-business and zoning codes.",
+      "governing_law": "WAC 220-640-200(2); RCW 16.30.010; WSDA animal-welfare guidance (no breeder licensing); local codes.",
+      "source_ids": [
+        "wa-wac-220-640-200"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No state pet-dealer license applies to rodents — a roof rat sale is treated as the sale of personal property, not classified wildlife. Statewide pet-dealer bills historically targeted dog/cat volume breeders, not rodents. Retail sale defers to a local business/pet-shop license; private transfer is unregulated.",
+      "governing_law": "RCW 77.08.010(74); WAC 220-450-030 (classified-wildlife sale rules — N/A to non-wildlife rats); local pet-shop codes.",
+      "source_ids": [
+        "wa-wac-220-640-200"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Intrastate transport of an owned pet is unregulated (only humane-transport rules, RCW 16.52.080). IMPORT into Washington requires a Certificate of Veterinary Inspection within 30 days, with the roof rat handled administratively as a \"pocket pet\" (WAC 16-54-170 / WSDA small-animal import) — no exotic entry permit needed via that route; rodents are exempt from rabies vaccination. Never release a roof rat.",
+      "governing_law": "WAC 16-54-170 + WSDA small-animal import (CVI as pocket pet); RCW 16.52.080 (humane transport); WAC 220-450-010 (no-release).",
+      "source_ids": [
+        "wa-wsda-import",
+        "wa-wac-220-640-200"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a pet rat ('pocket pet') into Washington requires a Certificate of Veterinary Inspection (WSDA). No CVI for in-state movement.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "WA State Dept of Agriculture, Animal Health Program",
+      "fees": "",
+      "source_ids": [
+        "wa-wsda-import"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat — it's a non-native species; rehome responsibly.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "wa-wac-220-640-200"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "wa-rcw-16-30",
+      "title": "RCW 16.30.010 — Potentially dangerous wild animal (no rodents)",
+      "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=16.30.010",
+      "authority": "Washington State Legislature",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "wa-wac-220-640-200",
+      "title": "WAC 220-640-200 — Deleterious exotic wildlife (no rodents/Rattus)",
+      "url": "https://app.leg.wa.gov/wac/default.aspx?cite=220-640-200",
+      "authority": "WA Dept of Fish & Wildlife",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "wa-wsda-import",
+      "title": "WSDA Small Animal Import (CVI for rabbits, chinchillas, hedgehogs & other pocket pets)",
+      "url": "https://agr.wa.gov/departments/animals-livestock-and-pets/animal-health/import-requirements/small-animal-import",
+      "authority": "Washington State Dept of Agriculture",
+      "accessed": "2026-06-06"
+    }
+  ]
+}

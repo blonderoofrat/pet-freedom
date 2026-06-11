@@ -1,0 +1,295 @@
+{
+  "jurisdiction": {
+    "id": "mx",
+    "level": "country",
+    "name": "Mexico",
+    "parent": null,
+    "country": "MX",
+    "iso": "MX",
+    "language": "es",
+    "inquiry_language": "es",
+    "slug": "mexico",
+    "local_terms": [
+      "Rattus rattus",
+      "rata negra",
+      "rata de tejado"
+    ]
+  },
+  "summary": "Mexico governs Rattus rattus entirely through federal wildlife law, not ordinary pet law. Both R. rattus and R. norvegicus are on the official invasive-species list (SEMARNAT Acuerdo, DOF 07/12/2016, 'muy alto' risk), which makes the roof rat 'vida silvestre exótica invasora' regardless of how tame or captive-bred it is — domestication is not a legal shield in Mexican jurisprudence. The Reglamento de la LGVS (RLGVS Art. 2) expressly excludes invasive species from the legal definition of 'mascota,' so the simple free pet authorization (trámite SEMARNAT-08-056) is foreclosed; the remaining lawful pathway to keep or breed one is to register the premises as a wildlife-management facility (PIMVS, Art. 78 Bis, trámite SEMARNAT-08-045) under a SEMARNAT-approved Plan de Manejo. Any transfer (sale or gift) requires documented legal provenance (Art. 51) and a recipient who also holds legal facilities; internal transport requires the provenance documents to travel with the animal. Cross-border IMPORT is categorically prohibited — LGVS Art. 27 Bis 1 bars importing any listed invasive species, and SEMARNAT cannot issue an import permit even if SENASICA's zoosanitary requirements are met. In practice R. norvegicus is sold openly despite identical listing (de-facto tolerance from its commercial ubiquity), an asymmetry R. rattus does not enjoy. Not CITES-listed.",
+  "last_reviewed": "2026-06-11",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "agency_species_trap",
+      "problem": "In Mexico, keeping a pet roof rat (Rattus rattus) is not handled under ordinary pet law at all — it is swept into federal wildlife law because the roof rat sits on Mexico's official invasive-species list (Acuerdo, DOF 7 December 2016), alongside the common fancy rat. Under the General Wildlife Law (LGVS) a listed species is 'vida silvestre exótica invasora' no matter how tame or how many generations it has been bred in captivity; Mexican law does not recognize a 'domesticated' roof rat as anything but wildlife. The trap is in the Reglamento (RLGVS, Article 2): it defines a 'pet' (mascota) but expressly EXCLUDES invasive exotic species from that definition. So the simple, free pet authorization that normally lets a citizen keep an exotic companion animal (trámite SEMARNAT-08-056) is legally unavailable for a roof rat. The only lawful way left to keep or breed one is to register your home as a formal wildlife-management facility — a PIMVS under Article 78 Bis (trámite SEMARNAT-08-045) — complete with a technical Management Plan (Plan de Manejo), containment engineering, and a certified technical expert: a regime designed for zoos, laboratories and commercial breeders, not pet owners. The contradiction is glaring next to the fancy rat (Rattus norvegicus), which is on the very same 2016 invasive list yet is sold openly in chain pet stores and online with no SEMARNAT paperwork, purely because it has a long commercial history. The roof rat — equally domesticated, kept exactly the same way, captive-bred, tame, indoors, and never released — gets the full weight of the wildlife code. This is a species-not-domestication trap, not a finding that domesticated roof rats are dangerous.",
+      "ask": "Ask SEMARNAT's Dirección General de Vida Silvestre (DGVS) — with CONABIO's invasive-species program informing the science — to create a clear, written regulatory pathway for closed, captive-bred populations of Rattus rattus that does NOT require a full PIMVS. Concretely: amend or interpret RLGVS Article 2 so that domesticated, closed-colony (non-release) strains are not swept into the invasive 'mascota' exclusion, OR publish a declaratory criterion that such animals may obtain a SEMARNAT-08-056-type authorization with simple closed-colony conditions — treating R. rattus the same as the already-tolerated R. norvegicus. The point is proportionality: the listing exists to prevent release into the wild, and a fully captive-bred, indoor, closed colony poses zero release risk, so an authorization pathway (not a de-facto facility-only barrier) is the science-consistent reading. Where a true facility figure is genuinely needed for larger breeders, ask DGVS to confirm the lightest applicable trámite and whether a Plan de Manejo and Responsable Técnico can be scaled down for a small closed colony.",
+      "branch_note": "PRIMARY LEVER = THE FEDERAL AGENCY (SEMARNAT/DGVS), with CONABIO/CONANP input on the species listing — NOT the legislature, and NOT a state matter (wildlife regulation in Mexico is federal and centralized). The barrier is regulatory, and the agency owns it: the 'mascota' exclusion lives in RLGVS Article 2 (a SEMARNAT-issued regulation), the invasive listing is a SEMARNAT Acuerdo (DOF 07/12/2016) built on CONABIO risk assessments, and the PIMVS / Plan de Manejo machinery (Arts. 78 Bis, 51) is administered by DGVS. So the right move is to ask DGVS for a regulatory clarification or amendment carving out closed captive-bred strains, and to engage CONABIO on whether domesticated closed lines warrant the same risk treatment as feral populations. SECONDARY / WATCH = THE LEGISLATURE: there is a real legislative dimension but it does not change the conclusion. A 'listado positivo' / tighten-the-mascota-definition reform of the LGVS has circulated in the Cámara de Diputados (e.g., the 2024 iniciativa on a positive list of permitted species); such a bill could either entrench the invasive-species exclusion (bad) or be amended to preserve an authorization pathway for domesticated closed strains (good), so it is worth watching and a forward-looking touchpoint. But there is no live federal public-comment / rulemaking window open for this specific question right now, and the operative fix is an agency action, so DGVS (federal) is the main door. There is NO state-level lever to pursue.",
+      "time_sensitive": "",
+      "local_lang": "es",
+      "targets": [
+        {
+          "name": "SEMARNAT — Dirección General de Vida Silvestre (DGVS), Espacio de Contacto Ciudadano",
+          "type": "agency",
+          "email": "contacto.ciudadano@semarnat.gob.mx",
+          "form_url": "https://www.gob.mx/semarnat/documentos/tramite-semarnat-08-056",
+          "why": "The federal wildlife authority that interprets the LGVS/RLGVS, administers the pet authorization (SEMARNAT-08-056), the PIMVS registration (SEMARNAT-08-045), and the import permit (SEMARNAT-08-009), and that approves Management Plans. This is the office with the actual power to fix the RLGVS Art. 2 'mascota' exclusion or to publish a closed-colony criterion for R. rattus. Email verified as the official DGVS citizen-contact inbox; the linked page is the official SEMARNAT trámite sheet. Write in Spanish."
+        },
+        {
+          "name": "PROFEPA (Procuraduría Federal de Protección al Ambiente)",
+          "type": "agency",
+          "email": "denuncias@profepa.gob.mx",
+          "form_url": "https://www.gob.mx/profepa",
+          "why": "The federal enforcement arm that inspects facilities, verifies legal provenance, confiscates specimens, and levies LGVS sanctions (Art. 122). Useful to ask the enforcement criterion for a private keeper of a closed captive-bred colony with no commercial intent, and what provenance documentation avoids seizure — and to put on record the asymmetry with the openly-tolerated R. norvegicus. Spanish required."
+        },
+        {
+          "name": "Cámara de Diputados — Comisión de Medio Ambiente y Recursos Naturales",
+          "type": "legislature",
+          "form_url": "https://www5.diputados.gob.mx/index.php/camara/Comision-de-Medio-Ambiente-y-Recursos-Naturales",
+          "why": "Secondary / watch touchpoint only. Because a 'listado positivo' / tighten-mascota reform of the LGVS has circulated in Congress, this committee is the official channel to (a) ask that any amendment of the LGVS/RLGVS 'mascota' rules expressly preserve an authorization pathway for domesticated closed strains, and (b) be alerted before a tightening bill advances. Use as a forward-looking channel — the operative fix today is the federal agency, not the legislature."
+        }
+      ],
+      "template": {
+        "en": "Subject: Request for a regulatory pathway — keeping closed, captive-bred roof rats (Rattus rattus) as domestic animals\n\nTo the Dirección General de Vida Silvestre (SEMARNAT):\n\nI am writing about roof rats (Rattus rattus) kept by private keepers as domestic companions. I understand that because R. rattus is on the invasive-species list (DOF 7 Dec 2016), it is treated as 'vida silvestre exótica invasora,' and that Article 2 of the Reglamento de la LGVS excludes invasive species from the definition of 'mascota' — so the SEMARNAT-08-056 pet authorization appears foreclosed, leaving only PIMVS registration (Art. 78 Bis) as a lawful route to keep one.\n\nMy concern is the species classification, not domestication: these animals are captive-bred over many generations, tame, kept strictly indoors, and never released — which is the exact risk the invasive listing addresses. A fully closed, captive-bred colony poses zero release risk. Notably, the fancy rat (R. norvegicus) is on the identical list yet is kept and sold openly with no wildlife paperwork; the roof rat should be treated consistently.\n\nI respectfully request that the DGVS create a proportionate pathway for closed, captive-bred R. rattus — by interpreting or amending RLGVS Article 2 so domesticated closed strains are not caught by the invasive 'mascota' exclusion, or by publishing a written criterion allowing a SEMARNAT-08-056-type authorization under simple closed-colony conditions — rather than requiring every private keeper to register a full PIMVS. Please also confirm, if a facility figure is genuinely required for a small closed colony, the lightest applicable trámite and whether the Plan de Manejo and Responsable Técnico requirements can be scaled to a small non-commercial colony.\n\nThank you for your consideration.\n\n[Your name]\n[Your city / contact]",
+        "es": "Asunto: Solicitud de una vía regulatoria — tenencia de ratas de tejado (Rattus rattus) criadas en cautiverio cerrado como animales domésticos\n\nA la Dirección General de Vida Silvestre (SEMARNAT):\n\nMe dirijo a ustedes respecto de la tenencia de ratas de tejado (Rattus rattus) como animales de compañía por particulares. Entiendo que, al estar R. rattus en la Lista de Especies Exóticas Invasoras (DOF 07/12/2016), se le considera 'vida silvestre exótica invasora,' y que el artículo 2 del Reglamento de la LGVS excluye a las especies invasoras de la definición de 'mascota' — por lo que el trámite SEMARNAT-08-056 parecería estar vedado, quedando solo el registro como PIMVS (Art. 78 Bis) como vía legal para tenerla.\n\nMi inquietud es sobre la clasificación de la especie, no sobre la domesticación: estos ejemplares son criados en cautiverio durante muchas generaciones, mansos, mantenidos estrictamente en interiores y nunca liberados — precisamente el riesgo que la lista de invasoras busca evitar. Una colonia totalmente cerrada y criada en cautiverio no representa riesgo alguno de liberación. Cabe señalar que la rata 'fancy' (R. norvegicus) figura en la lista idéntica y, no obstante, se mantiene y vende abiertamente sin documentación de vida silvestre; la rata de tejado debería recibir un trato consistente.\n\nRespetuosamente solicito que la DGVS establezca una vía proporcional para R. rattus criada en cautiverio cerrado — interpretando o reformando el artículo 2 del RLGVS para que las cepas domésticas cerradas no queden atrapadas en la exclusión de 'mascota' de las invasoras, o publicando un criterio por escrito que permita una autorización tipo SEMARNAT-08-056 bajo condiciones sencillas de colonia cerrada — en lugar de exigir a cada particular el registro de un PIMVS completo. Asimismo, en caso de que se requiera necesariamente una figura de instalación para una pequeña colonia cerrada, agradeceré confirmar el trámite más ligero aplicable y si los requisitos de Plan de Manejo y Responsable Técnico pueden ajustarse a una colonia pequeña y sin fines comerciales.\n\nAgradezco de antemano su atención.\n\n[Su nombre]\n[Su ciudad / contacto]"
+      },
+      "confidence_notes": "Based on the Gemini Deep Research pass (2026-06-11), which reads the framework MORE restrictively than the preliminary websearch. VERIFIED in the DR via primary texts: (1) R. rattus AND R. norvegicus are both on the 2016 invasive-species Acuerdo (DOF 07/12/2016), 'muy alto' risk — so they are legally identical and the listing, not domestication, controls. (2) RLGVS Article 2 excludes invasive exotic species from the definition of 'mascota,' which forecloses the simple SEMARNAT-08-056 pet authorization for R. rattus (a key correction to the preliminary JSON, which assumed 08-056 was available). (3) The remaining lawful pathway to keep/breed is PIMVS registration under LGVS Art. 78 Bis (trámite SEMARNAT-08-045) with a Plan de Manejo and Responsable Técnico — burdensome but a genuine pathway, hence NOT a flat ban. (4) Transfer (sell/give) is governed by legal provenance, LGVS Art. 51 — provenance documents citing a SEMARNAT authorization are required and the recipient must also hold legal facilities. (5) IMPORT is categorically PROHIBITED: LGVS Art. 27 Bis 1 bars importing listed invasive species, and SEMARNAT cannot issue an import permit even if SENASICA zoosanitary requirements are met — the preliminary JSON's two-layer 'restricted import (08-009 + SENASICA)' reading is corrected to prohibited for the import leg specifically. (6) Release of invasive species is barred (Art. 27 Bis). UNCERTAIN: the DR found NO published DGVS ruling either approving or denying R. rattus as a pet, and no documented amnesty/regularization pathway for an undocumented existing animal — case-by-case agency discretion is real. The de-facto open sale of R. norvegicus despite identical listing is well-attested but is tolerance, not a formal exemption. Fee figures (PIMVS ~$686 MXN) are indicative and subject to the annual Ley Federal de Derechos. This is a research aid, not legal advice; confirm requirements with SEMARNAT before acquiring, breeding, or transferring any animal."
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "R. rattus is on the 2016 invasive-species Acuerdo (DOF 07/12/2016), so it is 'vida silvestre exótica invasora' regardless of domestication, and the simple pet authorization is foreclosed: RLGVS Art. 2 expressly excludes invasive species from the legal definition of 'mascota,' barring trámite SEMARNAT-08-056 for this species. The one lawful pathway to keep one is to register the premises as a wildlife-management facility (PIMVS) under LGVS Art. 78 Bis (trámite SEMARNAT-08-045) with a SEMARNAT-approved Plan de Manejo and a certified Responsable Técnico — a heavy, facility-grade authorization rather than an ordinary pet permit. A pathway therefore exists (not prohibited), but it eliminates ordinary hobbyist keeping; PROFEPA enforces (LGVS Art. 122).",
+      "governing_law": "LGVS Art. 27 (exotic-pet authorization); Art. 78 Bis (PIMVS / confinamiento + Plan de Manejo); RLGVS Art. 2 ('mascota' definition excludes invasive species); Acuerdo invasive-species list (DOF 07/12/2016); trámites SEMARNAT-08-056 / 08-045.",
+      "source_ids": [
+        "mx-lgvs",
+        "mx-rlgvs",
+        "mx-acuerdo-2016",
+        "mx-tramite-045",
+        "mx-tramite-056"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "Because R. rattus cannot be a 'mascota,' any captive breeding must occur inside a registered PIMVS (LGVS Art. 78 Bis) operating under a SEMARNAT-approved Plan de Manejo that details containment, veterinary care, reproductive control, and contingency protocols. To then sell offspring, the PIMVS must also obtain an aprovechamiento (harvest/utilization) authorization (trámites SEMARNAT-08-032 / 08-034) setting a legal quota. There is no hobbyist or small-breeder exemption — one litter triggers the same PIMVS + Plan de Manejo obligation as a commercial farm — but the pathway exists, so breeding is legal with permit (the DR labels it 'Legal with a permit/license'). Breeding without a registered PIMVS is an LGVS violation (confiscation, closure, Art. 122 fines).",
+      "governing_law": "LGVS Art. 78 Bis (PIMVS); RLGVS (Plan de Manejo); LGVS Arts. 27, 51; trámites SEMARNAT-08-045 (PIMVS), 08-032/08-034 (aprovechamiento).",
+      "source_ids": [
+        "mx-lgvs",
+        "mx-rlgvs",
+        "mx-tramite-045",
+        "mx-tramite-032"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Any transfer of a listed exotic — sale or gift alike — is governed by the doctrine of legal provenance (Legal Procedencia, LGVS Art. 51): the transferor (who must operate a registered PIMVS) must hand the recipient documentation (factura/nota de remisión) citing the SEMARNAT aprovechamiento authorization number, and the recipient must themselves hold legal facilities (their own PIMVS) to lawfully receive an invasive exotic. This creates a closed chain of custody that confines lawful transfer to a network of registered facilities; transfer without provenance is treated as illicit-origin contraband and is heavily sanctioned by PROFEPA (Art. 122). A papered pathway exists, but the constraint runs through the entire chain → restricted. (In practice R. norvegicus changes hands openly without SEMARNAT docs — de-facto tolerance — but R. rattus draws scrutiny.)",
+      "governing_law": "LGVS Art. 51 (legal provenance); Arts. 54, 78 Bis; Art. 122 (sanctions); RLGVS Art. 53; trámites SEMARNAT-08-032/08-034 (aprovechamiento).",
+      "source_ids": [
+        "mx-lgvs",
+        "mx-rlgvs",
+        "mx-profepa"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "Internal movement of a lawfully-held R. rattus is restricted but lawful: there is no separate domestic-transport permit, but the original legal-provenance documentation (the PIMVS invoice/authorization letter) must accompany the animal at all times to survive a PROFEPA/highway inspection, and release into the wild is prohibited (LGVS Art. 27 Bis). Cross-border IMPORT, by contrast, is categorically PROHIBITED: LGVS Art. 27 Bis 1 forbids authorizing the import of any listed invasive species, so SEMARNAT/DGVS is statutorily stripped of authority to issue an import permit (trámite SEMARNAT-08-009) for R. rattus — even a captive-bred animal meeting every SENASICA zoosanitary requirement (health certificate, parasite treatment) cannot lawfully cross, because the environmental clearance cannot be granted. Not CITES-listed. Overall status restricted because a lawful internal-transport pathway exists; the import leg specifically has no lawful pathway (see notes).",
+      "governing_law": "LGVS Art. 51 (provenance accompanies transit); Art. 27 Bis (release prohibited); Art. 27 Bis 1 (import of invasive species not authorizable); SENASICA zoosanitary import (MCRZI); trámite SEMARNAT-08-009 (unavailable for this species).",
+      "source_ids": [
+        "mx-lgvs",
+        "mx-senasica",
+        "mx-tramite-009"
+      ],
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "facility",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "Because R. rattus is invasive-listed, it cannot be kept under the ordinary pet authorization (RLGVS Art. 2 excludes invasive species from 'mascota'). The lawful pathway to keep or breed one is to register the premises as a PIMVS (Predio o Instalación que Maneja Vida Silvestre) under LGVS Art. 78 Bis, with a SEMARNAT-approved Plan de Manejo (containment engineering, veterinary/epidemiological protocols, reproductive control, contingency and final-disposition plans) and a certified Responsable Técnico. There is no hobbyist/small-breeder exemption — a single litter triggers the same obligation as a commercial facility. Never release (LGVS Art. 27 Bis).",
+      "steps": [
+        "File trámite SEMARNAT-08-045 (Conservación de vida silvestre fuera de su hábitat natural — PIMVS registration), form FF-SEMARNAT-020",
+        "Submit a technical Plan de Manejo prepared by a certified Responsable Técnico (containment, veterinary, reproductive, contingency, final-disposition)",
+        "To sell offspring, additionally obtain an aprovechamiento authorization (trámite SEMARNAT-08-032 / 08-034) setting a legal quota",
+        "Keep legal-provenance documentation for every specimen on site for PROFEPA inspection"
+      ],
+      "forms": [
+        {
+          "name": "SEMARNAT-08-045 — Conservación de la vida silvestre fuera de su hábitat natural (PIMVS; form FF-SEMARNAT-020)",
+          "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=SEMARNAT-08-045-A"
+        },
+        {
+          "name": "SEMARNAT-08-056 — Autorización de ejemplares exóticos como mascota (NOTE: foreclosed for invasive-listed species per RLGVS Art. 2)",
+          "url": "https://www.gob.mx/tramites/ficha/autorizacion-de-ejemplares-exoticos-como-mascota-o-animal-de-compania/SEMARNAT464"
+        }
+      ],
+      "where_to_file": "SEMARNAT — Dirección General de Vida Silvestre (DGVS), Espacio de Contacto Ciudadano, Av. Ejército Nacional 223, Col. Anáhuac, Miguel Hidalgo, C.P. 11320, Ciudad de México (or regional federal delegations)",
+      "fees": "PIMVS registration ~$686 MXN (indicative; varies per the annual Ley Federal de Derechos). SEMARNAT-08-056 would be free but is unavailable for this species.",
+      "source_ids": [
+        "mx-lgvs",
+        "mx-rlgvs",
+        "mx-tramite-045",
+        "mx-tramite-032"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Transfer of a roof rat (sale or gift) requires documented legal provenance (LGVS Art. 51): a factura/nota de remisión citing the PIMVS aprovechamiento authorization number, plus a recipient who holds their own legal facilities. Internal transport requires that same provenance documentation to accompany the animal at all times; there is no separate domestic-transport permit. Moving or transferring without provenance is treated as illicit-origin trafficking (PROFEPA seizure + Art. 122 fines). Release is absolutely prohibited.",
+      "steps": [
+        "Obtain/keep the legal-provenance document (factura or PIMVS authorization letter citing the SEMARNAT authorization number)",
+        "Carry the provenance documentation with the animal during any internal transport",
+        "Transfer only to a recipient who holds their own PIMVS / legal facilities",
+        "Never release into the wild (LGVS Art. 27 Bis)"
+      ],
+      "forms": [],
+      "where_to_file": "SEMARNAT — Dirección General de Vida Silvestre (DGVS); enforcement by PROFEPA",
+      "fees": "",
+      "source_ids": [
+        "mx-lgvs",
+        "mx-profepa"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "IMPORT IS PROHIBITED. LGVS Art. 27 Bis 1 bars authorizing the importation of any species listed as invasive exotic; because R. rattus is on the 2016 list, SEMARNAT/DGVS cannot issue an import permit (trámite SEMARNAT-08-009) for it. Meeting SENASICA's zoosanitary requirements (health certificate, parasite treatment) does NOT cure this — the agricultural clearance and the environmental clearance are separate, and the missing environmental permit makes import legally impossible. An animal presented at the border will be rejected or confiscated. (R. rattus is not CITES-listed; domestic law applies the stricter absolute ban.)",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "mx-lgvs",
+        "mx-senasica",
+        "mx-tramite-009"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Dado que R. rattus está en el Acuerdo de Especies Exóticas Invasoras (DOF 07/12/2016) y que el Art. 2 del RLGVS excluye a las invasoras de la definición de 'mascota,' ¿queda efectivamente vedado el trámite SEMARNAT-08-056 para R. rattus, de modo que la única vía legal para tenerla es el registro como PIMVS (08-045) bajo Art. 78 Bis? (2) Para un particular o criadero pequeño de R. rattus en cautiverio cerrado, ¿pueden ajustarse (reducirse) los requisitos de Plan de Manejo y Responsable Técnico a una colonia no comercial, o aplican íntegros como a una instalación comercial? (3) ¿Confirma que el Art. 27 Bis 1 LGVS impide a SEMARNAT autorizar la importación (08-009) de R. rattus por ser especie invasora listada, incluso cumpliendo todos los requisitos zoosanitarios de SENASICA?",
+  "sources": [
+    {
+      "id": "mx-lgvs",
+      "title": "Ley General de Vida Silvestre — Arts. 27, 27 Bis, 27 Bis 1, 51, 78 Bis, 122",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
+      "authority": "Cámara de Diputados / DOF",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-rlgvs",
+      "title": "Reglamento de la LGVS — Art. 2 (definición de 'mascota' excluye especies exóticas invasoras); confinamiento + Plan de Manejo",
+      "url": "https://faolex.fao.org/docs/pdf/mex133618.pdf",
+      "authority": "DOF / SEMARNAT (via FAOLEX)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-acuerdo-2016",
+      "title": "Acuerdo — Lista de Especies Exóticas Invasoras para México (DOF 07/12/2016; R. rattus + R. norvegicus, 'muy alto')",
+      "url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5464456&fecha=07/12/2016",
+      "authority": "Diario Oficial de la Federación / SEMARNAT",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-tramite-056",
+      "title": "Trámite SEMARNAT-08-056 — Autorización de ejemplares exóticos como mascota (gratuito; ~15 días) — foreclosed for invasive-listed species per RLGVS Art. 2",
+      "url": "https://www.gob.mx/tramites/ficha/autorizacion-de-ejemplares-exoticos-como-mascota-o-animal-de-compania/SEMARNAT464",
+      "authority": "gob.mx / SEMARNAT",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-tramite-045",
+      "title": "Trámite SEMARNAT-08-045 — Conservación de la vida silvestre fuera de su hábitat natural (registro PIMVS; form FF-SEMARNAT-020)",
+      "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=SEMARNAT-08-045-A",
+      "authority": "gob.mx / SEMARNAT",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-tramite-032",
+      "title": "Trámite SEMARNAT-08-032 — Autorización de aprovechamiento (harvest/utilization) de vida silvestre",
+      "url": "https://www.gob.mx/tramites/ficha/autorizacion-para-el-aprovechamiento-extractivo-de-ejemplares-partes-y-derivados-de-la-vida-silvestre/SEMARNAT459",
+      "authority": "gob.mx / SEMARNAT",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-tramite-009",
+      "title": "Trámite SEMARNAT-08-009 — Autorización de importación de vida silvestre exótica (unavailable for invasive-listed R. rattus per LGVS Art. 27 Bis 1)",
+      "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=SEMARNAT-08-009",
+      "authority": "gob.mx / SEMARNAT",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-senasica",
+      "title": "SENASICA — Módulo de Consulta de Requisitos para la Importación de Mercancías Zoosanitarias (MCRZI)",
+      "url": "https://sistemasssl.senasica.gob.mx/mcrz/moduloConsulta.jsf",
+      "authority": "SENASICA",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-profepa",
+      "title": "PROFEPA — enforcement of LGVS (Art. 122 sanctions; legal-provenance verification)",
+      "url": "https://www.gob.mx/profepa",
+      "authority": "PROFEPA",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "mx-conabio",
+      "title": "CONABIO — ficha Rattus rattus (invasive risk 'muy alto')",
+      "url": "http://www.conabio.gob.mx/conocimiento/exoticas/fichaexoticas/Rattusrattus00.pdf",
+      "authority": "CONABIO",
+      "accessed": "2026-06-11"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "SEMARNAT — Dirección General de Vida Silvestre (DGVS), Espacio de Contacto Ciudadano",
+      "role": "wildlife",
+      "email": "contacto.ciudadano@semarnat.gob.mx",
+      "form_url": "https://www.gob.mx/semarnat",
+      "phone": "+52 55 5490 0900 / 01 800 0000 247",
+      "primary": true,
+      "inquiry_language": "es"
+    },
+    {
+      "agency": "PROFEPA (Procuraduría Federal de Protección al Ambiente)",
+      "role": "enforcement",
+      "email": "denuncias@profepa.gob.mx",
+      "form_url": "https://www.gob.mx/profepa",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "es"
+    },
+    {
+      "agency": "SENASICA — Módulo de Consulta de Requisitos para Importación (MCRZI)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://sistemasssl.senasica.gob.mx/mcrz/moduloConsulta.jsf",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "es"
+    }
+  ]
+}

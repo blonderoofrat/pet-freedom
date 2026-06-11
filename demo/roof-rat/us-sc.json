@@ -1,0 +1,149 @@
+{
+  "jurisdiction": {
+    "id": "us-sc",
+    "level": "state",
+    "name": "South Carolina",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-SC",
+    "language": "en",
+    "slug": "south-carolina",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "South Carolina does not regulate keeping pet rodents. Its only exotic-pet ban (Title 47, ch. 2) reaches just large wild cats, non-native bears, and great apes; its carnivore-sale ban (§47-5-50) doesn't touch rodents; and the wildlife-import chapter expressly EXEMPTS 'rats and mice' imported for the pet trade from any permit (§50-16-60). So keeping, breeding, and selling/giving a captive-bred roof rat is effectively legal and unregulated. Two soft points: the universal no-release rule, and confirming with Clemson Livestock-Poultry Health whether any health certificate applies to interstate pet-rodent transport. The one genuine open question is whether the generic phrase 'rats and mice' is read to include the R. rattus species specifically.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "South Carolina has no permit requirement to keep a pet rodent. The only categorical exotic-pet ban (SC Code §47-2-10 / §47-2-30) reaches only large wild cats, non-native bears, and great apes — rodents are not within it. SCDNR's restricted-non-native list (Reg. 123-152) is tegu-centric and does not list rats. Gemini DR-verified: R. rattus is an unprotected commensal rodent; no captive-wildlife permit is required for non-native rodents kept as pets (SC Code 50-16-10/-60).",
+      "governing_law": "SC Code §47-2-10 & §47-2-30 (limited exotic ban); SC Code Title 50 ch. 16 & SC Regs. 123-152 (DNR scope; rats not listed).",
+      "source_ids": [
+        "sc-47-2",
+        "sc-dnr-nonnative"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "No South Carolina law licenses or restricts breeding pet rodents — the breeder statutes cover dogs (and registrable companion dogs/cats) only. DNR's pet-import exemption for 'rats and mice' (§50-16-60) signals the pet-trade is unregulated. Breeding is unregulated rather than expressly permitted. Gemini DR-verified: no state breeder/facility license for small mammals.",
+      "governing_law": "SC Code §47-3-1010 et seq. & §47-13-160 (breeder scope = dogs/cats); SC Code §50-16-60.",
+      "source_ids": [
+        "sc-50-16-60",
+        "sc-50-16"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "The wild-carnivore-sale ban (§47-5-50) doesn't reach rodents, and the pet-sale disclosure law applies only to dogs/cats. DNR's importation chapter expressly exempts 'rats and mice … imported for sale as pets' from the permit requirement (§50-16-60). No state license is needed to sell or give pet rats, though local business-license rules may apply. Gemini DR-verified: 50-16-60 exempts 'rats and mice' for the pet trade; no state pet-shop/dealer license.",
+      "governing_law": "SC Code §47-5-50 (carnivore-sale ban, inapplicable); §47-13-160 (dogs/cats); §50-16-60 (rats/mice pet exemption).",
+      "source_ids": [
+        "sc-50-16-60",
+        "sc-50-16"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "For wildlife-import purposes, §50-16-60 places 'rats and mice' on the no-DNR-permit list, and the §50-16-20 import-permit species list excludes rodents. Animal-health import is run by Clemson Livestock-Poultry Health; its CVI/rabies rules center on livestock/poultry/dogs/cats/ferrets, with no published rule imposing a CVI on pet rats — but confirm before interstate movement. Never release a non-native rat. Gemini DR-verified: Clemson Livestock-Poultry Health requires a 30-day CVI for wildlife/exotics entering SC, even though SCDNR waives the wildlife import permit for 'rats and mice'; within-state movement unregulated.",
+      "governing_law": "SC Code §50-16-20 & §50-16-60 (import-permit list excludes rodents; pet rat/mouse exemption); SC Regs. ch. 27 (Clemson LPH import rules).",
+      "source_ids": [
+        "sc-50-16",
+        "sc-clemson-import"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release or let escape a roof rat — Title 50 ch. 16 prohibits releasing imported wildlife, and R. rattus is itself an established invasive. Rehome responsibly.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "sc-50-16"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Does the §50-16-60 pet-trade exemption for 'rats and mice' include Rattus rattus (the roof/black rat, distinct from the common fancy rat Rattus norvegicus), or does SCDNR consider R. rattus a regulated non-native species requiring an import/possession permit under §50-16-20 or Reg. 123-152? (2) For interstate transport of pet rats into or out of South Carolina, does Clemson Livestock-Poultry Health require a Certificate of Veterinary Inspection or any health-entry permit for pet rodents?",
+  "sources": [
+    {
+      "id": "sc-50-16",
+      "title": "SC Code Title 50, ch. 16 — Importation of Wildlife (§50-16-20 permit list; §50-16-60 rats/mice pet exemption)",
+      "url": "https://www.scstatehouse.gov/code/t50c016.php",
+      "authority": "South Carolina Legislature",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "sc-50-16-60",
+      "title": "SC Code §50-16-60 — Exemption for certain wildlife imported as pets ('rats and mice')",
+      "url": "https://law.justia.com/codes/south-carolina/title-50/chapter-16/section-50-16-60/",
+      "authority": "South Carolina Code (Justia)",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "sc-47-2",
+      "title": "SC Code Title 47, ch. 2 — Large Wild Cats, Non-Native Bears, Great Apes (limited exotic ban)",
+      "url": "https://www.scstatehouse.gov/code/t47c002.php",
+      "authority": "South Carolina Legislature",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "sc-dnr-nonnative",
+      "title": "SCDNR — Restrictions on Non-native Wildlife (Reg. 123-152)",
+      "url": "https://www.dnr.sc.gov/wildlife/nonnative.html",
+      "authority": "South Carolina Dept of Natural Resources",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "sc-clemson-import",
+      "title": "South Carolina Animal Import Requirements — Clemson Livestock-Poultry Health",
+      "url": "https://www.clemson.edu/public/lph/ahp/import/index.html",
+      "authority": "Clemson Livestock-Poultry Health (State Veterinarian)",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "South Carolina Dept of Natural Resources — Wildlife & Freshwater Fisheries (Licensing/Permits)",
+      "role": "wildlife",
+      "email": "licensing@dnr.sc.gov",
+      "form_url": "",
+      "phone": "803-734-3886 option 4 (Wildlife team)",
+      "primary": true
+    },
+    {
+      "agency": "Clemson Livestock-Poultry Health — Office of the State Veterinarian",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.clemson.edu/public/lph/ahp/contact.html",
+      "phone": "803-788-2260"
+    }
+  ]
+}

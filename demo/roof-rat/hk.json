@@ -1,0 +1,164 @@
+{
+  "jurisdiction": {
+    "id": "hk",
+    "level": "country",
+    "name": "Hong Kong",
+    "parent": null,
+    "country": "HK",
+    "iso": "HK",
+    "language": "en",
+    "inquiry_language": "en",
+    "slug": "hong-kong",
+    "local_terms": [
+      "Rattus rattus",
+      "black rat",
+      "roof rat",
+      "屋頂鼠",
+      "黑鼠"
+    ]
+  },
+  "summary": "Hong Kong is now DR-verified. Keeping a pet roof rat is legal — Rattus rattus is not protected wildlife (the family Muridae is omitted from Schedule 2 of the Wild Animals Protection Ordinance, Cap. 170), so no possession licence is needed — but it sits under a public-health overlay: the Food and Environmental Hygiene Department treats all rodents as 'vermin' under Cap. 132 with no carve-out for kept pets, enforced on a complaint/infestation basis rather than against sanitarily-caged pets. Private breeding is unregulated (Hong Kong licenses only dog breeders); selling 'by way of business' needs an Animal Trader Licence, though a hobbyist exemption covers selling a pet's offspring and giving one away free is unregulated. Importing any mammal needs an AFCD Special Permit + government-vet health certificate + rabies quarantine (the 2022 COVID small-mammal import ban was lifted by Jan 2023).",
+  "last_reviewed": "2026-06-09",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Rattus rattus is not a protected wild animal — the family Muridae is omitted from Schedule 2 of the Wild Animals Protection Ordinance (Cap. 170) — so no possession licence is required. Caveat: the Public Health and Municipal Services Ordinance (Cap. 132, s.47) defines all rodents as 'vermin' with no carve-out for caged pets, a public-health overlay the FEHD enforces on a complaint/infestation basis (elimination notices, not raids on kept pets).",
+      "governing_law": "Cap. 170 Sch. 2 (wildlife — Muridae omitted); Cap. 132 s.47 (FEHD 'vermin' duty).",
+      "source_ids": [
+        "hk-cap170",
+        "hk-cap139",
+        "hk-cap132"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Private, non-commercial breeding is unregulated: Hong Kong created dedicated breeder licences only for dogs (Cap. 139B), deliberately leaving small mammals unregulated at the breeding stage. Oversight begins only at the point of commercial sale.",
+      "governing_law": "Cap. 139B (dog breeder licences only; small mammals unregulated at breeding).",
+      "source_ids": [
+        "hk-cap139",
+        "hk-lcq14"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Selling 'by way of business' requires an Animal Trader Licence (Cap. 139B s.4), but a statutory HOBBYIST EXEMPTION covers selling an animal 'kept by him as a pet or any offspring thereof', and giving one away free (no consideration) is unregulated. Note: the ATL's permitted 'domestic rats' is widely read as the fancy R. norvegicus, so commercial sale of R. rattus is legally untested.",
+      "governing_law": "Cap. 139B s.4 (Animal Trader Licence + pet/offspring hobbyist exemption).",
+      "source_ids": [
+        "hk-cap139",
+        "hk-lcq14"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Internal movement of a lawfully-kept pet is unencumbered (subject only to anti-cruelty Cap. 169). IMPORT of any live mammal requires an AFCD Special Permit (Form AF240 commercial / AF242a personal) plus a government-vet Veterinary Health Certificate, with rabies quarantine set by the export country's risk group (Cap. 139; Cap. 421). The 2022 COVID small-mammal import ban was fully lifted by Jan 2023.",
+      "governing_law": "Cap. 139 s.5 + Cap. 421 (import Special Permit + vet health cert + rabies quarantine); Cap. 169 (humane transport).",
+      "source_ids": [
+        "hk-cap139",
+        "hk-afcd-import",
+        "hk-cap421"
+      ],
+      "verified_date": "2026-06-09",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Keeping a captive-bred roof rat is allowed in Hong Kong; selling needs an AFCD Animal Trader Licence, and importing needs an AFCD Special Permit (AF240) + health certificate — note AFCD has SUSPENDED commercial/unaccompanied rodent imports (owner-accompanied may still be approved). Keep proof your rat is captive-bred (re: the Cap. 132 'vermin' duty). Never release.",
+      "steps": [
+        "For import: apply for an AFCD Special Permit (Form AF240) in advance + origin health certificate",
+        "For sale: obtain an Animal Trader Licence"
+      ],
+      "forms": [
+        {
+          "name": "AFCD Special Permit (Form AF240)",
+          "url": "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_irrmpm/qua_ie_ipab_irrmpm.html"
+        }
+      ],
+      "where_to_file": "Agriculture, Fisheries and Conservation Department (AFCD)",
+      "fees": "Import permit HK$432 first animal + HK$102 each additional",
+      "source_ids": [
+        "hk-afcd-import",
+        "hk-cap139"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) Does AFCD's suspension of commercial (unaccompanied) rodent imports apply equally to a private hobbyist importing one or two personally-accompanied captive-bred Rattus rattus as pets, or can a Special Permit (Form AF240) still issue for non-commercial personal rodent import? (2) Does AFCD or any HK authority interpret s.47 of Cap. 132 (the vermin-elimination duty) as applying to lawfully-kept captive-bred pet rats in a private dwelling, or only to feral/commensal infestation? (3) What is AFCD's position on the threshold between 'private breeding' (no ATL) and 'trading/breeding by way of business' under Cap. 139B for a hobbyist who rehomes occasional litters at no charge?",
+  "sources": [
+    {
+      "id": "hk-cap170",
+      "title": "Cap. 170 — Wild Animals Protection Ordinance (Schedule 2 excludes Rattus spp.)",
+      "url": "https://www.elegislation.gov.hk/hk/cap170",
+      "authority": "Hong Kong e-Legislation",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "hk-cap139",
+      "title": "Cap. 139 + Cap. 139B — Public Health (Animals & Birds) Ordinance & Trading/Breeding Regs (import permit; Animal Trader Licence)",
+      "url": "https://www.elegislation.gov.hk/hk/cap139",
+      "authority": "Hong Kong e-Legislation",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "hk-cap132",
+      "title": "Cap. 132 — Public Health and Municipal Services Ordinance s.47 (vermin duty)",
+      "url": "https://www.elegislation.gov.hk/hk/cap132",
+      "authority": "Hong Kong e-Legislation",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "hk-cap421",
+      "title": "Cap. 421 — Rabies Ordinance (mammal import/quarantine)",
+      "url": "https://www.elegislation.gov.hk/hk/cap421",
+      "authority": "Hong Kong e-Legislation",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "hk-afcd-import",
+      "title": "AFCD — Import of Reptiles, Rodents and Miscellaneous Pet Mammals (Form AF240; rodent-import suspension)",
+      "url": "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_irrmpm/qua_ie_ipab_irrmpm.html",
+      "authority": "AFCD",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "hk-lcq14",
+      "title": "LCQ14 (28 Oct 2020) — government reply confirming 'domestic rats' on the Cap. 139B trade-species list",
+      "url": "https://www.info.gov.hk/gia/general/202010/28/P2020102800624.htm",
+      "authority": "HK Government",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Agriculture, Fisheries and Conservation Department (AFCD) — Import & Export Division",
+      "role": "agriculture",
+      "email": "icsenquiry@afcd.gov.hk",
+      "form_url": "https://www.afcd.gov.hk/english/contactus/enquiries_and_complaints/Enquiries_and_Complaints.html",
+      "phone": "+852 2708 8885",
+      "primary": true,
+      "inquiry_language": "en"
+    }
+  ]
+}

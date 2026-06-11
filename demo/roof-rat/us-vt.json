@@ -1,0 +1,209 @@
+{
+  "jurisdiction": {
+    "id": "us-vt",
+    "level": "state",
+    "name": "Vermont",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-VT",
+    "language": "en",
+    "slug": "vermont",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Vermont is permissive and unusually explicit for the roof rat. Its 'prohibited-unless-listed' wildlife regime (10 V.S.A. §4709; Reg. 881 / 10 App. V.S.A. §18) bans possessing or importing a wild animal without a permit unless the species is on the Fish & Wildlife exemption lists — and the July 2025 Unrestricted Wild Animal List names Rattus rattus by exact scientific name (common name 'Domesticated rat'), right alongside Rattus norvegicus. So there is no species trap: keeping, breeding, importing, and transporting a roof rat need no Fish & Wildlife permit. Breeding is also outside commercial law (the 'Pet Dealer' rule covers only dogs/cats/wolf-hybrids), and home sales are exempt; only a non-residential retail storefront needs a state Pet Shop License. Keepers remain bound by animal-cruelty law (13 V.S.A. ch. 8) and may never release a roof rat.",
+  "last_reviewed": "2026-06-10",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "10 V.S.A. §4709 bars possessing any wild animal without a Fish & Wildlife permit, but Reg. 881 (10 App. V.S.A. §18) exempts any species on the Unrestricted Wild Animal List. The July 2025 list names Rattus rattus to the exact species level (Genus Rattus / species rattus, common name 'Domesticated rat'), so no importation or possession permit is required to keep a roof rat. The earlier 'is rat = which species?' ambiguity is fully resolved by the explicit listing.",
+      "governing_law": "10 V.S.A. §4709; Reg. 881 (10 App. V.S.A. §18); Unrestricted Wild Animal List (July 2025).",
+      "source_ids": [
+        "vt-4709",
+        "vt-reg-881",
+        "vt-unrestricted-list"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Breeding roof rats is unregulated at the state level. Because R. rattus is on the Unrestricted List it falls outside the wild-animal permit scheme, and Vermont's commercial breeder law applies only to other species: a 'Pet Dealer' (20 V.S.A. §3901(7)) is defined strictly as someone selling cats, dogs, or wolf-hybrids from three or more litters — rodents are deliberately omitted, so a home breeder of any scale never triggers municipal Pet Dealer permitting. Commercial-scale sale from a storefront is handled under the Pet Shop license (see sell_give); federal USDA/AWA licensing can apply to wholesale/sight-unseen sales (see United States).",
+      "governing_law": "10 V.S.A. §4709 / Reg. 881 (unrestricted species); 20 V.S.A. §3901(7) & §3681 (Pet Dealer = dogs/cats/wolf-hybrids only).",
+      "source_ids": [
+        "vt-unrestricted-list",
+        "vt-ch194",
+        "vt-3681"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Private/face-to-face sales and giveaways are unregulated: a roof rat breeder is exempt from the Pet Dealer rule (rodents excluded, 20 V.S.A. §3901(7)) AND from the Pet Shop rule when selling 'from a private dwelling' (20 V.S.A. §3901(11) explicitly excludes a private dwelling from the Pet Shop definition). Only a non-residential retail operation — a storefront, a flea-market booth, or a detached commercial building — is a 'Pet Shop' (rodents ARE included in that definition) and needs a state Pet Shop License with inspection. Status is set to legal_with_permit to capture that commercial-storefront layer; ordinary hobbyist placement needs no license. (Federal USDA/AWA licensing applies to wholesale/sight-unseen sales — see United States.)",
+      "governing_law": "20 V.S.A. §3901(7) (Pet Dealer — excludes rodents); 20 V.S.A. §3901(11) (Pet Shop — includes rodents, excludes private dwelling); 20 V.S.A. §3906; Act 167 (H.626, 2024).",
+      "source_ids": [
+        "vt-ch194",
+        "vt-act167"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Because R. rattus is on the Unrestricted Wild Animal List, no Fish & Wildlife import permit is needed to bring or move one into/within Vermont (10 V.S.A. §4709; Reg. 881). The list's '(Captive Bred Only)' tag — which would trigger a statement-of-origin/CVI — is applied species-by-species and is NOT placed on either Rattus line, so no CVI is mandated by Fish & Wildlife for a pet roof rat. VAAFM's domestic-animal import rule (Rule #98074) requires a CVI in practice mainly for livestock, poultry, and rabies-vector species (dogs/cats/ferrets); private small companion rodents are not subject to border CVI enforcement. Never release a roof rat.",
+      "governing_law": "10 V.S.A. §4709; Reg. 881 (10 App. V.S.A. §18); Unrestricted Wild Animal List (July 2025); VAAFM Rule #98074.",
+      "source_ids": [
+        "vt-4709",
+        "vt-reg-881",
+        "vt-unrestricted-list",
+        "vt-rule98074"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "business",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Selling roof rats from a non-residential retail space — a storefront, a flea-market booth, or a detached commercial building (anything 'not part of a private dwelling') — makes the operation a 'Pet Shop' under 20 V.S.A. §3901(11) (rodents are included) and requires a state Pet Shop License plus a pre-licensing inspection, records, and caging standards. Selling/giving roof rats from your own home is exempt and needs no license.",
+      "steps": [
+        "If selling only from your private dwelling: no Pet Shop license needed — you're statutorily exempt.",
+        "If operating any non-residential retail space (storefront, flea-market booth, detached building): apply for a Pet Shop License and pass the pre-licensing inspection.",
+        "Confirm which agency currently processes the application during the Act 167 transition (legacy VAAFM Animal Health vs. the new DPS Division of Animal Welfare)."
+      ],
+      "forms": [],
+      "where_to_file": "Vermont Pet Shop licensing — currently transitioning from VAAFM (Animal Health Section) to the DPS Division of Animal Welfare (Act 167, phased 2024–2025)",
+      "fees": "Pet Shop license historically ~$150/yr (plus inspection); civil penalties up to $1,000/violation under Act 167. No fee for private-dwelling sales.",
+      "source_ids": [
+        "vt-ch194",
+        "vt-act167"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "A captive roof rat is the keeper's personal property and is protected by Vermont's animal-cruelty law (13 V.S.A. ch. 8 — §352 sustenance/care, no abandonment; §362 bars poisoning a captive animal). Releasing or abandoning a roof rat is both criminal cruelty and an illegal release of a non-native species — never release one. If you can no longer keep it, rehome it, surrender it to a shelter/rescue, or arrange humane euthanasia by a veterinarian.",
+      "steps": [
+        "Provide food, water, shelter, and veterinary care",
+        "Never release or abandon a roof rat — rehome or surrender responsibly"
+      ],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "vt-cruelty"
+      ]
+    }
+  ],
+  "inquiry_focus": "Vermont is resolved by the explicit listing of Rattus rattus on the July 2025 Unrestricted Wild Animal List, so no clarification of pet-keeping is needed. Residual operational questions (commercial only): (1) During the Act 167 transition, does VAAFM or the new DPS Division of Animal Welfare currently process a new Pet Shop License application? (2) Does VAAFM Rule #98074 require an import permit number / CVI for a WHOLESALE commercial shipment of R. rattus from an out-of-state breeder, given the species is exempt from Fish & Wildlife wildlife permits?",
+  "sources": [
+    {
+      "id": "vt-4709",
+      "title": "10 V.S.A. §4709 — Transport, importation, possession of wild animals; permit requirement",
+      "url": "https://legislature.vermont.gov/statutes/section/10/113/04709",
+      "authority": "Vermont General Assembly",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "vt-reg-881",
+      "title": "Reg. 881 / 10 App. V.S.A. §18 — Governing the importation and possession of wild animals (prohibited-unless-listed; exemption via Unrestricted List)",
+      "url": "https://legislature.vermont.gov/statutes/section/10appendix/001/00018",
+      "authority": "Vermont Fish & Wildlife Board",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "vt-unrestricted-list",
+      "title": "Unrestricted Wild Animal List (July 2025) — names Rattus rattus ('Domesticated rat') AND Rattus norvegicus; no '(Captive Bred Only)' tag on either",
+      "url": "https://www.vtherpatlas.org/wp2016/wp-content/uploads/Unrestricted_Wild_Animals_List.pdf",
+      "authority": "Vermont Fish & Wildlife Department",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "vt-ch194",
+      "title": "20 V.S.A. ch. 194 — §3901 (Pet Dealer excludes rodents; Pet Shop includes rodents but excludes private dwelling), §3906 (Pet Shop license)",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/20/194",
+      "authority": "Vermont General Assembly",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "vt-3681",
+      "title": "20 V.S.A. §3681 — Pet dealer permit (municipal; dogs/cats/wolf-hybrids only)",
+      "url": "https://legislature.vermont.gov/statutes/section/20/193/03681",
+      "authority": "Vermont General Assembly",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "vt-act167",
+      "title": "Act 167 (H.626, 2024) — transfers pet-shop/welfare oversight from VAAFM to DPS Division of Animal Welfare",
+      "url": "https://legislature.vermont.gov/Documents/2024/Docs/ACTS/ACT167/ACT167%20As%20Enacted.pdf",
+      "authority": "Vermont General Assembly",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "vt-cruelty",
+      "title": "13 V.S.A. ch. 8 — Animal cruelty (§352 care/no abandonment; §362 poisoning a captive animal)",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/13/008",
+      "authority": "Vermont General Assembly",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "vt-rule98074",
+      "title": "VAAFM Rule #98074 — Rules Governing the Importation of Domestic Animals, Including Livestock and Poultry (CVI mainly for livestock/rabies-vector species)",
+      "url": "https://agriculture.vermont.gov/document/rules-governing-importation-domestic-animals-including-livestock-and-poultry",
+      "authority": "Vermont Agency of Agriculture, Food & Markets",
+      "accessed": "2026-06-10"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Vermont Fish & Wildlife Department (Licensing & Permitting)",
+      "role": "wildlife",
+      "email": "ANR.FWLicensing@vermont.gov",
+      "form_url": "",
+      "phone": "802-828-1190",
+      "primary": true
+    },
+    {
+      "agency": "Vermont Agency of Agriculture, Food & Markets (VAAFM) — Animal Health Section",
+      "role": "agriculture",
+      "email": "AGR.AnimalHealth@vermont.gov",
+      "form_url": "",
+      "phone": "802-828-2421",
+      "primary": false
+    },
+    {
+      "agency": "Vermont Department of Public Safety — Division of Animal Welfare",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://dps.vermont.gov/contact",
+      "phone": "802-244-8727",
+      "primary": false
+    }
+  ]
+}

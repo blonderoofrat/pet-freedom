@@ -1,0 +1,107 @@
+{
+  "jurisdiction": {
+    "id": "us-nd",
+    "level": "state",
+    "name": "North Dakota",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-ND",
+    "language": "en",
+    "slug": "north-dakota",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "North Dakota is permissive for the roof rat. Its Board of Animal Health rule (NDAC 48.1-09-02) explicitly names 'rats' — alongside gerbils, guinea pigs, hamsters, mice, and sugar gliders — as EXEMPT from both nontraditional-livestock licensing AND importation/CVI requirements (unless the State Veterinarian invokes a disease-based override). Game & Fish jurisdiction excludes animals held in private ownership, and no prohibited-species list names R. rattus. So keeping, breeding, selling/giving, and importing a captive-bred roof rat is effectively unregulated. The only loose end is that the exemption says 'rats' generically — a one-email confirmation to the State Vet would lock species coverage. Never release one.",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "NDAC 48.1-09-02 names 'rats' as exempt from nontraditional-livestock requirements, and NDCC 20.1-01-02 excludes animals 'held in private ownership' from 'wildlife' (so Game & Fish jurisdiction doesn't apply to a captive pet). No North Dakota statute or rule lists R. rattus as prohibited/restricted. No permit to keep one. (Exemption text says 'rats' generically; State-Vet override exists but isn't invoked.)",
+      "governing_law": "NDAC 48.1-09-02 (rats exempt); NDCC 20.1-01-02 (wildlife excludes privately-owned); NDAC 48.1-09-01-01.",
+      "source_ids": [
+        "nd-48-1-09-02",
+        "nd-2011-0102"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Because rats are exempt from nontraditional-livestock licensing (NDAC 48.1-09-02), the Category 2/3 breeder-license requirements don't apply, and no separate ND breeder permit for exempt rodents exists. Hobby breeding is unregulated (federal USDA/AWA may apply at commercial volume).",
+      "governing_law": "NDAC 48.1-09-02; NDAC 48.1-09-01-03 (Cat 2/3 license — N/A to exempt species).",
+      "source_ids": [
+        "nd-48-1-09-02"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "No ND pet-dealer licensing regime for exempt rodents was found; conventional livestock-dealer licensing covers regulated livestock, not exempt pet rats. No rule prohibits transfer/sale of R. rattus. Free rehoming and sale are unregulated at the state level.",
+      "governing_law": "NDAC 48.1-09-02; NDDA Livestock Licensing (doesn't cover exempt rodents).",
+      "source_ids": [
+        "nd-48-1-09-02"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "NDAC 48.1-09-02's exemption explicitly covers IMPORTATION requirements for rats — so no CVI or import permit is required to bring a pet rat into North Dakota by default (the State Veterinarian can impose requirements only if disease conditions warrant). In-state transport is likewise unregulated. Never release a roof rat.",
+      "governing_law": "NDAC 48.1-09-02 (importation exemption for rats); NDCC Title 36 / NDAC 48.1-13 (general CVI — not triggered for exempt species).",
+      "source_ids": [
+        "nd-48-1-09-02"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a roof rat — it's a non-native species. Local ordinances may add limits — check your city/county. (The State Vet retains discretion to add requirements if a disease concern arises.)",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "nd-48-1-09-02"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "nd-48-1-09-02",
+      "title": "NDAC 48.1-09-02 — Importation Requirements ('rats' exempt from NTL + import requirements)",
+      "url": "https://ndlegis.gov/information/acdata/pdf/48.1-09-02.pdf",
+      "authority": "North Dakota State Board of Animal Health",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "nd-2011-0102",
+      "title": "NDCC 20.1-01-02 — 'Wildlife' definition (excludes animals held in private ownership)",
+      "url": "https://www.law.cornell.edu/regulations/north-dakota/N-D-A-C-48.1-09-01-01",
+      "authority": "North Dakota Legislature / Game & Fish",
+      "accessed": "2026-06-07"
+    }
+  ]
+}

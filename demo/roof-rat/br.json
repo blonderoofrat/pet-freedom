@@ -1,0 +1,246 @@
+{
+  "jurisdiction": {
+    "id": "br",
+    "level": "country",
+    "name": "Brazil",
+    "parent": null,
+    "country": "BR",
+    "iso": "BR",
+    "language": "pt",
+    "inquiry_language": "pt",
+    "slug": "brazil",
+    "local_terms": [
+      "Rattus rattus",
+      "rato-preto",
+      "ratazana-preta",
+      "rato-de-telhado"
+    ]
+  },
+  "summary": "Brazil is one of the clearest LEGAL jurisdictions in the world for the roof rat — and unusually, it names the species in law as a domestic animal. IBAMA Portaria 93/1998 (Anexo I) lists BOTH 'Rato' (Rattus rattus) and 'Ratazana' (R. norvegicus) as fauna doméstica, and Art. 13 declares domestic fauna 'isentos de quaisquer tramitações junto ao IBAMA' (exempt from any procedure with IBAMA). So keeping and amateur-breeding a captive-bred roof rat needs no IBAMA registration, no SISFAUNA entry, no environmental licence, and no criadouro permit — the same legal channel through which fancy rats ('rato twister') are sold in Brazilian pet shops. The Environmental Crimes Law (Lei 9.605/1998) reaches only 'fauna silvestre,' not domestic-listed species, though its Art. 32 animal-cruelty ban applies to all animals. R. rattus is also recognized as a synanthropic pest (IBAMA IN 141/2006) and an invasive alien species (CONABIO Res. 7/2018), but those target free-living/feral management and eradication and do NOT revoke the domestic-fauna exemption for captive pets. Commercial selling needs ordinary state/municipal pet-trade licensing plus a veterinary Responsável Técnico registered with the CRMV (not IBAMA); interstate transport needs a GTA animal-movement certificate; international import needs MAPA/VIGIAGRO authorization and a bilateral International Veterinary Certificate. Releasing a roof rat into the wild is strictly prohibited.",
+  "last_reviewed": "2026-06-10",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "IBAMA Portaria 93/1998 Anexo I lists 'Rato' (Rattus rattus) as fauna doméstica, and Art. 13 declares domestic fauna 'isentos de quaisquer tramitações junto ao IBAMA' — so keeping a captive-bred roof rat needs no IBAMA registration, no SISFAUNA entry, no Autorização de Uso e Manejo, and no environmental licence. Lei 9.605/1998 (Crimes Ambientais) Art. 29 reaches only 'fauna silvestre,' so a domestic-listed roof rat is outside it. Federal possession is fully legal and effectively unregulated; the only residual friction is local municipal public-health (Código de Posturas / CCZ) nuisance rules aimed at free-roaming pest infestations, not securely caged captive pets.",
+      "governing_law": "Portaria IBAMA Nº 93/1998, Art. 13 + Anexo I; Lei Federal Nº 9.605/1998, Art. 29 (offenses apply only to fauna silvestre).",
+      "source_ids": [
+        "br-portaria-93",
+        "br-lei-9605"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Because R. rattus is fauna doméstica under Anexo I of Portaria 93/1998, the IBAMA criadouro (breeding-facility) licensing regime — which applies only to wild/exotic fauna (criador amadorista / criadouro comercial under Lei 9.605/1998 Art. 29) — does not apply, and Art. 13 exempts the species from all IBAMA procedures. An individual may breed roof rats in a private residence with no federal environmental permit, no litter registration, and no government pedigree tracking; there is no numeric hobbyist/commercial threshold in environmental law. Breeding remains subject to the universal animal-cruelty prohibition (Lei 9.605/1998 Art. 32; Decreto 24.645/1934). The invasive/synanthropic designations target free-living animals, not captive breeding.",
+      "governing_law": "Portaria IBAMA Nº 93/1998, Art. 13 (domestic exemption); Lei Federal Nº 9.605/1998, Art. 32 (animal cruelty, all species); IBAMA IN 141/2006 (synanthropic — free-living management only).",
+      "source_ids": [
+        "br-portaria-93",
+        "br-lei-9605",
+        "br-in-141"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Non-commercial transfer, donation, or gifting of a roof rat by a hobbyist is completely unregulated. Commercial sale (pet shop / for-profit rattery) is legal but requires ordinary business licensing — NOT IBAMA, which has no jurisdiction over domestic-fauna trade (no fauna-dealer licence, not CITES-listed): a CNPJ business registration with the Receita Federal, a municipal Alvará de Funcionamento, a Licença Sanitária from the municipal Vigilância Sanitária, and — most significantly — registration with the regional veterinary council (CRMV) plus a contracted veterinarian acting as Responsável Técnico (RT) under Lei 5.517/1968 Art. 27. The 'permit' layer is commercial/sanitary/professional, not environmental.",
+      "governing_law": "Portaria IBAMA Nº 93/1998, Art. 13 (no IBAMA licence for domestic fauna); Lei Federal Nº 5.517/1968, Art. 27 (Responsável Técnico for commercial animal establishments); municipal Alvará / Licença Sanitária; CFMV/CRMV resolutions.",
+      "source_ids": [
+        "br-portaria-93",
+        "br-lei-5517",
+        "br-cfmv-rt"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Domestic fauna is exempt from IBAMA transport permits, so movement defaults to the agricultural-defence framework. Interstate movement requires a Guia de Trânsito Animal (GTA) issued by the state animal-health agency (OESA), preceded by an Atestado Sanitário from a vet within 3 days attesting the animal is healthy and free of ectoparasites. IN MAPA Nº 18/2006 exempted ONLY dogs and cats from the GTA, so domestic rodents (including R. rattus) still need one. International import requires prior MAPA authorization, an International Veterinary Certificate (CVI) endorsed by the origin country, and VIGIAGRO clearance; importing as a pet is hard in practice because no bilateral CVI protocol for 'domestic rodents' may exist yet, requiring a slow MAPA risk-analysis petition via SEI. Never release a roof rat (invasive-species containment + abandonment is maus-tratos).",
+      "governing_law": "IN MAPA Nº 18/2006 (GTA; dog/cat exemption only); MAPA/VIGIAGRO import rules + CVI; Portaria IBAMA Nº 93/1998 (no IBAMA permit for domestic fauna); Lei 9.605/1998 Art. 32 + CONABIO Res. 7/2018 (no-release).",
+      "source_ids": [
+        "br-mapa-gta",
+        "br-mapa-import",
+        "br-portaria-93"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Selling roof rats commercially (pet shop or for-profit rattery) requires ordinary business/sanitary/veterinary licensing — not IBAMA. You must register a business (CNPJ), obtain a municipal operating licence (Alvará) and a sanitary licence (Vigilância Sanitária), register with the regional veterinary council (CRMV), and contract a veterinarian as Responsável Técnico (RT) under Lei 5.517/1968. Hobbyist donation / free rehoming needs none of this.",
+      "steps": [
+        "Register a business entity (CNPJ) with the Receita Federal to issue notas fiscais",
+        "Obtain the municipal Alvará de Funcionamento (zoning for animal breeding/retail)",
+        "Obtain the Licença Sanitária from the municipal Vigilância Sanitária",
+        "Register the establishment with the regional CRMV and contract a veterinarian as Responsável Técnico (pay the annual ART fee)"
+      ],
+      "forms": [
+        "CNPJ registration (Receita Federal)",
+        "Alvará de Funcionamento (município)",
+        "Licença Sanitária (Vigilância Sanitária municipal)",
+        "Anotação de Responsabilidade Técnica (ART) — CRMV"
+      ],
+      "where_to_file": "Receita Federal (CNPJ); município (Alvará); Vigilância Sanitária municipal (Licença Sanitária); regional CRMV (RT/ART)",
+      "fees": "Varies by município and state; annual ART fee to the CRMV for the Responsável Técnico",
+      "source_ids": [
+        "br-lei-5517",
+        "br-cfmv-rt"
+      ]
+    },
+    {
+      "type": "inspection",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Interstate movement requires a Guia de Trânsito Animal (GTA) from the state animal-health agency (OESA), preceded by an Atestado Sanitário from a vet within 3 days (animal healthy, ectoparasite-free). IN MAPA 18/2006 exempts only dogs and cats, so domestic rodents still need a GTA. International import requires MAPA/VIGIAGRO authorization + an international vet certificate (CVI); no R. rattus protocol may exist yet, so import can require a slow MAPA risk analysis via SEI. No IBAMA permit (R. rattus is domestic fauna). Never release a roof rat.",
+      "steps": [
+        "Get an Atestado Sanitário from a registered veterinarian within 3 days before the trip",
+        "Request a GTA from the state agricultural-defence agency (OESA) or a MAPA-habilitated vet; pay the state emission fee (DAE)",
+        "For international import: obtain MAPA prior authorization + a bilateral CVI endorsed by the origin country, then clear VIGIAGRO at a designated port"
+      ],
+      "forms": [
+        "Atestado Sanitário (vet health certificate)",
+        "Guia de Trânsito Animal (GTA)",
+        "Certificado Veterinário Internacional (CVI) — international import"
+      ],
+      "where_to_file": "State animal-health authority / OESA (GTA); MAPA/VIGIAGRO (international import)",
+      "fees": "State GTA emission fee via DAE (varies by state, typically per head/batch)",
+      "source_ids": [
+        "br-mapa-gta",
+        "br-mapa-import"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "keep",
+        "breed",
+        "transport"
+      ],
+      "summary": "Releasing or abandoning a captive roof rat into the wild or urban environment is strictly prohibited. R. rattus is a recognized invasive alien species (CONABIO Res. 7/2018) and synanthropic pest; intentional or negligent release crosses from animal abuse (maus-tratos, Lei 9.605/1998 Art. 32) into severe environmental degradation with IBAMA administrative fines and possible criminal prosecution. The law permits private ownership but demands absolute containment — keep enclosures secure and never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "br-lei-9605",
+        "br-conabio-7"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) O Rattus rattus ('rato-preto') consta no Anexo I da Portaria IBAMA 93/1998 como fauna doméstica e permanece isento de quaisquer tramitações junto ao IBAMA (Art. 13) para manutenção em cativeiro e reprodução por criador amador? Há instrução normativa posterior que altere esse enquadramento? (2) A classificação como espécie sinantrópica (IN IBAMA 141/2006) e invasora (Resolução CONABIO 7/2018) impõe alguma restrição à criação em cativeiro de exemplares domésticos por criador amador, ou aplica-se apenas a animais de vida livre? (3) Existe modelo de CVI bilateral vigente para importar R. rattus nascido em cativeiro; se não, qual o trâmite via SEI para solicitar a Análise de Risco de Importação? (4) [CFMV] Quais as exigências de ART/Responsável Técnico para abrir estabelecimento comercial de roedores domésticos?",
+  "sources": [
+    {
+      "id": "br-portaria-93",
+      "title": "Portaria IBAMA Nº 93/1998 — Anexo I lists 'Rato' (Rattus rattus) & 'Ratazana' (R. norvegicus) as FAUNA DOMÉSTICA; Art. 13 exempts domestic fauna from any IBAMA procedure",
+      "url": "https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/arquivos/fauna_exotica/1998_portaria_ibama_093-1998_anexo_1_lista_fauna_domestica.pdf",
+      "authority": "IBAMA",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-lei-9605",
+      "title": "Lei Federal Nº 9.605/1998 (Lei de Crimes Ambientais) — Art. 29 (offenses apply only to fauna silvestre); Art. 32 (animal cruelty, all species)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "authority": "Presidência da República (Planalto)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-lei-5517",
+      "title": "Lei Federal Nº 5.517/1968 — veterinary profession; Art. 27 mandates a Responsável Técnico for commercial animal establishments",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5517.htm",
+      "authority": "Presidência da República (Planalto)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-mapa-gta",
+      "title": "IN MAPA Nº 18/2006 — Guia de Trânsito Animal (GTA); exempts only dogs & cats, so domestic rodents still require a GTA",
+      "url": "https://www.defesa.agricultura.sp.gov.br/legislacoes/instrucao-normativa-mapa-18-de-18-07-2006,761.html",
+      "authority": "Ministério da Agricultura e Pecuária (MAPA)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-mapa-import",
+      "title": "MAPA — Importação de animais vivos (VIGIAGRO; CVI; no IBAMA permit for domestic fauna)",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/saude-animal/importacao",
+      "authority": "Ministério da Agricultura e Pecuária (MAPA)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-in-141",
+      "title": "IN IBAMA Nº 141/2006 — control/management of harmful synanthropic fauna (free-living management/eradication; NOT a captive-keeping ban)",
+      "url": "http://vigilancia.saude.mg.gov.br/index.php/download/instrucao-normativa-ibama-no-141-2006-regulamenta-o-controle-e-o-manejo-ambiental-da-fauna-sinantropica-nociva/",
+      "authority": "IBAMA",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-conabio-7",
+      "title": "Resolução CONABIO Nº 7/2018 — National Strategy for Invasive Alien Species (recognizes feral R. rattus as invasive; targets free-living populations, not captive domestic specimens)",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/biodiversidade-e-biomas/comissao-nacional-de-biodiversidade/copy_of_ResConabio072018EstratgiaNacionalparaEspciesExticasInvasoras.pdf",
+      "authority": "Ministério do Meio Ambiente (CONABIO)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-cfmv-rt",
+      "title": "CFMV — Responsável Técnico (RT) requirement for establishments that breed/sell/exhibit live animals (CRMV registration + ART)",
+      "url": "https://www.cfmv.gov.br/fale-conosco/",
+      "authority": "Conselho Federal de Medicina Veterinária (CFMV)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "br-fanratics",
+      "title": "Fanratics Rattery (São Paulo) — active captive breeding of R. rattus in Brazil (practice precedent)",
+      "url": "https://www.fanratics.com.br/rattus-rattus",
+      "authority": "Brazilian rattery (secondary, practice evidence)",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "IBAMA — Diretoria de Uso Sustentável da Biodiversidade e Florestas (DBFlo) / Serviço de Informação ao Cidadão (SIC)",
+      "role": "wildlife",
+      "email": "sic@ibama.gov.br",
+      "form_url": "https://www.gov.br/ibama/pt-br/canais_atendimento/fale-conosco",
+      "phone": "0800-061-8080",
+      "primary": true,
+      "inquiry_language": "pt"
+    },
+    {
+      "agency": "MAPA / VIGIAGRO — Departamento de Saúde Animal (DSA)",
+      "role": "agriculture",
+      "email": "vigiagro@agro.gov.br",
+      "form_url": "https://www.gov.br/agricultura/pt-br/assuntos/sanidade-animal-e-vegetal/saude-animal/importacao",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "pt"
+    },
+    {
+      "agency": "CFMV — Conselho Federal de Medicina Veterinária (Departamento de Fiscalização e Responsabilidade Técnica)",
+      "role": "other",
+      "email": "",
+      "form_url": "https://www.cfmv.gov.br/fale-conosco/",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "pt"
+    }
+  ]
+}

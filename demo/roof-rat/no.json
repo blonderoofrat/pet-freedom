@@ -1,0 +1,215 @@
+{
+  "jurisdiction": {
+    "id": "no",
+    "level": "country",
+    "name": "Norway",
+    "parent": null,
+    "country": "NO",
+    "iso": "NO",
+    "language": "no",
+    "inquiry_language": "en",
+    "slug": "norway",
+    "local_terms": [
+      "Rattus rattus",
+      "svartrotte",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Norway is one of Europe's strictest exotic-pet regimes, but the roof rat is NOT a no-pathway ban — it's restricted, with a narrow dual-agency permit route. Two regimes overlap: (1) the Exotic Animal Regulation (FOR-2017-05-11-597) bans importing/selling/keeping exotic mammals, and its exempt 'companion' list names 'Domestisert rotte (Rattus norvegicus)' — the fancy rat is fully legal — but NOT R. rattus; (2) the Alien Organisms Regulation (FOR-2015-06-19-716) requires a Miljødirektoratet import permit for species on neither its prohibited (Annex I) nor free-import (Annex II) list. R. rattus is on neither annex, so it falls into the §6 DISCRETIONARY permit zone: a permit can be granted if import/keeping is unlikely to harm biodiversity — and because R. rattus is Red-Listed RE (Regionally Extinct) in Norway, the establishment risk from indoor captive-bred stock is near zero, which actually supports a permit rather than defeating it. A keeper would need BOTH Mattilsynet (exotic-classification/keeping) and Miljødirektoratet (import permit) to clear it; no private precedent is documented, but the legislative playbook to fix it is proven (see advocacy).",
+  "last_reviewed": "2026-06-07",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "positive_list",
+      "problem": "In Norway it is illegal to import, sell/give, or keep \"exotic mammals\" under the Exotic Animal Regulation (FOR-2017-05-11-597). The catch is in how the rule defines \"exotic\": it looks at the SPECIES, not at whether your individual animal is tame and captive-bred. The common fancy rat (Rattus norvegicus) is treated as an ordinary companion rodent and is fine to keep. But the roof rat (Rattus rattus) — even when it is a domesticated, captive-bred, indoor-only pet — is not on any companion-species exemption, so it falls outside the legal pet list. (On top of this, importing one requires a separate discretionary permit from the Environment Agency under the Alien Organisms Regulation, FOR-2015-06-19-716 §6, because R. rattus is on neither its prohibited nor its free-import annex.) The result: a tame pet rat is treated like wild exotic wildlife purely because of its species label.",
+      "ask": "Add the domesticated, captive-bred roof rat (Rattus rattus) to Norway's recognised companion-rodent framework — the same kind of exemption the fancy rat (Rattus norvegicus) already enjoys — so that tame, indoor-kept roof rats can be legally kept (and, ideally, transferred and bred) by responsible owners. This is exactly the mechanism Norway already used in 2017, when a long-standing ban was lifted and a positive list of 19 reptile species was created after civil-society advocacy. We are asking the Ministry of Agriculture and Food / Mattilsynet to open the same kind of review for domesticated roof rats.",
+      "branch_note": "This is branch (b): the problem is the LAW AS WRITTEN — the species is simply not on the companion-rodent exemption — not an agency misreading. Mattilsynet is applying FOR-2017-05-11-597 correctly: the regulation classifies \"exotic\" by species (is it a traditional Norwegian family pet?), not by whether your individual animal is domesticated, so R. norvegicus is exempt and R. rattus is not. Asking Mattilsynet to simply \"allow\" your tame roof rat will not work, because there is no discretion in the keeping ban for a species that isn't listed — the fix requires CHANGING the exemption list itself, which sits with the Ministry of Agriculture and Food (Landbruks- og matdepartementet) that owns the regulation, with Mattilsynet as the administering agency that initiates and advises on such amendments. So the lever is a regulatory/positive-list change (a petition to add domesticated R. rattus to the companion-species exemption), pursued through Mattilsynet/the Ministry — the proven 2017 reptile-reform pathway — NOT an appeal asking the agency to reinterpret a rule it is reading correctly. (The Environment Agency's §6 import-permit portal is a real, separate touchpoint for the import side and is included as a secondary channel, but it cannot fix the keeping/transfer status — only the listing change can.)",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Mattilsynet (Norwegian Food Safety Authority) — administers the Exotic Animal Regulation",
+          "type": "agency",
+          "email": "postmottak@mattilsynet.no",
+          "form_url": "https://www.mattilsynet.no/en/contact",
+          "why": "Primary channel. Mattilsynet administers FOR-2017-05-11-597 and is the body that initiates and advises the Ministry of Agriculture and Food on amendments to the exotic-animal/companion-species lists. Ask it (a) to confirm in writing how captive-bred indoor R. rattus is classified, and (b) for the procedure to petition adding domesticated R. rattus to the companion-rodent exemption — the same route used for the 2017 reptile positive list. Official inbox and contact page both verified; English accepted."
+        },
+        {
+          "name": "Miljødirektoratet (Norwegian Environment Agency) — alien-organisms import permits (Søknadssenter)",
+          "type": "agency",
+          "form_url": "https://soknadssenter.miljodirektoratet.no/TillatelseFremmedeOrganismer/Startside/Index?id=9",
+          "email": "esshjelp@miljodir.no",
+          "why": "Secondary / import side. Because R. rattus is on neither annex of the Alien Organisms Regulation, an import would need a discretionary §6 permit here. Worth asking whether establishment risk is assessed as negligible for strictly indoor, captive-bred stock given that the species is Red-Listed RE (Regionally Extinct) in Norway. Note: this portal handles import only — it cannot change the keeping/transfer ban, which is the listing question for Mattilsynet/the Ministry. Portal and help-desk email verified."
+        }
+      ],
+      "template": {
+        "en": "Subject: Request to add the domesticated roof rat (Rattus rattus) to Norway's companion-rodent exemption\n\nDear Norwegian Food Safety Authority,\n\nI am writing about the Exotic Animal Regulation (FOR-2017-05-11-597). Under this rule the common fancy rat (Rattus norvegicus) is treated as an ordinary companion rodent, but the domesticated roof rat (Rattus rattus) is not — even though it is captive-bred, tame, kept strictly indoors, and never released.\n\nThe regulation classifies a species as \"exotic,\" but the animals I am describing are domesticated pets, no more wild than a fancy rat. Roof rats are also Red-Listed RE (Regionally Extinct) in Norway, so indoor captive-bred animals pose no establishment risk.\n\nI respectfully ask: please clarify in writing how captive-bred, indoor-kept R. rattus is classified, and tell me the procedure to petition adding domesticated R. rattus to the recognised companion-species exemption — the same kind of reform Norway adopted for reptiles in 2017.\n\nThank you for your consideration.\n\n[Your name]\n[Your town/region]\n[Your email]",
+        "no": "Emne: Anmodning om å føre opp den domestiserte svartrotta (Rattus rattus) på unntaket for kjæledyrgnagere i Norge\n\nTil Mattilsynet,\n\nJeg skriver angående forskrift om forbud mot å innføre, omsette og holde eksotiske dyr (FOR-2017-05-11-597). Etter denne forskriften regnes den vanlige tamrotta (Rattus norvegicus) som en alminnelig kjæledyrgnager, mens den domestiserte svartrotta (Rattus rattus) ikke gjør det — selv om den er oppdrettet i fangenskap, tam, holdes utelukkende innendørs og aldri settes ut.\n\nForskriften klassifiserer en art som «eksotisk», men dyrene jeg beskriver er domestiserte kjæledyr, ikke mer ville enn en tamrotte. Svartrotta er dessuten rødlistet som RE (regionalt utdødd) i Norge, slik at innendørs oppdrettede dyr ikke utgjør noen etableringsrisiko.\n\nJeg ber høflig om: kan dere skriftlig avklare hvordan oppdrettet, innendørs holdt R. rattus klassifiseres, og opplyse om fremgangsmåten for å søke om å føre opp domestisert R. rattus på unntakslista for kjæledyrarter — tilsvarende reformen Norge gjennomførte for reptiler i 2017?\n\nTakk for at dere vurderer dette.\n\n[Ditt navn]\n[Ditt sted/fylke]\n[Din e-post]"
+      },
+      "confidence_notes": "Verified via official sources (June 2026): (1) Mattilsynet's exotic-mammals page confirms the current wording \"Det er forbudt å innføre, omsette og holde eksotiske amfibier og pattedyr\" and that \"exotic\" is defined by species (not a traditional Norwegian family pet), with a 19-species reptile positive list but NO companion-rodent exemption list shown — consistent with R. norvegicus being treated as a normal pet and R. rattus not being carved out. (2) Mattilsynet official contact verified: postmottak@mattilsynet.no plus the /en/contact page (English accepted; no standard web form — email/phone/eDialog). (3) Miljødirektoratet's Søknadssenter §6 alien-organisms permit portal (id=9) and help-desk email esshjelp@miljodir.no verified live. (4) The 2017 reptile positive-list reform is real and is the precedent/playbook. Branch judgment (law-as-written, positive-list lever) is high-confidence: the keeping ban has no individual-animal discretion for an unlisted species, so only a listing change fixes it. UNCERTAIN: I did not independently re-confirm that the Ministry of Agriculture and Food (Landbruks- og matdepartementet), rather than Mattilsynet alone, formally owns the amendment — routing through Mattilsynet (which administers and advises on the regulation) is the correct first step either way. I also could not confirm any documented private precedent of a granted §6 import permit for R. rattus, nor the realistic grant rate. A February 2026 proposal to amend the Alien Organisms Regulation exists but covers plants, aquarium organisms, crabs and leeches — NOT mammal import permits or the companion-species framework — and the page showed no confirmed open høring deadline, so time_sensitive was left empty (no invented urgency). This is a research aid, not legal advice.",
+      "local_lang": "no"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Keeping R. rattus falls between two frameworks: FOR-2017-05-11-597 §2 bars keeping exotic mammals and R. rattus isn't on the exempt list (which names R. norvegicus); FOR-2015-06-19-716's indoor-keeping exemption (§8) applies to Annex II species, which R. rattus isn't. BUT it's not categorically banned — it sits in the §6 discretionary permit zone, and a reptile-style grandfather/keep-only authorization precedent exists. No active private pathway is published, and no 'possession = criminal' enforcement record was found → restricted, not flat-prohibited. Needs a Mattilsynet determination.",
+      "governing_law": "FOR-2017-05-11-597 §2 + exempt-species list; FOR-2015-06-19-716 §§6–8, Annex I/II.",
+      "source_ids": [
+        "no-2017-597",
+        "no-2015-716",
+        "no-mattilsynet-exotic"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "FOR-2017-05-11-597 §2's bar on keeping exotic mammals encompasses breeding, and no captive-bred/domesticated-lineage exemption is written for R. rattus (the species-specific Appendix exemption covers only 19 reptiles). Lawful breeding would require first resolving the keeping/permit status above.",
+      "governing_law": "FOR-2017-05-11-597 §2 + Annex (reptiles only).",
+      "source_ids": [
+        "no-2017-597",
+        "no-mattilsynet-rodents"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "FOR-2017-05-11-597 §2 prohibits 'omsette' (trade/transfer, incl. gifting) of exotic mammals; R. rattus isn't carved out. No commercial or non-commercial transfer exemption exists for this species under current Norwegian law.",
+      "governing_law": "FOR-2017-05-11-597 §2.",
+      "source_ids": [
+        "no-2017-597"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Import requires a Miljødirektoratet §6 permit (R. rattus is on neither Annex I nor II) — discretionary, grantable where adverse-biodiversity impact is unlikely (the RE status helps). By contrast, R. norvegicus needs no alien-organism permit and travels non-commercially (≤5 animals + vet health cert + 48h Mattilsynet notice). Presenting R. rattus at the border without a prior §6 permit = illegal import. Never release.",
+      "governing_law": "FOR-2015-06-19-716 §§6–7 (import permit); Mattilsynet travel rules (R. norvegicus).",
+      "source_ids": [
+        "no-2015-716",
+        "no-mattilsynet-travel"
+      ],
+      "verified_date": "2026-06-07",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Norway bans 'exotic mammals,' and the fancy rat (R. norvegicus) is exempt but R. rattus is not — so a roof rat needs a Miljødirektoratet §6 alien-organisms import permit AND a Mattilsynet sign-off that it isn't barred as 'exotic.' The permit is discretionary (grantable where biodiversity risk is low — the species is regionally extinct in Norway, helping the case), but no private precedent is documented. Pursue BOTH agencies before acquiring; never release.",
+      "steps": [
+        "Apply to Miljødirektoratet for a §6 import permit (soknadssenter portal), arguing negligible establishment risk for indoor captive-bred stock (RE status)",
+        "Get a written Mattilsynet determination on the exotic-classification/keeping question"
+      ],
+      "forms": [
+        {
+          "name": "Miljødirektoratet — Tillatelse etter forskrift om fremmede organismer",
+          "url": "https://soknadssenter.miljodirektoratet.no/TillatelseFremmedeOrganismer/Startside/Index?id=9"
+        }
+      ],
+      "where_to_file": "Miljødirektoratet (import permit); Mattilsynet (keeping/exotic classification)",
+      "fees": "",
+      "source_ids": [
+        "no-2015-716",
+        "no-2017-597"
+      ]
+    }
+  ],
+  "inquiry_focus": "(1) To Mattilsynet: the FOR-2017-05-11-597 exempt-rodent list names Rattus norvegicus but not Rattus rattus — has Mattilsynet determined whether captive-bred, indoor-kept R. rattus is 'exotic' under §2, and is there a keep-only authorization route (like the reptile grandfathering)? (2) To Miljødirektoratet: for a §6 import permit for captive-bred R. rattus, given Artsdatabanken's RE (Regionally Extinct) classification, is establishment risk assessed as negligible for strictly indoor stock — and what is the realistic assessment outcome for mammals in the §6 zone? (3) What is the procedure to petition adding domesticated R. rattus to the approved non-exotic species list (analogous to NHF's 2017 reptile positive-list reform), and is any review of the exotic-mammal list pending?",
+  "sources": [
+    {
+      "id": "no-2017-597",
+      "title": "FOR-2017-05-11-597 — Exotic Animal Regulation (§2 bans exotic mammals; exempt list names R. norvegicus, not R. rattus; Annex = 19 reptiles)",
+      "url": "https://lovdata.no/dokument/SF/forskrift/2017-05-11-597",
+      "authority": "Landbruks- og matdepartementet / Mattilsynet (Lovdata)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "no-2015-716",
+      "title": "FOR-2015-06-19-716 — Alien Organisms Regulation (§§6–8 discretionary import permit; Annex I/II; R. rattus on neither)",
+      "url": "https://lovdata.no/dokument/SF/forskrift/2015-06-19-716",
+      "authority": "Klima- og miljødepartementet / Miljødirektoratet (Lovdata)",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "no-mattilsynet-exotic",
+      "title": "Mattilsynet — Eksotiske pattedyr, reptiler og amfibier (permitted-rodent list: R. norvegicus exempt, R. rattus not)",
+      "url": "https://www.mattilsynet.no/dyr/kjaeledyr/reptiler-og-eksotiske-dyr/eksotiske-pattedyr-reptiler-og-amfibier",
+      "authority": "Mattilsynet",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "no-mattilsynet-rodents",
+      "title": "Mattilsynet — permitted companion rodents (names 'Domestisert rotte: Rattus norvegicus')",
+      "url": "https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/privat-reise-med-gnager-til-norge/identifikasjon-og-arter--gnagere",
+      "authority": "Mattilsynet",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "no-mattilsynet-travel",
+      "title": "Mattilsynet — Travelling to Norway with caged birds, rodents and rabbits (≤5, health cert, 48h notice)",
+      "url": "https://www.mattilsynet.no/en/animals/travelling-to-norway-with-caged-birds-rodents-and-rabbits",
+      "authority": "Mattilsynet",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "no-artsdatabanken",
+      "title": "Artsdatabanken — Rattus rattus, Red List 2021: RE (Regionally Extinct in Norway)",
+      "url": "https://artsdatabanken.no/lister/rodlisteforarter/2021/11866",
+      "authority": "Artsdatabanken",
+      "accessed": "2026-06-07"
+    },
+    {
+      "id": "no-nhf-reform",
+      "title": "Norsk Herpetologisk Forening — 2017 reptile positive-list reform (the advocacy playbook)",
+      "url": "https://herpetologisk.org/2017/08/15/reptiler-er-endelig-lovlige-i-norge/",
+      "authority": "Norsk Herpetologisk Forening",
+      "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Mattilsynet (Norwegian Food Safety Authority)",
+      "role": "agriculture",
+      "email": "postmottak@mattilsynet.no",
+      "form_url": "https://www.mattilsynet.no/en/contact",
+      "phone": "+47 22 40 00 00",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Miljødirektoratet (Norwegian Environment Agency) — alien-organisms permits",
+      "role": "wildlife",
+      "email": "esshjelp@miljodir.no",
+      "form_url": "https://soknadssenter.miljodirektoratet.no/TillatelseFremmedeOrganismer/Startside/Index?id=9",
+      "phone": "+47 73 58 05 00",
+      "primary": false,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Norsk Herpetologisk Forening (NHF) — advocacy (drove the 2017 reptile positive-list reform)",
+      "role": "ngo",
+      "email": "nhf@herpetologisk.org",
+      "form_url": "https://herpetologisk.org/",
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "no"
+    }
+  ]
+}

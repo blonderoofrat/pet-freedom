@@ -1,0 +1,186 @@
+{
+  "jurisdiction": {
+    "id": "us-il",
+    "level": "state",
+    "name": "Illinois",
+    "parent": "us",
+    "country": "US",
+    "iso": "US-IL",
+    "language": "en",
+    "slug": "illinois",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat"
+    ]
+  },
+  "summary": "Illinois does not specifically regulate the roof rat as a pet. It is not a 'dangerous animal' (720 ILCS 5/48-10 lists big cats, bears, wolves, primates), and as a captive-bred, tame animal it falls outside the Wildlife Code's definition of 'wildlife' (520 ILCS 5/1.2) and is on no injurious-species list — so no state possession permit is required. The caveats are commercial: selling rats you did not raise yourself can require an Animal Welfare Act pet-shop/dealer license (225 ILCS 605, which exempts someone who sells only animals they 'produced and raised'), and you may never release a pet rat. Because the conclusion rests on statutory silence (no rule names the genus), it's best labeled unregulated/unclear — effectively legal.",
+  "last_reviewed": "2026-06-06",
+  "advocacy": {
+    "flag": true,
+    "kit": {
+      "case_type": "clarification",
+      "problem": "In Illinois, keeping a domesticated, captive-bred roof rat (Rattus rattus) as a pet is effectively legal — but the law never says so out loud, and that silence creates needless uncertainty for owners, breeders, and the vets and shelters they deal with.\n\nHere is the actual picture, statute by statute: Illinois's dangerous-animal law (720 ILCS 5/48-10) lists only big cats, bears, wolves, and primates — no rodent of any kind. The Wildlife Code's definition of \"wildlife\" (520 ILCS 5/1.2) covers animals \"wild by nature... living unconfined... without the care of man,\" which a tame, cage-raised pet rat plainly is not. And the state's injurious-species list (17 Ill. Adm. Code Part 805) names exactly one rodent as injurious — the multimammate rat, genus Mastomys — and does NOT name Rattus rattus, the roof rat, or the black rat. So no possession permit is required, and the genus appears on no prohibited, dangerous, or injurious list.\n\nThe only real caveats are commercial and ordinary: a true hobby breeder who gives away or sells only rats they raised themselves is exempt from Animal Welfare Act pet-shop licensing under the \"produced and raised\" provision (225 ILCS 605), and no one may ever release a pet rat outdoors (520 ILCS 5/2.3). The problem is not a hostile rule — it's the absence of a plain, written confirmation that an owner can point to.",
+      "ask": "Ask the Illinois Department of Agriculture's Bureau of Animal Health & Welfare (the State Veterinarian's office) for a short written confirmation, in plain language, that: (1) the genus Rattus / Rattus rattus appears on no Illinois prohibited, dangerous-animal, \"wildlife,\" or injurious-species list, and no state permit is required to keep one as a pet; (2) a hobby breeder who gives away or sells only home-bred pet rats is exempt from Animal Welfare Act licensing under the \"produced and raised\" provision (225 ILCS 605); and (3) whether a private owner bringing a pet rodent into Illinois needs a certificate of veterinary inspection or entry permit, or whether that requirement applies only to commercial licensees. A written reply turns \"probably fine\" into documented certainty you can show a vet, shelter, or landlord.",
+      "branch_note": "This is BRANCH (a): the bureaucracy under-documenting a permissive law, NOT a bad law that needs the legislature. The lever is the AGENCY — a written clarification / declaratory confirmation from the State Veterinarian — not a bill and not a public-comment window.\n\nWhy, concretely for Illinois: there is no statute or rule to repeal, because none of them prohibit the roof rat. We verified the three places a ban would live and the rat is in none of them. (1) The dangerous-animal statute (720 ILCS 5/48-10) enumerates only large carnivores and primates — no rodent. (2) The Wildlife Code (520 ILCS 5/1.2) defines \"wildlife\" as animals living unconfined without the care of man, which excludes a tame, cage-raised pet. (3) The injurious-species list (17 Ill. Adm. Code Part 805), which we confirmed directly, names only the multimammate rat (Mastomys) as an injurious rodent and does NOT list Rattus rattus, the roof rat, or the black rat. Legality therefore rests on statutory silence, not on a misreading the agency is enforcing against owners.\n\nBecause nothing is being applied against the species, going to the legislature would be solving a problem that does not exist — there is no list to be removed from. The right move is to ask the agency to put the already-true legal status in writing. (If, in the future, Illinois were to ADD Rattus to an injurious or prohibited list — e.g., via a Part 805 rulemaking — the lever would flip to branch (b): the official public-comment window for that rule. That is not the situation today.)",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "Illinois Department of Agriculture — Bureau of Animal Health & Welfare (Office of the State Veterinarian), via the Department's official Contact Us inquiry form",
+          "type": "agency",
+          "form_url": "https://agr.illinois.gov/about/contactus.html",
+          "phone": "(217) 782-4944",
+          "why": "This is the agency that administers the Animal Welfare Act (225 ILCS 605) pet-shop/dealer licensing and the state's import/CVI program — exactly the office that can issue a written confirmation that captive-bred Rattus rattus needs no permit, that the 'produced and raised' breeder exemption applies, and whether a private pet-owner import CVI is required. Use the Department's official Contact Us inquiry form; the Bureau's direct line is (217) 782-4944. Direct your request to the office, not to any named individual."
+        },
+        {
+          "name": "Illinois Department of Natural Resources — general contact (Wildlife Code / injurious-species scope)",
+          "type": "agency",
+          "form_url": "https://dnr.illinois.gov/about/contact.html",
+          "phone": "(217) 782-6302",
+          "why": "Secondary touchpoint. IDNR administers the Wildlife Code (520 ILCS 5) and the injurious-species rule (17 Ill. Adm. Code Part 805). A one-line confirmation from DNR that Rattus rattus is not 'wildlife' and is not on the injurious-species list closes the loop alongside the Department of Agriculture letter. Use the official contact form."
+        }
+      ],
+      "template": {
+        "en": "To the Illinois Department of Agriculture, Bureau of Animal Health & Welfare (Office of the State Veterinarian):\n\nI keep a domesticated roof rat (Rattus rattus) as a pet and am writing to ask for written confirmation of its legal status in Illinois. My understanding is that Illinois does not regulate this animal as a pet, but I would like that in writing so I can show it to my veterinarian, landlord, or shelter if asked.\n\nMy reading of the law: the dangerous-animal statute (720 ILCS 5/48-10) lists no rodent; the Wildlife Code (520 ILCS 5/1.2) defines 'wildlife' as animals living unconfined without the care of man, which a tame pet rat is not; and the injurious-species list (17 Ill. Adm. Code Part 805) names only the multimammate rat (Mastomys), not Rattus rattus.\n\nMy rats are captive-bred, hand-tame, kept indoors in cages, and are never released outdoors. I do not sell rats I did not raise myself.\n\nCould you please confirm in writing: (1) that the genus Rattus / Rattus rattus is on no Illinois prohibited, dangerous, 'wildlife,' or injurious list and needs no possession permit; (2) that a hobby breeder who gives away or sells only home-bred pet rats is exempt from Animal Welfare Act licensing under the 'produced and raised' provision (225 ILCS 605); and (3) whether a private owner needs a certificate of veterinary inspection or entry permit to bring a pet rodent into Illinois.\n\nThank you for your time.\n\n[Your name]\n[Your city, Illinois]\n[Your email]"
+      },
+      "confidence_notes": "Verified on 2026-06-09 via web search/fetch: (1) The Illinois injurious-species rule, 17 Ill. Adm. Code Part 805, was fetched directly from ILGA/JCAR — it names only the multimammate rat (genus Mastomys) as an injurious rodent and does NOT list Rattus rattus, roof rat, or black rat. This is the strongest new confirmation of the 'legal by silence' conclusion. (2) The Illinois Dept of Agriculture's official 'Contact Us' page resolves at https://agr.illinois.gov/about/contactus.html and carries an email inquiry form; the Bureau of Animal Health & Welfare line (217) 782-4944 is from prior research. I deliberately used the Department's official contact FORM rather than an individual State Veterinarian's personal email that surfaced in search results (OPSEC: official channels only, never a named civil servant). (3) The IDNR contact page resolves at https://dnr.illinois.gov/about/contact.html with a feedback/contact form.\n\nGrounded but not re-fetched this session (carried from the jurisdiction file, themselves ILGA-sourced 2026-06-06): the text of 720 ILCS 5/48-10 (no rodents), 520 ILCS 5/1.2 ('wildlife' definition), and 225 ILCS 605 ('produced and raised' exemption).\n\nUncertain: the private-owner import CVI question (8 Ill. Adm. Code 25.47) remains genuinely unresolved — no published rodent-specific CVI rule for private owners was found, which is precisely why it is item (3) of the agency ask rather than a stated conclusion. The branch (clarification, not legislation) is high-confidence given the species is absent from all three potential prohibition lists. No live bill, pending list, or open comment window was found, so time_sensitive is empty — no manufactured urgency. This is a research aid, not legal advice; an owner should confirm with the agency and check local ordinances (e.g., Chicago).",
+      "local_lang": "en"
+    }
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "No general exotic/wild-animal possession permit covers rodents. The dangerous-animal prohibition (720 ILCS 5/48-10) lists only large carnivores and primates — no rodent. A captive-bred, tame rat doesn't meet the Wildlife Code's 'wild by nature... living unconfined... without the care of man' definition (520 ILCS 5/1.2), and no injurious-species list names Rattus. Effectively legal, but it rests on statutory silence rather than a named exemption.",
+      "governing_law": "720 ILCS 5/48-10; 520 ILCS 5/1.2 & 5/2.2a; 510 ILCS 68 (herps only).",
+      "source_ids": [
+        "il-48-10",
+        "il-wildlife"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "Private hobby breeding isn't separately regulated (R. rattus isn't 'wildlife'/protected/injurious, nor a dangerous animal). Commercial scale can trigger the Animal Welfare Act (225 ILCS 605), but it exempts 'a person who sells only such animals that he has produced and raised' — sheltering a true hobby breeder.",
+      "governing_law": "225 ILCS 605/2 & 605/3 (AWA; 'produced and raised' exemption); 520 ILCS 5/2.2a.",
+      "source_ids": [
+        "il-awa",
+        "il-wildlife"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "sell_give": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "Someone who sells/gives away only rats they produced and raised is exempt from the Animal Welfare Act pet-shop-operator definition (225 ILCS 605/2). Buying-and-reselling, or retailing as a business, requires an IL Dept of Agriculture license (225 ILCS 605/3). No DNR sale permit applies (R. rattus isn't protected/injurious wildlife). Free vetted adoption of home-bred rats is the exempt path.",
+      "governing_law": "225 ILCS 605/2 & 605/3.",
+      "source_ids": [
+        "il-awa"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    },
+    "transport": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "In-state movement of a legally kept pet rat isn't regulated. Illinois's import CVI framework targets livestock/dogs/cats; the AWA import rule (8 Ill. Adm. Code 25.47) applies to AWA licensees bringing animals in commercially, not a private owner moving a pet — and no rodent-specific CVI rule is published, so confirm with the State Veterinarian. Never release (520 ILCS 5/2.3).",
+      "governing_law": "8 Ill. Adm. Code 25.47; IL Dept of Agriculture import program; 520 ILCS 5/2.3 (no release).",
+      "source_ids": [
+        "il-import",
+        "il-wildlife"
+      ],
+      "verified_date": "2026-06-06",
+      "needs_verification": true,
+      "verified_by": "claude-websearch"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Selling rats you did NOT raise yourself, or retailing as a business, requires an IL Dept of Agriculture pet-shop/dealer license (225 ILCS 605). Selling/giving only your own home-bred rats is exempt ('produced and raised').",
+      "steps": [
+        "Stay within the 'produced and raised' exemption, or get an Animal Welfare Act license"
+      ],
+      "forms": [],
+      "where_to_file": "Illinois Dept of Agriculture, Bureau of Animal Health & Welfare",
+      "fees": "",
+      "source_ids": [
+        "il-awa"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Never release a pet rat outdoors (520 ILCS 5/2.3). Local ordinances (e.g., Chicago) may add limits — check yours.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "il-wildlife"
+      ]
+    }
+  ],
+  "inquiry_focus": "Please confirm in writing the status of domesticated, captive-bred Rattus rattus kept as a pet: (1) Does the genus Rattus (or R. rattus) appear on any prohibited, dangerous, injurious, or restricted list, or require any possession/propagation/sale permit at the state level? (2) Is a hobby breeder who sells/gives away only home-bred pet rats exempt from Animal Welfare Act (225 ILCS 605) licensing under the 'produced and raised' provision? (3) For importing a pet rodent into Illinois, is a CVI or entry permit required for a private owner (vs. an AWA licensee)?",
+  "sources": [
+    {
+      "id": "il-48-10",
+      "title": "720 ILCS 5/48-10 — Dangerous animal or primate offense (no rodents)",
+      "url": "https://www.ilga.gov/legislation/ilcs/documents/072000050K48-10.htm",
+      "authority": "Illinois General Assembly",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "il-wildlife",
+      "title": "520 ILCS 5 — Wildlife Code (defn of 'wildlife' excludes tame/cared-for animals; §2.3 no-release)",
+      "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1729&ChapterID=43",
+      "authority": "Illinois General Assembly / IL DNR",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "il-awa",
+      "title": "225 ILCS 605 — Animal Welfare Act (pet-shop/dealer licensing; 'produced and raised' exemption)",
+      "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1375&ChapterID=24",
+      "authority": "Illinois General Assembly / IL Dept of Agriculture",
+      "accessed": "2026-06-06"
+    },
+    {
+      "id": "il-import",
+      "title": "8 Ill. Adm. Code 25.47 — Animals Imported Into Illinois (CVI + entry permit for AWA licensees)",
+      "url": "https://ilga.gov/commission/jcar/admincode/008/008000250000470R.html",
+      "authority": "Illinois Administrative Code / IL Dept of Agriculture",
+      "accessed": "2026-06-06"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Illinois Dept of Agriculture — Bureau of Animal Health & Welfare (State Veterinarian)",
+      "role": "agriculture",
+      "email": "AGR.ADT@illinois.gov",
+      "form_url": "",
+      "phone": "(217) 782-4944",
+      "primary": true
+    },
+    {
+      "agency": "Illinois Dept of Natural Resources (Wildlife)",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://dnr.illinois.gov/about/contact.html",
+      "phone": "(217) 782-6302"
+    }
+  ]
+}

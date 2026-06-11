@@ -1,0 +1,278 @@
+{
+  "jurisdiction": {
+    "id": "sk",
+    "level": "country",
+    "name": "Slovakia",
+    "parent": null,
+    "country": "SK",
+    "iso": "SK",
+    "language": "sk",
+    "inquiry_language": "sk",
+    "slug": "slovakia",
+    "local_terms": [
+      "Rattus rattus",
+      "potkan tmavý",
+      "potkan čierny",
+      "krysa",
+      "roof rat",
+      "black rat"
+    ]
+  },
+  "summary": "Slovakia is permissive for the roof rat, now grounded in the operative statutory texts. Slovak law uses a negative-list model — every species may be privately kept unless named on a prohibitive list — and R. rattus appears on NONE of them: not the EU Union list of invasive alien species (Reg. 1143/2014 + Implementing Reg. 2016/1141, no Rattus), not Slovakia's national invasive list (Government Reg. 449/2019 Z.z. Annex 2 as am. 396/2023, which names mink and similar mammals but no Rattus), not CITES, and not a protected native under Act 543/2002. Decree 283/2020 Z.z. §1(3)(a) expressly defines 'spoločenské zvieratá' (companion animals) to include rodents (hlodavce), and Slovak law draws no distinction between R. rattus and the fancy rat R. norvegicus (both are 'potkan' for spatial/welfare purposes). Net effect: keeping a captive-bred roof rat is fully legal with no permit or registration; breeding/selling/GIVING animals to another party triggers a Regional Veterinary & Food Administration (RVPS) breeder-facility registration under Act 39/2007 + Decree 283/2020; cross-border movement follows EU animal-health certificate rules (rodents are excluded from the EU Pet Passport).",
+  "last_reviewed": "2026-06-10",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Keeping a captive-bred R. rattus purely as a private pet is fully legal and requires no permit, fee, or registration. The DR confirms R. rattus is absent from the EU Union list (Reg. 1143/2014 + Implementing Reg. 2016/1141) and from Annex 2 of Government Reg. 449/2019 Z.z. (as am. 396/2023) — the operative national invasive list names mink (Mustela vison) and the like but no member of genus Rattus. It is not CITES-listed and, as a synanthropic non-native, holds no protected-native status under Act 543/2002. Decree 283/2020 Z.z. §1(3)(a) expressly includes rodents (hlodavce) in the 'spoločenské zvieratá' (companion animal) definition, and ŠVPS SR guidance states the facility-registration mandate 'does not apply to households in which companion animals are kept exclusively for private non-commercial purposes' — only baseline welfare duties (Act 39/2007, Decree 283/2020) attach.",
+      "governing_law": "Act 39/2007 Z.z. §1 (companion-animal framework); Decree 283/2020 Z.z. §1(3)(a) (rodents = companion animals); Gov. Reg. 449/2019 Z.z. Annex 2 (am. 396/2023) + EU Reg. 1143/2014/Reg. 2016/1141 (R. rattus absent from invasive lists); Act 543/2002 Z.z. (not a protected native).",
+      "source_ids": [
+        "sk-act-39-2007",
+        "sk-decree-283-2020",
+        "sk-reg-449-2019",
+        "sk-reg-396-2023",
+        "sk-eu-1143",
+        "sk-act-543-2002"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Breeding R. rattus and retaining ALL offspring within one's own household remains exempt from registration. But breeding with intent to transfer any offspring (sell, exchange, or donate) makes the keeper a 'chovné zariadenie' (breeding facility, Decree 283/2020 §1(3)(b)) and requires prior registration with the competent Regional Veterinary & Food Administration (RVPS) — a major 2022 amendment to Act 39/2007 ended unregulated hobby breeding of companion animals, and ŠVPS SR enforces it across rodents with no small-scale/accidental-litter exemption. Registration is by filing 'Ohlásenie začatia činnosti chovného zariadenia pre spoločenské zvieratá' to the local RVPS (hobbyists give rodné číslo; businesses give IČO) before bringing in breeding stock; the facility must meet Decree 283/2020 spatial/welfare standards (the rat — 'potkan,' both Rattus species — needs ≥0.20 m² for one animal, +0.10 m² per additional, ≥0.30 m height). So pure personal breeding with no transfer = legal (no permit); breeding-for-transfer = legal_with_permit.",
+      "governing_law": "Act 39/2007 Z.z. §8 (breeding-facility registration; 2022 am.); Decree 283/2020 Z.z. §1(3)(b), §3, §6 + Annexes (facility definition, spatial/welfare conditions).",
+      "source_ids": [
+        "sk-act-39-2007",
+        "sk-decree-283-2020",
+        "sk-svps-register"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Any domestic transfer of ownership of R. rattus — sale, exchange, OR free donation/adoption — is legal but classed as a regulated activity requiring the transferor to hold an active RVPS breeder registration; ŠVPS SR trade guidance is explicit that there is NO small-scale or accidental-litter exemption, and gifting is treated the same as selling (the rationale is epidemiological traceability of every transferred animal). No species-specific permit distinguishes R. rattus from R. norvegicus (both are rodents in one legal class) and no CITES permit applies. A person who buys from multiple breeders to resell is instead an animal-collection center ('stredisko na zhromažďovanie'), needing the stricter approval (schválenie) with pre-operational inspection rather than mere registration; a continuous for-profit seller additionally needs a Trade License (IČO) under Act 455/1991.",
+      "governing_law": "Act 39/2007 Z.z. (2022 am. — transfer = regulated activity); Decree 283/2020 Z.z.; ŠVPS SR companion-animal sale/donation/adoption guidance; Act 455/1991 Zb. (Trade Licensing Act — for-profit sale).",
+      "source_ids": [
+        "sk-act-39-2007",
+        "sk-decree-283-2020",
+        "sk-svps-sell"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "DOMESTIC transport within Slovakia is essentially unregulated administratively — no passport, health certificate, or microchip — subject only to general welfare (ventilation, temperature, space). INTRA-EU: rodents are explicitly EXCLUDED from the EU Pet Passport (Reg. 576/2013, dogs/cats/ferrets only). Non-commercial movement (≤5 animals, no ownership transfer, owner travels within 5 days) needs an official rodent health certificate plus a clinical exam by an official vet at origin; commercial movement (a buyer across a border, or >5 animals) must be pre-notified in TRACES NT with an intra-Union veterinary certificate, from a registered facility to a registered RVPS facility (Reg. 2016/429 + Delegated Reg. 2020/692). THIRD-COUNTRY IMPORT is the most demanding: WOAH-member origin, entry only via a designated Border Control Post with a Common Health Entry Document (CHED), an official-vet health certificate (translated to Slovak), and origin from a registered/approved holding — no mandatory state quarantine if paperwork is flawless. R. rattus is on no prohibited-import or CITES list. Microchip nuance: imported rodents must carry an ISO 11784 transponder; a size-based derogation exists but BCP vets typically expect adult roof rats to be chipped, so a microchip should be treated as the default unless an official vet grants a written waiver. Never release.",
+      "governing_law": "EU Reg. 576/2013 (Pet Passport — excludes rodents); EU Reg. 2016/429 (Animal Health Law) + Delegated Reg. 2020/692; Act 39/2007 Z.z. §21 (import/movement controls); ŠVPS SR rodent movement/import health requirements (Doc. 21-SVPS-010).",
+      "source_ids": [
+        "sk-act-39-2007",
+        "sk-svps-movement-noncomm",
+        "sk-svps-import",
+        "sk-eu-ahl"
+      ],
+      "verified_date": "2026-06-10",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "registration",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Keeping a captive-bred roof rat is legal with no permit (R. rattus is on neither the EU Union list nor the Slovak national invasive list, and rodents are companion animals under Decree 283/2020 §1(3)(a)). The ONE domestic formality: anyone who transfers animals to others — by sale, exchange, OR free gift — must first register the breeding facility ('chovné zariadenie') with their Regional Veterinary & Food Administration (RVPS) under Act 39/2007 + Decree 283/2020. There is no small-scale or accidental-litter exemption. Continuous for-profit selling additionally needs a Trade License (živnostenské oprávnenie, IČO).",
+      "steps": [
+        "Keeping only (household, non-commercial): nothing required",
+        "To breed-and-transfer / sell / give: file 'Ohlásenie začatia činnosti chovného zariadenia pre spoločenské zvieratá' with your local RVPS BEFORE bringing in breeding stock (hobbyist = rodné číslo; business = IČO)",
+        "Meet Decree 283/2020 spatial/welfare conditions (rat: ≥0.20 m² for one, +0.10 m²/animal, ≥0.30 m height; easy-to-clean, ventilated, lit, predator/parasite-protected enclosure)",
+        "Continuous for-profit sale: also obtain a Trade License (IČO) under Act 455/1991",
+        "Acting as a broker/collection center: apply for the stricter approval (schválenie) with pre-operational state-vet inspection"
+      ],
+      "forms": [
+        "Ohlásenie začatia činnosti chovného zariadenia pre spoločenské zvieratá"
+      ],
+      "where_to_file": "Local Regional Veterinary & Food Administration (RVPS) — one of 40 territorial offices",
+      "fees": "Companion-animal facility registration fee not explicitly published in the operative texts (the €33 individual / €100 corporate figures cited in bulletins are for FARM-animal holdings); confirm current fee with the RVPS",
+      "source_ids": [
+        "sk-act-39-2007",
+        "sk-decree-283-2020",
+        "sk-svps-register"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Cross-border movement needs EU animal-health documentation (rodents are excluded from the EU Pet Passport). Intra-EU non-commercial = an official rodent health certificate + clinical exam by an official vet at origin; intra-EU commercial = TRACES NT pre-notification + intra-Union veterinary certificate between registered facilities; third-country import = WOAH-member origin, entry via a designated EU Border Control Post with a CHED + official-vet health certificate (translated to Slovak) from a registered holding. ISO 11784 microchip generally required for imported rodents (size derogation is BCP-discretionary — default to chipping). Domestic transport needs no documents. Never release.",
+      "steps": [
+        "Domestic: no documents (welfare in transit only)",
+        "Intra-EU non-commercial: official rodent health certificate + origin clinical exam by an official vet",
+        "Intra-EU commercial: TRACES NT pre-notification + intra-Union veterinary certificate (registered → registered RVPS facility)",
+        "Third-country import: WOAH-member origin; pre-notify the Border Control Post (≥1 working day) via CHED; carry an official-vet health certificate translated to Slovak from a registered/approved holding; microchip (ISO 11784) unless an official vet grants a written size waiver"
+      ],
+      "forms": [
+        "Rodent health certificate",
+        "Common Health Entry Document (CHED)",
+        "Intra-Union veterinary certificate (TRACES NT)"
+      ],
+      "where_to_file": "ŠVPS SR (competent authority for movement/import); EU Border Control Post for third-country entry",
+      "fees": "Per official-vet examination + certification; BCP/CHED handling fees for imports",
+      "source_ids": [
+        "sk-svps-movement-noncomm",
+        "sk-svps-import",
+        "sk-eu-ahl"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Releasing or abandoning a roof rat is prohibited under Slovak animal-welfare law (Act 39/2007 + Decree 283/2020); severe neglect can escalate to criminal animal cruelty under the Criminal Code (fines, animal-keeping bans, asset forfeiture, possible imprisonment). Rehome responsibly; never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "Administrative fines up to €1,000 (individuals) / €20,000 (legal entities) for veterinary-care violations under Act 39/2007",
+      "source_ids": [
+        "sk-act-39-2007"
+      ]
+    }
+  ],
+  "inquiry_focus": "(ŠOPSR / MŽP SR — invasive species) (1) Je druh Rattus rattus (potkan tmavý / potkan čierny) zaradený do zoznamu inváznych nepôvodných druhov vzbudzujúcich obavy SR podľa Nariadenia vlády SR č. 449/2019 Z.z. v znení 396/2023 Z.z.? Ak nie, existuje plán na jeho zaradenie? (Is R. rattus on Slovakia's national invasive list (Reg. 449/2019 as am. 396/2023); any plan to add it?) (ŠVPS SR — companion animal + trade) (2) Je chov a predaj potkana tmavého (Rattus rattus) ako spoločenského zvieraťa regulovaný rovnako ako u iných hlodavcov (napr. Rattus norvegicus) podľa zákona č. 39/2007 Z.z. a vyhlášky č. 283/2020 Z.z.? Aké sú presné správne poplatky za ohlásenie a registráciu chovného zariadenia pre spoločenské zvieratá (hlodavce)? (Is keeping/selling R. rattus regulated like other rodents under Act 39/2007 + Decree 283/2020; what is the exact fee to register a companion-animal breeding facility?) (3) Pri dovoze druhu Rattus rattus z tretej krajiny, je tento druh považovaný za dostatočne malý na uplatnenie výnimky z povinného čipovania podľa ISO 11784, alebo sa čipovanie striktne vyžaduje? (On third-country import of R. rattus, does it qualify for the ISO-11784 microchip size derogation, or is microchipping strictly required?)",
+  "sources": [
+    {
+      "id": "sk-eu-1143",
+      "title": "Regulation (EU) 1143/2014 + Implementing Reg. 2016/1141 (Union list of invasive alien species; R. rattus NOT listed)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1143",
+      "authority": "European Union (EUR-Lex)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-reg-449-2019",
+      "title": "Nariadenie vlády SR č. 449/2019 Z.z. — Slovak national list of invasive non-native species of concern (Annex 2: mink etc.; no Rattus)",
+      "url": "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2019/449/",
+      "authority": "Government of the Slovak Republic (Slov-Lex)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-reg-396-2023",
+      "title": "Nariadenie vlády SR č. 396/2023 Z.z. — amendment to the national invasive-species list (449/2019)",
+      "url": "https://skolske-smernice.dashofer.sk/onb/33/396-2023-z-z-nariadenie-vlady-slovenskej-republiky-ktorym-sa-meni-nariadenie-vlady-slovenskej-republiky-c-449-2019-z-z/",
+      "authority": "Government of the Slovak Republic",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-act-150-2019",
+      "title": "Zákon č. 150/2019 Z.z. — prevention & management of invasive non-native species (Art. 9 derogation framework)",
+      "url": "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2019/150/",
+      "authority": "National Council of the Slovak Republic (Slov-Lex)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-act-39-2007",
+      "title": "Zákon č. 39/2007 Z.z. o veterinárnej starostlivosti — Veterinary Care Act (companion-animal framework; breeder-facility registration on transfer; 2022 am.)",
+      "url": "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2007/39/",
+      "authority": "National Council of the Slovak Republic (Slov-Lex)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-decree-283-2020",
+      "title": "Vyhláška č. 283/2020 Z.z. — companion-animal protection; §1(3)(a) defines rodents (hlodavce) as companion animals; §6+Annex spatial standards",
+      "url": "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2020/283/20201015",
+      "authority": "Ministry of Agriculture & Rural Development SR (Slov-Lex)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-act-543-2002",
+      "title": "Zákon č. 543/2002 Z.z. o ochrane prírody a krajiny — Nature & Landscape Protection Act (R. rattus is not a protected native)",
+      "url": "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2002/543/",
+      "authority": "National Council of the Slovak Republic (Slov-Lex)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-svps-register",
+      "title": "ŠVPS SR — Registrácia chovu spoločenských zvierat (companion-animal breeder-facility registration procedure)",
+      "url": "https://svps.sk/zvierata/registracia-chovu-spolocenskych-zvierat/",
+      "authority": "ŠVPS SR",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-svps-sell",
+      "title": "ŠVPS SR — Predaj, darovanie, adopcia, nákup a obchodovanie so zvieratami (any ownership transfer = registered activity; no small-scale exemption)",
+      "url": "https://svps.sk/zvierata/spolocenske/predaj-darovanie-adopcia-nakup-a-obchodovanie-so-zvieratmi/",
+      "authority": "ŠVPS SR",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-svps-movement-noncomm",
+      "title": "ŠVPS SR — Zdravotné požiadavky na neobchodné premiestňovanie živých zvierat radu hlodavce do SR (Doc. 21-SVPS-010; rodent non-commercial movement health requirements)",
+      "url": "https://www.svps.sk/zdroje/data/11/27/Zdravotne-poziadavky-hlodavce.pdf",
+      "authority": "ŠVPS SR",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-svps-import",
+      "title": "ŠVPS SR — Zdravotné požiadavky pre dovoz živých zvierat rádu hlodavce do SR (third-country rodent import health requirements; BCP/CHED, ISO 11784 microchip + size derogation)",
+      "url": "https://www.svps.sk/zdroje/data/11/27/ZdravotnePoziadavkyDovozHlodavcov2021.pdf",
+      "authority": "ŠVPS SR",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-eu-ahl",
+      "title": "EU Animal Health Law (Reg. 2016/429) + Delegated Reg. 2020/692 + Reg. 576/2013 (Pet Passport excludes rodents) — rodent movement/import certificates",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0429",
+      "authority": "European Union (EUR-Lex)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-rodentia",
+      "title": "Slovenský klub chovateľov drobných hlodavcov — RODENTIA (Slovak rodent fanciers' club; registered breeders) — practical-pathway evidence",
+      "url": "https://klubrodentia.weebly.com/",
+      "authority": "RODENTIA club (secondary, practice evidence)",
+      "accessed": "2026-06-10"
+    },
+    {
+      "id": "sk-cites",
+      "title": "CITES — Slovakia party profile; Rattus rattus not on any appendix",
+      "url": "https://cites.org/eng/parties/country-profiles/sk",
+      "authority": "CITES Secretariat",
+      "accessed": "2026-06-10"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Štátna veterinárna a potravinová správa SR (ŠVPS SR — State Veterinary & Food Administration)",
+      "role": "agriculture",
+      "email": "podatelna@svps.sk",
+      "form_url": "https://www.svps.sk/kontakt/",
+      "phone": "+421 2 6025 7307",
+      "primary": true,
+      "inquiry_language": "sk"
+    },
+    {
+      "agency": "Štátna ochrana prírody SR / Ministerstvo životného prostredia SR (State Nature Conservancy / Ministry of Environment)",
+      "role": "wildlife",
+      "email": "invaznedruhy@sopsr.sk",
+      "form_url": "https://invaznedruhy.sopsr.sk/",
+      "phone": "+421 48 4334 111",
+      "primary": false,
+      "inquiry_language": "sk"
+    }
+  ]
+}

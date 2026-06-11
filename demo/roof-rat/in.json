@@ -1,0 +1,180 @@
+{
+  "jurisdiction": {
+    "id": "in",
+    "level": "country",
+    "name": "India",
+    "parent": null,
+    "country": "IN",
+    "iso": "IN",
+    "language": "en",
+    "inquiry_language": "en",
+    "slug": "india",
+    "local_terms": [
+      "Rattus rattus",
+      "chooha (चूहा)",
+      "kala chooha (काला चूहा)",
+      "roof rat",
+      "black rat",
+      "house rat"
+    ]
+  },
+  "summary": "India is permissive for the roof rat, with one commercial catch. R. rattus is NATIVE to the Indian subcontinent (its evolutionary cradle), so Indian law does NOT treat it as an invasive alien species. The Wild Life (Protection) Amendment Act 2022 ABOLISHED the old Schedule V 'vermin' list (which had included rats), and R. rattus is on none of the protected schedules (I, II, IV) and not CITES-listed — so it carries no wildlife designation, and private keeping + non-commercial hobby breeding are UNREGULATED (only the Prevention of Cruelty to Animals Act 1960 welfare duties apply; the 2024 PARIVESH registration covers only CITES/Schedule-IV exotics, not native rats). Indian law draws NO distinction between the roof rat and the fancy rat — the Pet Shop Rules 2018 cover 'rodents of the rat or mice category' generically. The one real requirement is COMMERCIAL SALE: selling rats as a business (incl. online) needs registration with the State Animal Welfare Board under the PCA (Pet Shop) Rules 2018 (₹5,000, inspection, welfare standards). Internal transport is unregulated (anti-cruelty only); INTERNATIONAL IMPORT is heavily restricted (DGFT restricted-import licence + Sanitary Import Permit + vet certificate; cargo only, 6 airports). ⚠️ Local municipal sanitation bylaws (plague history) could theoretically limit keeping in dense housing.",
+  "last_reviewed": "2026-06-08",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "unregulated_unclear",
+      "confidence": "high",
+      "why": "After the Wild Life (Protection) Amendment Act 2022 abolished Schedule V ('vermin', which had listed rats), R. rattus — a native species — is absent from Schedules I, II, and IV and is not CITES-listed, so it carries no wildlife designation and the WLPA's possession/registration prohibitions (Ch. V/VB) don't apply. The Living Animal Species (Reporting & Registration) Rules 2024 (PARIVESH 2.0) bind only CITES/Schedule-IV species, so a native rat owner is exempt. Possession is therefore governed only by the PCA Act 1960 §11 welfare duty (food/water/shelter, no abandonment). No permit to keep. 'Unregulated_unclear' (not 'legal') because legality is by statutory silence + a residual municipal-bylaw possibility, not an affirmative pet authorization.",
+      "governing_law": "Wild Life (Protection) Act 1972 (am. 2022) — Schedule V abolished, R. rattus not on Sch. I/II/IV; PCA Act 1960 §11; Living Animal Species Rules 2024 (CITES/Sch-IV only).",
+      "source_ids": [
+        "in-wlpa-2022",
+        "in-pca-petshop",
+        "in-las-2024"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "No federal statute requires a permit for private, non-commercial hobby breeding of non-scheduled small mammals. The Breeding of & Experiments on Animals (Control & Supervision) Rules 1998 (CPCSEA) govern only institutional/laboratory breeding and expressly exempt the pet trade; the PCA (Dog Breeding & Marketing) Rules 2017 cover dogs only — no analogous rodent-breeder rule exists. So hobby breeding of R. rattus falls through the gap (unregulated), bounded only by PCA Act §11 welfare. Ambiguity: there is no numerical 'hobby vs commercial' threshold — once offspring are sold for profit, the Pet Shop Rules (see sell_give) apply.",
+      "governing_law": "PCA Act 1960; CPCSEA Breeding/Experiments Rules 1998 (labs only, pet trade exempt); PCA (Dog Breeding) Rules 2017 (dogs only).",
+      "source_ids": [
+        "in-pca-petshop",
+        "in-wlpa-2022"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal_with_permit",
+      "confidence": "medium",
+      "why": "COMMERCIAL sale requires registration. The PCA (Pet Shop) Rules 2018 define 'pet animal' to include 'rodents of the rat or mice category' (Rule 2(j)) — covering R. rattus and R. norvegicus identically — and Rule 3 bars operating a pet shop / trading in pet animals (incl. ONLINE: social media, e-commerce, classifieds) without a Certificate of Registration from the State Animal Welfare Board (Form I, ₹5,000, vet inspection, valid 5 yrs; caging/welfare standards + records). FREE, non-commercial gifting/rehoming is NOT a 'business' and doesn't trigger registration — but charging even a nominal 'rehoming fee' could be construed as commercial by a strict inspector.",
+      "governing_law": "PCA (Pet Shop) Rules 2018, Rules 2(j), 2(k), 3 (State Animal Welfare Board registration); PCA Act 1960.",
+      "source_ids": [
+        "in-pca-petshop"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "restricted",
+      "confidence": "high",
+      "why": "INTERNAL (interstate/within India): unregulated beyond the Transport of Animals Rules 1978 / PCA Act anti-cruelty baseline (no transit permit/NOC, since R. rattus is non-scheduled). INTERNATIONAL IMPORT is heavily restricted: live rodents fall under ITC(HS) 01061900 ('Mammals: Other'), a 'Restricted' category — the DGFT pet-baggage route is for DOGS & CATS ONLY (Trade Notice 22/2022-23), so a pet rat must be imported as formal air cargo with (1) a DGFT restricted-import licence, (2) a Sanitary Import Permit (SIP) from DAHD via NSWS, (3) an official veterinary health certificate (DAHD SOP Annexure 12.1.1 for rodents), and (4) an Advance NOC from AQCS — entry only via 6 designated airports, with possible 30-day quarantine. Never release.",
+      "governing_law": "DGFT Trade Notice 22/2022-23 + ITC(HS) 01061900 (Restricted); DAHD SOPs / Sanitary Import Permit; AQCS quarantine; Transport of Animals Rules 1978 (internal).",
+      "source_ids": [
+        "in-dgft-22",
+        "in-dahd-sop",
+        "in-pca-petshop"
+      ],
+      "verified_date": "2026-06-08",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "registration",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "To SELL roof rats as a business (including online), register as a pet shop with your State Animal Welfare Board under the PCA (Pet Shop) Rules 2018 (Form I, ₹5,000, vet inspection, 5-yr certificate; caging/welfare standards + records). Keeping, hobby breeding, and FREE rehoming need no registration. Internal transport is welfare-only.",
+      "steps": [
+        "For commercial sale: apply to your State Animal Welfare Board (Form I, ₹5,000) + pass the vet inspection",
+        "Free/non-commercial rehoming: nothing required"
+      ],
+      "forms": [],
+      "where_to_file": "State Animal Welfare Board (SAWB)",
+      "fees": "₹5,000 (pet-shop registration)",
+      "source_ids": [
+        "in-pca-petshop"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "INTERNATIONAL IMPORT only: a pet roof rat must enter as air cargo with a DGFT restricted-import licence + a DAHD Sanitary Import Permit + a veterinary health certificate + an AQCS Advance NOC (6 designated airports; possible 30-day quarantine). The dog/cat pet-baggage route does NOT apply to rodents. Internal movement needs no permit. Never release.",
+      "steps": [
+        "Apply for the DGFT restricted-import licence (~2 months ahead)",
+        "Obtain a DAHD Sanitary Import Permit via NSWS",
+        "Get an origin-country veterinary health certificate (rodent SOP)",
+        "Submit to AQCS for an Advance NOC ≥7 days before arrival"
+      ],
+      "forms": [],
+      "where_to_file": "DGFT; DAHD (NSWS); AQCS",
+      "fees": "",
+      "source_ids": [
+        "in-dgft-22",
+        "in-dahd-sop"
+      ]
+    }
+  ],
+  "inquiry_focus": "(AWBI) Under the PCA (Pet Shop) Rules 2018, is there a numerical threshold (e.g. litters/year or sales value) separating a private hobbyist who occasionally rehomes captive-bred 'rodents of the rat or mice category' (Rattus rattus) from a commercial breeder/pet shop that must register with the State Animal Welfare Board? Does charging a nominal cost-covering rehoming fee trigger registration? (MoEFCC) Given the WLPA Amendment 2022 abolished Schedule V, does keeping or non-commercial captive breeding of native, non-scheduled R. rattus require any registration/permit from the Chief Wildlife Warden or via PARIVESH 2.0?",
+  "sources": [
+    {
+      "id": "in-wlpa-2022",
+      "title": "Wild Life (Protection) Amendment Act 2022 — abolishes Schedule V ('vermin'); 4-schedule system; R. rattus on none of Sch. I/II/IV",
+      "url": "https://prsindia.org/files/bills_acts/acts_parliament/2022/The%20Wild%20Life%20(Protection)%20Amendment%20Act,%202022.pdf",
+      "authority": "Parliament of India (via PRS)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "in-pca-petshop",
+      "title": "PCA (Pet Shop) Rules 2018 — 'rodents of the rat or mice category' = pet animal; State Board registration for sale/trade",
+      "url": "https://awbi.gov.in/uploads/regulations/163310021561Pet%20Shop%20Rules%202018%20-%2027%206%202019%20English.pdf",
+      "authority": "Animal Welfare Board of India",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "in-las-2024",
+      "title": "Living Animal Species (Reporting & Registration) Rules 2024 — PARIVESH 2.0; applies only to CITES/Schedule-IV species (not native rats)",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2047102",
+      "authority": "MoEFCC (via PIB)",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "in-dgft-22",
+      "title": "DGFT Trade Notice 22/2022-23 — import of pets (baggage route = dogs & cats only; rodents = cargo, ITC(HS) 01061900 Restricted)",
+      "url": "https://content.dgft.gov.in/Website/dgftprod/b51d449c-2c78-4420-8d25-a7287d3355f2/Trade%20Notice%20No%2022%20dt%2019%20Dec%202022%20-%20Import%20of%20Pets.pdf",
+      "authority": "Directorate General of Foreign Trade",
+      "accessed": "2026-06-08"
+    },
+    {
+      "id": "in-dahd-sop",
+      "title": "DAHD SOPs for Import of Live Animals (Sanitary Import Permit; Annexure 12.1.1 rodent veterinary health certificate)",
+      "url": "https://dahd.gov.in/sites/default/files/2023-07/OMdated31March2021onSOPsforImportofLiveAnimalsintoIndia.pdf",
+      "authority": "Department of Animal Husbandry & Dairying",
+      "accessed": "2026-06-08"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Animal Welfare Board of India (AWBI) — PCA Act & Pet Shop Rules 2018",
+      "role": "agriculture",
+      "email": "support@awbi.gov.in",
+      "form_url": "https://awbi.gov.in/view/index/contact-us",
+      "phone": "+91 129 2555700",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "MoEFCC — Wildlife Division (Wild Life Protection Act)",
+      "role": "wildlife",
+      "email": "secy-moef@nic.in",
+      "form_url": "https://moef.gov.in/",
+      "phone": "+91 11 20819265",
+      "primary": false,
+      "inquiry_language": "en"
+    }
+  ]
+}
