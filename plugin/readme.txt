@@ -14,6 +14,8 @@ Map a pet species' legal status across jurisdictions worldwide and publish it �
 
 **Pet Freedom** helps you research, verify, and publish the legal status of an animal — whether it can be **kept, bred, sold, and transported** — across countries, states, and territories, as a structured, SEO-ready WordPress resource. It is *species-agnostic* (you set the species in one config file) and *privacy-preserving* (your credentials and private notes never leave your machine; published pages render only public-safe fields).
 
+**See it before you install anything:** a one-click [live demo runs in your browser](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json) (via WordPress Playground), preloaded with a worldwide example resource — no account, no server.
+
 This plugin — **Pet Freedom Companion** — is the small WordPress half of the project. It adds:
 
 * A friendly **Get Started** admin page that explains what Pet Freedom is, what else you need, and shows whether everything is wired up correctly.
@@ -55,6 +57,10 @@ A gift from the roof-rat community at https://blonderoofrat.com — built to map
 You do not strictly need this plugin to use the skill — it can also publish through core WP REST plus a bundled SEO fallback. Install this companion when you want the friendly admin page, a uniform meta endpoint, and one-command REST upgrades.
 
 == Frequently Asked Questions ==
+
+= Can I see it in action before installing? =
+
+Yes — a [live demo runs entirely in your browser](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json) via WordPress Playground, preloaded with a worldwide example resource. No account, no server, nothing to install.
 
 = What does this plugin actually do on its own? =
 

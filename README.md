@@ -14,6 +14,10 @@ private notes never leave your machine; published pages render only public‑saf
 > law for our own unusual companion animal; it generalizes to any species, so we're sharing it for everyone who
 > loves an animal the law hasn't caught up with yet.
 
+## ▶ Try it live (no install)
+Boot a real WordPress in your browser, preloaded with the worldwide roof‑rat resource, and click through it as
+a visitor would — **[open the live demo](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json)** (runs on [WordPress Playground](https://wordpress.github.io/wordpress-playground/); takes a few seconds to build). It's the exact output this skill publishes. More, and how to make one for your own species: [`demo/playground/`](demo/playground/).
+
 ## What you need
 - **Claude Code**
 - A **WordPress** site (a user with publish rights + an Application Password); **Rank Math** or **Yoast** for SEO

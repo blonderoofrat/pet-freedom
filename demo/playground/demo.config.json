@@ -1,0 +1,43 @@
+{
+  "_README": "Example of a REAL, filled-in config.json (no secrets — credentials live only in .env). This is the roof-rat configuration used to generate the 'try it live' WordPress Playground demo. Copy config.example.json to config.json for your own species; this file shows what a finished one looks like.",
+
+  "project": {
+    "name": "Roof Rat Laws",
+    "hub_slug": "roof-rat-laws",
+    "hub_title": "Are Roof Rats Legal? Laws by Country & State"
+  },
+
+  "species": {
+    "latin": "Rattus rattus",
+    "common": ["roof rat", "black rat", "ship rat"],
+    "counterpart": {
+      "latin": "Rattus norvegicus",
+      "common": ["fancy rat", "Norway rat"],
+      "note": "the common pet rat; many 'domestic rat' exemptions name only it"
+    }
+  },
+
+  "activities": ["keep", "breed", "sell_give", "transport"],
+
+  "site": {
+    "url": "https://blonderoofrat.com",
+    "cta_links": {
+      "care": "/care-and-husbandry/",
+      "extra": "/roof-rat-adventures/",
+      "contact": "/contact/"
+    }
+  },
+
+  "seo": { "plugin": "rank_math" },
+
+  "plugin": { "use": true, "namespace": "petfreedom/v1", "option_prefix": "pf_" },
+
+  "research": { "gemini_available": true, "default_engine": "auto" },
+
+  "inquiries": { "enabled": false, "highly_recommended": true, "confirm_each": true },
+
+  "attribution": {
+    "footer_optin": true,
+    "footer_html": "This page is part of <a href=\"https://blonderoofrat.com/roof-rat-laws/\">Roof Rat Laws</a>, a free resource built with <a href=\"https://github.com/blonderoofrat/pet-freedom\" rel=\"nofollow\">Pet Freedom</a> — a gift from the roof-rat community."
+  }
+}

@@ -53,6 +53,8 @@ define( 'PETFREEDOM_OPT_PREFIX', 'pf_' );
  * -------------------------------------------------------------------- */
 define( 'PETFREEDOM_GITHUB', 'https://github.com/blonderoofrat/pet-freedom' );
 define( 'PETFREEDOM_HOME',   'https://blonderoofrat.com' );
+/* One-click "try it live in your browser" — a WordPress Playground demo preloaded with the resource. */
+define( 'PETFREEDOM_DEMO',   'https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json' );
 
 /* Self-update guards. 256 KB is plenty for any source/asset this skill ships. */
 const PETFREEDOM_MAX_BYTES = 262144; // 256 * 1024
@@ -260,6 +262,7 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 		$home          = esc_url( PETFREEDOM_HOME );
 		$claude        = esc_url( 'https://claude.com/claude-code' );
 		$docs          = esc_url( trailingslashit( PETFREEDOM_GITHUB ) . 'blob/main/README.md' );
+		$demo          = esc_url( PETFREEDOM_DEMO );
 		?>
 		<div class="wrap">
 			<h1><span class="dashicons dashicons-pets" style="font-size:1.2em;vertical-align:-4px;"></span> Pet Freedom</h1>
@@ -271,6 +274,11 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 				publishes the result as a structured, SEO-ready WordPress resource. It is species-agnostic
 				(you set the species in one config file) and privacy-preserving (your credentials and private
 				notes never leave your machine; published pages render only public-safe fields).
+			</p>
+
+			<p style="max-width:760px;">
+				<a class="button button-primary button-hero" href="<?php echo $demo; ?>" target="_blank" rel="noopener">&#9654;&nbsp; See it live in your browser — no install</a>
+				<span class="description" style="display:block;margin-top:6px;">Boots a real WordPress in your browser (via WordPress Playground), preloaded with the worldwide roof-rat law resource as a working example. Takes a few seconds to build.</span>
 			</p>
 
 			<div class="notice notice-info inline" style="max-width:760px;padding:12px 16px;margin:18px 0;">
@@ -347,6 +355,7 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 			<h2>Links</h2>
 			<p>
 				<a class="button button-primary" href="<?php echo $github; ?>" target="_blank" rel="noopener">Pet Freedom on GitHub</a>
+				<a class="button" href="<?php echo $demo; ?>" target="_blank" rel="noopener">&#9654; Try the live demo</a>
 				<a class="button" href="<?php echo $home; ?>" target="_blank" rel="noopener">Project home (blonderoofrat.com)</a>
 			</p>
 

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "Roof Rat Laws — a Pet Freedom live demo (full dataset)",
+    "description": "Is it legal to keep a roof rat? A worldwide, source-cited demo built with the free Pet Freedom skill for Claude Code.",
+    "author": "blonderoofrat",
+    "categories": [
+      "Demo"
+    ]
+  },
+  "landingPage": "/roof-rat-laws/",
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "login": true,
+  "steps": [
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "Roof Rat Laws — a Pet Freedom live demo (full dataset)",
+        "blogdescription": "Is it legal to keep a roof rat? A worldwide, source-cited demo built with the free Pet Freedom skill for Claude Code.",
+        "permalink_structure": "/%postname%/"
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/pet-freedom-full.xml"
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once '/wordpress/wp-load.php'; flush_rewrite_rules(true);"
+    }
+  ]
+}

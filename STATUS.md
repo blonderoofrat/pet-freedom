@@ -1,8 +1,9 @@
 # Pet Freedom — build status
 
-**v1 scaffold: COMPLETE and verified.** Core pipeline works end‑to‑end (offline‑verified); optional modules built;
-one module (Answer Garden) designed for Phase 2. Develops inside the private project for now; ready to extract to its
-own public GitHub repo.
+**v1: COMPLETE, verified, and PUBLISHED** at <https://github.com/blonderoofrat/pet-freedom> (public, MIT/CC‑BY).
+Core pipeline works end‑to‑end (offline‑verified); optional modules built; a one‑click in‑browser demo ships;
+one module (Answer Garden) designed for Phase 2. The canonical source stays in the private project's `pet-freedom/`
+and is synced to the public release folder for pushing via GitHub Desktop.
 
 ## What's built & verified ✅
 | Area | Files | Status |
@@ -13,6 +14,7 @@ own public GitHub repo.
 | Engine/audit | `skill/engine.py` (pluggable engine recommender), `skill/audit.py` (certainty audit → suggests inquiries) | compile‑clean; tested |
 | Privacy export | `skill/export_seed.py` | run on real data → produced the demo dataset; structural + name backstop |
 | Reference data | `demo/roof-rat/` (107 scrubbed jurisdiction JSONs + README) | **validated: 0 private leaks; 13 agency_confirmations, 48 advocacy kits, 78 official contacts preserved** |
+| Live demo | `skill/playground.py` → `demo/playground/` (`blueprint.json` + WXR, curated 26‑page + full 110‑page; `demo.config.json`) | **offline‑generated; XML well‑formed; 0 sentinel/private leaks; root‑relative nav; real funnel links** — one‑click WordPress Playground "try it live" |
 | SEO no‑plugin path | `mu-plugin/register-seo-meta.php` | php‑lint clean |
 | Companion plugin (optional) | `plugin/pet-freedom-companion.php` (+README) | php‑lint clean; deploy‑compatible |
 | Inquiries (optional, off by default) | `skill/inquiries.py`, `skill/mail.py` | compile‑clean; tested; 17 languages; per‑query confirm; never‑invent‑email |
@@ -25,12 +27,12 @@ gitignored; the page renderer never emits `contacts`/`research_log`/`notes`.
 - **Answer Garden** (`modules/answer-garden/README.md`) — spreading‑activation crowdsourcing for city/county leaf nodes.
 
 ## To finish & publish (the human steps)
-1. **Live dry run** on a scratch WordPress: `cp config.example.json config.json` (defaults to roof rat), fill `.env`,
-   `cp demo/roof-rat/*.json data/jurisdictions/`, then `python skill/build.py` (start with `seo.plugin:"none"` +
-   the mu‑plugin so no companion plugin is needed). Purge cache; eyeball a few pages.
-2. **Create the public GitHub repo** and push the `pet-freedom/` folder (it's self‑contained and secret‑free).
-   `git subtree split`/`git filter-repo` or just copy the folder into a fresh repo.
-3. Announce it / link it from blonderoofrat.com (the funnel).
+1. ~~Create the public GitHub repo~~ **DONE** — published at github.com/blonderoofrat/pet-freedom.
+2. **Push pending updates** via GitHub Desktop (the release folder is synced): the clean MIT `LICENSE` (badge
+   fix) and the new `demo/playground/` (live demo). One commit + push.
+3. *(Optional)* **Live dry run** on a scratch WordPress, or just open the in‑browser demo (no setup).
+4. *(Optional)* Submit the companion plugin to the WordPress.org directory (see `plugin/WORDPRESS-ORG.md`).
+5. Announce / link it from blonderoofrat.com (the funnel).
 
 ## Notes
 - The full methodology + decisions are in the source project's `planning/pet-freedom-skill/` (METHODOLOGY, OPEN‑QUESTIONS,
