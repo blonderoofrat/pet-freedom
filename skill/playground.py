@@ -177,7 +177,23 @@ def build_pages(build, juris, by_id, date):
 
 
 # ---------------------------------------------------------------- blueprint emit
+# Readability CSS for the demo — applied via the active theme's Custom CSS (printed in wp_head by core), so
+# pages read well in Playground's default theme regardless of its block spacing. Keep it free of quotes/$.
+DEMO_CSS = (
+    ".entry-content,.wp-block-post-content{line-height:1.65;font-size:1.04rem;}"
+    ".entry-content p,.wp-block-post-content p{margin:0 0 1.1em;}"
+    ".entry-content h2,.wp-block-post-content h2{margin-top:1.9em;margin-bottom:.5em;line-height:1.25;}"
+    ".entry-content h3,.wp-block-post-content h3{margin-top:1.2em;}"
+    ".entry-content li,.wp-block-post-content li{margin:.4em 0;line-height:1.55;}"
+    ".entry-content ul,.wp-block-post-content ul{margin-bottom:1.1em;}"
+    "details summary{padding:.25em 0;}pre{line-height:1.5;}"
+)
+
+
 def blueprint(wxr_url, hub_path, blogname, tagline):
+    setup_php = ("<?php require_once '/wordpress/wp-load.php'; "
+                 "if (function_exists('wp_update_custom_css_post')) { wp_update_custom_css_post('%s'); } "
+                 "flush_rewrite_rules(true);" % DEMO_CSS)
     return {
         "$schema": "https://playground.wordpress.net/blueprint-schema.json",
         "meta": {
@@ -196,8 +212,7 @@ def blueprint(wxr_url, hub_path, blogname, tagline):
                 "permalink_structure": "/%postname%/",
             }},
             {"step": "importWxr", "file": {"resource": "url", "url": wxr_url}},
-            {"step": "runPHP",
-             "code": "<?php require_once '/wordpress/wp-load.php'; flush_rewrite_rules(true);"},
+            {"step": "runPHP", "code": setup_php},
         ],
     }
 

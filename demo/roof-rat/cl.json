@@ -16,7 +16,7 @@
     ]
   },
   "summary": "Chile has no blanket ban on keeping captive-bred rats as pets, and in practice a roof rat is treated like the openly-sold fancy rat (R. norvegicus). Both are established commensal exotics classified as invasive (MMA's 2017 naturalized/invasive catalogue) and cited as 'especie dañina' in the agricultural-pest context, but NO SAG decree under the Ley de Caza (Ley 19.473) formally lists either Rattus species or bans keeping them. The Ley de Caza's wildlife-keeper registry (RNTFS) and criadero licensing are built for genuinely wild/protected exotic fauna (parrots, reptiles), not ubiquitous commensal rodents — so captive-bred pet rats sit in a practical gray zone (neither licensed nor expressly prohibited), and fancy rats are sold across Chilean platforms with no reported enforcement. For R. rattus there's an extra layer: its pest/invasive designation creates theoretical friction with private breeding, though no statute prohibits captive-bred specimens. IMPORT of any live exotic rodent needs a case-by-case SAG Art. 25 internment permit (which SAG could refuse on ecological grounds given the invasive status); internal transport of lawfully-held animals is unregulated. Not CITES-listed. ⚠️ Watch: the MMA is building a formal official invasive-species list under Ley 21.600 (2023) that, if it attaches possession provisions, could flip this to prohibited (Spain-style).",
-  "last_reviewed": "2026-06-08",
+  "last_reviewed": "2026-06-11",
   "advocacy": {
     "flag": true,
     "kit": {
@@ -56,9 +56,9 @@
         "cl-reglamento",
         "cl-mma-catalogo"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "unregulated_unclear",
@@ -69,9 +69,9 @@
         "cl-ley-caza",
         "cl-ley-21020"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "unregulated_unclear",
@@ -82,9 +82,9 @@
         "cl-ley-caza",
         "cl-ley-21020"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal_with_permit",
@@ -95,9 +95,9 @@
         "cl-sag-import",
         "cl-ley-caza"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -162,6 +162,20 @@
       "url": "https://www.sag.gob.cl/ambitos-de-accion/internacion-de-fauna-exotica",
       "authority": "SAG",
       "accessed": "2026-06-08"
+    },
+    {
+      "id": "cl-sag-rntfs",
+      "title": "SAG - Registro Nacional de Tenedores de Fauna Silvestre (RNTFS), procedimientos",
+      "url": "https://www.sag.gob.cl/ambitos-de-accion/registro-nacional-de-tenedores-de-fauna-silvestre-rntfs/procedimientos",
+      "authority": "SAG (Chile)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "cl-sag-exoticas",
+      "title": "SAG - Ingreso de otros animales/mascotas no tradicionales (PROPEC)",
+      "url": "https://www.sag.gob.cl/ambitos-de-accion/ingreso-de-otros-animales-mascotas-o-de-compania-no-tradicionales",
+      "authority": "SAG (Chile)",
+      "accessed": "2026-06-11"
     }
   ],
   "contacts": [
@@ -186,7 +200,7 @@
     {
       "agency": "Ministerio del Medio Ambiente (MMA) — Conservación de Especies",
       "role": "environment",
-      "email": "",
+      "email": "clasificacionespecie@mma.gob.cl",
       "form_url": "https://especies-exoticas.mma.gob.cl/",
       "phone": "",
       "primary": false,

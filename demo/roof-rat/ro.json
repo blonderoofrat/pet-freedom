@@ -16,7 +16,7 @@
     ]
   },
   "summary": "Romania has no statute that names the roof rat, and in practice it's treated like the fancy rat (R. norvegicus), which is openly kept and sold as a companion animal with no special permit. R. rattus is NOT on the OUG 57/2007 protected-species annexes (4A/4B), NOT on the EU invasive-species Union list (Reg. 1143/2014), and NOT on Romania's ~20-species national IAS list (2023) — so none of those bar it. The one genuine ambiguity is classification: Legea 205/2004 (Art. 9) requires county DSVSA authorization to keep a 'wild animal,' but companion/domestic animals need only standard welfare compliance. Authorities implicitly treat captive-bred rats as companion animals (sold freely on OLX/Hobby-Zoo under 'rozătoare'), so most likely no permit is needed; only if an authority deemed a captive R. rattus a 'wild animal' would a DSVSA authorization apply. A one-question check to ANSVSA/the Ministry of Environment settles it.",
-  "last_reviewed": "2026-06-07",
+  "last_reviewed": "2026-06-11",
   "advocacy": {
     "flag": true,
     "kit": {
@@ -64,9 +64,9 @@
         "ro-oug-57-2007",
         "ro-politia"
       ],
-      "verified_date": "2026-06-07",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "unregulated_unclear",
@@ -77,9 +77,9 @@
         "ro-205-2004",
         "ro-ansvsa-reg"
       ],
-      "verified_date": "2026-06-07",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "unregulated_unclear",
@@ -90,9 +90,9 @@
         "ro-205-2004",
         "ro-ansvsa-reg"
       ],
-      "verified_date": "2026-06-07",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal_with_permit",
@@ -104,9 +104,9 @@
         "ro-ansvsa-transport",
         "ro-eu-1143"
       ],
-      "verified_date": "2026-06-07",
+      "verified_date": "2026-06-11",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -180,6 +180,13 @@
       "url": "https://eur-lex.europa.eu/eli/reg/2014/1143/oj/eng",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-07"
+    },
+    {
+      "id": "ro-pnaacip",
+      "title": "PNAACIP (MMAP/CCMESI) - national invasive-species action plan; names Rattus rattus as a high-risk invasive (active listing risk)",
+      "url": "https://invazive.ccmesi.ro/wp-content/uploads/2020/10/6.Livrabil-3.1.2.-Raport-Transporturi.pdf",
+      "authority": "Ministerul Mediului / CCMESI",
+      "accessed": "2026-06-11"
     }
   ],
   "contacts": [

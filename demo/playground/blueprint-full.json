@@ -32,7 +32,7 @@
     },
     {
       "step": "runPHP",
-      "code": "<?php require_once '/wordpress/wp-load.php'; flush_rewrite_rules(true);"
+      "code": "<?php require_once '/wordpress/wp-load.php'; if (function_exists('wp_update_custom_css_post')) { wp_update_custom_css_post('.entry-content,.wp-block-post-content{line-height:1.65;font-size:1.04rem;}.entry-content p,.wp-block-post-content p{margin:0 0 1.1em;}.entry-content h2,.wp-block-post-content h2{margin-top:1.9em;margin-bottom:.5em;line-height:1.25;}.entry-content h3,.wp-block-post-content h3{margin-top:1.2em;}.entry-content li,.wp-block-post-content li{margin:.4em 0;line-height:1.55;}.entry-content ul,.wp-block-post-content ul{margin-bottom:1.1em;}details summary{padding:.25em 0;}pre{line-height:1.5;}'); } flush_rewrite_rules(true);"
     }
   ]
 }

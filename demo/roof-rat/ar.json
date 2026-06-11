@@ -29,9 +29,9 @@
         {
           "name": "Dirección Nacional de Biodiversidad (Subsecretaría de Ambiente, Ministerio de Ambiente y Desarrollo Sostenible)",
           "type": "agency",
-          "why": "The national environmental Application Authority that maintains the EEI list (Res. 109/2021), enforces the Art. 5 prohibitions, runs the fauna-operator registry (RPUOFS, Res. 170/2021), and holds the pre-import authorization power over wildlife. It is the only office that can issue a written clarification on tenencia and grant or interpret an Art. 6 exception extending captive-bred R. rattus the de-facto domestic treatment already given to R. norvegicus. rpuofs@ambiente.gob.ar is the directorate's wildlife-operator inbox; mesadeentradas@ambiente.gob.ar is the general entry desk.",
+          "why": "The national environmental Application Authority that maintains the EEI list (Res. 109/2021), enforces the Art. 5 prohibitions, runs the fauna-operator registry (RPUOFS, Res. 170/2021), and holds the pre-import authorization power over wildlife. It is the only office that can issue a written clarification on tenencia and grant or interpret an Art. 6 exception extending captive-bred R. rattus the de-facto domestic treatment already given to R. norvegicus. rpuofs@ambiente.gob.ar is the directorate's wildlife-operator inbox; mesadeentradas@ambiente.gob.ar is the general entry desk. [Updated 2026-06-11: contact via rpuofs@jefatura.gob.ar after the directorate's 2026-04-01 migration from @ambiente.gob.ar; mesadeentradas@ambiente.gob.ar is dead (hard-bounce).]",
           "form_url": "https://tramitesadistancia.gob.ar/tramitesadistancia/detalle-tipo?id=5525",
-          "email": "rpuofs@ambiente.gob.ar"
+          "email": "rpuofs@jefatura.gob.ar"
         },
         {
           "name": "SENASA — Dirección de Comercio Exterior Animal (Mascotas No Tradicionales)",
@@ -209,7 +209,7 @@
     {
       "agency": "Dirección Nacional de Biodiversidad (Subsecretaría de Ambiente, Ministerio de Ambiente y Desarrollo Sostenible)",
       "role": "wildlife",
-      "email": "rpuofs@ambiente.gob.ar",
+      "email": "rpuofs@jefatura.gob.ar",
       "form_url": "https://tramitesadistancia.gob.ar/tramitesadistancia/detalle-tipo?id=5525",
       "phone": "+54 11 4318-7400",
       "primary": true,

@@ -39,6 +39,25 @@ PRELIM_VERIFIED_BY = {"web-research", "claude-websearch"}
 
 ARTICLE = {"United States", "United Kingdom", "Netherlands", "District of Columbia"}  # take "the" in prose
 
+# Geographic regions for the hub browse. Species-agnostic (it's just geography); keyed by ISO-3166 alpha-2.
+# Anything unmapped falls into "Other regions" so nothing is ever dropped. Order = display order.
+_REGION_ORDER = ["north-america", "latin-america", "europe", "mena", "africa", "asia", "oceania", "other"]
+_REGION_NAME = {"north-america": "North America", "latin-america": "Latin America &amp; Caribbean",
+                "europe": "Europe", "mena": "Middle East &amp; North Africa", "africa": "Africa",
+                "asia": "Asia", "oceania": "Oceania", "other": "Other regions"}
+_ISO_REGION = {}
+for _codes, _reg in [
+    ("US CA MX", "north-america"),
+    ("AR BR CL CO PE UY EC BO PY VE CR PA DO GT CU NI HN SV", "latin-america"),
+    ("AT BE CH CZ DE DK ES FI FR GB GR HU IE IT NL NO PL PT RO RU SE SK IS LU HR SI EE LV LT BG RS UA CY MT AL MD GE", "europe"),
+    ("AE IL TR SA QA KW BH OM JO LB EG MA TN DZ IR IQ YE", "mena"),
+    ("ZA NG KE GH ET TZ UG SN CI CM ZW ZM RW BW NA MU", "africa"),
+    ("HK ID IN JP KR MY PH SG TH TW VN CN PK BD LK NP KH LA MM MN KZ", "asia"),
+    ("AU NZ FJ PG", "oceania"),
+]:
+    for _c in _codes.split():
+        _ISO_REGION[_c] = _reg
+
 _PATHS = {}
 
 
@@ -315,7 +334,7 @@ def advocacy_block(d):
         P.append('<p style="margin:.6em 0 0;font-size:.92em;">Did you take action, or get a response? '
                  '<a href="%s">Tell us</a> &mdash; it helps the next person, and we track what actually works.</p>' % contact)
     return ('<div style="background:#eef7ee;border:1px solid #bcdcbc;border-left:5px solid #2e7d32;border-radius:10px;'
-            'padding:16px 18px;margin:1.5em 0;font-family:system-ui,-apple-system,sans-serif;">'
+            'padding:16px 18px;margin:1.5em 0;font-family:system-ui,-apple-system,sans-serif;line-height:1.55;">'
             '<strong style="color:#1b5e20;font-size:1.12em;">How to help in %s</strong>'
             % name + "".join(P) + "</div>")
 
@@ -383,24 +402,125 @@ def jurisdiction_blocks(d, by_id):
 
 
 # ---------- static pages ----------
+def _region_of(d):
+    return _ISO_REGION.get((d["jurisdiction"].get("iso") or "").upper(), "other")
+
+
+def _child_label(kids):
+    """Human label for a country's sub-jurisdictions, from their levels ('states & territories', 'provinces')."""
+    levels = {k["jurisdiction"].get("level", "region") for k in kids}
+    names = {"state": "states", "province": "provinces", "territory": "territories",
+             "region": "regions", "county": "counties", "city": "cities"}
+    parts = [names.get(l, l + "s") for l in ("state", "province", "territory", "region", "county", "city")
+             if l in levels]
+    return " &amp; ".join(parts) if parts else "areas"
+
+
+# Hub accordion CSS (GOV.UK-style collapsible sections) + link affordance (NN/g: links colored AND underlined).
+HUB_CSS = (
+    '<style>'
+    '.pf-hub details.pf-reg{border:1px solid #e3e6ea;border-radius:10px;background:#fafbfc;margin:.55em 0;}'
+    '.pf-hub details.pf-reg>summary,.pf-hub details.pf-st>summary{list-style:none;cursor:pointer;}'
+    '.pf-hub details.pf-reg>summary::-webkit-details-marker,.pf-hub details.pf-st>summary::-webkit-details-marker{display:none;}'
+    '.pf-hub details.pf-reg>summary{display:flex;align-items:center;justify-content:space-between;gap:12px;'
+    'padding:.7em 1em;font-weight:700;font-size:1.05em;color:#22303f;border-radius:10px;}'
+    '.pf-hub details.pf-reg>summary:hover,.pf-hub details.pf-reg>summary:focus{background:#eef2f7;}'
+    '.pf-hub .pf-cnt{color:#8a96a3;font-weight:500;font-size:.82em;}'
+    '.pf-hub .pf-tog{display:inline-flex;align-items:center;gap:.4em;font-size:.8em;font-weight:600;color:#1565c0;white-space:nowrap;}'
+    '.pf-hub .pf-caret{display:inline-block;transition:transform .15s ease;}'
+    '.pf-hub details[open]>summary .pf-caret{transform:rotate(90deg);}'
+    '.pf-hub details[open]>summary .pf-show{display:none;}'
+    '.pf-hub details:not([open])>summary .pf-hide{display:none;}'
+    '.pf-hub .pf-body{padding:.1em 1em .9em;}'
+    '.pf-hub .pf-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:.5em 0;}'
+    '.pf-hub a.pf-c{color:#1357b0;text-decoration:underline;font-weight:600;}'
+    '.pf-hub a.pf-c:hover,.pf-hub a.pf-c:focus{color:#0c3e85;}'
+    '.pf-hub details.pf-st{margin:.15em 0 .5em 1.1em;}'
+    '.pf-hub details.pf-st>summary{color:#1565c0;font-size:.9em;font-weight:600;padding:.2em 0;}'
+    '.pf-hub .pf-sub{margin:.5em 0 .3em;padding:.1em 0 .1em .9em;border-left:2px solid #e3e6ea;}'
+    '.pf-hub .pf-jump{margin:.2em 0 1em;line-height:2.1;}'
+    '.pf-hub .pf-chip{display:inline-block;background:#eef2ff;color:#26368c;border:1px solid #c5cae9;'
+    'border-radius:14px;padding:4px 12px;margin:0 6px 0 0;font-size:.9em;text-decoration:none;font-weight:600;white-space:nowrap;}'
+    '.pf-hub .pf-chip:hover,.pf-hub .pf-chip:focus{background:#e1e7ff;}'
+    '.pf-hub .pf-allbtn{background:none;border:0;color:#1565c0;font-weight:600;cursor:pointer;'
+    'text-decoration:underline;font-size:.88em;padding:0;margin-left:2px;}'
+    '</style>'
+)
+
+# Opens a jump-chip's target region (regions are collapsed by default), toggles Expand/Collapse-all, and
+# opens a region if the page is loaded with its #anchor. Progressive enhancement; the page works without JS.
+HUB_JS = (
+    '<script>(function(){'
+    'function reg(id){var e=document.getElementById(id);'
+    'if(e&&e.tagName.toLowerCase()==="details"){e.open=true;try{e.scrollIntoView({behavior:"smooth",block:"start"});}catch(_){}}}'
+    'document.addEventListener("click",function(ev){'
+    'var c=ev.target.closest?ev.target.closest("a.pf-chip"):null;'
+    'if(c){ev.preventDefault();var id=c.getAttribute("href").slice(1);'
+    'if(history.replaceState){history.replaceState(null,"","#"+id);}reg(id);return;}'
+    'var b=ev.target.closest?ev.target.closest(".pf-allbtn"):null;'
+    'if(b){ev.preventDefault();var op=b.getAttribute("data-op")!=="close";'
+    'var ds=document.querySelectorAll(".pf-hub details.pf-reg");'
+    'for(var i=0;i<ds.length;i++){ds[i].open=op;}'
+    'b.setAttribute("data-op",op?"close":"open");b.textContent=op?"Collapse all":"Expand all";}'
+    '});'
+    'function fromHash(){if(location.hash.indexOf("#pf-reg-")===0){reg(location.hash.slice(1));}}'
+    'window.addEventListener("hashchange",fromHash);fromHash();'
+    '})();</script>'
+)
+
+
+def _country_row(c, juris, by_id):
+    """One country: an underlined link + keep-status badge; sub-jurisdictions in their own collapsed expander."""
+    nm = c["jurisdiction"]["name"]
+    link = ('<a class="pf-c" href="%s%s" title="%s laws in %s%s">%s</a>'
+            % (cfg.site_url, path_for(c["jurisdiction"]["id"], by_id), _species_common().capitalize(),
+               _art(nm), nm, nm))
+    row = ('<div class="pf-row">%s %s</div>'
+           % (link, badge((c["activities"].get("keep") or {}).get("status", "unknown"))))
+    kids = sorted([d for d in juris if d["jurisdiction"].get("parent") == c["jurisdiction"]["id"]],
+                  key=lambda d: d["jurisdiction"]["name"])
+    if kids:
+        sub = "".join(
+            '<div class="pf-row"><a class="pf-c" href="%s%s" title="%s laws in %s">%s</a> %s</div>'
+            % (cfg.site_url, path_for(k["jurisdiction"]["id"], by_id), _species_common().capitalize(),
+               k["jurisdiction"]["name"], k["jurisdiction"]["name"],
+               badge((k["activities"].get("keep") or {}).get("status", "unknown"))) for k in kids)
+        row += ('<details class="pf-st"><summary title="Click to show or hide">'
+                '<span class="pf-tog"><span class="pf-show">Show</span><span class="pf-hide">Hide</span> '
+                '%d %s <span class="pf-caret" aria-hidden="true">&#9656;</span></span>'
+                '</summary><div class="pf-sub">%s</div></details>' % (len(kids), _child_label(kids), sub))
+    return row
+
+
 def hub_browse(juris, by_id):
+    """Hub country index as a GOV.UK-style accordion: regions are COLLAPSED by default, each with a Show/Hide
+    label + rotating caret and a tooltip; a jump-chip nav opens its target region; an Expand/Collapse-all
+    control; countries are colored, underlined links with hover/title (NN/g). Replaces the old flat A–Z block."""
     countries = [d for d in juris if d["jurisdiction"].get("level") == "country"]
-    countries.sort(key=lambda d: d["jurisdiction"]["name"])
-    out = []
+    by_region = {}
     for c in countries:
-        cid = c["jurisdiction"]["id"]
-        out.append('<li style="margin:.3em 0;"><a href="%s%s">%s</a> %s'
-                   % (cfg.site_url, path_for(cid, by_id), c["jurisdiction"]["name"],
-                      badge((c["activities"].get("keep") or {}).get("status", "unknown"))))
-        kids = sorted([d for d in juris if d["jurisdiction"].get("parent") == cid],
-                      key=lambda d: d["jurisdiction"]["name"])
-        if kids:
-            sub = "".join('<li style="margin:.25em 0;"><a href="%s%s">%s</a> %s</li>'
-                          % (cfg.site_url, path_for(k["jurisdiction"]["id"], by_id), k["jurisdiction"]["name"],
-                             badge((k["activities"].get("keep") or {}).get("status", "unknown"))) for k in kids)
-            out.append('<ul style="margin:.2em 0 .2em 1.2em;">%s</ul>' % sub)
-        out.append("</li>")
-    return html_block('<ul style="list-style:none;padding-left:0;">%s</ul>' % "".join(out))
+        by_region.setdefault(_region_of(c), []).append(c)
+    present = [r for r in _REGION_ORDER if by_region.get(r)]
+
+    jump = ""
+    if len(present) > 1:
+        chips = "".join('<a class="pf-chip" href="#pf-reg-%s" title="Open %s">%s (%d)</a>'
+                        % (r, _REGION_NAME[r], _REGION_NAME[r], len(by_region[r])) for r in present)
+        jump = ('<div class="pf-jump"><span style="font-size:.85em;color:#555;margin-right:2px;">'
+                'Jump to a region:</span> %s '
+                '<button type="button" class="pf-allbtn" data-op="open">Expand all</button></div>' % chips)
+
+    sections = []
+    for r in present:
+        cs = sorted(by_region[r], key=lambda d: d["jurisdiction"]["name"])
+        rows = "".join(_country_row(c, juris, by_id) for c in cs)
+        sections.append(
+            '<details class="pf-reg" id="pf-reg-%s"><summary title="Click to show or hide this region">'
+            '<span>%s <span class="pf-cnt">&mdash; %d</span></span>'
+            '<span class="pf-tog"><span class="pf-show">Show</span><span class="pf-hide">Hide</span> '
+            '<span class="pf-caret" aria-hidden="true">&#9656;</span></span></summary>'
+            '<div class="pf-body">%s</div></details>' % (r, _REGION_NAME[r], len(cs), rows))
+    return html_block('<div class="pf-hub">%s%s%s%s</div>' % (HUB_CSS, jump, "".join(sections), HUB_JS))
 
 
 def hub_blocks(juris, by_id):
@@ -417,9 +537,9 @@ def hub_blocks(juris, by_id):
               "with links to the official sources so you can read them yourself." % (sc, species_phrase)),
         ("raw", disclaimer_callout()),
         ("h2", "Find your location"),
-        ("p", "Pick your country, then your state or region. Each page breaks down the activities, with a "
-              "confidence level and the official source for every answer. The badge shows whether "
-              "<em>keeping</em> one as a pet is allowed."),
+        ("p", "Open your region to see the countries in it, then pick your country (and your state or "
+              "region). Each page breaks down the activities, with a confidence level and the official "
+              "source for every answer. The badge shows whether <em>keeping</em> one as a pet is allowed."),
         ("raw", hub_browse(juris, by_id)),
     ]
     notseen = ('<strong>Don&rsquo;t see your area yet?</strong> We&rsquo;re adding jurisdictions over '
