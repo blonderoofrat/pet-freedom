@@ -1,6 +1,6 @@
 === Pet Freedom Companion ===
 Contributors: blonderoofrat
-Tags: pet, animal, legal, law, wildlife, exotic pets, rest api, seo
+Tags: pet, animal, legal, wildlife, exotic pets
 Requires at least: 5.8
 Tested up to: 7.0
 Requires PHP: 7.4

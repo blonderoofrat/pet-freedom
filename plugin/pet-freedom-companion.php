@@ -147,13 +147,14 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 		// so if the plugin is active it exists. Build a sample URL so the admin
 		// can confirm with their own credentials.
 		$routes_active = true; // registered unconditionally when active
-		$base          = esc_url( rest_url( PETFREEDOM_NS . '/meta' ) );
-		$github        = esc_url( PETFREEDOM_GITHUB );
-		$home          = esc_url( PETFREEDOM_HOME );
-		$claude        = esc_url( 'https://claude.com/claude-code' );
-		$docs          = esc_url( trailingslashit( PETFREEDOM_GITHUB ) . 'blob/main/README.md' );
-		$demo          = esc_url( PETFREEDOM_DEMO );
-		$live          = esc_url( trailingslashit( PETFREEDOM_HOME ) . 'roof-rat-laws/' );
+		// Raw URLs; each is escaped with esc_url() at its output point below (per Plugin Check / WPCS).
+		$base          = rest_url( PETFREEDOM_NS . '/meta' );
+		$github        = PETFREEDOM_GITHUB;
+		$home          = PETFREEDOM_HOME;
+		$claude        = 'https://claude.com/claude-code';
+		$docs          = trailingslashit( PETFREEDOM_GITHUB ) . 'blob/main/README.md';
+		$demo          = PETFREEDOM_DEMO;
+		$live          = trailingslashit( PETFREEDOM_HOME ) . 'roof-rat-laws/';
 		?>
 		<div class="wrap">
 			<h1><span class="dashicons dashicons-pets" style="font-size:1.2em;vertical-align:-4px;"></span> Pet Freedom</h1>
@@ -168,8 +169,8 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 			</p>
 
 			<p style="max-width:760px;">
-				<a class="button button-primary button-hero" href="<?php echo $demo; ?>" target="_blank" rel="noopener">&#9654;&nbsp; See it live in your browser — no install</a>
-				<span class="description" style="display:block;margin-top:6px;">Boots a real WordPress in your browser (via WordPress Playground), preloaded with the worldwide roof-rat law resource as a working example. Takes a few seconds to build. <strong>Prefer the real thing?</strong> Browse the live, maintained resource this skill produces &mdash; <a href="<?php echo $live; ?>" target="_blank" rel="noopener"><em>Are Roof Rats Legal?</em>, 100+ jurisdictions</a>.</span>
+				<a class="button button-primary button-hero" href="<?php echo esc_url( $demo ); ?>" target="_blank" rel="noopener">&#9654;&nbsp; See it live in your browser — no install</a>
+				<span class="description" style="display:block;margin-top:6px;">Boots a real WordPress in your browser (via WordPress Playground), preloaded with the worldwide roof-rat law resource as a working example. Takes a few seconds to build. <strong>Prefer the real thing?</strong> Browse the live, maintained resource this skill produces &mdash; <a href="<?php echo esc_url( $live ); ?>" target="_blank" rel="noopener"><em>Are Roof Rats Legal?</em>, 100+ jurisdictions</a>.</span>
 			</p>
 
 			<div class="notice notice-info inline" style="max-width:760px;padding:12px 16px;margin:18px 0;">
@@ -179,13 +180,13 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 					<strong>Claude Code</strong> plus the free, open-source <strong>Pet Freedom skill</strong>:
 				</p>
 				<ul style="list-style:disc;margin-left:22px;">
-					<li><a href="<?php echo $claude; ?>" target="_blank" rel="noopener">Claude Code</a> — Anthropic's CLI agent.</li>
+					<li><a href="<?php echo esc_url( $claude ); ?>" target="_blank" rel="noopener">Claude Code</a> — Anthropic's CLI agent.</li>
 					<li>The <strong>Pet Freedom skill</strong> + its config (<code>config.json</code>), distributed on
-						<a href="<?php echo $github; ?>" target="_blank" rel="noopener">GitHub</a>.</li>
+						<a href="<?php echo esc_url( $github ); ?>" target="_blank" rel="noopener">GitHub</a>.</li>
 					<li>A WordPress user with publish rights + an Application Password (you likely already have this).</li>
 				</ul>
 				<p style="margin-bottom:0;">
-					Read the setup docs: <a href="<?php echo $docs; ?>" target="_blank" rel="noopener">Pet Freedom README on GitHub</a>.
+					Read the setup docs: <a href="<?php echo esc_url( $docs ); ?>" target="_blank" rel="noopener">Pet Freedom README on GitHub</a>.
 				</p>
 			</div>
 
@@ -222,7 +223,7 @@ For any step I must do by hand (accounts, installing a plugin, purging cache), g
 					<tr>
 						<td><strong>Confirm the route</strong></td>
 						<td>
-							<code><?php echo $base; ?></code>
+							<code><?php echo esc_url( $base ); ?></code>
 							<p class="description" style="margin:4px 0 0;">
 								Returns <code>401</code> unless you call it authenticated as an admin — that is correct
 								and means the gate is working.
@@ -260,10 +261,10 @@ For any step I must do by hand (accounts, installing a plugin, purging cache), g
 
 			<h2>Links</h2>
 			<p>
-				<a class="button button-primary" href="<?php echo $github; ?>" target="_blank" rel="noopener">Pet Freedom on GitHub</a>
-				<a class="button" href="<?php echo $demo; ?>" target="_blank" rel="noopener">&#9654; Try the live demo</a>
-				<a class="button" href="<?php echo $live; ?>" target="_blank" rel="noopener">Live example: Roof Rat Laws</a>
-				<a class="button" href="<?php echo $home; ?>" target="_blank" rel="noopener">Project home (blonderoofrat.com)</a>
+				<a class="button button-primary" href="<?php echo esc_url( $github ); ?>" target="_blank" rel="noopener">Pet Freedom on GitHub</a>
+				<a class="button" href="<?php echo esc_url( $demo ); ?>" target="_blank" rel="noopener">&#9654; Try the live demo</a>
+				<a class="button" href="<?php echo esc_url( $live ); ?>" target="_blank" rel="noopener">Live example: Roof Rat Laws</a>
+				<a class="button" href="<?php echo esc_url( $home ); ?>" target="_blank" rel="noopener">Project home (blonderoofrat.com)</a>
 			</p>
 
 			<hr style="margin:24px 0;max-width:760px;">
