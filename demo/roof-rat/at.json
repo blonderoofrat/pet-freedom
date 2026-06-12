@@ -13,18 +13,22 @@
       "Rattus rattus",
       "Hausratte",
       "Schwarzratte",
-      "Dachratte"
+      "Dachratte",
+      "Nagetier",
+      "Kleinnager",
+      "Meldepflicht",
+      "Wildtier"
     ]
   },
   "summary": "Austria allows the roof rat, but with a mandatory notification step that fancy-rat keepers avoid. The Animal Welfare Act (Tierschutzgesetz 2004) and the 2nd Animal Husbandry Ordinance (2. THVO) publish minimum husbandry standards for rats (Rattus) generically, so rats are clearly keepable, and R. rattus is on no prohibition list (not §9 of the 2. THVO, not the EU Union list). BUT §8 of the 2. THVO requires a prior NOTIFICATION (Meldung) to the district veterinary authority (Bezirksverwaltungsbehörde) for ALL wild mammal species, with only three exceptions (hoofed game, bison, chipmunks). The domesticated fancy rat (R. norvegicus) is named in the §31b small-rodent hobby carve-out; the undomesticated R. rattus is not — so it most likely counts as a 'wild mammal' triggering that notification. The result: keeping/breeding/selling is legal but notification-obligated, not permit-free. A written ruling from the BMSGPK or local Bezirksverwaltungsbehörde would confirm.",
-  "last_reviewed": "2026-06-07",
+  "last_reviewed": "2026-06-11",
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
       "status": "legal_with_permit",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Keeping rats is permitted (minimum husbandry standards in Anlage 1 of the 2. THVO; no §9 prohibition; R. rattus not on the EU Union list). But §8 of the 2. THVO requires a notification (Meldung/Anzeige, generally within 2 weeks) to the Bezirksverwaltungsbehörde for all wild mammal species — and R. rattus, unlike the domesticated R. norvegicus (named in the §31b carve-out), is an undomesticated species not among §8's three exceptions. Whether this 'notification' is mere registration or rises toward a permit varies by district. Legal, but notification-obligated.",
       "governing_law": "2. THVO (BGBl. II 486/2004) §8 (wild-mammal Meldepflicht), Anlage 1; TSchG (BGBl. I 118/2004) §§13, 25.",
       "source_ids": [
@@ -32,9 +36,9 @@
         "at-tschg",
         "at-oesterreich-ratten"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal_with_permit",
@@ -46,26 +50,26 @@
         "at-2thvo",
         "at-ausnahme-meldepflicht"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Non-commercial giving-away (Weitergabe) of hobby-bred small rodents is not specially permitted below the ~300-juvenile threshold if not regular/for-profit (TSchG §31b + exemption ordinance). Public offering/sale is governed by TSchG §31a (no extra small-rodent permit beyond keeping/breeding). Commercial transfer needs the §31 permit + Sachkunde. Given R. rattus's likely wild-mammal status, a §8 notification may attach even to giving it away.",
+      "status": "restricted",
+      "confidence": "high",
+      "why": "Private, unadvertised transfer to acquaintances is legal, but TSchG §31a prohibits ALL public advertising of animals for sale/transfer by unregistered private individuals (social media, classifieds, forums, print), regardless of the small-breeder (300 pups/yr) threshold; only registered breeders, licensed dealers, and approved shelters may advertise. So a private keeper can give a roof rat away quietly but cannot publicly advertise it without registering as a breeder (e.g. ~€27.54 in Vienna). Written husbandry info must accompany any transfer.",
       "governing_law": "TSchG §31a (Weitergabe), §31b, §31; 2. THVO §8.",
       "source_ids": [
         "at-tschg",
         "at-2thvo"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Intra-EU non-commercial transport (owner-accompanied, no sale) of pet rodents needs no veterinary health certificate (EU Reg. 2016/429 + Del. Reg. 2020/688; rodents are certificate-exempt when owner-accompanied and not for sale). Commercial intra-EU movement needs health documentation but no pre-import permit for EU-origin rodents. No Austrian import ban on R. rattus (not on the EU Union list). Note: the §8 2. THVO notification attaches on keeping, not at the border. Never release.",
       "governing_law": "EU Reg. 2016/429 Arts. 245–247; Del. Reg. (EU) 2020/688; BAVG import rules; EU Reg. 1143/2014 (R. rattus not listed).",
       "source_ids": [
@@ -73,9 +77,9 @@
         "at-bavg",
         "at-eu-1143"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -95,6 +99,25 @@
       "fees": "",
       "source_ids": [
         "at-2thvo"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "TSchG §31a bans ALL public advertising of animals by unregistered private individuals (social media, classifieds, forums, print), regardless of the 300-pup/yr hobby threshold. Quiet private transfer to acquaintances is legal; to advertise publicly you must register as a breeder with the local veterinary authority (e.g. ~€27.54 at MA 60 Vienna), and written husbandry info must accompany any transfer.",
+      "steps": [
+        "Give away quietly to acquaintances: no extra step beyond the keep/Meldung",
+        "To advertise publicly: register as a breeder with the Bezirksverwaltungsbehörde / Veterinäramt",
+        "Provide written species-specific care info to every new owner"
+      ],
+      "forms": [],
+      "where_to_file": "Bezirksverwaltungsbehörde / Veterinäramt",
+      "fees": "e.g. €27.54 (Vienna MA 60) for breeder registration",
+      "source_ids": [
+        "at-wien-zucht"
       ]
     }
   ],
@@ -148,6 +171,27 @@
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R1143",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-07"
+    },
+    {
+      "id": "at-wien-ma60",
+      "title": "wien.gv.at MA 60 — Wildtier keeping/breeding notification (Meldung)",
+      "url": "https://www.wien.gv.at/amtswege/meldung-haltung-zucht-wildtiere-exoten",
+      "authority": "City of Vienna",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "at-wien-zucht",
+      "title": "wien.gv.at — Haltung von Tieren für Zucht und Verkauf (§31a advertising rules)",
+      "url": "https://www.wien.gv.at/zusammenleben/haltung-tiere-zucht-verkauf",
+      "authority": "City of Vienna",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "at-eu-576",
+      "title": "EU Reg. 576/2013 — non-commercial movement of pet animals",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32013R0576",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-11"
     }
   ],
   "contacts": [

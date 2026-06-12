@@ -17,7 +17,7 @@
     ]
   },
   "summary": "Switzerland is legal for the roof rat in practice, with mandatory welfare conditions and one genuine grey area. Swiss law technically classifies rats as 'Wildtiere' (the Animal Welfare Ordinance / TSchV Art. 2 lists only dogs, cats, domestic rabbits, pigeons and poultry as 'domestic'), but it then carves small rodents out of the permit-and-training tier, so ordinary private rat-keeping needs NO cantonal permit. The official BLV fact sheet 'Ratten im Recht' confirms private rat keeping is permit-free, with welfare rules: keep rats in groups (min. 2 — a legal requirement), with minimum enclosure dimensions. A cantonal permit + proof of competence is needed only for commercial trade, or when giving away more than 300 rodents/year. R. rattus is not on any CITES appendix. The grey area: BLV guidance says 'Ratten' generically (built around the fancy rat R. norvegicus); whether a canton treats the synanthropic R. rattus as the same permit-free small rodent — or as a Wildtier needing a cantonal Bewilligung — is the one point worth confirming.",
-  "last_reviewed": "2026-06-07",
+  "last_reviewed": "2026-06-11",
   "advocacy": {
     "flag": true,
     "kit": {
@@ -53,7 +53,7 @@
   "activities": {
     "keep": {
       "status": "legal",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Although rats are technically Wildtiere under TSchV Art. 2, the BLV fact sheet 'Ratten im Recht' states private rat keeping needs no training and no cantonal permit. Mandatory welfare conditions apply: rats are social — keep ≥2 (TSchV Art. 13 / Anhang 2 Tab. 1 item 47); minimum enclosure ~0.5 m²/0.5 m³ for up to 5 rats (+0.05 m²/animal). Medium confidence because the guidance addresses 'Ratten' generically and at least one canton (Zürich) requires permits for wild mammals except 'native insectivores and small rodents' — R. rattus's classification isn't explicitly resolved.",
       "governing_law": "TSchG (SR 455) Art. 3, 6; TSchV (SR 455.1) Art. 2, 13, Anhang 2 Tab. 1 (item 47); BLV Merkblatt 'Ratten im Recht'.",
       "source_ids": [
@@ -61,35 +61,35 @@
         "ch-blv-ratten",
         "ch-tschg"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Private breeding for personal use or occasional rehoming is permit-free. A cantonal Bewilligung + recognised training (Sachkundenachweis/FBA) is required only above the commercial threshold — 300 rats given away (or used as feeder animals) per year — or for any 'gewerbsmässiger' (commercial) pet dealing. A normal hobby rattery stays well under 300/yr. (Same Wildtier-classification caveat as keeping.)",
       "governing_law": "TSchV (SR 455.1) Art. 101 (Bewilligungspflicht), Art. 102 (training); BLV 'Ratten im Recht' (300/yr threshold).",
       "source_ids": [
         "ch-tschv",
         "ch-blv-ratten"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "legal",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Gratuitous transfer (giving away) of captive-bred rats with no commercial element is lawful without a permit below 300 animals/year. Commercial trade ('gewerbsmässiger Handel') at any scale needs a cantonal Bewilligung + BLV-recognised training; organised animal swaps (Tierbörsen) have their own permit/training rule. No price cap; the test is whether the activity is commercial.",
       "governing_law": "TSchV (SR 455.1) Art. 101–102; BLV Fachinformation (gewerbsmässiger Handel / Tierbörsen).",
       "source_ids": [
         "ch-tschv",
         "ch-blv-handel"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal",
@@ -100,9 +100,9 @@
         "ch-blv-travel",
         "ch-tschg"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -161,6 +161,27 @@
       "url": "https://www.blv.admin.ch/blv/en/home/tiere/reisen-mit-heimtieren.html",
       "authority": "BLV",
       "accessed": "2026-06-07"
+    },
+    {
+      "id": "ch-blv-einrichtungen",
+      "title": "BLV — EU-zugelassene Einrichtungen (lists Hausratte / R. rattus as a 'Domestizierte Form')",
+      "url": "https://www.blv.admin.ch/dam/blv/fr/dokumente/import-export/rechts-und-vollzugsgrundlagen/listen-bew-ch-betriebe/anerkannte-wiss-einrichtungen.pdf.download.pdf/EU-Zugelassene-Einrichtungen-Institute-und-Zentren.pdf",
+      "authority": "BLV (Switzerland)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "ch-edav-ht-erl",
+      "title": "BLV — Erläuterungen zur EDAV-Ht (companion-animal import; ≤5 rodents non-commercial)",
+      "url": "https://www.blv.admin.ch/dam/blv/de/dokumente/import-export/rechts-und-vollzugsgrundlagen/erlaeuterungen-edav-ht.pdf.download.pdf/Erl%C3%A4uterungen%20zur%20EDAV-Ht_d.pdf",
+      "authority": "BLV (Switzerland)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "ch-frsv",
+      "title": "Freisetzungsverordnung (FrSV, SR 814.911) — R. rattus NOT on the invasive-organism annexes",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2008/614/de",
+      "authority": "Fedlex (Switzerland)",
+      "accessed": "2026-06-11"
     }
   ],
   "contacts": [

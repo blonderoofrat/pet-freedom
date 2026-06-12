@@ -16,7 +16,10 @@
     ]
   },
   "summary": "Australia is very restrictive. No exotic rodents may be imported as pets (only cats, dogs, rabbits, horses and certain birds can be imported), and the black rat (Rattus rattus) is a declared pest in parts of the country. Keeping a black rat as a pet is effectively prohibited or heavily restricted, and varies by state/territory.",
-  "last_reviewed": "2026-06-06",
+  "last_reviewed": "2026-06-11",
+  "agency_confirmations": [
+    "Department of Agriculture, Fisheries and Forestry (DAFF), Animal & Biological Imports Branch, written reply June 2026 (officer 'Mel'): live rats may be imported into Australia for laboratory purposes only; there are NO import conditions allowing rats as household pets, and 'there is currently no pathway to import Rattus rattus as a pet into Australia' (it is an introduced pest and not on the DCCEEW Live Import List). DAFF also confirmed that keeping, breeding, sale, and movement WITHIN Australia, and pest-species management, are regulated by STATE/TERRITORY governments — contact the relevant state/territory authority for those."
+  ],
   "advocacy": {
     "flag": true,
     "kit": {
@@ -92,15 +95,15 @@
     },
     "transport": {
       "status": "prohibited",
-      "confidence": "medium",
-      "why": "No exotic rodents may be imported into Australia as pets; only specified species (cats, dogs, rabbits, horses, some birds) qualify.",
+      "confidence": "high",
+      "why": "AGENCY-CONFIRMED (DAFF, June 2026): there is currently NO pathway to import Rattus rattus into Australia as a pet — live rats may be imported for laboratory purposes only, and R. rattus (an introduced pest) has no biosecurity import conditions as a companion animal and is not on the DCCEEW Live Import List. Federal (Biosecurity Act 2015 + EPBC Act Live Import List).",
       "governing_law": "Dept of Agriculture, Fisheries & Forestry import rules",
       "source_ids": [
         "au-daff"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "maintainer"
     }
   },
   "restrictions": [],

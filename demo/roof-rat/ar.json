@@ -16,7 +16,10 @@
     ]
   },
   "summary": "Argentina classifies the roof rat (Rattus rattus) as a Category 1 Invasive Exotic Species (EEI-1, 'especie restringida y de control obligatorio') under Resolución 109/2021. Article 5 of that resolution imposes a blanket federal ban on the breeding (cría), purchase/sale, donation, release, importation, and inter-jurisdictional movement of EEI-1 species — so breeding, selling/giving, and transport of a roof rat are prohibited, with no lawful permit pathway (the Art. 5 ban preempts the otherwise-available fauna-operator registry of Res. 170/2021). Private possession ('tenencia') of a pre-existing captive-bred specimen sits in a deliberate gap: Art. 5 enumerates banned actions but omits passive possession, and the constitutional legality principle (Const. Nacional Art. 19) means no one can be deprived of what the law does not forbid — so keeping is best read as unregulated/unclear rather than expressly legal, and a province or municipality could still add a local ban. The brown/fancy rat (R. norvegicus) is taxonomically EEI-1 too, yet is sold and kept openly thanks to a de-facto domestication exemption — an exemption R. rattus, lacking any recognized domestic lineage, does not enjoy.",
-  "last_reviewed": "2026-06-10",
+  "last_reviewed": "2026-06-11",
+  "agency_confirmations": [
+    "Dirección Nacional de Biodiversidad (rpuofs@jefatura.gob.ar), written reply 2026-06-11: 'Esta Dirección de Biodiversidad interviene solamente animales silvestres. Por la tenencia de un animal doméstico, consulte ante la autoridad jurisdiccional correspondiente al lugar donde se encuentre el ejemplar.' (This Biodiversity Directorate only intervenes for WILD animals; for the possession of a DOMESTIC animal, consult the provincial/jurisdictional authority where the specimen is located.) — the federal wildlife authority disclaims jurisdiction over the keeping (tenencia) of a domestic specimen, confirming that possession of a kept R. rattus is a provincial matter rather than a federal wild-fauna question."
+  ],
   "advocacy": {
     "flag": true,
     "kit": {
