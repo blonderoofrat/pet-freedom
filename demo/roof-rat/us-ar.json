@@ -16,7 +16,7 @@
     ]
   },
   "summary": "Arkansas uses a positive-list captive-wildlife system, and the roof rat falls through it. The Game & Fish Commission lists species as Unrestricted (R1.01), Permit-Required (R1.02), or Prohibited (R1.03) — and any species on NONE of the lists is 'prohibited by default until evaluated.' The fancy rat (Rattus norvegicus) is explicitly on the Unrestricted list and exempt from the possession/breeder/import rules; Rattus rattus is not on any list. So under a strict reading, keeping/breeding/selling/importing a roof rat is prohibited-by-default pending an AGFC species evaluation — another 'species-not-domestication' trap. There's a clear path: petition AGFC to add captive-bred R. rattus to the Unrestricted list (it poses no different risk than the fancy rat). We've queued that inquiry.",
-  "last_reviewed": "2026-06-07",
+  "last_reviewed": "2026-06-12",
   "advocacy": {
     "flag": true,
     "kit": {
@@ -49,7 +49,7 @@
   "activities": {
     "keep": {
       "status": "restricted",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "AGFC's captive-wildlife framework (Code R1.00) classifies species as Unrestricted/Permit-Required/Prohibited and makes any UNLISTED species prohibited by default until evaluated. R. norvegicus is on the Unrestricted list (R1.01) and exempt from Code 09.02; Rattus rattus is on none of the lists, so a strict reading makes private possession prohibited-by-default pending an AGFC determination. (Genuine ambiguity: no enforcement names R. rattus and some sources treat 'rats' as unregulated pocket pets — but that rests on the R. norvegicus exemption.)",
       "governing_law": "AGFC Code R1.00 (unlisted = prohibited default); R1.01 (Unrestricted — R. rattus absent); Code 09.02 (R. norvegicus exempt, R. rattus not); Ark. Code §15-43-201 et seq.",
       "source_ids": [
@@ -57,48 +57,48 @@
         "ar-09-02",
         "ar-r101"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "restricted",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "The Wildlife Breeder/Dealer Permit (Code 09.07) is available only for species on the Permit-Required list (R1.02); R. rattus isn't on it, and unlisted species are prohibited by default — so there is currently no breeding-permit pathway for the roof rat under the AGFC framework (unless AGFC determines it's outside their jurisdiction).",
       "governing_law": "AGFC Code 09.07; R1.02; R1.00 (default).",
       "source_ids": [
         "ar-r100",
         "ar-09-02"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "restricted",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Sale/transfer of captive wildlife runs through the same AGFC framework; R. norvegicus is exempt from Code 09.07/09.10 by name, R. rattus is not. As an unlisted (prohibited-by-default) species, commercial sale has no permit pathway; gifting falls under the same possession framework. Resolve the possession classification with AGFC first.",
       "governing_law": "AGFC Code 09.02, 09.07; R1.01 (R. norvegicus exempt; R. rattus unlisted).",
       "source_ids": [
         "ar-09-02",
         "ar-r101"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "restricted",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Importing wildlife needs an AGFC Wildlife Importation Permit (Code 09.10) unless the species is Unrestricted (R1.01) — R. rattus isn't, creating a circular bar. Separately, the Dept of Agriculture (ALPC Rule 125.00) requires an entry permit + CVI for 'zoo, wild, and/or exotic animals' (rodents not explicitly named). In-state transport of a lawfully-held animal isn't separately restricted, but the possession question controls. Never release a roof rat.",
       "governing_law": "AGFC Code 09.10; R1.01; ALPC Rule 125.00 (entry permit/CVI for exotic animals).",
       "source_ids": [
         "ar-r101",
         "ar-ag-entry"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -167,7 +167,7 @@
     {
       "agency": "Arkansas Dept of Agriculture — State Veterinarian / Animal Health",
       "role": "agriculture",
-      "email": "",
+      "email": "receiving@arkansas.gov",
       "form_url": "https://agriculture.arkansas.gov/animals/disease-traceability/animal-entry-requirements/",
       "phone": "(501) 907-2400"
     }

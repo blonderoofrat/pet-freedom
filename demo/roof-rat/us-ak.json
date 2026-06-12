@@ -16,7 +16,7 @@
     ]
   },
   "summary": "Alaska is the most restrictive state in the nation for the roof rat — it's flatly PROHIBITED. Alaska uses a 'clean list' (whitelist): only species on 5 AAC 92.029 may be kept without a permit, and the Dept of Fish & Game is barred from issuing a permit for anything not on it. The ONLY rat on the list is the albino lab Norway rat (Rattus norvegicus var. albinus); Rattus rattus appears nowhere. On top of that, 5 AAC 92.141 makes it unlawful to harbor or transport live Muridae rodents (which includes the roof rat) — Alaska runs active 'rat-free' eradication programs. Anchorage adds a city-wide ban on the entire genus Rattus. Keeping/breeding/selling/importing are all prohibited (a class A misdemeanor, up to $25,000).",
-  "last_reviewed": "2026-06-07",
+  "last_reviewed": "2026-06-12",
   "advocacy": {
     "flag": true,
     "kit": {
@@ -62,9 +62,9 @@
         "ak-92-141",
         "ak-anchorage"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "prohibited",
@@ -75,9 +75,9 @@
         "ak-92-029",
         "ak-anchorage"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "prohibited",
@@ -88,9 +88,9 @@
         "ak-92-029",
         "ak-anchorage"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "prohibited",
@@ -101,9 +101,9 @@
         "ak-92-141",
         "ak-92-029"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -148,6 +148,30 @@
       "url": "https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=972",
       "authority": "Municipality of Anchorage / ADF&G",
       "accessed": "2026-06-07"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Alaska Dept of Fish & Game — Wildlife Permits Section",
+      "role": "wildlife",
+      "email": "dfg.dwc.permits@alaska.gov",
+      "form_url": "https://www.adfg.alaska.gov/index.cfm?adfg=otherlicense.possession",
+      "phone": "(907) 465-4148",
+      "primary": true
+    },
+    {
+      "agency": "State of Alaska — Office of the State Veterinarian (Dept of Environmental Conservation)",
+      "role": "agriculture",
+      "email": "akcvi@alaska.gov",
+      "form_url": "https://dec.alaska.gov/eh/vet/import/exotics/",
+      "phone": "(907) 375-8215"
+    },
+    {
+      "agency": "Anchorage Health Department — Environmental Health Services",
+      "role": "other",
+      "email": "wwahd@muni.org",
+      "form_url": "https://www.muni.org/Departments/health/Pages/default.aspx",
+      "phone": "(907) 343-4200"
     }
   ]
 }
