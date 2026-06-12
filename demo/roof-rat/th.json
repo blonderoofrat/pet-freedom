@@ -17,8 +17,8 @@
       "roof rat"
     ]
   },
-  "summary": "Thailand is permissive by default for the roof rat. The Wild Animal Conservation and Protection Act B.E. 2562 (2019) regulates only species on its reserved/protected/controlled schedules — and R. rattus is on none of them; it's treated throughout Thai law as an unprotected agricultural pest (a major rice-field pest). So keeping/breeding/selling a captive-bred roof rat falls outside the wildlife-permit system, subject only to the Cruelty Prevention & Welfare of Animals Act B.E. 2557 (2014) care duties; fancy rats and small rodents are sold openly (e.g., Chatuchak market). Bangkok's 2026 pet ordinance adds animal-density rules but doesn't single out small rodents. The one permit step is IMPORT: bringing a live rodent into Thailand needs a Department of Livestock Development (DLD) import permit + a 30-day quarantine + an origin health certificate (R. rattus isn't CITES-listed). Internal inter-province movement technically falls under the broad Animal Epidemics Act paperwork chain, but that targets livestock and isn't enforced against private pet rodents. No Thai law expressly prohibits private keeping/breeding/transfer of captive-bred R. rattus.",
-  "last_reviewed": "2026-06-08",
+  "summary": "Thailand is permissive by default for the roof rat. The Wild Animal Conservation and Protection Act B.E. 2562 (2019) regulates only species on its conserved/protected/controlled schedules — and R. rattus is on none of them. Thai law treats it 'functionally rather than nominally': it doesn't name 'domesticated rats' as exempt; rather, an unscheduled species simply falls outside the Department of National Parks (DNP) wildlife-permit system, so you never have to prove a roof rat is captive-bred vs. wild-caught. R. rattus is classified as a native/naturalized 'Least Concern' agricultural pest — pointedly NOT an Invasive Alien Species (that label, and its management mandates, fall on R. norvegicus), so there is no eradication/possession ban aimed at pet keepers. Keeping/breeding/giving a captive-bred roof rat is therefore unregulated at the federal level, subject only to the Cruelty Prevention & Welfare of Animals Act B.E. 2557 (2014) care duties; small rodents are sold openly (e.g., Chatuchak market). Bangkok's Animal Keeping Ordinance B.E. 2567 (2024) adds property-size pet-density quotas that textually include 'mammals' (so they could touch caged rats), but its registration/microchipping mandate is limited to dogs and cats, enforcement is nuisance-complaint driven, and the council DELAYED the whole ordinance one year — now effective 10 January 2027. The one hard permit step is IMPORT: bringing a live rodent into Thailand requires a Department of Livestock Development (DLD) import permit (Form R1/1), an origin-authority-endorsed veterinary health certificate, a 500 THB/animal fee, and a discretionary (often-waived) 30-day quarantine. Internal inter-province movement technically falls under the Animal Epidemics Act B.E. 2558 (2015) R-form chain, but that targets livestock and is not enforced against private pet rodents. No Thai law expressly prohibits private keeping/breeding/transfer of captive-bred R. rattus. Never release a nonnative.",
+  "last_reviewed": "2026-06-11",
   "advocacy": {
     "flag": false
   },
@@ -26,55 +26,58 @@
     "keep": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "R. rattus is not on any DNP reserved/protected/controlled wildlife schedule under WACPA B.E. 2562 (which regulates only scheduled species); it's formally treated as agricultural vermin. The welfare act (B.E. 2557) imposes care duties on any kept animal but restricts no non-listed species. Bangkok's 2026 ordinance density rules target goat/pig-scale animals, not rat cages. Pest status + absence from any protected list + open pet-rodent retail strongly imply unregulated keeping; 'unclear' only because no official text affirmatively exempts R. rattus.",
-      "governing_law": "Wild Animal Conservation & Protection Act B.E. 2562 (2019) (scheduled species only); Cruelty Prevention & Welfare of Animals Act B.E. 2557 (2014).",
+      "why": "R. rattus is absent from every DNP conserved/protected/controlled wildlife schedule under WACPA B.E. 2562 (which regulates only scheduled species), so DNP wildlife jurisdiction simply does not attach — and because the test is scheduling, not 'domestication,' there is no requirement to prove a kept rat is captive-bred. It is classified as a native/naturalized 'Least Concern' agricultural pest, NOT an Invasive Alien Species (that designation falls on R. norvegicus under ONEP's IAS List 1), so no possession/eradication mandate targets private keepers. The Cruelty Prevention & Welfare of Animals Act B.E. 2557 (2014) imposes baseline care duties on any kept animal but bans no non-listed species. Bangkok's B.E. 2567 (2024) ordinance designates 'mammals' a controlled category with property-size density quotas (so it textually could reach caged rats), but registration/microchipping is dog/cat-only, enforcement is nuisance-driven, and the ordinance is delayed to 10 Jan 2027. 'Unclear' only because no official text affirmatively names R. rattus as a permitted pet; legality is derived from its absence on all prohibited schedules.",
+      "governing_law": "Wild Animal Conservation & Protection Act B.E. 2562 (2019) (scheduled species only); Cruelty Prevention & Welfare of Animals Act B.E. 2557 (2014); Bangkok Animal Keeping Ordinance B.E. 2567 (2024) (delayed to 10 Jan 2027).",
       "source_ids": [
         "th-wacpa",
         "th-welfare",
-        "th-bkk-2026"
+        "th-onep-ias",
+        "th-bma-2567",
+        "th-bma-delay"
       ],
-      "verified_date": "2026-06-08",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "Breeding a non-scheduled, non-CITES species is outside the WACPA permit system (which targets scheduled species). No DLD licence specifically for rodent breeding was found (DLD breeding licensing covers livestock/aquaculture). Chatuchak openly sells small rodents without a species-specific breeding licence. At commercial 'pet shop'/'animal farm' scale, Bangkok's 2026 ordinance health-hazardous-business clause could require a BMA district health-business permit.",
-      "governing_law": "WACPA B.E. 2562 s.9 (controlled-wildlife breeding permit — N/A to unlisted); Bangkok 2026 ordinance (commercial premises).",
+      "why": "Breeding a non-scheduled, non-CITES species is outside the WACPA permit system, and there is no DNP/DLD 'rat-breeder licence' for domestic non-livestock rodents. Private, non-commercial breeding — keeping or giving away offspring — is entirely unregulated beyond welfare duties; small rodents are bred and sold openly (Chatuchak). The regulated layer attaches to the PREMISES and OPERATOR, not the species: under the Public Health Act B.E. 2535 (1992), local municipalities classify commercial animal breeding/boarding/retail as a 'hazardous activity to health' (กิจการที่เป็นอันตรายต่อสุขภาพ) needing a district-office premises permit (waste/ventilation/zoning inspection). Thai law sets no codified numeric threshold where a hobbyist becomes 'commercial,' so occasional give-away or cost-covering breeding is, in practice, ignored until scale generates waste/traffic/nuisance.",
+      "governing_law": "WACPA B.E. 2562 (controlled-wildlife breeding permit — N/A to unlisted); Public Health Act B.E. 2535 (1992) (municipal 'hazardous activity' premises permit at commercial scale).",
       "source_ids": [
         "th-wacpa",
-        "th-bkk-2026"
+        "th-publichealth"
       ],
-      "verified_date": "2026-06-08",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "Sale/gifting of a non-scheduled species isn't regulated under WACPA (trade restrictions apply only to scheduled/controlled wildlife). No statute bars selling/transferring captive-bred R. rattus between private parties. A commercial pet business needs general DBD business registration + possibly a BMA health-business licence for premises (business-operation, not species-specific). Free/non-commercial transfer appears unregulated beyond welfare duties. Not CITES-listed.",
-      "governing_law": "WACPA B.E. 2562 (scheduled species only); DBD/BMA business registration (premises).",
+      "why": "Trade restrictions under WACPA apply only to scheduled/controlled wildlife, so no wildlife statute bars selling or gifting a captive-bred R. rattus, and non-commercial gifting between private parties is unrestricted (beyond welfare duties). Operating as a retail business adds general Department of Business Development (DBD) registration plus, at premises scale, the same municipal 'hazardous activity to health' permit as breeding — these attach to the business/premises, not to the species. Not CITES-listed. Ambiguity remains only over whether open-market sale of unlisted rodents needs a specific DLD animal-dealer licence or merely a local commercial-premises permit (the DR found the latter to be the practical answer).",
+      "governing_law": "WACPA B.E. 2562 (scheduled species only); DBD business registration + Public Health Act B.E. 2535 (commercial premises); not CITES-listed.",
       "source_ids": [
         "th-wacpa",
+        "th-publichealth",
         "th-cites"
       ],
-      "verified_date": "2026-06-08",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "IMPORT needs a DLD import permit before travel (Form R1/1; ≥7 days ahead) + a mandatory 30-day quarantine at a government Animal Quarantine Station + an origin-government vet health certificate; DLD states 'other species (birds, reptiles, rodents) require additional permission.' Not CITES-listed. INTERNAL inter-province movement technically falls under the Animal Epidemics Act B.E. 2558 R-form chain, but that targets agricultural livestock and isn't enforced against private pet rats (a negligible-enforcement gray zone). Never release.",
-      "governing_law": "DLD import permit (Form R1/1) + quarantine; Animal Epidemics Act B.E. 2558 (internal, broad).",
+      "confidence": "high",
+      "why": "Regardless of its unlisted wildlife status, the Department of Livestock Development (DLD) holds absolute authority over the movement of all live animals under the Animal Epidemics Act B.E. 2558 (2015); for cross-border movement R. rattus is treated as a 'restricted live animal.' IMPORT requires: (1) an advance DLD import permit (Form R1/1), applied for at the Animal Quarantine Station at the port of entry no fewer than 7 and no more than 60 days before travel; (2) an Official Health Certificate from an accredited origin-country vet within 10 days of travel, formally endorsed (wet-ink) by the origin national veterinary authority (e.g., USDA APHIS) — electronic copies are routinely rejected; (3) a 500 THB/animal fee at the airport, after which the officer issues the Notice of Import Approval (R-6) and Import Licence (R-7). The DLD holds discretionary authority to impose a 30-day quarantine on imported rodents but frequently waives it for healthy private pets with flawless paperwork from low-risk origins. Microchipping is strictly mandated for dogs/cats and only ambiguously for rodents — strongly advised (or get written AQS confirmation that photographic ID suffices). INTERNAL inter-province movement technically falls under the Animal Epidemics Act R.3/R.4 movement-permit chain, but that text targets agricultural livestock and is not enforced against private pet rats (negligible-enforcement gray zone). Never release a nonnative.",
+      "governing_law": "Animal Epidemics Act B.E. 2558 (2015); DLD import permit (Form R1/1) + Official Health Certificate + R-6/R-7; discretionary 30-day quarantine.",
       "source_ids": [
         "th-dld-import",
-        "th-aqi"
+        "th-animalepidemics"
       ],
-      "verified_date": "2026-06-08",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-11",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -84,81 +87,156 @@
       "activity": [
         "transport"
       ],
-      "summary": "Keeping/breeding/selling a captive-bred roof rat in Thailand needs no wildlife permit (R. rattus is unscheduled), only welfare-law care. The one permit step is IMPORT: a DLD import permit (apply ≥7 days ahead) + a 30-day quarantine + an origin health certificate. Commercial premises may need a BMA business/health licence. Never release.",
+      "summary": "Keeping/breeding/giving a captive-bred roof rat in Thailand needs no wildlife permit (R. rattus is unscheduled), only welfare-law care. The one hard permit step is IMPORT: a DLD import permit (Form R1/1, applied for 7-60 days ahead at the port-of-entry Animal Quarantine Station) + an origin-authority-endorsed veterinary health certificate (issued within 10 days, wet-ink) + a 500 THB/animal fee, with a discretionary (often-waived) 30-day quarantine. Microchipping is advised for rodents (mandatory for dogs/cats; ambiguous for rats — confirm with the AQS).",
       "steps": [
-        "For import: apply for a DLD import permit (Form R1/1) + arrange 30-day quarantine + obtain origin health certificate"
+        "Apply for the DLD import permit (Form R1/1) at the destination Animal Quarantine Station 7-60 days before travel",
+        "Obtain an Official Health Certificate from an accredited origin-country vet within 10 days, endorsed (wet-ink) by the origin national authority (e.g., USDA APHIS)",
+        "On arrival use the 'Goods to Declare' channel; pay 500 THB/animal; receive the R-6 (approval) and R-7 (import licence)",
+        "Microchip the rat if biologically safe, or get written AQS confirmation that photographic ID is accepted"
+      ],
+      "forms": [
+        {
+          "name": "DLD Import Permit (Form R1/1) — Animal Quarantine Station",
+          "url": "https://aqi.dld.go.th"
+        }
+      ],
+      "where_to_file": "Department of Livestock Development (DLD) — Animal Quarantine Station (port of entry, e.g. Suvarnabhumi)",
+      "fees": "500 THB per animal (airport processing); origin-country vet fee for the health certificate",
+      "source_ids": [
+        "th-dld-import",
+        "th-animalepidemics"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "Bangkok only: the Animal Keeping Ordinance B.E. 2567 (2024) sets property-size pet-density quotas (e.g., 1 pet in a 20-80 sq.m condo; up to 2 over 80 sq.m) for 'controlled' categories that textually include 'mammals,' so several caged rats could in principle count toward the limit. Registration/microchipping under the ordinance applies to dogs and cats only, and enforcement is nuisance-complaint driven — keep enclosures clean, secure, and odor-free. The ordinance's effective date was postponed one year to 10 January 2027. Commercial breeding/retail premises separately need a municipal 'hazardous activity to health' permit under the Public Health Act B.E. 2535.",
+      "steps": [
+        "In Bangkok, keep rat enclosures secure, ventilated, and sanitary to avoid nuisance complaints (the practical enforcement trigger)",
+        "If breeding/selling at commercial scale, obtain the district-office 'hazardous activity to health' premises permit"
       ],
       "forms": [],
-      "where_to_file": "Department of Livestock Development (DLD) — Animal Quarantine & Inspection",
+      "where_to_file": "Bangkok Metropolitan Administration district office (Veterinary Public Health) / your local municipality",
       "fees": "",
       "source_ids": [
-        "th-dld-import"
+        "th-bma-2567",
+        "th-bma-delay",
+        "th-publichealth"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "It is illegal to release/abandon any captive animal into the public domain under Thai urban animal-abandonment ordinances, and R. rattus is a documented agricultural pest — keep them contained and rehome responsibly; never release.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Local district office",
+      "fees": "",
+      "source_ids": [
+        "th-onep-ias"
       ]
     }
   ],
-  "inquiry_focus": "(1) Is Rattus rattus (หนูดำ/หนูท้องขาว) listed as reserved, protected, or controlled wildlife under any ministerial notification under the Wild Animal Conservation & Protection Act B.E. 2562? If not listed, does any provision apply to a private hobbyist keeping/captive-breeding it? (2) (DLD) What are the full health/documentation requirements for importing captive-bred R. rattus as pets, and does the Animal Epidemics Act B.E. 2558 require an R1/2 movement document for domestic inter-province transport of captive-bred pet rodents? (3) (DLD) Is there any DLD registration/licence for a hobbyist who breeds R. rattus at home and gives offspring to vetted individuals at no charge in Bangkok?",
+  "inquiry_focus": "(1) DNP: written confirmation that Rattus rattus (หนูดำ/หนูท้องขาว) is unlisted under every ministerial schedule (conserved/protected/controlled) of the Wild Animal Conservation & Protection Act B.E. 2562, so a private hobbyist needs no possession/breeding/trade permit. (2) DLD AQS: full documentation to import a captive-bred pet R. rattus (Form R1/1 + USDA-endorsed Official Health Certificate) — is an ISO microchip strictly mandated for small rodents or is photographic ID a legal substitute, and does inter-province domestic transport of a pet rat require an R.3 movement permit? (3) BMA: do the B.E. 2567 condo pet-density limits apply to small caged mammals like pet rats, and at what threshold does home breeding of R. rattus require a municipal 'hazardous activity to health' premises permit?",
   "sources": [
     {
       "id": "th-wacpa",
-      "title": "Wild Animal Conservation & Protection Act B.E. 2562 (2019) — five-category framework; only scheduled species regulated",
+      "title": "Wild Animal Conservation & Protection Act B.E. 2562 (2019) — regulates only conserved/protected/controlled scheduled species; R. rattus on none",
       "url": "https://cites.dnp.go.th/npd_app/npd_cites/homepage/download/WILD%20ANIMAL%20CONSERVATION%20AND%20PROTECTION%20ACT,%20B.E.%202562%20(2019).pdf",
       "authority": "DNP (Thailand) / CITES MA",
-      "accessed": "2026-06-08"
+      "accessed": "2026-06-11"
     },
     {
       "id": "th-welfare",
-      "title": "Cruelty Prevention & Welfare of Animals Act B.E. 2557 (2014) — care duties for kept animals",
+      "title": "Cruelty Prevention & Welfare of Animals Act B.E. 2557 (2014) — care duties for any kept animal",
       "url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC181025/",
       "authority": "Thailand (via FAO FAOLEX)",
-      "accessed": "2026-06-08"
+      "accessed": "2026-06-11"
     },
     {
-      "id": "th-bkk-2026",
-      "title": "Bangkok Metropolitan pet ordinance (effective 10 Jan 2026) — animal-density rules; commercial-premises health-business licence",
+      "id": "th-onep-ias",
+      "title": "ONEP / TH-BIF — Invasive Alien Species registry: R. norvegicus is IAS List 1; R. rattus is native/naturalized 'Least Concern' (agricultural pest, not IAS)",
+      "url": "https://thbif.onep.go.th/specifics/invasive-species",
+      "authority": "Office of Natural Resources & Environmental Policy and Planning (ONEP), Thailand",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "th-bma-2567",
+      "title": "Bangkok Animal Keeping Ordinance B.E. 2567 (2024) — property-size pet-density quotas; 'mammals' a controlled category; dog/cat-only microchip/registration",
       "url": "https://www.ilct.co.th/bangkoks-2026-pet-law/",
-      "authority": "ILCT (legal summary of BMA ordinance)",
-      "accessed": "2026-06-08"
+      "authority": "BMA (legal summary, ILCT)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "th-bma-delay",
+      "title": "Bangkok City Hall postpones the B.E. 2567 pet-control ordinance one year — now effective 10 January 2027",
+      "url": "https://www.bangkokpost.com/thailand/general/3172130/city-hall-postpones-pet-control-law-until-next-year",
+      "authority": "Bangkok Post (reporting BMA Council vote)",
+      "accessed": "2026-06-11"
+    },
+    {
+      "id": "th-publichealth",
+      "title": "Public Health Act B.E. 2535 (1992) — municipalities license commercial animal breeding/retail as a 'hazardous activity to health' (premises permit)",
+      "url": "https://www.bantam.go.th/fileupload/5784262032.pdf",
+      "authority": "Thailand (municipal ordinance under the Public Health Act, illustrative)",
+      "accessed": "2026-06-11"
     },
     {
       "id": "th-dld-import",
-      "title": "DLD — Importation of animals (rodents need DLD permit + quarantine)",
-      "url": "http://en.dld.go.th/index.php/en/pet-travel-menu/importation-animal-animal-products",
+      "title": "DLD — Importation of live animals (rodents need a DLD permit; Form R1/1, AQS, 500 THB, discretionary 30-day quarantine)",
+      "url": "https://aqi.dld.go.th",
       "authority": "Department of Livestock Development (Thailand)",
-      "accessed": "2026-06-08"
+      "accessed": "2026-06-11"
     },
     {
-      "id": "th-aqi",
-      "title": "DLD Animal Quarantine & Inspection — importation guide (30-day quarantine)",
-      "url": "https://aqi.dld.go.th/webnew/images/stories/document/data-import-export/importation_eng.pdf",
-      "authority": "DLD",
-      "accessed": "2026-06-08"
+      "id": "th-animalepidemics",
+      "title": "Animal Epidemics Act B.E. 2558 (2015) — DLD authority over movement of all live animals; import R-forms + domestic R.3/R.4 movement permits",
+      "url": "https://legal.dld.go.th/index.php/th/phra-rach-bayyati-rokh-rabad-satw-ph-s-2558/ph-r-b-rokh-rabad-satw-ph-s-2558-prakas-krathrwng-kestr-laea-shkrn",
+      "authority": "Department of Livestock Development (Thailand)",
+      "accessed": "2026-06-11"
     },
     {
       "id": "th-cites",
       "title": "CITES appendices — Rattus rattus not listed",
       "url": "https://cites.org/eng/app/appendices.php",
       "authority": "CITES Secretariat",
-      "accessed": "2026-06-08"
+      "accessed": "2026-06-11"
     }
   ],
   "contacts": [
     {
+      "agency": "DLD — Animal Quarantine Station (AQS), Suvarnabhumi (Dept of Livestock Development)",
+      "role": "agriculture",
+      "email": "qsap_bkk_import@dld.go.th",
+      "form_url": "https://aqi.dld.go.th",
+      "phone": "+66 2 134 0731",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
       "agency": "DNP — Dept of National Parks, Wildlife & Plant Conservation (Wild Fauna & Flora Protection)",
       "role": "wildlife",
       "email": "",
-      "form_url": "https://www.dnp.go.th/main_english.asp",
+      "form_url": "https://cites.dnp.go.th/",
       "phone": "+66 2 561 4838",
       "primary": false,
       "inquiry_language": "en"
     },
     {
-      "agency": "DLD — Dept of Livestock Development (Animal Quarantine & Inspection)",
-      "role": "agriculture",
-      "email": "saraban@dld.go.th",
-      "form_url": "http://en.dld.go.th/index.php/en/pet-travel-menu/importation-animal-animal-products",
-      "phone": "+66 2 653 4550",
-      "primary": true,
-      "inquiry_language": "en"
+      "agency": "BMA — Veterinary Public Health Division (Bangkok Metropolitan Administration)",
+      "role": "other",
+      "email": "",
+      "form_url": "https://pr-bangkok.com/",
+      "phone": "+66 2 248 7417",
+      "primary": false,
+      "inquiry_language": "th"
     }
   ]
 }

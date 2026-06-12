@@ -1,8 +1,21 @@
 # Answer Garden — leaf‑node crowdsourcing (Phase 2 module)
 
-**Status: planned / designed, not yet implemented in this repo.** The core skill (research → verify → publish, with
-optional inquiries + advocacy) is complete without it. This module is the next layer: crowdsourcing the **leaf nodes**
-— individual cities/counties — where the law is too local and too numerous for one maintainer to research alone.
+**Status: designed + REFERENCE-IMPLEMENTED on the live roof-rat site (blonderoofrat.com); not yet generalized into
+this skill's modules.** The core skill (research → verify → publish, with optional inquiries + advocacy) is complete
+without it. This module is the next layer: crowdsourcing the **leaf nodes** — individual cities/counties — where the
+law is too local and too numerous for one maintainer to research alone.
+
+**What the live reference already has (2026-06-12) — port these when generalizing this module:**
+- the per-node reader **widget** (share / request / **up-down vote + correction**) on every jurisdiction page;
+- a public, **hardened intake endpoint** — honeypot + bot/origin guards + per-IP rate-limit + per-IP/locality dedupe
+  + a **global daily cap on brand-new localities**, so only real users grow the tree (not agents spamming every zip);
+- a wp-admin **moderation queue** (everything untrusted until a maintainer verifies it against the official source);
+- a **spreading-activation router** (weighted jurisdiction graph → Dijkstra distance → expert routing → per-region
+  decaying reputation), built + tested offline (reproduces the design's simulation on the real graph).
+
+In the source project these live in `wp_tools/answergarden.py` (router + CLI), `games/wordpress-plugin/`
+`roofrat-adventures.php` (the `garden-submit` / `garden` REST routes + moderation panel), and
+`wp_tools/legal_build.py` (`garden_widget()`).
 
 ## The problem it solves
 Country, state/province, and territory law is finite and researchable. **Municipal** ordinances (a city's exotic‑pet
