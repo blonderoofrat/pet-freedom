@@ -57,7 +57,11 @@ You do not strictly need this plugin to use the skill — it can also publish th
 
 = Can I see it in action before installing? =
 
-Yes — a [live demo runs entirely in your browser](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json) via WordPress Playground, preloaded with a worldwide example resource. No account, no server, nothing to install.
+Two ways. (1) A [live demo runs entirely in your browser](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json) via WordPress Playground — no account, no server. (2) Browse the real, maintained resource this skill produces, in production: [Are Roof Rats Legal? — worldwide roof-rat laws](https://blonderoofrat.com/roof-rat-laws/) (100+ jurisdictions, search-indexed). The first is the sandbox to try; the second is the finished thing in the wild.
+
+= How do I set it up? =
+
+The easy way: paste a short prompt into **Claude Code** and it walks you through the whole setup — `config.json`, your Application Password, whether to use this plugin or the bundled SEO fallback, seeding, and publishing — including step-by-step help with the parts you do by hand, and troubleshooting. The exact prompt is on the plugin's **Get Started** admin page (and in the project README on GitHub). Prefer to do it manually? See `docs/INSTALL.md` in the repository.
 
 = What does this plugin actually do on its own? =
 

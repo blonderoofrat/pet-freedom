@@ -15,6 +15,13 @@ WebAssembly), entirely client‑side.
 
 <https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint-full.json>
 
+**Companion plugin — Get Started admin page (admin preview / screenshot source):** boots WordPress with the
+**Pet Freedom Companion** plugin installed and lands directly on its *Get Started* admin page (auto‑logged‑in).
+Handy for previewing the plugin's admin screen — and for capturing the WordPress.org `screenshot-1.png` with a
+neutral (non‑blonderoofrat) URL.
+
+<https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint-admin.json>
+
 It takes a few seconds to download WordPress and import the content. You'll land on the **Roof Rat Laws**
 hub; pick a country, drill into a state, and you'll see real status badges, confidence levels, agency
 confirmations, advocacy toolkits, and links to the official sources — the same output the skill publishes to

@@ -97,5 +97,8 @@ the directory listing.
       same handle for consistency, or update this line to match your actual WP.org username).
 - [ ] Run `php -l pet-freedom-companion.php` → "No syntax errors detected."
 - [ ] Zip with the folder name `pet-freedom-companion/` at the top level.
-- [ ] Add at least one screenshot of the Get Started page (`screenshot-1.png`) if
-      you want the Screenshots section to render on the public page.
+- [ ] Add at least one screenshot of the Get Started page (lowercase **`screenshot-1.png`**) if you want the
+      Screenshots section to render on the public page (added at the SVN/`assets` step, not in the plugin zip).
+      Capture it either by (a) temporarily uploading the `.zip` to any WordPress and opening **Pet Freedom →
+      Get Started**, or (b) the **admin-preview Playground link** (boots straight to the Get Started page with a
+      neutral URL): `https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint-admin.json`

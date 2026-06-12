@@ -153,6 +153,7 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 		$claude        = esc_url( 'https://claude.com/claude-code' );
 		$docs          = esc_url( trailingslashit( PETFREEDOM_GITHUB ) . 'blob/main/README.md' );
 		$demo          = esc_url( PETFREEDOM_DEMO );
+		$live          = esc_url( trailingslashit( PETFREEDOM_HOME ) . 'roof-rat-laws/' );
 		?>
 		<div class="wrap">
 			<h1><span class="dashicons dashicons-pets" style="font-size:1.2em;vertical-align:-4px;"></span> Pet Freedom</h1>
@@ -168,7 +169,7 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 
 			<p style="max-width:760px;">
 				<a class="button button-primary button-hero" href="<?php echo $demo; ?>" target="_blank" rel="noopener">&#9654;&nbsp; See it live in your browser — no install</a>
-				<span class="description" style="display:block;margin-top:6px;">Boots a real WordPress in your browser (via WordPress Playground), preloaded with the worldwide roof-rat law resource as a working example. Takes a few seconds to build.</span>
+				<span class="description" style="display:block;margin-top:6px;">Boots a real WordPress in your browser (via WordPress Playground), preloaded with the worldwide roof-rat law resource as a working example. Takes a few seconds to build. <strong>Prefer the real thing?</strong> Browse the live, maintained resource this skill produces &mdash; <a href="<?php echo $live; ?>" target="_blank" rel="noopener"><em>Are Roof Rats Legal?</em>, 100+ jurisdictions</a>.</span>
 			</p>
 
 			<div class="notice notice-info inline" style="max-width:760px;padding:12px 16px;margin:18px 0;">
@@ -186,6 +187,22 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 				<p style="margin-bottom:0;">
 					Read the setup docs: <a href="<?php echo $docs; ?>" target="_blank" rel="noopener">Pet Freedom README on GitHub</a>.
 				</p>
+			</div>
+
+			<div class="notice notice-success inline" style="max-width:760px;padding:12px 16px;margin:18px 0;">
+				<h2 style="margin-top:0;">Let Claude set it up for you</h2>
+				<p style="margin:.2em 0 .6em;">
+					New to this? Copy the prompt below and paste it into <strong>Claude Code</strong>. It will walk you
+					through the whole setup &mdash; <code>config.json</code>, your Application Password, whether to use this
+					plugin or the bundled SEO fallback, seeding, and publishing &mdash; with clear step-by-step help for
+					anything you do by hand, plus troubleshooting if something goes wrong. (Click in the box and press
+					Ctrl/Cmd&#8209;A to select all, then copy.)
+				</p>
+				<textarea readonly rows="9" style="width:100%;max-width:760px;box-sizing:border-box;font-family:Menlo,Consolas,monospace;font-size:12px;line-height:1.5;padding:10px;background:#fff;">I want to use the Pet Freedom skill to research and publish the legal status of [SPECIES] as a pet on my WordPress site, and I'd like you to walk me through the whole setup and handle as much as you can.
+
+Please: (1) make sure I have the Pet Freedom skill from https://github.com/blonderoofrat/pet-freedom and read its README, SKILL.md, and docs/INSTALL.md; (2) walk me through filling in config.json and .env, including exactly how to create a WordPress Application Password; (3) tell me whether I need this companion plugin or the bundled mu-plugin SEO fallback, and guide me through it; (4) seed a few jurisdictions, run the research and verification, and publish the pages.
+
+For any step I must do by hand (accounts, installing a plugin, purging cache), give me clear numbered instructions and wait for me to confirm each one before moving on. If anything errors or looks wrong, diagnose it with me. Once setup is done, take over the research-and-publish work.</textarea>
 			</div>
 
 			<h2>Status</h2>
@@ -245,6 +262,7 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 			<p>
 				<a class="button button-primary" href="<?php echo $github; ?>" target="_blank" rel="noopener">Pet Freedom on GitHub</a>
 				<a class="button" href="<?php echo $demo; ?>" target="_blank" rel="noopener">&#9654; Try the live demo</a>
+				<a class="button" href="<?php echo $live; ?>" target="_blank" rel="noopener">Live example: Roof Rat Laws</a>
 				<a class="button" href="<?php echo $home; ?>" target="_blank" rel="noopener">Project home (blonderoofrat.com)</a>
 			</p>
 

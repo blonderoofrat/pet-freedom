@@ -1,0 +1,22 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "Pet Freedom Companion — Get Started (admin preview)",
+    "description": "Boots WordPress with the Pet Freedom Companion plugin installed and lands on its Get Started admin page.",
+    "author": "blonderoofrat",
+    "categories": ["Demo"]
+  },
+  "landingPage": "/wp-admin/admin.php?page=pet-freedom",
+  "preferredVersions": { "php": "8.3", "wp": "latest" },
+  "login": true,
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/pet-freedom-companion.zip"
+      },
+      "options": { "activate": true }
+    }
+  ]
+}
