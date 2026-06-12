@@ -16,175 +16,215 @@
       "玄鼠"
     ]
   },
-  "summary": "Taiwan doesn't name the roof rat as either permitted or banned for pet-keeping, so its status is mixed and partly unsettled — but importing one is the hard wall. Pet rats (mainly fancy rats, R. norvegicus) are sold openly and covered by the Animal Protection Act's broad 'pet' definition, and the May-2026 641-species ownership-ban list doesn't appear to name R. rattus. The open question is whether R. rattus is on the Wildlife Conservation Act's captive-bred-wild-animal registration list (Art. 55) — if so, keeping/breeding a captive individual needs Forestry Agency registration. Selling/giving falls in a gap: the 'specified pet' business-licence regime covers only dogs and cats, so rodent sales are neither licensed nor clearly sanctioned. IMPORT is effectively very difficult: live rodents need a trade import permit + a WCA wildlife-import permit + APHIA quarantine (cargo only, ≥7-day isolation, origin health certificate), and given R. rattus's invasive-pest status plus active urban rat-control campaigns, approval is unlikely in practice.",
-  "last_reviewed": "2026-06-07",
+  "summary": "Taiwan is permissive to keep, breed, and give/sell a captive-bred roof rat domestically — but importing one is a near-absolute wall. The Gemini DR resolves the prior uncertainty: R. rattus is NOT on the March-2026 / 1-May-2026 list of 641 banned animals under Animal Protection Act (APA) Art. 8 (only the Myocastoridae family / nutria is named among rodents — the Muridae family, which includes R. rattus and R. norvegicus, is entirely absent), and it is NOT on the Forestry & Nature Conservation Agency's WCA Art. 55 captive-bred terrestrial-wildlife list (mammals there are limited to four ungulates/xenarthrans: Tibetan argali, argali, urial, hairy armadillo). So keeping a pet roof rat is LEGAL by statutory omission — no permit, registration, microchip, or health certificate. Breeding and selling/giving are UNREGULATED/UNCLEAR: the 'Specified Pet Business' licensing regime (特定寵物業管理辦法) covers ONLY dogs and cats, so hobbyist or even commercial rodent breeding/sale needs no specific animal-business licence (subject only to general civil/commercial law and APA anti-cruelty baselines), and the commercial-wildlife dealer regime (WCA Art. 36) doesn't apply because captive-bred R. rattus is not an Art. 55 species. Taiwan law draws NO distinction between R. rattus and the fancy rat (R. norvegicus) for keeping/breeding/selling. Domestic TRANSPORT is allowed (carrier containment rules only — secure, odor-free carrier). IMPORT is functionally PROHIBITED for private citizens: travellers may not hand-carry or check live rodents (only dogs, cats, rabbits are permitted, with prior APHIA approval), confiscation/euthanasia applies at the border, and the sole legal cargo pathway for Rodentia is the 'Quarantine Requirements for the Importation of Laboratory Animals' — open only to approved scientific institutions with an IACUC-approved experimental plan, plus a WCA Art. 24 general-wildlife import consent. R. rattus is an invasive pest and hantavirus vector subject to active state eradication campaigns, so import approval is realistically unobtainable. Never release.",
+  "last_reviewed": "2026-06-12",
   "advocacy": {
-    "flag": true,
-    "kit": {
-      "case_type": "clarification",
-      "problem": "In Taiwan, pet rats are sold and kept openly, and the Animal Protection Act's broad definition of \"pet\" doesn't exclude the roof rat (Rattus rattus, 屋頂鼠/玄鼠). But the rules never actually name R. rattus, so a keeper is left guessing on two points. First, it is unclear whether R. rattus is on the Wildlife Conservation Act's \"captive-bred terrestrial wild animal\" list (Art. 55) — if it is, keeping or breeding even a captive-born individual would need Forestry & Nature Conservation Agency registration; if it isn't, no such registration applies. Second, the \"Specified Pet Business\" licensing regime that governs breeding and welfare standards covers ONLY dogs and cats, so pet rats fall into a gap with no clear welfare protection and no licensing pathway. Layered on top is the species' reputation: R. rattus is an invasive urban pest, and 2026 rat-control campaigns mean officials may not distinguish a tame, captive-bred companion animal from a wild city rat. Importing one is effectively a wall (trade permit + wildlife-import permit + cargo-only quarantine, approval unlikely), but the everyday question for someone already keeping a captive-bred pet is simply: what's my legal status, and is the welfare gap going to be fixed?",
-      "ask": "Ask the Ministry of Agriculture for a plain written answer to two questions: (1) Is captive-bred Rattus rattus on the Wildlife Conservation Act Art. 55 captive-bred-wildlife list — and on the May-2026 ownership-ban list under Animal Protection Act Art. 8 — and if so, what does a private hobbyist need to register to keep and breed captive-born individuals? (2) Will the Ministry extend \"specified pet\" welfare and breeding rules (currently dogs and cats only) to cover pet rats, so captive-bred companion rats get the same baseline protection? Separately, supporters can back the existing 台灣愛鼠協會 (Rodentscare) campaign and write to a Legislative Yuan member asking that pet rats be recognized as specified pets. Throughout, make the distinction clear: this is about a tame, captive-bred, indoor companion animal that is never released — not about wild urban rats or pest control.",
-      "branch_note": "HYBRID, leaning AGENCY/CLARIFICATION. Two distinct problems with two distinct levers. (A) The keeping/breeding status of captive-bred R. rattus is genuinely UNSETTLED, not banned — the law (APA Art. 3) covers it as a \"pet,\" but nobody has confirmed whether it sits on the WCA Art. 55 captive-wildlife registration list or the 2026 ownership-ban annex. That ambiguity is a BUREAUCRATIC reading problem: the right lever is the AGENCY (Ministry of Agriculture), via a written clarification / declaratory answer through its official Chief's Mailbox. You are not asking it to change a law, only to state plainly how existing law applies to a captive-bred companion animal — which it can do. (B) The welfare/licensing GAP (specified-pet rules name only dogs and cats) is a LAW/RULEMAKING problem: that is written into the Specified Pet Business Management Regulations, and no amount of asking the agency to \"interpret\" it will add rats — it has to be amended. So for that piece, say it plainly: the fix is rulemaking/legislation, pursued through the active 台灣愛鼠協會 campaign and a message to a Legislative Yuan member, not an appeal to the enforcement desk. Net: lead with the agency clarification (cheap, fast, resolves the live uncertainty), and route the protection-gap ask to the legislative/advocacy channel where it actually belongs.",
-      "time_sensitive": "",
-      "targets": [
-        {
-          "name": "Ministry of Agriculture — Chief's Mailbox / official public inquiry portal (農業部首長信箱)",
-          "type": "agency",
-          "form_url": "https://chiefmail.moa.gov.tw/ChiefMail/jsp/doms/ac/A002.jsp?lang=zh",
-          "why": "The central competent authority for both the Animal Protection Act and (via the Forestry & Nature Conservation Agency) the Wildlife Conservation Act. This is the right place to ask for a WRITTEN clarification: whether captive-bred R. rattus is on the WCA Art. 55 list or the 2026 ownership-ban annex, and whether 'specified pet' rules will be extended to rats. Official public submission form (Chinese; the portal forwards to the correct division if needed)."
-        },
-        {
-          "name": "台灣愛鼠協會 (Rodentscare Taiwan) — pet-rodent welfare advocacy group",
-          "type": "agency",
-          "form_url": "https://rodentscare.org/",
-          "why": "Taiwan's established pet-rodent NGO, already lobbying to bring rats under the Animal Protection Act's 'specified pet' protections (the exact gap here). Not a government body, but the most effective vehicle for the rulemaking/legislative ask — joining an existing campaign carries far more weight than a lone letter. Coordinate the protection-gap message through them."
-        },
-        {
-          "name": "Legislative Yuan — Members directory (立法院 本屆立委 / find your legislator)",
-          "type": "legislature",
-          "form_url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109",
-          "why": "The welfare/licensing gap (specified-pet rules cover only dogs and cats) can only be closed by amending the regulations/law — that is a legislative lever, not something the enforcement agency can reinterpret. Use this official directory to find and write to a legislator asking that pet rats be recognized as specified pets. English member list: https://www.ly.gov.tw/EngPages/List.aspx?nodeid=37104"
-        }
-      ],
-      "template": {
-        "en": "To the Ministry of Agriculture,\n\nI am writing about the legal status and welfare of pet rats kept in Taiwan. Pet rats are sold and kept openly here, and the Animal Protection Act defines a \"pet\" broadly, but the rules never specifically name the roof rat (Rattus rattus, 屋頂鼠/玄鼠), which leaves keepers genuinely unsure of their position.\n\nI would be grateful for a written answer: (1) Is captive-bred Rattus rattus on the Wildlife Conservation Act Article 55 captive-bred-wildlife list, or on the May 2026 ownership-restriction list under Animal Protection Act Article 8? If so, what registration does a private hobbyist need to keep and breed captive-born individuals? (2) Will the Ministry extend the \"specified pet\" welfare and breeding standards — currently limited to dogs and cats — to cover pet rats?\n\nPlease note this concerns tame, captive-bred companion animals kept entirely indoors. They are never released into the wild and are not connected to wild urban rats or pest control.\n\nThank you for your guidance.\n\n[Your name]\n[Your city / contact]",
-        "zh": "敬致農業部：\n\n本人就在台灣飼養之寵物鼠的法律地位與福利問題提出詢問。寵物鼠在台灣公開販售與飼養，《動物保護法》對「寵物」的定義亦相當廣泛，然而相關法規從未明確列名屋頂鼠（玄鼠，學名 Rattus rattus），致使飼主對自身的合法地位實感不確定。\n\n懇請惠予書面說明：(一) 人工繁殖之屋頂鼠（Rattus rattus）是否列於《野生動物保育法》第55條之人工飼養繁殖野生動物名單，或列於2026年5月依《動物保護法》第8條公告之禁止飼養物種名單？若是，私人飼主欲飼養及繁殖人工繁殖之個體，須辦理何種登記？(二) 農業部是否將把目前僅限於犬、貓之「特定寵物」福利與繁殖管理規範，擴及至寵物鼠？\n\n謹此說明：本案所指為性情溫馴、人工繁殖、完全於室內飼養之伴侶動物。牠們絕不會被野放，與野生都市鼠類或鼠害防治並無關聯。\n\n感謝貴部惠予指引。\n\n[Your name]\n[您的城市／聯絡方式]"
-      },
-      "confidence_notes": "VERIFIED (2026-06-09 web searches): (1) Ministry of Agriculture official public inquiry portal \"首長信箱 / Write to the Ministry\" at chiefmail.moa.gov.tw — confirmed as the live, official bilingual-header public submission form; it forwards out-of-jurisdiction matters to the correct division. (2) 台灣愛鼠協會 (Rodentscare Taiwan, rodentscare.org) confirmed real, active, and specifically lobbying to bring rats under the Animal Protection Act \"specified pet\" regime — matches our grounding file's advocacy note. (3) Legislative Yuan member directory pages (ly.gov.tw, 113 members, Chinese + English) confirmed live. (4) APHIA contact confirmed (chiefmail.aphia.gov.tw, English supported) but NOT used as a primary target here because import is effectively closed and this kit addresses the live keeping/welfare question, not import. UNCERTAIN / could not confirm from public sources: whether R. rattus is actually ON the WCA Art. 55 captive-wildlife list or the 2026 641-species ownership-ban annex — both annexes were unverified in prior research and remain unconfirmed; this is precisely why the kit asks the agency for a written ruling rather than asserting a status. I did NOT include any individual civil servant's name or a personal email — only official agency/portal channels. No live bill, pending list, or open comment window was found, so time_sensitive is left empty (the advocacy campaign is ongoing but not a dated window). This is a research aid, not legal advice; the agency's written answer is authoritative.",
-      "local_lang": "zh"
-    }
+    "flag": false
   },
   "activities": {
     "keep": {
-      "status": "legal_with_permit",
-      "confidence": "low",
-      "why": "The Animal Protection Act (APA) Art. 3 defines 'pet' broadly and doesn't exclude R. rattus; pet rats are sold/kept in Taiwan. BUT if R. rattus is on the Wildlife Conservation Act (WCA) Art. 55 captive-bred-wild-animal list, keeping a captive individual needs Forestry & Nature Conservation Agency registration — its inclusion couldn't be confirmed. The May-2026 641-species ownership ban (APA Art. 8) doesn't appear to name R. rattus (full annex unverified). Genuinely unsettled → confirm with the authorities.",
-      "governing_law": "Animal Protection Act Art. 3, Art. 8; Wildlife Conservation Act Art. 55.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Keeping a captive-bred R. rattus is legal by statutory omission. The Ministry of Agriculture's March-2026 amendment to 'Designated Animals Banned from Raising, Importing, or Exporting' (指定禁止飼養輸入或輸出之動物), in force 1 May 2026, lists 641 dangerous/venomous/invasive species — and among rodents names ONLY the Myocastoridae family (nutria/giant water rat); the Muridae family (R. rattus and R. norvegicus) is entirely absent, so APA Art. 8 does not ban keeping. R. rattus is also NOT on the Forestry & Nature Conservation Agency's WCA Art. 55 list of captive-bred terrestrial wildlife (whose mammalian entries are limited to the Tibetan argali, argali, urial, and hairy armadillo), so no Art. 55 wildlife registration/microchipping applies. No permit, registration, facility standard, or health certificate is required to keep a pet roof rat; the only duty is the APA's universal anti-cruelty baseline (food, water, space, safe environment, no abandonment). Taiwan law draws no distinction between R. rattus and the fancy rat R. norvegicus for keeping.",
+      "governing_law": "Animal Protection Act Art. 8 + 'Designated Animals Banned from Raising, Importing, or Exporting' (641-species list, eff. 1 May 2026; Muridae not listed); Wildlife Conservation Act Art. 55 + Forestry & Nature Conservation Agency captive-bred terrestrial-wildlife list (R. rattus not listed); APA anti-cruelty baseline.",
       "source_ids": [
+        "tw-banned-list",
         "tw-apa",
-        "tw-wca",
-        "tw-wca-captivelist"
+        "tw-wca-captivelist",
+        "tw-wca"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "unregulated_unclear",
-      "confidence": "low",
-      "why": "The Specified Pet Business Regulations cover only dogs and cats, so rodents sit outside that licensing framework — a hobbyist breeding R. rattus faces no explicit prohibition IF the species isn't on the WCA Art. 55 captive-bred-wildlife list (which would require Forestry Agency approval to breed). No published ruling authorizes or prohibits it; invasive-pest status may draw extra scrutiny.",
-      "governing_law": "Specified Pet Business Mgmt Regulations (dogs/cats only); WCA Art. 55.",
+      "confidence": "high",
+      "why": "Breeding R. rattus domestically sits in a structural regulatory gap. The 'Specified Pet Business Management Regulations' (特定寵物業管理辦法) under the APA — which impose facility standards, veterinary contracts, microchipping, and municipal inspection on breeders — define 'specified pets' (特定寵物) narrowly: dogs only, recently expanded to cats. All other small mammals, including rodents, are exempt, so a hobbyist or even a commercial operation breeding roof rats needs no Specific Pet Business Licence and alerts no central or municipal authority. Because R. rattus is not a WCA Art. 55 captive-bred-wildlife species, the WCA captive-breeding/registration regime also does not attach. 'Unclear' only in that no published rule affirmatively authorizes it (legality is by omission), and large-scale commercial breeding of a known public-health pest could in theory draw municipal zoning/sanitation scrutiny; the practical baseline is unrestricted, bounded only by APA anti-cruelty duties.",
+      "governing_law": "Specified Pet Business Management Regulations (特定寵物業管理辦法 — dogs/cats only); WCA Art. 55 (N/A — R. rattus unlisted); APA anti-cruelty baseline.",
       "source_ids": [
         "tw-specifiedpet",
         "tw-wca-captivelist"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "unregulated_unclear",
-      "confidence": "low",
-      "why": "Selling/giving R. rattus domestically isn't covered by the specified-pet licence regime (dogs/cats only); pet stores sell rats/hamsters without such a permit, so non-dog/cat rodent sales operate in a regulatory gap — neither licensed nor expressly forbidden. If WCA Art. 55 registration applies, display/sale of registered animals needs separate approval (WCA Art. 24). For-profit commercial breeding of an invasive species could attract public-health/environmental scrutiny.",
-      "governing_law": "Specified Pet Business Mgmt Regulations; WCA Art. 24.",
+      "confidence": "medium",
+      "why": "Selling or gifting a captive-bred R. rattus domestically is legal by statutory silence. Because R. rattus is not a 'specified pet' (dogs/cats only), its sale needs no commercial pet-dealer licence under the Specified Pet Business Management Regulations — pet stores and hobbyists sell hamsters, guinea pigs, and fancy rats (R. norvegicus) without one, and roof rats fall under the same standard (the transaction is ordinary transfer of property under the Civil Code / Consumer Protection Act). The commercial-wildlife dealer regime under WCA Art. 36 ('Regulations for the Management of Commercial Wildlife Breeding, Trading and Processing') does NOT apply: Art. 2 of those regulations limits scope to wildlife taken directly from the wild or species announced under WCA Art. 55, and captive-bred R. rattus is neither. The one absolute prohibition is release/abandonment into the wild (WCA Art. 32 + APA): unwanted stock must be rehomed or surrendered to a municipal shelter, never released. 'Unclear' / medium because legality rests on omission and large-scale commercial sale of a public-health pest could draw municipal scrutiny.",
+      "governing_law": "Specified Pet Business Management Regulations (dogs/cats only); WCA Art. 36 + Art. 2 of the Commercial Wildlife Breeding/Trading/Processing Regulations (N/A to non-Art.55 captive-bred); WCA Art. 32 / APA (no release).",
       "source_ids": [
         "tw-specifiedpet",
+        "tw-commercial-wildlife",
         "tw-wca"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "restricted",
+      "status": "prohibited",
       "confidence": "high",
-      "why": "IMPORT is effectively very difficult: live rodents need (1) a trade import permit (restricted item given invasive/quarantine-pest status), (2) a WCA Art. 24 wildlife-import permit, and (3) APHIA quarantine — cargo shipment only (travellers may NOT hand-carry live rodents), ≥7-day post-arrival isolation, official origin health certificate filed 30+ days ahead. No published pathway for a hobbyist to import R. rattus, and approval is unlikely given its top-100 invasive status + 2026 rat-control campaigns. INTERNAL transport of a lawfully-kept animal isn't separately restricted (unless WCA-registered). Never release.",
-      "governing_law": "Animal & Animal Product Import Quarantine Conditions; APHIA quarantine procedures; WCA Art. 24.",
+      "why": "The operative question is IMPORT, which is functionally prohibited for private citizens. APHIA (Animal & Plant Health Inspection Agency) limits inbound passenger live-animal entry to dogs, cats, and rabbits only (and even those need a prior APHIA import-agreement letter); all other live animals — explicitly including pet rodents, hamsters, and rats — are forbidden in passenger cabins, checked baggage, or as personal effects, and unauthorized live animals found at the border are confiscated and euthanized. After the general 'Quarantine Requirements for the Importation of Animals and Animal Products' were abolished on 7 July 2022, the ONLY legal cargo pathway for Rodentia is the 'Quarantine Requirements for the Importation of Laboratory Animals' (實驗動物之輸入檢疫條件), available exclusively to approved 'animal scientific application institutions' that submit a scientific name/strain, an experimental plan, IACUC approval, and IATA-compliant sterilized containers — requirements a private hobbyist structurally cannot meet. Importing also triggers WCA Art. 24, which requires the Forestry & Nature Conservation Agency's prior consent for 'general wildlife' import. Given R. rattus's invasive-pest and hantavirus-vector status and active state eradication campaigns, approval is realistically unobtainable. DOMESTIC transport of a lawfully kept roof rat triggers no central permit — only individual carrier rules (e.g., THSR/MRT/TRA require a rigid escape-proof carrier within size limits and no offensive odor; staff retain discretion to refuse). Never release.",
+      "governing_law": "APHIA passenger live-animal quarantine rules (dogs/cats/rabbits only); 'Quarantine Requirements for the Importation of Laboratory Animals' (實驗動物之輸入檢疫條件 — institutional/IACUC only); WCA Art. 24 (general-wildlife import consent); carrier carriage regulations (domestic).",
       "source_ids": [
-        "tw-import-quarantine",
-        "tw-aphia",
-        "tw-wca"
+        "tw-passenger-quarantine",
+        "tw-lab-animal-import",
+        "tw-wca",
+        "tw-thsr"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-12",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "other",
-      "applies_to": "rat",
+      "type": "ban",
+      "applies_to": "both",
       "activity": [
         "transport"
       ],
-      "summary": "Importing a live roof rat into Taiwan is effectively very hard: it needs a trade import permit + a wildlife-import permit + APHIA quarantine (cargo only, ≥7-day isolation, origin health certificate), and approval is unlikely given invasive-pest status. Hand-carrying live rodents is not allowed. Confirm keeping/breeding status (WCA Art. 55 list) with the Ministry of Agriculture before acquiring. Never release.",
+      "summary": "IMPORT of a live roof rat by a private individual is functionally prohibited. Travellers may NOT hand-carry or check live rodents — APHIA permits only dogs, cats, and rabbits as passenger imports (with a prior APHIA agreement letter), and unauthorized live animals are confiscated and euthanized at the border. The sole legal cargo pathway for Rodentia is the 'Quarantine Requirements for the Importation of Laboratory Animals,' open only to approved scientific institutions with an IACUC-approved experimental plan; a pet owner cannot meet those requirements. A WCA Art. 24 general-wildlife import consent from the Forestry & Nature Conservation Agency is also required. Approval is realistically unobtainable given the species' invasive-pest/hantavirus status.",
       "steps": [
-        "Confirm whether R. rattus is on the WCA Art. 55 captive-bred-wildlife list (Forestry & Nature Conservation Agency)",
-        "For any import: trade permit + WCA import permit + APHIA quarantine"
+        "Do NOT attempt to hand-carry or check a live rodent into Taiwan — only dogs, cats, and rabbits are permitted as passenger imports (confiscation/euthanasia otherwise)",
+        "The only legal Rodentia import is institutional: an approved 'animal scientific application institution' applies under the Laboratory Animal quarantine conditions with scientific name/strain, experimental plan, IACUC approval, and IATA-compliant containers",
+        "Importing also requires the Forestry & Nature Conservation Agency's prior consent under WCA Art. 24 (general wildlife)",
+        "Never release a roof rat — it is a documented invasive pest subject to state eradication"
       ],
       "forms": [],
-      "where_to_file": "Ministry of Agriculture; APHIA",
+      "where_to_file": "APHIA (Animal & Plant Health Inspection Agency); Forestry & Nature Conservation Agency (WCA Art. 24 consent)",
       "fees": "",
       "source_ids": [
-        "tw-import-quarantine",
+        "tw-passenger-quarantine",
+        "tw-lab-animal-import",
+        "tw-wca"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Domestic transport of a lawfully kept roof rat needs no permit — only the carriage rules of individual operators. Taiwan High Speed Rail (THSR), the Taipei/Kaohsiung MRT, and Taiwan Railways allow small pets in a rigid, escape-proof carrier within size limits (THSR: total length+width+height ≤ 210 cm, no single side > 70 cm) provided the animal is clean, contained, and not emitting an offensive odor; staff retain discretion to refuse a disruptive or smelly animal.",
+      "steps": [
+        "Use a rigid, escape-proof carrier within the operator's size limits (THSR: ≤210 cm total, no side >70 cm)",
+        "Keep the carrier clean and odor-free to avoid discretionary refusal by staff"
+      ],
+      "forms": [],
+      "where_to_file": "Individual transit operator (THSR / MRT / TRA)",
+      "fees": "",
+      "source_ids": [
+        "tw-thsr"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "sell_give"
+      ],
+      "summary": "Releasing or abandoning a captive roof rat into the wild is a criminal offense (WCA Art. 32 + Animal Protection Act). R. rattus is a documented invasive pest and hantavirus vector targeted by state eradication campaigns; unwanted animals must be rehomed to a capable owner or surrendered to a municipal animal shelter (which may legally euthanize), never released.",
+      "steps": [
+        "Never release or abandon a roof rat into the environment (criminal offense)",
+        "Rehome unwanted stock to a capable owner, or surrender to a municipal animal shelter"
+      ],
+      "forms": [],
+      "where_to_file": "Local municipal animal protection office / shelter",
+      "fees": "",
+      "source_ids": [
         "tw-wca"
       ]
     }
   ],
-  "inquiry_focus": "(1) Is Rattus rattus (玄鼠/屋頂鼠) on Taiwan's 'captive-bred terrestrial wild animal species subject to the Wildlife Conservation Act' list (WCA Art. 55)? If so, what registration/permit does a private hobbyist need to keep and breed captive-born individuals? (2) Is there any legal pathway for a private individual to import captive-bred R. rattus as a pet — which permits (trade bureau, Forestry & Nature Conservation Agency, APHIA), and is approval realistic given the species' invasive status? (3) Is R. rattus on the May-2026 641-species ownership-ban list under APA Art. 8, or is any near-term restriction on private keeping anticipated?",
+  "inquiry_focus": "(1) APHIA: under the post-2022 framework (the general 'Quarantine Requirements for the Importation of Animals and Animal Products' abolished 7 Jul 2022, leaving only the Laboratory Animal pathway), is there any discretionary waiver, special application, or loophole allowing a private citizen to import a captive-bred pet R. rattus (黑大鼠) — with full health testing and cargo quarantine — or is the institutional/IACUC requirement absolute? (2) Forestry & Nature Conservation Agency: is a captive-bred, domesticated pet R. rattus classified as 'general wildlife' requiring WCA Art. 24 import consent, or does FNCA yield to APHIA for a domesticated strain? (3) Municipal: do any major cities (Taipei, Kaohsiung) have local health/zoning ordinances prohibiting large-scale commercial breeding of known public-health pests like R. rattus in residential areas?",
   "sources": [
     {
+      "id": "tw-banned-list",
+      "title": "Designated Animals Banned from Raising, Importing, or Exporting (指定禁止飼養輸入或輸出之動物) — 641-species list under APA Art. 8, eff. 1 May 2026; among rodents names only Myocastoridae (nutria), NOT Muridae/R. rattus",
+      "url": "https://law.moa.gov.tw/LawContent.aspx?id=GL000084",
+      "authority": "Ministry of Agriculture (Taiwan) — Laws & Regulations Database",
+      "accessed": "2026-06-12"
+    },
+    {
       "id": "tw-apa",
-      "title": "Animal Protection Act (動物保護法) — Art. 3 (pet definition), Art. 8 (prohibited species)",
+      "title": "Animal Protection Act (動物保護法) — Art. 3 (pet definition), Art. 8 (authority to designate banned species), anti-cruelty baseline",
       "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=M0060027",
       "authority": "Laws & Regulations Database of the ROC (Taiwan)",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-12"
     },
     {
       "id": "tw-wca",
-      "title": "Wildlife Conservation Act (野生動物保育法) — Art. 24 (import/sale), Art. 55 (captive-bred wildlife)",
+      "title": "Wildlife Conservation Act (野生動物保育法) — Art. 24 (general-wildlife import consent), Art. 32 (no release), Art. 36 (commercial-wildlife dealer permit), Art. 55 (captive-bred terrestrial wildlife)",
       "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=M0120001",
       "authority": "Laws & Regulations Database of the ROC",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-12"
     },
     {
       "id": "tw-wca-captivelist",
-      "title": "Captive-bred terrestrial wild-animal species under the WCA (Forestry & Nature Conservation Agency announcement, 2024-04-02)",
-      "url": "https://conservation.forest.gov.tw/0002116",
+      "title": "Applicable terrestrial wildlife species artificially bred under the Wildlife Conservation Act (適用野生動物保育法之人工飼養繁殖陸域野生動物種類) — WCA Art. 55 list; mammals limited to Tibetan argali, argali, urial, hairy armadillo; R. rattus NOT listed",
+      "url": "https://www.forest.gov.tw/0008326",
       "authority": "Forestry & Nature Conservation Agency",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-12"
     },
     {
       "id": "tw-specifiedpet",
-      "title": "Specified Pet Business Management Regulations (特定寵物業管理辦法 — dogs/cats only)",
+      "title": "Specified Pet Business Management Regulations (特定寵物業管理辦法) — 'specified pets' = dogs and cats only; rodents exempt from animal-business licensing",
       "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060031",
       "authority": "Laws & Regulations Database of the ROC",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-12"
     },
     {
-      "id": "tw-import-quarantine",
-      "title": "Animal and Animal Product Import Quarantine Conditions (動物及動物產品輸入檢疫條件)",
-      "url": "https://law.moa.gov.tw/LawContent.aspx?id=FL014807",
-      "authority": "Ministry of Agriculture (Taiwan)",
-      "accessed": "2026-06-07"
+      "id": "tw-commercial-wildlife",
+      "title": "Regulations for the Management of Commercial Wildlife Breeding, Trading and Processing (營利性野生動物飼養繁殖買賣加工管理辦法) — Art. 2 limits scope to wild-taken or WCA Art. 55 species (captive-bred R. rattus excluded)",
+      "url": "https://www.forest.gov.tw/0010122",
+      "authority": "Forestry & Nature Conservation Agency",
+      "accessed": "2026-06-12"
     },
     {
-      "id": "tw-aphia",
-      "title": "APHIA — live-animal quarantine procedures (cargo-only rule; English)",
-      "url": "https://www.aphia.gov.tw/en/",
-      "authority": "Animal and Plant Health Inspection Agency",
-      "accessed": "2026-06-07"
+      "id": "tw-passenger-quarantine",
+      "title": "Quarantine reference table for animals/plants carried by inbound passengers (入境旅客攜帶常見動植物或其產品檢疫規定參考表) — passenger live-animal imports limited to dogs, cats, rabbits; pet rodents/rats forbidden",
+      "url": "https://www.aphia.gov.tw/userfiles/file/1010413.pdf",
+      "authority": "Animal and Plant Health Inspection Agency (APHIA)",
+      "accessed": "2026-06-12"
+    },
+    {
+      "id": "tw-lab-animal-import",
+      "title": "Quarantine Requirements for the Importation of Laboratory Animals (實驗動物之輸入檢疫條件) — sole legal Rodentia import pathway; approved scientific institutions + IACUC + experimental plan only (general import-quarantine conditions abolished 7 Jul 2022)",
+      "url": "https://www.aphia.gov.tw/UserFiles/file/Quarantine%20Requirements%20for%20the%20Importation%20of%20Animals%20and%20Animal%20Products/Appendix%201-8.pdf",
+      "authority": "Animal and Plant Health Inspection Agency (APHIA)",
+      "accessed": "2026-06-12"
+    },
+    {
+      "id": "tw-thsr",
+      "title": "Taiwan High Speed Rail / public-transit pet carriage rules — rigid escape-proof carrier within size limits, no offensive odor; staff discretion",
+      "url": "https://www.naturalpaws.tw/blogs/news/high-speed-rail-pets",
+      "authority": "THSR carriage policy (summary)",
+      "accessed": "2026-06-12"
     }
   ],
   "contacts": [
     {
-      "agency": "Animal and Plant Health Inspection Agency (APHIA), Ministry of Agriculture",
+      "agency": "Animal and Plant Health Inspection Agency (APHIA), Ministry of Agriculture (動植物防疫檢疫署)",
       "role": "agriculture",
       "email": "",
-      "form_url": "https://www.aphia.gov.tw/en/",
-      "phone": "+886-3-398-2431",
+      "form_url": "https://chiefmail.aphia.gov.tw/ChiefMail/jsp/doms/ac/A002.jsp?lang=zh",
+      "phone": "+886-2-2343-1401",
       "primary": true,
       "inquiry_language": "en"
+    },
+    {
+      "agency": "Forestry & Nature Conservation Agency (林業及自然保育署), Ministry of Agriculture",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://www.forest.gov.tw/suggestion",
+      "phone": "+886-2-2351-5441",
+      "primary": false,
+      "inquiry_language": "zh"
     },
     {
       "agency": "Ministry of Agriculture — Animal Protection Division (動物保護司)",
