@@ -2,9 +2,9 @@
 Contributors: blonderoofrat
 Tags: pet, animal, legal, law, wildlife, exotic pets, rest api, seo
 Requires at least: 5.8
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,12 +19,9 @@ Map a pet species' legal status across jurisdictions worldwide and publish it �
 This plugin — **Pet Freedom Companion** — is the small WordPress half of the project. It adds:
 
 * A friendly **Get Started** admin page that explains what Pet Freedom is, what else you need, and shows whether everything is wired up correctly.
-* Optional, **admin-only** REST helpers used by the publishing tool:
-    * Read/write post meta (so SEO meta for **Rank Math** or **Yoast** can be set programmatically).
-    * A read-only install inspector (lists active plugins + versions).
-    * An admin-authenticated self-update endpoint (so future upgrades can be pushed without a manual re-upload).
+* One optional, **admin-only** REST helper used by the publishing tool: read/write post meta, so SEO meta for **Rank Math** or **Yoast** can be set programmatically.
 
-All REST routes require the `manage_options` capability — nothing is exposed to anonymous visitors. The plugin stores no secrets and references no specific domain, owner, or species; all of that lives in your own configuration.
+The route requires the `manage_options` capability — nothing is exposed to anonymous visitors. The plugin stores no secrets, references no specific domain/owner/species, makes no outbound calls, and does not modify its own files; all configuration lives in your own `config.json`.
 
 = Do I need anything else? =
 
@@ -54,7 +51,7 @@ A gift from the roof-rat community at https://blonderoofrat.com — built to map
 4. In the skill's `config.json`, keep the `plugin.namespace` and `plugin.option_prefix` values in sync with the `PETFREEDOM_NS` and `PETFREEDOM_OPT_PREFIX` constants shown on the Get Started page.
 5. Create a WordPress Application Password for a user with publish rights, and give it to the skill so it can publish on your behalf.
 
-You do not strictly need this plugin to use the skill — it can also publish through core WP REST plus a bundled SEO fallback. Install this companion when you want the friendly admin page, a uniform meta endpoint, and one-command REST upgrades.
+You do not strictly need this plugin to use the skill — it can also publish through core WP REST plus a bundled SEO fallback. Install this companion when you want the friendly admin page and a uniform SEO post-meta endpoint.
 
 == Frequently Asked Questions ==
 
@@ -64,7 +61,7 @@ Yes — a [live demo runs entirely in your browser](https://playground.wordpress
 
 = What does this plugin actually do on its own? =
 
-It adds a **Get Started** info page to wp-admin and registers three optional, admin-only REST helper routes. It does not publish anything by itself, collect any data, or expose anything to anonymous visitors.
+It adds a **Get Started** info page to wp-admin and registers one optional, admin-only REST helper route (post-meta read/write). It does not publish anything by itself, collect any data, modify its own files, or expose anything to anonymous visitors.
 
 = Do I need anything else? =
 
@@ -78,9 +75,9 @@ No. It is a **research aid, not legal advice.** Always verify with the responsib
 
 No. The plugin stores no secrets, references no specific domain/owner/species, and adds no tracking. Your credentials and private notes stay on your own machine; published pages render only public-safe fields.
 
-= Are the REST routes safe? =
+= Is the REST route safe? =
 
-Every route requires the `manage_options` capability (a site administrator, e.g. via an Application Password). The self-update route is locked to a strict filename whitelist, runs `basename()` to defeat path traversal, caps writes at 256 KB, optionally verifies a SHA-256, and only ever writes inside the plugin's own directory.
+Yes. The single `/meta` route requires the `manage_options` capability (a site administrator, e.g. via an Application Password) and is never exposed to anonymous visitors. It sanitizes meta keys and only reads/writes post meta. The plugin contains no file-writing or self-update code and makes no outbound calls.
 
 = Which SEO plugins are supported? =
 
@@ -96,6 +93,11 @@ GitHub: https://github.com/blonderoofrat/pet-freedom — issues, source, and the
 
 == Changelog ==
 
+= 1.2.0 =
+* Removed the `/inspect` and self-update (`/plugin-update`) REST routes for WordPress.org directory compliance and to keep the plugin minimal. It now exposes only the admin-only `/meta` route the skill needs; updates flow through the directory (or a re-uploaded .zip), and the plugin never modifies its own files.
+* Added a one-click "see it live in your browser" WordPress Playground demo link to the Get Started page and readme.
+* Updated the Get Started page and docs to match.
+
 = 1.1.0 =
 * Added a user-facing **Get Started** admin page (top-level "Pet Freedom" menu) explaining the project, what else is needed, live REST-route status, and the config constants.
 * Relicensed the plugin to **GPLv2 or later** for WordPress.org directory compatibility (the wider project remains MIT / CC BY 4.0).
@@ -106,6 +108,9 @@ GitHub: https://github.com/blonderoofrat/pet-freedom — issues, source, and the
 * Initial release: admin-only REST helpers — generic post-meta read/write (Rank Math / Yoast SEO meta), install inspect, and an admin-authenticated self-update endpoint.
 
 == Upgrade Notice ==
+
+= 1.2.0 =
+Removes the self-update and inspect REST routes for WordPress.org compliance; only the admin-only post-meta route remains. No change to how the skill publishes (it uses /meta).
 
 = 1.1.0 =
 Adds a friendly Get Started admin page and relicenses to GPLv2-or-later for the WordPress.org directory. No breaking changes; existing REST routes are unchanged.

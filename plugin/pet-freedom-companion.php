@@ -2,14 +2,15 @@
 /**
  * Plugin Name: Pet Freedom Companion
  * Plugin URI:  https://github.com/blonderoofrat/pet-freedom
- * Description: Companion for the free Pet Freedom skill for Claude Code: map a pet species' legal status across jurisdictions worldwide and publish it as a sourced WordPress resource. Adds a friendly admin "Get Started" page plus optional admin-only REST helpers (SEO post-meta read/write + self-update). Research aid, not legal advice.
- * Version:     1.1.0
+ * Description: Companion for the free Pet Freedom skill for Claude Code: map a pet species' legal status across jurisdictions worldwide and publish it as a sourced WordPress resource. Adds a friendly admin "Get Started" page plus one optional, admin-only REST helper for writing SEO post-meta (Rank Math / Yoast). Research aid, not legal advice.
+ * Version:     1.2.0
  * Author:      Pet Freedom (blonderoofrat.com)
  * Author URI:  https://blonderoofrat.com
  * License:     GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.8
  * Requires PHP: 7.4
+ * Text Domain: pet-freedom-companion
  *
  * LICENSE NOTE: This WordPress plugin is licensed GPLv2-or-later so it is
  * compatible with the WordPress.org plugin directory. The wider Pet Freedom
@@ -17,15 +18,15 @@
  * MIT (code) / CC BY 4.0 (docs) — see the GitHub repository.
  *
  * This is the SMALL, generalized companion — NOT a big games/garden plugin.
- * It implements exactly three REST concerns: post-meta read/write, install
- * inspect, and plugin self-update — plus an info-only admin page. Everything
+ * It implements exactly one REST concern — generic post-meta read/write, used
+ * by the skill to set SEO meta — plus an info-only admin page. Everything
  * species-/site-specific lives in your skill's config.json; nothing here
  * references any domain, owner, or species.
  *
- * Install: place this file at
- *   wp-content/plugins/pet-freedom-companion/pet-freedom-companion.php
+ * Install: place this folder at wp-content/plugins/pet-freedom-companion/
  * then activate "Pet Freedom Companion" on the wp-admin Plugins screen.
- * Later upgrades flow through the /plugin-update endpoint (see README.md).
+ * Updates flow through the WordPress.org directory (or, if you installed the
+ * .zip manually, by uploading a newer .zip) — the plugin never modifies itself.
  *
  * Pairs with: Claude Code (https://claude.com/claude-code) + the free
  * Pet Freedom skill, distributed on GitHub (see PETFREEDOM_GITHUB below).
@@ -55,9 +56,6 @@ define( 'PETFREEDOM_GITHUB', 'https://github.com/blonderoofrat/pet-freedom' );
 define( 'PETFREEDOM_HOME',   'https://blonderoofrat.com' );
 /* One-click "try it live in your browser" — a WordPress Playground demo preloaded with the resource. */
 define( 'PETFREEDOM_DEMO',   'https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json' );
-
-/* Self-update guards. 256 KB is plenty for any source/asset this skill ships. */
-const PETFREEDOM_MAX_BYTES = 262144; // 256 * 1024
 
 add_action( 'rest_api_init', function () {
 
@@ -113,121 +111,13 @@ add_action( 'rest_api_init', function () {
 			},
 		),
 	) );
-
-	/* ------------------------------------------------------------------
-	 * INSPECT — read-only list of active plugins + versions, so the deploy
-	 * script can confirm the version header bumped after a self-update.
-	 * ---------------------------------------------------------------- */
-	register_rest_route( PETFREEDOM_NS, '/inspect', array(
-		'methods'             => WP_REST_Server::READABLE,
-		'permission_callback' => $admin,
-		'callback'            => function () {
-			if ( ! function_exists( 'get_plugins' ) ) {
-				require_once ABSPATH . 'wp-admin/includes/plugin.php';
-			}
-			$plugins = array();
-			foreach ( get_plugins() as $file => $d ) {
-				if ( ! is_plugin_active( $file ) ) { continue; }
-				$plugins[] = array(
-					'name'    => $d['Name'],
-					'version' => $d['Version'],
-					'active'  => true,
-				);
-			}
-			return array(
-				'wp_version' => get_bloginfo( 'version' ),
-				'plugins'    => $plugins,
-			);
-		},
-	) );
-
-	/* ------------------------------------------------------------------
-	 * PLUGIN SELF-UPDATE — admin-authenticated REST write of a file inside
-	 * this plugin's OWN directory, so upgrades can be pushed from the Python
-	 * deploy tool without touching wp-admin. Heavily guarded:
-	 *   - permission: manage_options (admin auth, e.g. Application Password)
-	 *   - filename whitelist: ^[a-z0-9_-]+\.(php|md|txt|json|css|js)$
-	 *   - basename() applied to defeat any path-traversal attempt
-	 *   - 256 KB size cap
-	 *   - .php files MUST start with <?php (never write a fataling loader)
-	 *   - optional sha256: if supplied, bytes must match (hash_equals)
-	 *   - write target is plugin_dir_path(__FILE__) only
-	 *   - rotates .bak.1 .. .bak.5 so a bad push can be reverted via SFTP
-	 *   - flushes the plugins cache so the new Version: shows immediately
-	 * The new code takes effect on the NEXT request; this response still runs
-	 * under the old (in-memory) code.
-	 *
-	 * RECOVERY: a broken push that still begins with <?php can fatal the site.
-	 * ALWAYS `php -l` the file before deploying. If it fataled, restore the
-	 * newest .bak (rename .bak.1 back over the live file) via SFTP/file manager.
-	 * ---------------------------------------------------------------- */
-	register_rest_route( PETFREEDOM_NS, '/plugin-update', array(
-		'methods'             => WP_REST_Server::CREATABLE, // POST
-		'permission_callback' => $admin,
-		'args'                => array(
-			'filename'    => array( 'required' => true ),
-			'content_b64' => array( 'required' => true ),
-			'sha256'      => array( 'required' => false ),
-		),
-		'callback'            => function ( WP_REST_Request $req ) {
-			$fname = basename( (string) $req->get_param( 'filename' ) );
-			if ( ! preg_match( '/^[a-z0-9_-]+\.(php|md|txt|json|css|js)$/i', $fname ) ) {
-				return new WP_Error( 'petfreedom_bad_fname', 'Invalid filename (allowed: [a-z0-9_-]+ . php/md/txt/json/css/js).', array( 'status' => 400 ) );
-			}
-			$data = base64_decode( (string) $req->get_param( 'content_b64' ), true );
-			if ( $data === false ) {
-				return new WP_Error( 'petfreedom_bad_b64', 'content_b64 is not valid base64.', array( 'status' => 400 ) );
-			}
-			if ( strlen( $data ) > PETFREEDOM_MAX_BYTES ) {
-				return new WP_Error( 'petfreedom_too_big', 'File exceeds 256 KB.', array( 'status' => 413 ) );
-			}
-			// .php must open with the PHP tag so we never write a broken loader.
-			if ( strtolower( substr( $fname, -4 ) ) === '.php' && substr( $data, 0, 5 ) !== '<?php' ) {
-				return new WP_Error( 'petfreedom_bad_php', 'PHP file must start with <?php', array( 'status' => 400 ) );
-			}
-			$expected_sha = (string) $req->get_param( 'sha256' );
-			$actual_sha   = hash( 'sha256', $data );
-			if ( $expected_sha !== '' && ! hash_equals( strtolower( $expected_sha ), $actual_sha ) ) {
-				return new WP_Error( 'petfreedom_sha_mismatch',
-					'sha256 mismatch: expected ' . $expected_sha . ' got ' . $actual_sha,
-					array( 'status' => 400 ) );
-			}
-			$dir  = plugin_dir_path( __FILE__ );
-			$path = $dir . $fname;
-			// Rotate backups so the last 5 prior versions are recoverable via SFTP.
-			if ( file_exists( $path ) ) {
-				for ( $i = 5; $i > 1; $i-- ) {
-					$src = $path . '.bak.' . ( $i - 1 );
-					if ( file_exists( $src ) ) { @rename( $src, $path . '.bak.' . $i ); }
-				}
-				@copy( $path, $path . '.bak.1' );
-			}
-			if ( file_put_contents( $path, $data ) === false ) {
-				return new WP_Error( 'petfreedom_write_failed', 'Could not write file (permissions?).', array( 'status' => 500 ) );
-			}
-			// Flush the cached plugins list so wp-admin shows the new Version:
-			// header without a deactivate/reactivate cycle.
-			if ( ! function_exists( 'wp_clean_plugins_cache' ) ) {
-				require_once ABSPATH . 'wp-admin/includes/plugin.php';
-			}
-			wp_clean_plugins_cache( true );
-			return array(
-				'ok'       => true,
-				'filename' => $fname,
-				'bytes'    => strlen( $data ),
-				'sha256'   => $actual_sha,
-				'rel_path' => str_replace( WP_CONTENT_DIR, '', $path ),
-				'note'     => 'plugin file replaced; new code takes effect on the NEXT request. Plugins-list cache flushed.',
-			);
-		},
-	) );
 } );
 
 /* ======================================================================
  * ADMIN PAGE — "Get Started" (info only).
  * Gives the plugin standalone, user-facing value: it explains what Pet
  * Freedom is, what else you need (Claude Code + the free skill), shows
- * whether the REST routes are active, and surfaces the two config
+ * whether the REST route is active, and surfaces the two config
  * constants to keep in sync with config.json. It registers NO new routes,
  * collects NO data, and writes nothing — it only reads and renders.
  * ==================================================================== */
@@ -253,11 +143,11 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 			wp_die( esc_html__( 'You do not have permission to view this page.', 'pet-freedom-companion' ) );
 		}
 
-		// "Are the REST routes live?" — they are registered above on this
-		// install, so if the plugin is active they exist. Build a sample URL
-		// so the admin can confirm with their own credentials.
+		// "Is the REST route live?" — it is registered above on this install,
+		// so if the plugin is active it exists. Build a sample URL so the admin
+		// can confirm with their own credentials.
 		$routes_active = true; // registered unconditionally when active
-		$base          = esc_url( rest_url( PETFREEDOM_NS . '/inspect' ) );
+		$base          = esc_url( rest_url( PETFREEDOM_NS . '/meta' ) );
 		$github        = esc_url( PETFREEDOM_GITHUB );
 		$home          = esc_url( PETFREEDOM_HOME );
 		$claude        = esc_url( 'https://claude.com/claude-code' );
@@ -302,19 +192,18 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 			<table class="widefat striped" style="max-width:760px;">
 				<tbody>
 					<tr>
-						<td style="width:240px;"><strong>REST routes</strong></td>
+						<td style="width:240px;"><strong>REST route</strong></td>
 						<td>
 							<?php if ( $routes_active ) : ?>
-								<span style="color:#1a7f37;">&#10003; Active</span> — registered under
-								<code>/wp-json/<?php echo esc_html( PETFREEDOM_NS ); ?>/</code>
-								(<code>/meta</code>, <code>/inspect</code>, <code>/plugin-update</code>; all admin-only).
+								<span style="color:#1a7f37;">&#10003; Active</span> — <code>/meta</code> registered under
+								<code>/wp-json/<?php echo esc_html( PETFREEDOM_NS ); ?>/</code> (admin-only).
 							<?php else : ?>
 								<span style="color:#b32d2e;">Not active</span>
 							<?php endif; ?>
 						</td>
 					</tr>
 					<tr>
-						<td><strong>Confirm a route</strong></td>
+						<td><strong>Confirm the route</strong></td>
 						<td>
 							<code><?php echo $base; ?></code>
 							<p class="description" style="margin:4px 0 0;">
@@ -325,7 +214,7 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 					</tr>
 					<tr>
 						<td><strong>Plugin version</strong></td>
-						<td><code>1.1.0</code></td>
+						<td><code>1.2.0</code></td>
 					</tr>
 				</tbody>
 			</table>

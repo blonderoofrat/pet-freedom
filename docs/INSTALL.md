@@ -14,7 +14,7 @@ companion plugin are **optional** and you can add them later.
 | WordPress + a user with **publish** rights + an **Application Password** | always | the build publishes pages via core WP REST |
 | **Rank Math** *or* **Yoast**, **or** the bundled `mu-plugin/register-seo-meta.php` | always | so the build can write SEO title/description/keyword/canonical |
 | **Purge your host cache after every build** | always | caches hide your changes from visitors |
-| Optional **companion plugin** | if `plugin.use:true` | convenience routes (`/meta`, `/inspect`, panels) |
+| Optional **companion plugin** | if `plugin.use:true` | a friendly admin page + one `/meta` SEO-meta route |
 | Authenticated mailbox **+ SPF/DKIM/DMARC** on your sending domain | only for inquiries | strict receivers bounce mail that isn't authenticated |
 | **Gemini Pro** Deep Research | optional | deeper research; Claude's own research is the fallback |
 | Python 3.8+ | always | runs the skill scripts (stdlib only — no `pip install`) |
@@ -56,12 +56,13 @@ then set `seo.plugin` in `config.json`:
 ## (c) Companion plugin (OPTIONAL — only when `plugin.use:true`)
 
 The skill publishes fine **without** any custom plugin. The optional companion plugin
-(`plugin/pet-freedom-companion.php`, configurable namespace) just adds convenience routes — a `/meta`
-endpoint, an `/inspect` helper, and the opt-in admin panels for inquiries/to-dos.
+(`plugin/pet-freedom-companion.php`, configurable namespace) just adds a friendly **Get Started** admin page
+plus one admin-only convenience route: `/meta`, a uniform endpoint for writing SEO post-meta.
 
 - Set `"plugin": { "use": true, "namespace": "petfreedom/v1", "option_prefix": "pf_" }` to use it.
 - Set `"plugin": { "use": false }` to skip it entirely (then use option **(b)** above for SEO meta).
-- If you self-update the plugin via REST, run a `php -l` lint on the file first — that's a hard policy.
+- Install/update it like any plugin (from the WordPress.org directory, or by uploading the `.zip`). It
+  makes no outbound calls and does not modify its own files.
 
 > The current scaffold's core scripts (`seed.py`, `make_prompts.py`, `build.py`) work with
 > `plugin.use:false` + the mu-plugin SEO fallback. Start there if you want the simplest setup.

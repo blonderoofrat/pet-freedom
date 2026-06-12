@@ -61,8 +61,11 @@ The ones that matter for this plugin:
   once, on the info page and in the readme — that's allowed because it's
   necessary context, not advertising. Don't add nag banners, affiliate links, or
   paid upsells.
-- **No tracking / no calling home / no obfuscated code.** ✅ The plugin collects
-  no data and makes no outbound calls. Keep it that way.
+- **No self-modifying code / no tracking / no calling home / no obfuscation.** ✅ As of **v1.2.0** the plugin
+  exposes only the admin-only `/meta` route. The earlier self-update (`/plugin-update`) and `/inspect` routes
+  were **removed**: a REST endpoint that writes the plugin's own files is disallowed by the directory (plugins
+  update *through* WordPress.org, not by pushing code to themselves), and it would have triggered a rejection.
+  The plugin collects no data and makes no outbound calls. Keep it that way.
 - **All output escaped, all input sanitized, capability checks on every route.**
   ✅ Already done (`manage_options`, `esc_*`, `sanitize_key`, filename whitelist).
 - **Trademarks:** don't imply official endorsement by WordPress, Anthropic, etc.
@@ -86,7 +89,7 @@ the directory listing.
 
 ## Quick pre-submission checklist
 
-- [ ] `readme.txt` `Stable tag:` matches the version in the plugin header (1.1.0).
+- [ ] `readme.txt` `Stable tag:` matches the version in the plugin header (**1.2.0**).
 - [ ] GitHub URL is set to `https://github.com/blonderoofrat/pet-freedom` (already done in the
       plugin header `PETFREEDOM_GITHUB` constant and in `readme.txt`). Confirm the repo is public.
 - [ ] `Contributors:` is set to `blonderoofrat` — confirm that's also your **WordPress.org**
