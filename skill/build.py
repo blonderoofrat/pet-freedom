@@ -166,6 +166,47 @@ def preliminary_callout():
                    bg="#fff3e0", border="#ef6c00")
 
 
+def _legal_note_details(label="legal note"):
+    """The 'not legal advice' CYA, collapsed into a quiet click-to-open <details> (no JS, no cookies)."""
+    return ('<details style="display:inline;"><summary style="display:inline;cursor:pointer;color:#9e9e9e;">'
+            '%s</summary> <span style="color:#777;">%s</span></details>' % (label, DISCLAIMER_SHORT))
+
+
+def trust_note(d):
+    """One slim, confidence-CALIBRATED line + the collapsed legal note. Leads with how solid the research
+    is (calibrated to what's actually confirmed) and tucks the 'not legal advice' CYA one quiet click away,
+    so the content is the focus. Names the mixed case explicitly so a page is never both 'preliminary' and
+    'agency-confirmed' at once."""
+    prelim = is_preliminary(d)
+    confirmed = bool(d.get("agency_confirmations"))
+    if confirmed and prelim:
+        msg = ("<strong>Part confirmed, part preliminary</strong> &mdash; some activities below are confirmed in "
+               "writing by the responsible agency; others we&rsquo;re still verifying. Each section is labelled.")
+        col = "#1565c0"
+    elif confirmed:
+        msg = "Key points here are <strong>confirmed in writing by the responsible agency</strong> (see below)."
+        col = "#2e7d32"
+    elif prelim:
+        contact = cfg.cta_link("contact")
+        tail = (' <a href="%s">Know the local rule? Tell us.</a>' % contact) if contact else ""
+        msg = ("<strong>Preliminary</strong> &mdash; built from official sources but not yet agency-confirmed; "
+               "a solid starting point." + tail)
+        col = "#ef6c00"
+    else:
+        msg = "Cross-checked against official government sources."
+        col = "#2e7d32"
+    return html_block(
+        '<div style="font-size:.85em;color:#555;border-left:3px solid %s;padding:1px 0 1px 10px;'
+        'margin:.6em 0 1em;">%s %s</div>' % (col, msg, _legal_note_details()))
+
+
+def legal_note():
+    """De-emphasized, collapsible 'not legal advice' note for general (non-jurisdiction) pages."""
+    return html_block(
+        '<div style="font-size:.85em;color:#555;border-left:3px solid #9e9e9e;padding:1px 0 1px 10px;'
+        'margin:.6em 0 1em;">%s</div>' % _legal_note_details("Legal note"))
+
+
 def badge(status):
     color = STATUS_COLORS.get(status, STATUS_COLORS["unknown"])
     label = STATUS_LABELS.get(status, STATUS_LABELS["unknown"])
@@ -351,9 +392,8 @@ def jurisdiction_blocks(d, by_id):
                         % (hub, cfg.hub_title, cfg.site_url, path_for(parent, by_id), pn, name))]
     else:
         blocks = [("p", '<a href="%s">%s</a> &rsaquo; %s' % (hub, cfg.hub_title, name))]
-    blocks.append(("raw", disclaimer_callout()))
-    if is_preliminary(d):
-        blocks.append(("raw", preliminary_callout()))
+    blocks.append(("p", "<strong>Summary.</strong> %s" % d.get("summary", "")))
+    blocks.append(("raw", trust_note(d)))
     if parent and parent in by_id:
         pn2 = by_id[parent]["jurisdiction"]["name"]
         blocks.append(("raw", callout(
@@ -363,7 +403,6 @@ def jurisdiction_blocks(d, by_id):
             '<a href="%s%s">%s</a>.'
             % (name, pn2, name, cfg.site_url, path_for(parent, by_id), pn2),
             bg="#eef2ff", border="#3949ab")))
-    blocks.append(("p", "<strong>Summary.</strong> %s" % d.get("summary", "")))
     if d.get("agency_confirmations"):
         blocks.append(("raw", confirmations_callout(d["agency_confirmations"])))
     blocks.append(("h2", "Status by activity"))
@@ -536,7 +575,7 @@ def hub_blocks(juris, by_id):
               "you live?</strong> This is a growing, plain-language guide to the official rules on keeping, "
               "breeding, selling, and transporting a domesticated %s, country by country and state by state, "
               "with links to the official sources so you can read them yourself." % (sc, species_phrase)),
-        ("raw", disclaimer_callout()),
+        ("raw", legal_note()),
         ("h2", "Find your location"),
         ("p", "Open your region to see the countries in it, then pick your country (and your state or "
               "region). Each page breaks down the activities, with a confidence level and the official "
@@ -585,7 +624,7 @@ def about_blocks():
     blocks = [
         ("p", "This resource helps people find the official legal status of keeping, breeding, selling, and "
               "transporting a domesticated %s wherever they live, and what to do about it." % species_phrase),
-        ("raw", disclaimer_callout()),
+        ("raw", legal_note()),
         ("h2", "What this is, and is not"),
         ("p", "It is a <strong>research aid</strong> built from official government sources. It is <strong>not "
               "legal advice</strong>, and we are not lawyers. Laws change, and local officials interpret them in "
@@ -691,7 +730,7 @@ def selfhelp_blocks():
     blocks = [
         ("p", "<strong>Can&rsquo;t find your area in our guide yet?</strong> Here is exactly how to get the "
               "official answer for where you live, the same way we do it. It usually takes a few emails."),
-        ("raw", disclaimer_callout()),
+        ("raw", legal_note()),
         ("h2", "Step 1: Know the exact animal"),
         ("p", step1),
         ("h2", "Step 2: Identify your jurisdiction(s)"),
