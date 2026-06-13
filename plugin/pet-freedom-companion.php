@@ -3,7 +3,7 @@
  * Plugin Name: Pet Freedom Companion
  * Plugin URI:  https://github.com/blonderoofrat/pet-freedom
  * Description: Companion for the free Pet Freedom skill for Claude Code: map a pet species' legal status across jurisdictions worldwide and publish it as a sourced WordPress resource. Adds a friendly admin "Get Started" page plus one optional, admin-only REST helper for writing SEO post-meta (Rank Math / Yoast). Research aid, not legal advice.
- * Version:     1.2.0
+ * Version:     1.3.1
  * Author:      Pet Freedom (blonderoofrat.com)
  * Author URI:  https://blonderoofrat.com
  * License:     GPLv2 or later
@@ -54,8 +54,8 @@ define( 'PETFREEDOM_OPT_PREFIX', 'pf_' );
  * -------------------------------------------------------------------- */
 define( 'PETFREEDOM_GITHUB', 'https://github.com/blonderoofrat/pet-freedom' );
 define( 'PETFREEDOM_HOME',   'https://blonderoofrat.com' );
-/* One-click "try it live in your browser" — a WordPress Playground demo preloaded with the resource. */
-define( 'PETFREEDOM_DEMO',   'https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json' );
+/* The project landing page, with a one-click "try it live" in-browser WordPress Playground demo. */
+define( 'PETFREEDOM_DEMO',   'https://blonderoofrat.com/pet-freedom/' );
 
 add_action( 'rest_api_init', function () {
 
@@ -126,19 +126,19 @@ add_action( 'admin_menu', function () {
 		'Pet Freedom',                 // page <title>
 		'Pet Freedom',                 // menu label
 		'manage_options',              // capability
-		'pet-freedom',                 // menu slug
-		'pet_freedom_render_get_started',
+		'petfreedom',                  // menu slug
+		'petfreedom_render_get_started',
 		'dashicons-pets',
 		71                             // position
 	);
 } );
 
-if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
+if ( ! function_exists( 'petfreedom_render_get_started' ) ) {
 	/**
 	 * Renders the read-only "Get Started" admin page. Info only — no forms,
 	 * no writes, no data collection.
 	 */
-	function pet_freedom_render_get_started() {
+	function petfreedom_render_get_started() {
 		if ( ! current_user_can( 'manage_options' ) ) {
 			wp_die( esc_html__( 'You do not have permission to view this page.', 'pet-freedom-companion' ) );
 		}
@@ -169,7 +169,7 @@ if ( ! function_exists( 'pet_freedom_render_get_started' ) ) {
 			</p>
 
 			<p style="max-width:760px;">
-				<a class="button button-primary button-hero" href="<?php echo esc_url( $demo ); ?>" target="_blank" rel="noopener">&#9654;&nbsp; See it live in your browser — no install</a>
+				<a class="button button-primary button-hero" href="<?php echo esc_url( $demo ); ?>" target="_blank" rel="noopener">&#9654;&nbsp; See the live demo and how it works</a>
 				<span class="description" style="display:block;margin-top:6px;">Boots a real WordPress in your browser (via WordPress Playground), preloaded with the worldwide roof-rat law resource as a working example. Takes a few seconds to build. <strong>Prefer the real thing?</strong> Browse the live, maintained resource this skill produces &mdash; <a href="<?php echo esc_url( $live ); ?>" target="_blank" rel="noopener"><em>Are Roof Rats Legal?</em>, 100+ jurisdictions</a>.</span>
 			</p>
 
@@ -232,7 +232,7 @@ For any step I must do by hand (accounts, installing a plugin, purging cache), g
 					</tr>
 					<tr>
 						<td><strong>Plugin version</strong></td>
-						<td><code>1.2.0</code></td>
+						<td><code>1.3.1</code></td>
 					</tr>
 				</tbody>
 			</table>

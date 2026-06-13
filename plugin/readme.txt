@@ -4,7 +4,7 @@ Tags: pet, animal, legal, wildlife, exotic pets
 Requires at least: 5.8
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.2.0
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Map a pet species' legal status across jurisdictions worldwide and publish it �
 
 **Pet Freedom** helps you research, verify, and publish the legal status of an animal — whether it can be **kept, bred, sold, and transported** — across countries, states, and territories, as a structured, SEO-ready WordPress resource. It is *species-agnostic* (you set the species in one config file) and *privacy-preserving* (your credentials and private notes never leave your machine; published pages render only public-safe fields).
 
-**See it before you install anything:** a one-click [live demo runs in your browser](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json) (via WordPress Playground), preloaded with a worldwide example resource — no account, no server.
+**See it before you install anything:** the [Pet Freedom page](https://blonderoofrat.com/pet-freedom/) has a one-click "Try it live" demo that boots a real WordPress in your browser (via WordPress Playground), preloaded with a worldwide example resource. No account, no server.
 
 This plugin — **Pet Freedom Companion** — is the small WordPress half of the project. It adds:
 
@@ -57,7 +57,7 @@ You do not strictly need this plugin to use the skill — it can also publish th
 
 = Can I see it in action before installing? =
 
-Two ways. (1) A [live demo runs entirely in your browser](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/blonderoofrat/pet-freedom/main/demo/playground/blueprint.json) via WordPress Playground — no account, no server. (2) Browse the real, maintained resource this skill produces, in production: [Are Roof Rats Legal? — worldwide roof-rat laws](https://blonderoofrat.com/roof-rat-laws/) (100+ jurisdictions, search-indexed). The first is the sandbox to try; the second is the finished thing in the wild.
+Two ways. (1) The [Pet Freedom page](https://blonderoofrat.com/pet-freedom/) has a one-click "Try it live" demo that runs entirely in your browser via WordPress Playground (no account, no server). (2) Browse the real, maintained resource this skill produces, in production: [Are Roof Rats Legal?](https://blonderoofrat.com/roof-rat-laws/) (100+ jurisdictions, search-indexed). The first is the sandbox to try; the second is the finished thing in the wild.
 
 = How do I set it up? =
 
@@ -97,6 +97,13 @@ GitHub: https://github.com/blonderoofrat/pet-freedom — issues, source, and the
 
 == Changelog ==
 
+= 1.3.1 =
+* The admin "Get Started" page and readme now link to the project's landing page (blonderoofrat.com/pet-freedom/) for the live demo, instead of a GitHub URL. Clearer for non-technical users and keeps the plugin free of remote-file calls.
+
+= 1.3.0 =
+* WordPress.org review fixes: removed the hard-coded external blueprint URL from the plugin. The "try it live" demo now links to the project's GitHub, where the one-click WordPress Playground demo lives, so the plugin calls no remote files.
+* Renamed the admin page callback and menu slug to use the consistent `petfreedom` prefix, avoiding generic names.
+
 = 1.2.0 =
 * Removed the `/inspect` and self-update (`/plugin-update`) REST routes for WordPress.org directory compliance and to keep the plugin minimal. It now exposes only the admin-only `/meta` route the skill needs; updates flow through the directory (or a re-uploaded .zip), and the plugin never modifies its own files.
 * Added a one-click "see it live in your browser" WordPress Playground demo link to the Get Started page and readme.
@@ -112,6 +119,12 @@ GitHub: https://github.com/blonderoofrat/pet-freedom — issues, source, and the
 * Initial release: admin-only REST helpers — generic post-meta read/write (Rank Math / Yoast SEO meta), install inspect, and an admin-authenticated self-update endpoint.
 
 == Upgrade Notice ==
+
+= 1.3.1 =
+The live-demo link now points to the project landing page (clearer for everyone). No functional change.
+
+= 1.3.0 =
+WordPress.org review fixes: no remote-file calls (the demo links to GitHub) and consistent `petfreedom` prefixing. No functional change.
 
 = 1.2.0 =
 Removes the self-update and inspect REST routes for WordPress.org compliance; only the admin-only post-meta route remains. No change to how the skill publishes (it uses /meta).
