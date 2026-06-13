@@ -26,6 +26,11 @@ jurisdictions. Everything species/brand-specific lives in `config.json` — read
   manual. On a bounce, find a *verified* replacement or flag honestly — never guess.
 - **Agency answers outrank Deep Research.** Sanity-check every DR; if an official reply conflicts with a DR, the
   agency wins — but if the conflict looks genuine/substantive, seek confirmation before flipping.
+- **Use the right voice for the context (see `docs/VOICE.md`).** The legal/advocacy output (jurisdiction
+  pages, advocacy kits) is **factual, clear, precise, concise but complete** — neutral and informational,
+  never chatty, warm, or salesy. Owner-facing copy (blog posts, pages, captions about the animal) uses the
+  **site owner's OWN authentic voice**, modeled on samples of their real writing, not a generic AI voice.
+  Either way, avoid flowery, polished AI prose, and avoid em-dashes.
 - **Commit + back up after each change.**
 
 ## 1. Setup check
@@ -62,4 +67,5 @@ and say so on the page.
 Inquiries/mail (`skill/inquiries.py`, `skill/mail.py`); the companion plugin (`plugin/`); the Answer Garden
 crowdsourcing loop for leaf nodes/cities (`modules/answer-garden/`). All optional; the core (1–6) works without them.
 
-See `docs/RUNBOOK.md` for day-to-day operation and `docs/OPSEC.md` for the full public/private contract.
+See `docs/RUNBOOK.md` for day-to-day operation, `docs/OPSEC.md` for the full public/private contract, and
+`docs/VOICE.md` for which register to write in (factual for legal/advocacy; the owner's own voice for posts).
