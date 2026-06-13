@@ -16,35 +16,35 @@
       "'iole"
     ]
   },
-  "summary": "Hawaii is legal-with-permit for domesticated rats — not the flat ban earlier research suggested. Hawaii runs four animal lists under HAR Chapter 4-71: Prohibited, Restricted (research/exhibition), Restricted (private/commercial), and Conditionally Approved. Domesticated rats sit on the CONDITIONALLY APPROVED list (HAR §4-71-6.5), which means they can be imported and kept WITH a prior HDOA Plant Quarantine import permit (Form PQ-7), entering only through Honolulu and inspected at the Airport Animal Quarantine Facility — a standard administrative permit available to private keepers, not a research-only carve-out. The one genuine open question is species precision: the list covers 'domesticated rats' (clearly the fancy rat, R. norvegicus), and whether it extends by name to a domesticated/fancy R. rattus needs written HDOA confirmation (if not, R. rattus would fall to the default-prohibited bucket and need a case-by-case permit). Wild/feral Rattus remains an invasive pest under separate public-health law — a different regime from the import-permit system.",
-  "last_reviewed": "2026-06-07",
+  "summary": "Hawaii is legal-with-permit for a domesticated rat, including the roof rat. Hawaii runs four animal-import lists under HAR Chapter 4-71 (Prohibited; Restricted Part A; Restricted Part B; Conditionally Approved), and an unlisted animal is prohibited by default (HRS §150A-6.2). The Conditionally Approved list (HAR §4-71-6.5, Exhibit AR-71C) lists, under Family Muridae, the genus-level entry 'Rattus sp.' with common name 'rat, domesticated' (alongside 'Mus musculus - mice, domesticated'). Because the entry names the whole genus rather than only Rattus norvegicus, a domesticated/captive-bred R. rattus falls within it on the face of the rule, and Rattus does NOT appear on the Prohibited list (AR-71P). A domesticated rat may therefore be imported and kept WITH a prior HDOA Plant Quarantine import permit (Form PQ-7), entering the state only through the Daniel K. Inouye (Honolulu) International Airport and inspected at the Airport Animal Quarantine Holding Facility, accompanied by a Certificate of Veterinary Inspection. The genuine open point is administrative, not textual: HDOA's permit history and Board submittals discuss the 'domesticated rat' in terms of the laboratory/fancy Norway rat (R. norvegicus) and its 'degree of domestication,' and the Chief Plant Inspector has discretion at permit time, so whether HDOA will treat a captive-bred R. rattus as 'domesticated' under the genus entry is worth a written determination before importing. Breeding is restricted (the Board may attach permit conditions on reproduction, facility, and disposition of progeny). Intrastate sale/transfer is unregulated/unclear in the public code (the framework is import-focused). Wild/feral Rattus is separately managed as an invasive pest and disease vector (DOH HAR 11-26); never release one. For international (not mainland-to-Hawaii) movement, U.S. Fish & Wildlife treats R. rattus as wildlife under 50 CFR 14.4, which exempts only R. norvegicus and Mus musculus.",
+  "last_reviewed": "2026-06-13",
   "advocacy": {
     "flag": true,
     "kit": {
-      "case_type": "agency_species_trap",
-      "problem": "Keeping a pet rat in Hawaii is not flatly banned. Hawaii regulates animal imports through lists under Hawaii Administrative Rules (HAR) Chapter 4-71, and \"domesticated rats\" sit on the Conditionally Approved Animals list (HAR §4-71-6.5), meaning they can be lawfully imported and kept with a prior Hawaii Department of Agriculture & Biosecurity (HDOA) Plant Quarantine import permit (Form PQ-7). Animals enter only through Honolulu and are inspected at the Airport Animal Quarantine Facility. The issue is a species-precision gap. The Conditionally Approved entry is for \"domesticated rats,\" and HDOA's supporting materials describe that as the laboratory/fancy Norway rat (Rattus norvegicus), bred for generations under controlled conditions and unlikely to establish in the wild. A domesticated, captive-bred fancy roof rat (Rattus rattus) shares that same tame, indoor-only, never-released profile, but it is not named on the list, and the wild roof rat is an invasive pest in Hawaii. An applicant for a domesticated R. rattus therefore risks falling through a gap: not clearly covered by the \"domesticated rats\" entry, and an unlisted animal is prohibited by default. This is a coverage question, not a flat statutory ban: the permitting pathway exists and HDOA controls the list. The fancy Norway rat already covered is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is the same case one species over.",
-      "ask": "Ask HDOA, in writing, to clarify and, if needed, close the gap: (1) Confirm whether the HAR §4-71-6.5 Conditionally Approved \"domesticated rats\" entry already covers a domesticated/fancy Rattus rattus lineage, or only Rattus norvegicus. (2) If it does not currently cover domesticated R. rattus, add the domesticated/captive-bred R. rattus lineage to the Conditionally Approved entry, or confirm that a private keeper may obtain a case-by-case import permit for domesticated R. rattus under HRS §150A-6.2. The relevant question is domestication, not wild ancestry: the dog descends from the wolf and the house cat from a wild felid, yet both are recognized as domestic animals because of generations bred for tameness. The fancy Norway rat the list already covers is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century (https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/), and a multi-generation captive-bred roof rat is domesticated in that same sense, one species over. The Department is asked to weigh that, not to reach any particular result. (3) State the standard permit conditions, fee, and processing time for a few pet rats. Request a written determination you can rely on before importing.",
-      "branch_note": "Branch = (a) AGENCY, with a narrow rulemaking fallback, not the legislature. The statute (HRS §150A-6.2) does not ban rats; it delegates to the Board of Agriculture the power to maintain the prohibited/restricted/conditionally-approved lists and to issue permits with conditions. The substantive species lists live in administrative rule (HAR Chapter 4-71) and in the published Conditionally Approved list (AR-71C), instruments HDOA owns. \"Domesticated rats\" are already on the Conditionally Approved (keep-with-permit) list, so there is no statute banning pet rats that the agency is merely enforcing. The only live problem is whether HDOA reads \"domesticated rats\" to include a domesticated/fancy Rattus rattus or only Rattus norvegicus. That is an agency coverage gap, fixable by the agency without the legislature: a written determination that the entry covers domesticated R. rattus, or a case-by-case HRS §150A-6.2 permit, or, if HDOA reads the entry as genus-specific, an update to the Conditionally Approved list to name the domesticated R. rattus lineage. Because the lever is the agency's own list and permit power, appealing to HDOA is the right move; this is not a case of asking an agency to ignore a statute it is correctly applying. The legislature is not the first stop. Escalation to a HAR Chapter 4-71 amendment (which has a public-comment/rulemaking window) becomes relevant only if HDOA both refuses to read the existing entry to cover domesticated R. rattus and declines a case-by-case permit. Start with the written agency inquiry and keep the rulemaking-comment route in reserve.",
+      "case_type": "agency_clarification",
+      "problem": "Keeping a pet rat in Hawaii is not banned. Hawaii regulates animal imports through lists under Hawaii Administrative Rules (HAR) Chapter 4-71, and the Conditionally Approved Animals list (HAR §4-71-6.5, Exhibit AR-71C) names, under Family Muridae, the genus-level entry 'Rattus sp.' with the common name 'rat, domesticated' (next to 'Mus musculus - mice, domesticated'). Because the entry is written at the genus level rather than naming only the Norway rat (Rattus norvegicus), a domesticated, captive-bred roof rat (Rattus rattus) falls within it on the face of the rule, and Rattus does not appear on the Prohibited list. So a domesticated rat may be imported and kept with a prior Hawaii Department of Agriculture & Biosecurity (HDOA) Plant Quarantine import permit (Form PQ-7); the animal enters only through Honolulu and is inspected at the Airport Animal Quarantine Holding Facility. The remaining issue is discretionary application, not the text. HDOA's permit submittals and approval justifications describe the 'domesticated rat' as the laboratory/fancy Norway rat, bred for generations under controlled conditions and unlikely to establish in the wild, and the Chief Plant Inspector decides species coverage when a permit is reviewed. An applicant for a captive-bred R. rattus therefore risks the agency reading the genus entry narrowly and treating the animal as a 'tame wild animal' rather than a 'domesticated' one; because an unlisted animal is prohibited by default, a narrow reading could foreclose the permit. A domesticated, captive-bred, hand-tame, indoor-only roof rat shares the same risk profile as the fancy Norway rat already covered. The fancy Norway rat is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is the same case one species over.",
+      "ask": "Ask HDOA, in writing, to confirm coverage and, if it reads the entry narrowly, to provide an alternative: (1) Confirm whether the genus-level HAR §4-71-6.5 Conditionally Approved entry 'Rattus sp. (rat, domesticated)' covers a domesticated/captive-bred Rattus rattus, so a private resident may apply for a Form PQ-7 import permit for one as a pet. (2) If HDOA reads the entry to cover only Rattus norvegicus, confirm that a private keeper may obtain a case-by-case import permit for a domesticated R. rattus under HRS §150A-6.2, or that the domesticated R. rattus lineage can be recognized under the existing genus entry. The relevant question is domestication, not wild ancestry: the dog descends from the wolf and the house cat from a wild felid, yet both are recognized as domestic animals because of generations bred for tameness. The fancy Norway rat the list already covers is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century (https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/), and a multi-generation captive-bred roof rat is domesticated in that same sense, one species over. The Department is asked to weigh that, not to reach any particular result. (3) State the standard permit conditions (including any breeding/disposition conditions), the fee, and the processing time for a few pet rats. Request a written determination you can rely on before importing.",
+      "branch_note": "Lever = THE AGENCY (HDOA), with a case-by-case permit and a rulemaking route in reserve; not the legislature first. The statute (HRS §150A-6.2) does not ban rats; it directs the Board of Agriculture to maintain the prohibited/restricted/conditionally-approved lists, to import conditionally-approved and restricted animals by permit, and to issue case-by-case special permits. The substantive lists live in administrative rule (HAR Chapter 4-71) and in the published Conditionally Approved list (Exhibit AR-71C), instruments HDOA owns. Here the published list already names 'Rattus sp. (rat, domesticated)' at the genus level, so on the face of the rule a domesticated R. rattus is covered and there is no statute banning pet rats that the agency is merely enforcing. The only live problem is whether the HDOA Plant Quarantine Branch, exercising its permit-time discretion, will read that genus entry to include a captive-bred R. rattus or will treat it as a 'tame wild animal.' That is an agency interpretation, fixable by the agency: a written determination that the entry covers domesticated R. rattus, or, if it reads the entry narrowly, a case-by-case import permit under HRS §150A-6.2. Because the lever is the agency's own list and permit power, the written HDOA inquiry is the right first move. Escalation to a HAR Chapter 4-71 amendment (which carries a public-comment/rulemaking window) becomes relevant only if HDOA both refuses to read the genus entry to cover domesticated R. rattus and declines a case-by-case permit. Start with the written agency inquiry and keep the rulemaking route in reserve.",
       "time_sensitive": "",
       "targets": [
         {
-          "name": "Hawaii Department of Agriculture & Biosecurity — Plant Quarantine Branch (Import Permits / Form PQ-7)",
+          "name": "Hawaii Department of Agriculture & Biosecurity - Plant Quarantine Branch (Import Permits / Form PQ-7)",
           "type": "agency",
           "form_url": "https://dab.hawaii.gov/pi/pq/import-program/plant-quarantine-application-for-permits/",
-          "why": "This is the office that maintains the Conditionally Approved Animals list and issues the import permits. It is the correct first stop to get a written determination on whether domesticated Rattus rattus is covered, and to apply for a permit (Form PQ-7). Verified live: it links the PQ-7 application and explains the conditionally-approved permit process."
+          "why": "This is the office that maintains the Conditionally Approved Animals list and issues the import permits. It is the correct first stop to get a written determination on whether the genus-level 'Rattus sp. (rat, domesticated)' entry covers a domesticated Rattus rattus, and to apply for a permit (Form PQ-7). Verified live: it links the PQ-7 application and explains the conditionally-approved permit process."
         },
         {
-          "name": "Hawaii Department of Agriculture & Biosecurity — Plant Quarantine Branch Office Contacts",
+          "name": "Hawaii Department of Agriculture & Biosecurity - Plant Quarantine Branch Office Contacts",
           "type": "agency",
           "form_url": "https://dab.hawaii.gov/pi/pq/pqcontacts/",
           "email": "",
-          "why": "Official contacts page for the Plant Quarantine Branch (Oahu main office phone 808-832-0566; airport 808-837-8413). Use it to direct a written species-coverage inquiry to the branch that controls the list. Listed because the branch's published page does not post a dedicated permit-inquiry email, so an official page/phone is the verified channel rather than an unconfirmed inbox."
+          "why": "Official contacts page for the Plant Quarantine Branch (Oahu main office phone 808-832-0566; airport line 808-837-8413; 1849 Auiki St, Honolulu, HI 96819). Use it to direct a written species-coverage inquiry to the branch that controls the list and issues permits. Listed because the branch's published page does not post a dedicated permit-inquiry email, so an official page/phone is the verified channel rather than an unconfirmed inbox."
         }
       ],
       "template": {
-        "en": "To: Hawaii Department of Agriculture & Biosecurity, Plant Quarantine Branch\n\nRe: Coverage of the Conditionally Approved \"domesticated rats\" entry for a domesticated Rattus rattus\n\nI am a Hawaii resident seeking to keep a domesticated, captive-bred pet rat as an indoor companion animal, in full compliance with state import rules. I understand \"domesticated rats\" are on the Conditionally Approved Animals list (HAR §4-71-6.5) and may be imported with a Plant Quarantine permit (Form PQ-7).\n\nMy question concerns species precision. The animals I keep are domesticated, captive-bred, hand-tame Rattus rattus, multi-generation pet lineages kept strictly indoors in enclosures and never released, the same in behavior and risk as the fancy Norway rat already covered. They are not wild-caught and pose no establishment risk. Domestication is a matter of an animal's breeding history, not its wild ancestry: the dog descends from the wolf and the house cat from a wild felid, yet both are recognized as domestic animals because of generations bred for tameness. The fancy rat already covered is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is domesticated in that same sense.\n\nPlease confirm in writing: (1) Does the Conditionally Approved \"domesticated rats\" entry include a domesticated/fancy Rattus rattus lineage, or only Rattus norvegicus? (2) If it does not, may a private keeper obtain a permit for domesticated R. rattus under the same Conditionally Approved pathway or a case-by-case permit under HRS §150A-6.2, or could the domesticated R. rattus lineage be added to the Conditionally Approved entry? (3) What permit conditions, fee, and processing time apply?\n\nThank you for a written determination I can rely on before importing.\n\n[Your name]\n[Your city, Hawaii]\n[Your email / phone]"
+        "en": "To: Hawaii Department of Agriculture & Biosecurity, Plant Quarantine Branch\n\nRe: Coverage of the genus-level Conditionally Approved entry 'Rattus sp. (rat, domesticated)' for a domesticated Rattus rattus\n\nI am a Hawaii resident seeking to keep a domesticated, captive-bred pet rat as an indoor companion animal, in full compliance with state import rules. I understand the Conditionally Approved Animals list (HAR §4-71-6.5, Exhibit AR-71C) names, under Family Muridae, the entry 'Rattus sp. - rat, domesticated,' and that conditionally approved animals may be imported with a Plant Quarantine permit (Form PQ-7).\n\nMy question is about how the Branch applies that genus-level entry. The animals I keep are domesticated, captive-bred, hand-tame Rattus rattus, multi-generation pet lineages kept strictly indoors in enclosures and never released, the same in behavior and risk as the fancy Norway rat. They are not wild-caught and pose no establishment risk. Because the list entry reads 'Rattus sp.' rather than naming only Rattus norvegicus, a domesticated R. rattus appears to fall within it. Domestication is a matter of an animal's breeding history, not its wild ancestry: the dog descends from the wolf and the house cat from a wild felid, yet both are recognized as domestic animals because of generations bred for tameness. The fancy rat is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is domesticated in that same sense.\n\nPlease confirm in writing: (1) Does the genus-level Conditionally Approved entry 'Rattus sp. (rat, domesticated)' cover a domesticated/captive-bred Rattus rattus, so a private resident may apply for a Form PQ-7 import permit to keep one as a pet? (2) If the Branch reads the entry to cover only Rattus norvegicus, may a private keeper obtain a case-by-case import permit for a domesticated R. rattus under HRS §150A-6.2? (3) What permit conditions (including any breeding or disposition conditions), fee, and processing time apply?\n\nThank you for a written determination I can rely on before importing.\n\n[Your name]\n[Your city, Hawaii]\n[Your email / phone]"
       },
-      "confidence_notes": "Verified via official HDOA (dab.hawaii.gov) pages on 2026-06-09: (1) the Plant Quarantine import-program page links Form PQ-7 (https://dab.hawaii.gov/pi/files/2012/12/pq-7_fillable.pdf) and confirms conditionally-approved animals are imported by permit for individual possession; (2) the Plant Quarantine Office Contacts page lists the Oahu main office (1849 Auiki St, Honolulu; 808-832-0566) and airport line (808-837-8413); (3) HAR §4-71-6.5 (via Cornell LII) confirms the rule delegates to separately published lists and requires a board-approved permit even for conditionally-approved animals — supporting the agency-lever classification. Strongly corroborated species point: HDOA-hosted supporting material and multiple secondary sources describe the Conditionally Approved \\\"domesticated rats\\\" as Rattus norvegicus (lab/fancy Norway rat), which is the basis for the species-trap concern about R. rattus. NOT fully verified: the exact verbatim wording of the rats entry in the current Conditionally Approved list (AR-71C) — the official PDF is a scanned image (JBIG2) that could not be text-extracted, so whether the live list says \\\"Rattus species,\\\" \\\"domesticated rats,\\\" or \\\"Rattus norvegicus\\\" specifically should be confirmed directly with HDOA. Also NOT independently confirmed: a dedicated permit-inquiry email (the contacts page posts phones/offices, not a permit email), so I deliberately used the official application page and contacts page rather than an unverified inbox; and the Salesforce-style portal URL in prior internal notes was not re-confirmed and is omitted in favor of the verified import-program page. No live bill, pending list, or open public-comment window was found, so time_sensitive is empty. This is a research aid, not legal advice; the binding answer is HDOA's written determination.",
+      "confidence_notes": "Verified 2026-06-13 against Hawaii primary sources. RESOLVED (key correction vs the preliminary JSON): the current Conditionally Approved list (HAR §4-71-6.5, Exhibit AR-71C) was text-extracted from the official HDOA PDF and reads verbatim, under FAMILY Muridae: 'Mus musculus mice, domesticated' and 'Rattus sp. rat, domesticated.' The rats entry is GENUS-LEVEL ('Rattus sp.'), NOT species-specific to R. norvegicus, so on the face of the rule a domesticated R. rattus is within the entry. CONFIRMED: (a) HAR §4-71-6.5 (Cornell LII) references the conditionally-approved list 'located at the end of this chapter' and imports conditionally-approved animals by permit; (b) the Prohibited list (AR-71P, §4-71-6) was text-extracted and contains Family Cricetidae, Erethizontidae, Hystricidae, and Sciuridae under Order Rodentia but NO Family Muridae and NO Rattus or Mus - R. rattus is not prohibited; (c) HRS §150A-6.2 (Justia) directs the Board to maintain the lists, import conditionally-approved/restricted animals by permit, prohibit unlisted animals until Board review, and issue case-by-case special permits (incl. a 90-day short-term special permit); (d) 50 CFR 14.4 (Cornell LII) defines 'domesticated animals' and names 'White lab mouse - Mus musculus' and 'White lab rat - Rattus norvegicus' but NOT Rattus rattus, so for INTERNATIONAL movement (not mainland-to-Hawaii) USFWS treats R. rattus as wildlife. RESIDUAL UNCERTAINTY (now interpretive, not textual): HDOA's permit submittals (e.g., the May 2023 / UH Animal & Veterinary Services PQ-7 packets) describe the imported 'domesticated rat' as R. norvegicus and justify approval by its 'degree of domestication,' and the Chief Plant Inspector exercises species discretion at permit time - so whether HDOA will read the genus entry to cover a captive-bred R. rattus, and what conditions/fee/processing time apply to a private pet permit, should be confirmed directly with the Branch. The permit fee schedule ($20 single-shipment / $100 unlimited / $250 expedited per HAR §4-71-3.1, per the DR) and the 7-day CVI window and Honolulu-only entry (per the HDOA importing-animals guidance, per the DR) were taken from the DR and should be reconfirmed against the current HDOA fee/importing pages before relying on them. No dedicated permit-inquiry email is published, so the official application page and contacts page are used rather than an unverified inbox. This is a research aid, not legal advice; the binding answer is HDOA's written determination.",
       "local_lang": "en"
     }
   },
@@ -52,120 +52,170 @@
     "keep": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "Domesticated rats are on Hawaii's Conditionally Approved list (HAR §4-71-6.5 / AR-71C), NOT the Prohibited list — so they may be kept under a valid HDOA Plant Quarantine import permit (HRS §150A-6.2). Possession without a permit for a listed animal is unlawful; an animal on no list is prohibited by default. Confidence is medium because whether the 'domesticated rats' entry covers R. rattus by name (vs only R. norvegicus) needs HDOA confirmation.",
-      "governing_law": "HAR §4-71-6.5 (Conditionally Approved list); HRS §150A-6.2 (Board maintains list + issues permits).",
+      "why": "A domesticated rat is on Hawaii's Conditionally Approved list (HAR §4-71-6.5 / Exhibit AR-71C), NOT the Prohibited list (AR-71P) - so it may be kept under a valid HDOA Plant Quarantine import permit (HRS §150A-6.2). The list entry under Family Muridae reads 'Rattus sp. - rat, domesticated' (genus-level, alongside 'Mus musculus - mice, domesticated'), and on the face of the rule that covers a domesticated/captive-bred R. rattus; Rattus does not appear on the Prohibited list. Possession of a non-domestic animal without a permit, or of an unlisted animal, is unlawful (an unlisted animal is prohibited by default). Confidence is medium because, although the text is genus-level, HDOA's permit submittals describe the 'domesticated rat' as R. norvegicus and the Chief Plant Inspector decides species coverage at permit time - a written HDOA determination should be obtained before relying on it.",
+      "governing_law": "HAR §4-71-6.5 (Conditionally Approved list; 'Rattus sp. - rat, domesticated'); HAR §4-71-6 / AR-71P (Prohibited list; no Rattus/Muridae); HRS §150A-6.2 (Board maintains lists, imports by permit, unlisted = prohibited, case-by-case special permits).",
       "source_ids": [
         "hi-har-4-71-65",
+        "hi-har-4-71-6-prohibited",
         "hi-hrs-150a-62",
         "hi-hdoa-import"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "restricted",
       "confidence": "medium",
-      "why": "No express breeding prohibition in the public HAR 4-71 text, but each imported animal must be permitted, and the Board may attach permit conditions on reproduction, facility type, and disposition of offspring (HRS §150A-6.2 allows time/place/use/special-precaution conditions). Establishing a breeding colony should be cleared with HDOA first.",
-      "governing_law": "HAR §4-71-6.5; HRS §150A-6.2 (permit conditions).",
+      "why": "The public HAR 4-71 text contains no express breeding prohibition for a conditionally approved pet, but each imported animal is permitted individually, and HRS §150A-6.2 (with HAR 4-71A standard/supplemental permit conditions) lets the Board attach conditions on time, place, use, and special precautions - in practice including conditions on reproduction, facility type, and disposition of any progeny. A permit issued for 'individual possession' authorizes a finite number of animals; producing unpermitted offspring changes that baseline, so a breeding intent should be stated on the Form PQ-7 and cleared with HDOA. Given feral R. rattus is highly invasive in Hawaii, HDOA is likely to impose strict conditions (e.g., segregation, sterilization, progeny records/disposition) on any approved breeding.",
+      "governing_law": "HAR §4-71-6.5; HRS §150A-6.2 (permit conditions); HAR 4-71A (standard/supplemental permit conditions).",
       "source_ids": [
         "hi-har-4-71-65",
-        "hi-hrs-150a-62"
+        "hi-hrs-150a-62",
+        "hi-har-4-71a"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "HAR 4-71 is import-focused (the permit controls the introduction event); no provision specifically regulates intra-state sale/transfer of conditionally-approved animals already lawfully held. Whether a Hawaii recipient needs their own permit/documentation isn't specified publicly and likely turns on permit conditions — confirm with HDOA before transferring.",
-      "governing_law": "HAR §4-71-6.5; HRS §150A-6.2.",
+      "why": "HAR 4-71 is fundamentally an import/quarantine framework; the public code and guidelines are largely silent on routine intrastate sale or transfer of a conditionally approved animal already lawfully held. HAR 4-71A makes import permits 'nontransferable, unless otherwise specified in the permit,' so a permit holder cannot freely transfer the animal without coordinating with HDOA, and whether a Hawaii recipient needs their own permit/documentation is not specified publicly and likely turns on permit conditions. There is no published small/hobby-breeder transfer exemption. Confirm transfer mechanics with HDOA before selling or giving a domesticated rat to another resident.",
+      "governing_law": "HAR §4-71-6.5; HAR 4-71A (permits nontransferable unless specified); HRS §150A-6.2.",
       "source_ids": [
-        "hi-har-4-71-65"
+        "hi-har-4-71-65",
+        "hi-har-4-71a"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal_with_permit",
       "confidence": "high",
-      "why": "Importing requires an HDOA Plant Quarantine permit (Form PQ-7) obtained in advance; rats/mice/guinea pigs/chinchillas enter ONLY through Honolulu International Airport and are submitted by the carrier to the Airport Animal Quarantine Holding Facility for inspection. No state law regulates transport OUT of Hawaii (airlines set their own policies). The permit is the gatekeeping mechanism. Never release.",
-      "governing_law": "HAR §4-71-6.5; HRS §150A-6.2; HDOA import procedure (Form PQ-7; Honolulu entry).",
+      "why": "Importing a domesticated rat requires an HDOA Plant Quarantine import permit (Form PQ-7) obtained in advance; non-domestic rodents enter ONLY through the Daniel K. Inouye (Honolulu) International Airport and are submitted by the carrier to the Airport Animal Quarantine Holding Facility for inspection, accompanied by a Certificate of Veterinary Inspection (CVI) issued shortly before arrival and certifying freedom from disease and external parasites. The permit is the gatekeeping mechanism (HRS §150A-6.2; HAR §4-71-3). State agricultural law does not heavily regulate transport OUT of Hawaii (airlines set their own policies; the destination's import rules govern). For INTERNATIONAL movement only, USFWS treats R. rattus as wildlife under 50 CFR 14.4 (which exempts R. norvegicus and Mus musculus but not R. rattus), triggering federal wildlife-declaration requirements; mainland-to-Hawaii interstate moves do not trigger that federal layer. Never release one (feral Rattus is an invasive pest).",
+      "governing_law": "HAR §4-71-3 (import by permit); HAR §4-71-6.5; HRS §150A-6.2; HDOA import procedure (Form PQ-7; Honolulu entry; AAQHF inspection; CVI); 50 CFR 14.4 (federal - international only).",
       "source_ids": [
         "hi-hdoa-import",
-        "hi-har-4-71-65"
+        "hi-har-4-71-65",
+        "hi-hrs-150a-62",
+        "hi-50cfr-14"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
       "type": "permit",
-      "applies_to": "person",
+      "applies_to": "both",
       "activity": [
         "keep",
         "transport"
       ],
-      "summary": "To bring/keep a domesticated rat in Hawaii, get an HDOA Plant Quarantine import permit (Form PQ-7) BEFORE importing; the animal enters only via Honolulu and is inspected at the Airport Animal Quarantine Facility. ⚠️ Confirm in writing that the Conditionally Approved 'domesticated rats' entry covers R. rattus specifically before relying on it. Never release a roof rat (feral Rattus is an invasive pest).",
+      "summary": "To bring/keep a domesticated rat in Hawaii, get an HDOA Plant Quarantine import permit (Form PQ-7) BEFORE importing; the animal enters only via the Honolulu (Daniel K. Inouye) International Airport, is submitted by the carrier to the Airport Animal Quarantine Holding Facility for inspection, and must travel with a Certificate of Veterinary Inspection (issued shortly before arrival, certifying freedom from disease and external parasites). The Conditionally Approved entry is genus-level ('Rattus sp. - rat, domesticated'), so a domesticated R. rattus is covered on the face of the rule - but because HDOA exercises species discretion at permit time, confirm in writing that the genus entry covers R. rattus (or seek a case-by-case HRS §150A-6.2 permit) before relying on it. Never release a roof rat (feral Rattus is an invasive pest).",
       "steps": [
-        "Apply for an HDOA Plant Quarantine import permit (Form PQ-7) via the online portal or by mail, in advance",
-        "Confirm with HDOA whether domesticated R. rattus is covered by the Conditionally Approved list or needs a case-by-case 150A-6.2 permit"
+        "Apply for an HDOA Plant Quarantine import permit (Form PQ-7) in advance (single-shipment vs unlimited; pay the fee with the application)",
+        "Confirm in writing that the genus-level 'Rattus sp. (rat, domesticated)' entry covers a domesticated R. rattus, or obtain a case-by-case HRS §150A-6.2 special permit",
+        "Obtain a Certificate of Veterinary Inspection from an accredited vet shortly before shipment (certifying no disease and no external parasites)",
+        "Ship so the animal enters only through Honolulu (Daniel K. Inouye) International Airport; the carrier submits it to the Airport Animal Quarantine Holding Facility for inspection",
+        "Maintain a secure, gnaw-proof, escape-proof enclosure and comply with any post-entry inspection / address-update conditions; never release the animal"
       ],
       "forms": [
         {
-          "name": "HDOA Plant Quarantine — Application for Permit to Import (Form PQ-7)",
+          "name": "HDOA Plant Quarantine - Application for Permit to Import (Form PQ-7)",
           "url": "https://dab.hawaii.gov/pi/pq/import-program/plant-quarantine-application-for-permits/"
         }
       ],
-      "where_to_file": "Hawaii Dept of Agriculture & Biosecurity — Plant Quarantine Branch",
-      "fees": "Import permit fee (confirm current schedule with HDOA)",
+      "where_to_file": "Hawaii Dept of Agriculture & Biosecurity - Plant Quarantine Branch (1849 Auiki St, Honolulu, HI 96819)",
+      "fees": "Import permit fee per HAR §4-71-3.1 (reported as $20 single-shipment / $100 unlimited-shipments / $250 expedited; confirm current schedule with HDOA). Plus origin-state veterinary fee for the CVI.",
       "source_ids": [
         "hi-hdoa-import",
+        "hi-hrs-150a-62",
+        "hi-har-4-71-65"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "Releasing a pet roof rat into the wild is prohibited and dangerous: feral R. rattus is among the most damaging invasive vertebrates in Hawaii and is separately managed as a public-health vector (DOH HAR 11-26, which bars conditions that harbor or breed rodents). Keep the animal contained at all times and rehome responsibly; never release. Breeding intent must be disclosed on the Form PQ-7 and cleared with HDOA, which may attach conditions on reproduction, facility, and disposition of progeny.",
+      "steps": [
+        "Never release a roof rat into the wild (invasive pest + public-health vector; multiple state violations)",
+        "Disclose any breeding intent on the Form PQ-7 and obtain HDOA approval/conditions before breeding"
+      ],
+      "forms": [],
+      "where_to_file": "Hawaii Dept of Agriculture & Biosecurity - Plant Quarantine Branch; Hawaii Dept of Health, Vector Control Branch",
+      "fees": "",
+      "source_ids": [
+        "hi-doh-1126",
         "hi-hrs-150a-62"
       ]
     }
   ],
-  "inquiry_focus": "(1) The HAR §4-71-6.5 Conditionally Approved list includes domesticated rats — does that entry encompass Rattus rattus (roof/black rat) in a domesticated/fancy form, or only Rattus norvegicus? If R. rattus isn't named, can a private keeper obtain a permit for domesticated R. rattus under the same Conditionally Approved pathway or a case-by-case HRS §150A-6.2 special permit? (2) For a private keeper importing a few domesticated rats: what standard permit conditions apply, and is there any restriction on breeding or transferring offspring to other Hawaii residents (do recipients need their own permits)? (3) Current fee and processing time for a Conditionally Approved import permit (Form PQ-7) for domesticated rats?",
+  "inquiry_focus": "(1) Species coverage of the genus entry: the HAR §4-71-6.5 Conditionally Approved list reads 'Rattus sp. - rat, domesticated' (genus-level). Does the Plant Quarantine Branch apply that entry to a domesticated/captive-bred Rattus rattus, so a private resident may obtain a Form PQ-7 permit to keep one as a pet, or does the Branch read it to cover only R. norvegicus? (2) If read narrowly, can a private keeper obtain a case-by-case import permit for a domesticated R. rattus under HRS §150A-6.2, or have the genus entry recognized for R. rattus? (3) For a private keeper importing a few domesticated rats: what standard permit conditions apply, and is there any restriction on breeding or on transferring offspring to other Hawaii residents (do recipients need their own permits)? (4) Current fee and processing time for a Conditionally Approved import permit (Form PQ-7) for domesticated rats.",
   "sources": [
     {
       "id": "hi-har-4-71-65",
-      "title": "HAR §4-71-6.5 — List of Conditionally Approved Animals (AR-71C; domesticated rats listed, NOT prohibited)",
-      "url": "https://dab.hawaii.gov/wp-content/uploads/2019/02/Chap.-4-71-HAR-List-of-Conditionally-Approved-Animals-1.pdf",
+      "title": "HAR §4-71-6.5 - List of Conditionally Approved Animals (Exhibit AR-71C). Family Muridae entries verbatim: 'Mus musculus - mice, domesticated'; 'Rattus sp. - rat, domesticated' (genus-level, NOT species-specific).",
+      "url": "https://dab.hawaii.gov/pi/files/2012/12/AR-71C.pdf",
       "authority": "Hawaii Dept of Agriculture & Biosecurity",
-      "accessed": "2026-06-07"
-    },
-    {
-      "id": "hi-hrs-150a-62",
-      "title": "HRS §150A-6.2 — Animal import (Board maintains lists + issues permits; may set conditions)",
-      "url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0150A/HRS_0150A-0006_0002.htm",
-      "authority": "Hawaii State Legislature",
-      "accessed": "2026-06-07"
-    },
-    {
-      "id": "hi-hdoa-import",
-      "title": "HDOA — Importing Animals to Hawai'i + Application for Permits (Form PQ-7; Honolulu entry; AAQHF inspection)",
-      "url": "https://dab.hawaii.gov/pi/pq/import-program/plant-quarantine-application-for-permits/",
-      "authority": "HDOA Plant Quarantine Branch",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     },
     {
       "id": "hi-har-4-71-6-prohibited",
-      "title": "HAR §4-71-6 — List of Prohibited Animals (AR-71P; domesticated rats NOT on it)",
+      "title": "HAR §4-71-6 - List of Prohibited Animals (Exhibit AR-71P). Order Rodentia includes Cricetidae, Erethizontidae, Hystricidae, Sciuridae but NOT Family Muridae and NO Rattus/Mus - the domesticated rat is not prohibited.",
       "url": "https://dab.hawaii.gov/pi/files/2012/12/AR-71P.pdf",
-      "authority": "HDOA",
-      "accessed": "2026-06-07"
+      "authority": "Hawaii Dept of Agriculture & Biosecurity",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "hi-hrs-150a-62",
+      "title": "HRS §150A-6.2 - Animal import. Board maintains prohibited/restricted/conditionally-approved lists; conditionally-approved and restricted animals imported only by permit; unlisted animals prohibited until Board review; case-by-case special permits (incl. 90-day short-term).",
+      "url": "https://law.justia.com/codes/hawaii/title-11/chapter-150a/section-150a-6-2/",
+      "authority": "Hawaii State Legislature (via Justia)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "hi-har-4-71a",
+      "title": "HAR Chapter 4-71A - Non-Domestic Animal permit conditions (standard & supplemental conditions; import permits 'nontransferable unless otherwise specified in the permit'; post-entry inspection authority).",
+      "url": "https://dab.hawaii.gov/wp-content/uploads/2012/12/AR-71A.pdf",
+      "authority": "Hawaii Dept of Agriculture & Biosecurity",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "hi-hdoa-import",
+      "title": "HDOA - Importing Animals to Hawai'i + Application for Permits (Form PQ-7; conditionally-approved rats/mice/guinea pigs/chinchillas; Honolulu-only entry; Airport Animal Quarantine Holding Facility inspection; CVI).",
+      "url": "https://dab.hawaii.gov/pi/pq/travel-shipping-information/importing-animals-to-hawai%CA%BBi-from-the-u-s-mainland/",
+      "authority": "HDOA Plant Quarantine Branch",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "hi-50cfr-14",
+      "title": "50 CFR 14.4 - USFWS definition of 'Domesticated animals' (names 'White lab rat - Rattus norvegicus' and 'White lab mouse - Mus musculus'; Rattus rattus NOT listed). Relevant to INTERNATIONAL movement only, not mainland-to-Hawaii.",
+      "url": "https://www.law.cornell.edu/cfr/text/50/14.4",
+      "authority": "U.S. Fish & Wildlife Service (via Cornell LII)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "hi-doh-1126",
+      "title": "HAR Title 11 Chapter 26 - DOH Vector Control. Bars conditions that harbor or breed rodents; R. rattus managed as an invasive pest and disease vector (rat lungworm, leptospirosis, murine typhus). Never release.",
+      "url": "https://health.hawaii.gov/opppd/files/2015/06/11-26.pdf",
+      "authority": "Hawaii Dept of Health, Vector Control Branch",
+      "accessed": "2026-06-13"
     }
   ],
   "contacts": [
     {
-      "agency": "Hawaii Dept of Agriculture & Biosecurity — Plant Quarantine Branch",
+      "agency": "Hawaii Dept of Agriculture & Biosecurity - Plant Quarantine Branch",
       "role": "agriculture",
-      "email": "hdoa.pqmicro@hawaii.gov",
-      "form_url": "https://pqb-hdoa.hawaii.gov/pqb/s/",
+      "email": "",
+      "form_url": "https://dab.hawaii.gov/pi/pq/import-program/plant-quarantine-application-for-permits/",
       "phone": "808-832-0566",
       "primary": true,
       "inquiry_language": "en"
