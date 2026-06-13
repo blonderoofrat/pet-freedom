@@ -15,8 +15,8 @@
       "ship rat"
     ]
   },
-  "summary": "Indiana is permissive for the roof rat. The DNR Wild Animal Possession Permit (312 IAC 9-11) applies only to enumerated Class I/II/III animals — bears, big cats, native furbearers, venomous reptiles, etc. — none of which include rats or the genus Rattus, and DNR's permit authority reaches only protected-native or harmful/dangerous wildlife. The roof rat is also off the exotic-mammal and invasive-vertebrate lists. So keeping, breeding, and selling/giving are legal with no state permit (Indiana's commercial-breeder law is dog-only), and import needs no mandated pet-rodent CVI (rodents aren't a listed entry species) — though confirming with the Board of Animal Health is prudent. Never release one.",
-  "last_reviewed": "2026-06-06",
+  "summary": "Indiana is permissive for the roof rat, and there is no species trap. The roof rat is not on any Indiana regulatory list: not a Class I, II, or III animal under the DNR Wild Animal Possession Permit rule (312 IAC 9-11), not an exotic mammal (312 IAC 9-3-18.5), not an endangered mammal (312 IAC 9-3-19), and not a prohibited invasive vertebrate. Under the residual clause 312 IAC 9-3-20, any mammal not identified in the article is an 'exempted wild animal,' which 312 IAC 9-1-6 defines as unprotected and possessable at any time without a permit. The roof rat (R. rattus) and the fancy rat (R. norvegicus) fall into that same residual category by negative taxonomy, so the two are treated identically. Keeping, breeding, and selling or giving are legal with no DNR permit and no state breeder license (Indiana's commercial-breeder law, IC 15-21, is dog-only, and its July 1 2024 retail-pet-store registration defines a retail pet store as selling dogs). Importing a pet roof rat needs no state CVI: the family Muridae is not among the wild families that require an entry CVI under 345 IAC 1-3-4, and rodents are not 'domestic animals' under IC 15-17-2-26. The DNR wild-animal import permit applies only to animals imported for release or sale for release, which does not cover the pet trade. Federal USDA Animal Welfare Act licensing can reach some wholesale or research breeders. Releasing a roof rat is prohibited (312 IAC 9-2-16); local ordinances may add limits.",
+  "last_reviewed": "2026-06-13",
   "advocacy": {
     "flag": false
   },
@@ -24,55 +24,62 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "The DNR Wild Animal Possession Permit scheme (312 IAC 9-11) applies only to the exhaustively enumerated Class I/II/III lists, which include no rats/Rattus; the authority (IC 14-22-26-3) reaches only protected-native or harmful/dangerous wildlife, and R. rattus is a non-native species Indiana neither protects nor lists as dangerous. It's also absent from the exotic-mammal rule (312 IAC 9-3-18.5) and invasive-vertebrate bans. No permit to keep one.",
-      "governing_law": "IC 14-22-26-3; 312 IAC 9-11; IC 14-8-2-318; 312 IAC 9-3-18.5.",
+      "why": "The DNR Wild Animal Possession Permit rule (312 IAC 9-11) requires a permit only for the exhaustively enumerated Class I, II, and III animals (rabbits and native squirrels; furbearers such as beaver, coyote, fox, raccoon, skunk; and dangerous wildlife such as bears, big cats, wolves, venomous reptiles, and large crocodilians). The roof rat and the genus Rattus appear on none of those lists. R. rattus is also absent from the exotic-mammal rule (312 IAC 9-3-18.5, which names 22 families, none of them Muridae) and the endangered-mammal list (312 IAC 9-3-19). Under 312 IAC 9-3-20, any mammal not identified in the article is an 'exempted wild animal,' which 312 IAC 9-1-6 defines as unprotected and possessable at any time. No state permit, facility inspection, registration, or fee is required to keep a roof rat, and the secondary-enclosure and perimeter-fence requirements for Class II and III animals (312 IAC 9-11-10) do not apply.",
+      "governing_law": "312 IAC 9-3-20 (exempted wild animal); 312 IAC 9-1-6 (definition); 312 IAC 9-11 (Class I/II/III lists, no Rattus); 312 IAC 9-3-18.5 (exotic mammals, no Muridae); IC 14-8-2-318 (definition of wild animal).",
       "source_ids": [
-        "in-14-22-26",
+        "in-312-9-3-20",
+        "in-312-9-1-6",
         "in-312-9-11",
+        "in-312-9-3-18.5",
         "in-14-8-2-318"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "Because keeping is unregulated by DNR, breeding is too (no possession permit attaches to a non-listed pet rodent). Indiana's only commercial-breeder statute (IC 15-21) is dogs-only. No state breeding license for pet rats.",
-      "governing_law": "IC 15-21 (dogs only); 312 IAC 9-11.",
+      "why": "Breeding follows keeping. Because the roof rat is an exempted wild animal that needs no possession permit, no DNR permit attaches to breeding it, and the Game Breeder's License (312 IAC 9-10-4) applies only to the listed native furbearers and game species, not to a non-listed pet rodent. Indiana's only commercial-breeder statute, the Commercial Dog Breeder Regulation (IC 15-21), applies solely to dogs, so there is no state breeding license for rats regardless of the number of animals kept or produced. Federal oversight can apply separately: under the USDA Animal Welfare Act, breeders who sell rodents at wholesale or for research, testing, or exhibition may need a USDA Class A or B license, while those who sell only at retail face to face to the final owner are generally exempt.",
+      "governing_law": "IC 15-21 (Commercial Dog Breeder Regulation, dogs only); 312 IAC 9-10-4 (Game Breeder's License, listed species only); 312 IAC 9-3-20 (exempted wild animal). Federal: USDA Animal Welfare Act (7 U.S.C. 2131 et seq.).",
       "source_ids": [
         "in-15-21",
-        "in-312-9-11"
+        "in-312-9-10-4",
+        "in-312-9-3-20"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "No Indiana statute licenses or restricts selling pet rodents; the exotic/wild-animal sale rules don't list Rattus, and dealer/breeder registration (IC 15-21) is dogs-only. A seller of pet roof rats is not a regulated 'animal dealer' under state law (federal USDA/AWA can apply to some commercial dealers).",
-      "governing_law": "IC 15-21 (dogs only); 312 IAC 9-3-18.5; 312 IAC 9-11.",
+      "why": "No Indiana statute licenses or restricts selling or giving away pet rodents. The sale of an exempted wild animal is not permitted, tracked, or taxed by the DNR (the only limit being that animals may not be sold for release into the wild). The July 1 2024 retail-pet-store and animal-care-facility registration added to IC 15-21 defines a 'retail pet store' as a business that sells dogs, with sourcing rules targeting dog sellers, so a seller dealing only in roof rats, fancy rats, mice, or other small rodents is outside that scheme and need not register with the Board of Animal Health. Sellers are not required to provide a state health certificate, origin documents, or microchips. Federal USDA Animal Welfare Act dealer licensing can apply to some commercial sellers (wholesale or to research, testing, or exhibition).",
+      "governing_law": "IC 15-21 (retail pet store defined as selling dogs); 312 IAC 9-3-20 (exempted wild animal); 312 IAC 9-2-16 (no sale for release). Federal: USDA Animal Welfare Act (7 U.S.C. 2131 et seq.).",
       "source_ids": [
         "in-15-21",
-        "in-312-9-11"
+        "in-boah-retail",
+        "in-312-9-3-20",
+        "in-312-9-2-16"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "In-state transport is unrestricted. The Board of Animal Health imposes entry CVI requirements only on enumerated species (livestock, poultry, dogs/cats/ferrets) — pet rodents aren't listed, so no CVI is mandated to bring a pet rat into Indiana; confirm with BOAH before interstate movement. Never release a non-native rodent.",
-      "governing_law": "Indiana BOAH Entry Health Requirements (IC 15-17 authority); 312 IAC 9-11 (inapplicable).",
+      "confidence": "high",
+      "why": "In-state transport is unregulated. For import into Indiana, no state CVI is required for a pet roof rat: 345 IAC 1-3-4 requires an entry CVI for 'domestic animals' (a list in IC 15-17-2-26 that omits rodents) and, for wild animals, only for the families bovidae, camelidae, cervidae, equidae, and suidae, so the family Muridae is not covered. The DNR wild-animal import permit (312 IAC 9-10-20) applies only to a mammal imported for release or sale for release in Indiana, which does not include the pet trade. No state entry permit or border health test is mandated to bring a pet roof rat into Indiana, although a destination state or country may impose its own rules on export, so confirm the receiving jurisdiction's requirements before moving an animal across a border. Releasing a roof rat into the wild is prohibited under 312 IAC 9-2-16.",
+      "governing_law": "345 IAC 1-3-4 (entry CVI; Muridae not listed); IC 15-17-2-26 (domestic-animal definition omits rodents); 312 IAC 9-10-20 (wild-animal import permit applies only to import for release/sale for release); 312 IAC 9-2-16 (no release).",
       "source_ids": [
-        "in-boah",
-        "in-312-9-11"
+        "in-345-1-3-4",
+        "in-15-17-2-26",
+        "in-312-9-10-20",
+        "in-312-9-2-16"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -80,53 +87,127 @@
       "type": "other",
       "applies_to": "person",
       "activity": [
-        "keep"
+        "keep",
+        "sell_give"
       ],
-      "summary": "Never release a roof rat — it's a non-native species; rehome responsibly. Local city/county ordinances may add limits — check yours.",
-      "steps": [],
+      "summary": "It is unlawful to release a captive-bred mammal into the wild (312 IAC 9-2-16), and an exempted wild animal may not be sold for release. The roof rat is a non-native species; keep it contained and rehome responsibly, never release it. Local city or county ordinances may independently restrict non-native or exotic pets (for example, some Indiana municipalities define an 'exotic animal' as any species not native to the United States, which would include the roof rat), so check your local code, county zoning, and any HOA covenants.",
+      "steps": [
+        "Never release a roof rat into the wild (312 IAC 9-2-16); rehome, surrender to a rescue, or seek humane euthanasia if you can no longer keep it",
+        "Do not sell or transfer a roof rat for release",
+        "Check your city and county ordinances and any HOA covenants for local exotic or non-native pet limits before keeping or selling"
+      ],
       "forms": [],
-      "where_to_file": "",
+      "where_to_file": "Local code enforcement / county zoning office; Indiana DNR for wildlife questions",
       "fees": "",
       "source_ids": [
-        "in-312-9-11"
+        "in-312-9-2-16",
+        "in-312-9-3-20"
       ]
     }
   ],
+  "inquiry_focus": "(1) DNR: written confirmation that captive-bred R. rattus is an 'exempted wild animal' under 312 IAC 9-3-20 (not Class I/II/III under 312 IAC 9-11, not an exotic mammal under 312 IAC 9-3-18.5), requiring no possession, breeding, or game-breeder permit. (2) BOAH: confirmation that a rodent-only breeder or seller is outside the IC 15-21 'retail pet store' definition (which names dogs) and is exempt from BOAH registration and sourcing rules, and that no entry CVI is required for a pet rodent because Muridae is not among the families listed in 345 IAC 1-3-4. Both are confirmation requests; the underlying law already resolves to legal.",
   "sources": [
     {
-      "id": "in-14-22-26",
-      "title": "IC 14-22-26 — Wild Animal Permit (authority reaches only protected/harmful-dangerous wildlife)",
-      "url": "https://www.in.gov/dnr/fish-and-wildlife/files/fw-WAP_Laws.pdf",
-      "authority": "Indiana DNR / Indiana Code",
-      "accessed": "2026-06-06"
+      "id": "in-312-9-3-20",
+      "title": "312 IAC 9-3-20 - Exempted mammals ('Any mammal not identified in this article is an exempted wild animal')",
+      "url": "https://www.law.cornell.edu/regulations/indiana/312-IAC-9-3-20",
+      "authority": "Indiana Administrative Code (via Cornell LII)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "in-312-9-1-6",
+      "title": "312 IAC 9-1-6 - Definition of 'exempted wild animal' (unprotected; may be possessed at any time)",
+      "url": "https://www.law.cornell.edu/regulations/indiana/312-IAC-9-1-6",
+      "authority": "Indiana Administrative Code (via Cornell LII)",
+      "accessed": "2026-06-13"
     },
     {
       "id": "in-312-9-11",
-      "title": "312 IAC 9-11 — Wild Animal Possession Permits (Class I/II/III lists; no rats)",
-      "url": "https://www.law.cornell.edu/regulations/indiana/312-IAC-9-11-6",
+      "title": "312 IAC 9-11 - Wild Animal Possession Permits (Class I/II/III lists; no Rattus)",
+      "url": "https://www.law.cornell.edu/regulations/indiana/title-312/article-9/rule-312-IAC-9-11",
       "authority": "Indiana Administrative Code (via Cornell LII)",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "in-312-9-3-18.5",
+      "title": "312 IAC 9-3-18.5 - Exotic mammals (22 families enumerated; Muridae not listed)",
+      "url": "https://www.law.cornell.edu/regulations/indiana/312-IAC-9-3-18.5",
+      "authority": "Indiana Administrative Code (via Cornell LII)",
+      "accessed": "2026-06-13"
     },
     {
       "id": "in-14-8-2-318",
-      "title": "IC 14-8-2-318 — definition of 'Wild Animal'",
+      "title": "IC 14-8-2-318 - Definition of 'wild animal'",
       "url": "https://law.justia.com/codes/indiana/title-14/article-8/chapter-2/section-14-8-2-318/",
       "authority": "Indiana Code (via Justia)",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-13"
     },
     {
       "id": "in-15-21",
-      "title": "IC 15-21 — Commercial Dog Breeder Regulation (dogs only)",
-      "url": "https://iga.in.gov/ic/2024/Title_15/Article_21.pdf",
-      "authority": "Indiana General Assembly",
-      "accessed": "2026-06-06"
+      "title": "IC 15-21 - Commercial Dog Breeder Regulation / Retail Pet Store registration (defines 'retail pet store' as selling dogs)",
+      "url": "https://www.in.gov/boah/retail-pet-stores/",
+      "authority": "Indiana General Assembly / Indiana State Board of Animal Health",
+      "accessed": "2026-06-13"
     },
     {
-      "id": "in-boah",
-      "title": "Indiana Entry Health Requirements (import CVI; rodents not a listed species)",
-      "url": "https://www.in.gov/boah/indiana-entry-health-requirements/",
+      "id": "in-boah-retail",
+      "title": "Indiana BOAH - Retail Pet Stores (registration effective July 1 2024; retail pet store = sells dogs)",
+      "url": "https://www.in.gov/boah/retail-pet-stores/",
       "authority": "Indiana State Board of Animal Health",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "in-312-9-10-4",
+      "title": "312 IAC 9-10-4 - Game breeder's licenses (listed native furbearers/game species only)",
+      "url": "https://www.law.cornell.edu/regulations/indiana/312-IAC-9-10-4",
+      "authority": "Indiana Administrative Code (via Cornell LII)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "in-345-1-3-4",
+      "title": "345 IAC 1-3-4 - CVI required for importation of domestic animals (wild families limited to bovidae, camelidae, cervidae, equidae, suidae; Muridae not listed)",
+      "url": "https://www.law.cornell.edu/regulations/indiana/345-IAC-1-3-4",
+      "authority": "Indiana Administrative Code (via Cornell LII)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "in-15-17-2-26",
+      "title": "IC 15-17-2-26 - Definition of 'domestic animal' (enumerated list omits rodents/Muridae)",
+      "url": "https://law.justia.com/codes/indiana/title-15/article-17/chapter-2/section-15-17-2-26/",
+      "authority": "Indiana Code (via Justia)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "in-312-9-10-20",
+      "title": "312 IAC 9-10-20 - Wild animal import permit (required only for import 'for release or sale for release in Indiana')",
+      "url": "https://iar.iga.in.gov/code/2026/312/9",
+      "authority": "Indiana Administrative Code (Indiana Register / IARP)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "in-312-9-2-16",
+      "title": "312 IAC 9-2-16 - Release of captive-bred mammals, reptiles, amphibians, and mussels prohibited",
+      "url": "https://www.law.cornell.edu/regulations/indiana/312-IAC-9-2-16",
+      "authority": "Indiana Administrative Code (via Cornell LII)",
+      "accessed": "2026-06-13"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Indiana Department of Natural Resources, Division of Fish & Wildlife (Wildlife Permits)",
+      "role": "wildlife",
+      "email": "wildlifepermits@dnr.IN.gov",
+      "form_url": "https://www.in.gov/dnr/contact-us/",
+      "phone": "(317) 232-4200",
+      "primary": true
+    },
+    {
+      "agency": "Indiana State Board of Animal Health (BOAH), Companion Animal / Zoonotic Disease Division",
+      "role": "agriculture",
+      "email": "animalhealth@boah.IN.gov",
+      "form_url": "https://www.in.gov/boah/contact-boah/",
+      "phone": "(317) 544-2400",
+      "primary": false
     }
   ]
 }
