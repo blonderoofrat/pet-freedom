@@ -64,5 +64,7 @@ fabricate certainty; never impersonate an official.
 Code: **MIT** (`LICENSE`). Docs & templates: **CC BY 4.0** (`LICENSE-docs`).
 
 ---
-*Status: in active development (scaffolding). See `planning/` notes in the source project for the methodology and
-build plan.*
+*Status: **v1 — complete, verified, and published.** The skill researches, verifies, and publishes a full
+multi‑jurisdiction resource end‑to‑end; the [live demo](#-try-it-live-no-install) above and a
+[real production site](https://blonderoofrat.com/roof-rat-laws/) (110+ jurisdictions) show exactly what it
+produces. Actively maintained — issues and contributions welcome (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).*

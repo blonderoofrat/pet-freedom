@@ -28,11 +28,12 @@ gitignored; the page renderer never emits `contacts`/`research_log`/`notes`.
 
 ## To finish & publish (the human steps)
 1. ~~Create the public GitHub repo~~ **DONE** — published at github.com/blonderoofrat/pet-freedom.
-2. **Push pending updates** via GitHub Desktop (the release folder is synced): the clean MIT `LICENSE` (badge
-   fix) and the new `demo/playground/` (live demo). One commit + push.
+2. ~~Push the LICENSE fix + `demo/playground/` (live demo)~~ **DONE** — pushed; the one‑click demo is live.
 3. *(Optional)* **Live dry run** on a scratch WordPress, or just open the in‑browser demo (no setup).
-4. *(Optional)* Submit the companion plugin to the WordPress.org directory (see `plugin/WORDPRESS-ORG.md`).
-5. Announce / link it from blonderoofrat.com (the funnel).
+4. ~~Submit the companion plugin to the WordPress.org directory~~ **DONE** — submitted; awaiting WP.org review
+   (see `plugin/WORDPRESS-ORG.md`).
+5. **Funnel from blonderoofrat.com** (in progress): the "how we built the law library" post links the tool;
+   GitHub repo topics + website link + social‑preview image still to set (repo settings).
 
 ## Notes
 - The full methodology + decisions are in the source project's `planning/pet-freedom-skill/` (METHODOLOGY, OPEN‑QUESTIONS,
