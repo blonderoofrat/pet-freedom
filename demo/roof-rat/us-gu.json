@@ -12,18 +12,19 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "cha'ka"
     ]
   },
-  "summary": "On Guam, keeping a captive-bred roof rat as a pet is effectively prohibited. The binding layer is import: under Guam's animal-import rules (9 GAR Title 9, ch. 1) every animal needs Territorial Veterinarian clearance to enter, and the Dept of Agriculture's official Species Listing for Importation expressly BANS 'mice and rodents for breeding or pet sale' (accepting rodents only as research / brown-tree-snake-control mice). With no lawful way to import or commercially handle pet rodents, breeding and sale are barred outright, and there's no lawful source for a pet roof rat. (Bare possession isn't separately criminalized — that narrow point is unclear — but the practical reality is prohibition.) Never release one.",
-  "last_reviewed": "2026-06-07",
+  "summary": "On Guam there is no lawful way to get a captive-bred pet roof rat. The binding layer is import: every animal entering Guam must clear the Territorial Veterinarian (9 GAR Title 9, Div. 1, Ch. 1), and the Dept of Agriculture's official Species Listing for Importation (Mar 9, 2023) puts 'mice and rodents for breeding or pet sale' in the BANNED column — rodents are accepted ONLY as mice for research or brown-tree-snake control. So importing, breeding, and selling/giving a pet roof rat are all effectively prohibited, and there is no legal supply. ODDLY, bare possession of a LOCALLY trapped rat is technically lawful and unregulated: 5 GCA §63118 lists 'Rats' as Unprotected Wild Animals, and 9 GAR §11120 expressly allows 'holding' the unprotected animals listed in §63118 — and a rat is not a licensed 'Pet' (10 GCA §34101 defines 'Pet' as only a cat or dog). But breeding even a locally caught rat collides with the Rodent Control Act (10 GCA §37101/§37106), which requires every property to be kept free of rodent harborage/breeding places. Guam treats R. rattus uniformly as an invasive pest (no fancy-rat carve-out; even R. norvegicus is banned). Never release one — R. rattus is an actively-eradicated invasive on Guam.",
+  "last_reviewed": "2026-06-13",
   "advocacy": {
     "flag": true,
     "kit": {
       "case_type": "positive_list",
-      "problem": "On Guam, you cannot legally obtain or keep a captive-bred pet roof rat (Rattus rattus). The block is the import layer: the Guam Department of Agriculture (DOAG) runs a closed, positive Species Listing for Importation, and that list places \"mice and rodents for breeding or pet sale\" in the BANNED column. The only rodents allowed in are mice imported by institutions for brown-tree-snake control and research. Every animal entering Guam also needs Territorial Veterinarian clearance (9 GAR Title 9, ch. 1), and a banned species cannot pass that clearance. There is no published private-keeper permit pathway — even the common fancy rat (Rattus norvegicus) is barred — so there is no lawful way to bring in, breed, sell, give away, or therefore keep a pet roof rat. Bare possession is not separately named in any statute (that narrow point is unclear), but in practice the import ban makes keeping one impossible. Guam also has a real, established invasive-rodent and brown-tree-snake crisis, so any change faces a high bar. Never release any animal.",
-      "ask": "Ask DOAG, in writing, to (1) confirm whether a single captive-bred, altered (non-breeding), microchipped, health-certified domestic rat kept solely as an indoor pet really falls under \"mice and rodents for breeding or pet sale,\" and (2) consider amending the Species Listing for Importation — or granting an individual entry permit/variance under 9 GAR §1101/§1111 — to allow such an animal under strict conditions (sterilized so it cannot breed, permanently indoors, microchipped, with a no-release/biosecurity agreement), the same way altered pet rabbits and other small companion mammals are handled. Make clear this is about one tame, captive-bred companion animal that is biologically incapable of establishing a wild population, not about the invasive island rats.",
-      "branch_note": "This is branch (b)-as-a-regulation, not a misread. The prohibition is NOT a bureaucrat misapplying an unclear rule — DOAG is correctly applying its own Species Listing for Importation, which deliberately bans \"mice and rodents for breeding or pet sale.\" So a complaint that \"the agency got the law wrong\" will go nowhere; the agency is reading it exactly as written. BUT — unlike a legislative statute naming the species — this ban lives in an administrative POSITIVE LIST that DOAG itself owns, adopts, and can amend (regulatory authority 9 GAR Title 9, ch. 1, under 5 GCA §60108). That makes the realistic lever a rulemaking/list-amendment petition (or an individual entry-permit/variance request) directed AT DOAG — asking the agency to change its own list, not asking it to reinterpret a statute. This is why the primary target is DOAG and the secondary target is a Guam senator: senators have oversight of DOAG and, given Guam's genuine invasive-rodent and brown-tree-snake sensitivities, political backing may be needed to move a list amendment. Do not frame this as \"you are applying the law wrong\"; frame it as \"please amend the list / grant a conditioned variance.\" Set expectations realistically: Guam is the hardest US jurisdiction for this ask because R. rattus is an established invasive pest there, so the strongest version of the request is a narrowly conditioned individual variance (sterilized, indoor-only, microchipped, no-release) rather than a broad delisting.",
+      "problem": "On Guam, you cannot legally obtain a captive-bred pet roof rat (Rattus rattus). The block is the import layer: the Guam Department of Agriculture (DOAG) runs a closed, positive Species Listing for Importation (Mar 9, 2023), and that list places \"mice and rodents for breeding or pet sale\" in the BANNED column. The only rodents allowed in are mice imported for research or brown-tree-snake control. Every animal entering Guam also needs Territorial Veterinarian clearance (9 GAR Title 9, Div. 1, Ch. 1), and a banned species cannot pass that clearance. There is no published private-keeper permit pathway — even the common fancy rat (Rattus norvegicus) is barred — so there is no lawful way to bring in, breed, sell, or give away a pet roof rat. (Curiously, bare possession of a LOCALLY trapped rat is technically lawful — 5 GCA §63118 lists \"Rats\" as Unprotected Wild Animals and 9 GAR §11120 allows holding them — but with no lawful acquisition pathway for a captive-bred pet, the practical effect of the import ban is prohibition.) Guam also has a real, established invasive-rodent and brown-tree-snake crisis, so any change faces a high bar. Never release any animal.",
+      "ask": "Ask DOAG, in writing, to (1) confirm whether a single captive-bred, altered (non-breeding), microchipped, health-certified domestic rat kept solely as an indoor pet really falls under \"mice and rodents for breeding or pet sale,\" and (2) consider amending the Species Listing for Importation — or granting an individual entry permit / variance under 9 GAR Ch. 1 — to allow such an animal under strict conditions (sterilized so it cannot breed, permanently indoors, microchipped, with a no-release/biosecurity agreement). Point to DOAG's OWN precedent on the same list: it already accepts \"pet rabbits that have been spayed or neutered\" while banning intact rabbits — exactly the kind of altered-pet condition being requested here. Make clear this is about one tame, captive-bred companion animal that is biologically incapable of establishing a wild population, not about the invasive island rats.",
+      "branch_note": "This is branch (b)-as-a-regulation, not a misread. The prohibition is NOT a bureaucrat misapplying an unclear rule — DOAG is correctly applying its own Species Listing for Importation, which deliberately bans \"mice and rodents for breeding or pet sale.\" So a complaint that \"the agency got the law wrong\" will go nowhere; the agency is reading it exactly as written. BUT — unlike a legislative statute naming the species — this ban lives in an administrative POSITIVE LIST that DOAG itself owns, adopts, and can amend (DOAG's import regulations sit under 9 GAR Title 9, Div. 1, Ch. 1, promulgated under the Director of Agriculture's authority). That makes the realistic lever a rulemaking / list-amendment petition (or an individual entry-permit/variance request) directed AT DOAG — asking the agency to change its own list, not to reinterpret a statute. The strongest hook is DOAG's OWN precedent on the same list: it already distinguishes altered vs. intact animals (spayed/neutered pet rabbits accepted; intact rabbits banned), which is exactly the sterilized-pet condition being requested for a rat. This is why the primary target is DOAG and the secondary target is a Guam senator: senators have oversight of DOAG and, given Guam's genuine invasive-rodent and brown-tree-snake sensitivities, political backing may be needed to move a list amendment. Do not frame this as \"you are applying the law wrong\"; frame it as \"please amend the list / grant a conditioned variance.\" Set expectations realistically: Guam is the hardest US jurisdiction for this ask because R. rattus is an established invasive pest there, so the strongest realistic version of the request is a narrowly conditioned individual variance (sterilized, indoor-only, microchipped, no-release) rather than a broad delisting.",
       "time_sensitive": "",
       "targets": [
         {
@@ -31,154 +32,226 @@
           "type": "agency",
           "email": "quarantine@doag.guam.gov",
           "form_url": "https://doag.guam.gov/animal-health-animal-control/",
-          "why": "DOAG owns and can amend the Species Listing for Importation that contains the ban, and the Territorial Veterinarian issues entry permits/variances under 9 GAR §1101/§1111. This is the only office that can change the list or grant a conditioned variance — the correct primary target for a positive-list ask. Email verified as the current official quarantine inbox; the same page hosts an official feedback form."
+          "why": "DOAG owns and can amend the Species Listing for Importation that contains the ban, and the Territorial Veterinarian issues entry permits/variances under 9 GAR Ch. 1. This is the only office that can change the list or grant a conditioned variance — the correct primary target for a positive-list ask. Lead with DOAG's own altered-vs-intact rabbit precedent. Email is the current official quarantine inbox; the same page hosts an official feedback form (phones 671-300-7965 / 671-300-7966)."
         },
         {
-          "name": "Guam Legislature — Senators Directory (contact your senator), 38th Guam Legislature",
+          "name": "Guam Legislature — Senators Directory (contact your senator)",
           "type": "legislature",
           "form_url": "https://guamlegislature.gov/senators-2/",
           "why": "Senators have oversight of DOAG. Because Guam's invasive-rodent and brown-tree-snake sensitivities make a list amendment politically charged, a senator's backing can help move DOAG to consider a narrowly conditioned variance or rule change. Secondary channel; use the official directory and contact your own senator — no individual is named here."
         }
       ],
       "template": {
-        "en": "Subject: Request to confirm status of — and consider a conditioned pathway for — a single captive-bred pet domestic rat\n\nDear Guam Department of Agriculture, Animal Health Section,\n\nI am writing about the Species Listing for Importation, which places \"mice and rodents for breeding or pet sale\" in the banned column. I would like to keep one captive-bred, tame domestic rat solely as an indoor companion animal — not for breeding, and not for sale or any commercial purpose.\n\nThese animals are bred in captivity over many generations, are hand-tame, live their whole lives indoors in a cage, and are never released. A single sterilized, indoor-only animal cannot establish a wild population and poses no greater biosecurity risk than the small companion mammals Guam already permits.\n\nCould you please confirm in writing (1) whether such a single pet animal truly falls under \"mice and rodents for breeding or pet sale,\" and (2) whether the Department would consider amending the Species Listing, or granting an individual entry permit or variance under 9 GAR §1101/§1111, for one altered (non-breeding), microchipped, health-certified pet kept permanently indoors under a no-release agreement?\n\nI fully respect Guam's invasive-species and brown-tree-snake concerns and am asking only about one tame, captive-bred companion that cannot breed. I would welcome any conditions that would make such a pathway possible.\n\nThank you for your time and for the work you do to protect Guam.\n\nSincerely,\n[Your name]\n[Your village/contact]"
+        "en": "Subject: Request to confirm status of — and consider a conditioned pathway for — a single captive-bred pet domestic rat\n\nDear Guam Department of Agriculture, Animal Health Section,\n\nI am writing about the Species Listing for Importation, which places \"mice and rodents for breeding or pet sale\" in the banned column. I would like to keep one captive-bred, tame domestic rat solely as an indoor companion animal — not for breeding, and not for sale or any commercial purpose.\n\nThese animals are bred in captivity over many generations, are hand-tame, live their whole lives indoors in a cage, and are never released. A single sterilized, indoor-only animal cannot establish a wild population and poses no greater biosecurity risk than the small companion animals Guam already permits. I note that your same Species Listing already accepts \"pet rabbits that have been spayed or neutered\" while banning intact rabbits — an altered-pet condition exactly like the one I am asking you to consider for a single sterilized rat.\n\nCould you please confirm in writing (1) whether such a single pet animal truly falls under \"mice and rodents for breeding or pet sale,\" and (2) whether the Department would consider amending the Species Listing, or granting an individual entry permit or variance under 9 GAR Ch. 1, for one altered (non-breeding), microchipped, health-certified pet kept permanently indoors under a no-release agreement?\n\nI fully respect Guam's invasive-species and brown-tree-snake concerns and am asking only about one tame, captive-bred companion that cannot breed. I would welcome any conditions that would make such a pathway possible.\n\nThank you for your time and for the work you do to protect Guam.\n\nSincerely,\n[Your name]\n[Your village/contact]"
       },
-      "confidence_notes": "Verified on 2026-06-09 against official sources: DOAG's Animal Health / Animal Control page (doag.guam.gov/animal-health-animal-control/) confirms the current quarantine inbox quarantine@doag.guam.gov and phones 671-300-7966 / 671-300-7064, plus a general feedback contact form on that page. The Guam Legislature senators directory (guamlegislature.gov/senators-2/) is current for the 38th Guam Legislature and is the official \"contact your senator\" page; I deliberately name no individual senator. The substance of the ban (DOAG Species Listing for Importation placing \"mice and rodents for breeding or pet sale\" in the BANNED column, Mar 2023; 9 GAR Title 9, ch. 1 Territorial-Vet clearance and no-release rules) comes from prior research in the jurisdiction file and is consistent with DOAG/CQA pet-import materials. NOT independently re-verified line-by-line in this session: the exact current wording of the Species Listing PDF and whether any individual variance under 9 GAR §1101/§1111 has ever been granted for a pet rodent — those should be confirmed directly with DOAG, which is exactly what the letter asks. Bare possession (as opposed to import) is not separately criminalized by any statute we found; that narrow point remains uncertain. This is a research aid, not legal advice.",
+      "confidence_notes": "Verified 2026-06-13 against primary sources downloaded and read in full: DOAG Species Listing for Importation (Mar 9, 2023) — confirmed BANNED: 'Mice and rodents for breeding or pet sale'; ACCEPTED: 'Mice for research or for projects to control brown tree snake populations ONLY' and 'Pet rabbits that have been spayed or neutered' (the altered-pet precedent this kit relies on); intact pet rabbits, guinea pigs, chinchilla, ferrets, hedgehogs, sugar gliders all banned. The DOAG Animal Health / Animal Control page (doag.guam.gov/animal-health-animal-control/) is the verified channel for the quarantine inbox quarantine@doag.guam.gov and a feedback form. The Guam Legislature senators directory (guamlegislature.gov/senators-2/) is the official 'contact your senator' page; no individual senator named. NOT independently confirmed: whether DOAG has ever granted any individual variance for a pet rodent under 9 GAR Ch. 1 — that is exactly what the letter asks. This is a research aid, not legal advice.",
       "local_lang": "en"
     }
   },
   "activities": {
     "keep": {
-      "status": "prohibited",
+      "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "No statute names Rattus for possession and no general exotic-pet possession ban was found, so bare possession isn't separately criminalized (that narrow point is unclear). BUT the only lawful way to OBTAIN a captive-bred pet roof rat is import, and DOAG's Species Listing for Importation bans 'mice and rodents for breeding or pet sale' — so there is no lawful pathway to acquire/keep one. A wild-caught island rat would be a captive 'wild or feral animal' (9 GAR §1100) subject to the no-release rule.",
-      "governing_law": "9 GAR Div.1 ch.1 §§1100-1103 (auth. 5 GCA §60108); DOAG Species Listing for Importation (Mammals — Banned).",
+      "why": "Bare, non-commercial possession of a LOCALLY trapped rat is technically lawful and unregulated — but there is no lawful way to acquire a captive-bred pet, so practical reality is no-pathway. The wildlife code makes it unlawful to take/buy/sell/transport/possess any wild or feral animal (5 GCA §63121) EXCEPT as authorized; §63118 expressly lists 'Rats' among 'Unprotected Wild Animals' (with wild dogs, wild cats, reptiles), and 9 GAR §11120 states that 'Taking or holding live wild animals or birds is unlawful with the exception of the Unprotected Wild Animals... listed in 5 GCA §§63118 and 63119' — so holding a rat is permitted. Rats are also not a licensed 'Pet': 10 GCA §34101(e) defines 'Pet' as only 'a cat or dog,' so no license/microchip/rabies-cert applies. The catch: a CAPTIVE-BRED pet roof rat can only be obtained by import, and DOAG's Species Listing bans 'mice and rodents for breeding or pet sale.' So while keeping a rat already on-island is not itself criminalized, there is no lawful source for a domesticated one.",
+      "governing_law": "5 GCA §63118 ('Rats' = Unprotected Wild Animals); 9 GAR §11120 (holding unprotected wild animals permitted); 5 GCA §63121 (general wild/feral take-buy-sell-transport-possess bar, subject to the §63118 exception); 10 GCA §34101(e) ('Pet' = cat or dog only); DOAG Species Listing for Importation (no lawful import of a captive-bred pet rat).",
       "source_ids": [
-        "gu-species-listing",
-        "gu-9gar-1"
+        "gu-5gca-63",
+        "gu-9gar-11-hunting",
+        "gu-10gca-34",
+        "gu-species-listing"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "DOAG's Species Listing for Importation specifically bans 'mice and rodents FOR BREEDING or pet sale' by name — breeding-purpose rodents are the express target. Stock can't be lawfully imported, so a roof-rat breeding colony has no lawful basis.",
-      "governing_law": "DOAG Species Listing for Importation (Mammals — Banned); 9 GAR §1101.",
+      "why": "Breeding roof rats on Guam is effectively prohibited by two independent layers. (1) Import: DOAG's Species Listing for Importation specifically bans 'mice and rodents FOR BREEDING or pet sale' — breeding-purpose rodents are the named target, and founder stock cannot be lawfully imported. (2) Public health: the Rodent Control Act (10 GCA §37101) requires every occupied building/property to 'be maintained so as to avoid harborage or breeding places for rodents,' with no carve-out for intentional or domesticated rodent breeding, and §37106 lets the DPHSS Director make rules and act against 'rodent harborage and rodent breeding areas.' A captive breeding colony of rats is textually a prohibited rodent breeding place. A commercial breeder would also need a Sanitary Permit (10 GCA §34202) that DPHSS could not lawfully grant for an activity §37101 forbids; the §34202 'individual sales by owners' carve-out does not cure the §37101 harborage problem.",
+      "governing_law": "DOAG Species Listing for Importation (Mammals — Banned: 'mice and rodents for breeding or pet sale'); 10 GCA §37101 & §37106 (Rodent Control — properties kept free of rodent harborage/breeding places); 10 GCA §34202 (Sanitary Permit to operate a commercial animal establishment).",
       "source_ids": [
-        "gu-species-listing"
+        "gu-species-listing",
+        "gu-10gca-37-rodent",
+        "gu-10gca-34"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "The same DOAG listing bans rodents 'for breeding or PET SALE.' Commercial distribution is the exact disallowed purpose, and there can be no legal supply chain since import of stock is barred; non-commercial give-away faces the same wall.",
-      "governing_law": "DOAG Species Listing for Importation; 9 GAR §1101.",
+      "why": "The DOAG Species Listing bans rodents 'for breeding or PET SALE' — commercial distribution is the exact disallowed purpose. There can be no legal supply chain because import of stock is barred. A pet shop would need a Sanitary Permit (10 GCA §34202) but could not lawfully stock rats given the Rodent Control Act's harborage prohibition (10 GCA §37101). Non-commercial gifting faces the same wall: there is no lawful captive-bred source, and a recipient who later released the rat could implicate the giver in the release of an actively-eradicated agricultural pest. (Note: 10 GCA §34202 exempts 'individual sales of animals by owners' from the commercial-permit requirement, but that exemption cannot supply lawful stock and does not override the import ban or the harborage prohibition.)",
+      "governing_law": "DOAG Species Listing for Importation ('mice and rodents for breeding or pet sale' — Banned); 10 GCA §34202 (Sanitary Permit for commercial animal establishments; 'individual sales by owners' exemption); 10 GCA §37101 (Rodent Control harborage bar).",
       "source_ids": [
-        "gu-species-listing"
+        "gu-species-listing",
+        "gu-10gca-34",
+        "gu-10gca-37-rodent"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "Import is the binding layer and it's closed: 9 GAR §1102 subjects ALL animals to Territorial-Veterinarian inspection and §1103(d) bars entry until passed/permitted; DOAG's Species Listing places 'mice and rodents for breeding or pet sale' in the BANNED column. The mainland permit-exemption (§1101(b)) applies only if the animal complies with all rules — the species ban is such a rule. Releasing/turning loose is independently barred (§1103(c)).",
-      "governing_law": "9 GAR §§1101, 1102, 1103; DOAG Species Listing for Importation.",
+      "why": "Import — the binding cross-border layer — is closed. 9 GAR Title 9, Div. 1, Ch. 1 subjects ALL animals entering Guam (even from the U.S. mainland) to Territorial-Veterinarian inspection and bars entry until cleared/permitted, and DOAG's Species Listing places 'mice and rodents for breeding or pet sale' in the BANNED column, accepting rodents only as mice for research / brown-tree-snake control. There is no individual variance, quarantine pathway, or spay/neuter exception for a pet rat — unlike pet rabbits, where the same list accepts spayed/neutered animals; for rats the species itself is treated as the biosecurity threat. The Customs & Quarantine Agency physically enforces the border; banned animals are confiscated/destroyed. Releasing or turning an animal loose is independently barred (9 GAR Ch. 1 no-release rule). Internal transport of a lawfully-possessed (locally caught) rat is not separately permitted-regulated, but any escape/release during transport exposes the owner to liability under Guam's anti-abandonment/wildlife-release law. (The DR also discusses EXPORTing a locally caught rat via a DAWR Certificate of Origin plus a federal USFWS Form 3-177; that route is administrative and practically infeasible given the rat's pest/parasite status — not the operative bar for a prospective keeper.)",
+      "governing_law": "9 GAR Title 9, Div. 1, Ch. 1 (Importing Animals — Territorial-Vet clearance for all animals; no-release rule); DOAG Species Listing for Importation (Mammals — Banned); 5 GCA Ch. 73 (Customs & Quarantine Agency border enforcement). EXPORT (separate, not the bar): DAWR Certificate of Origin + federal USFWS Form 3-177.",
       "source_ids": [
-        "gu-9gar-1",
-        "gu-species-listing"
+        "gu-9gar-1-import",
+        "gu-species-listing",
+        "gu-cqa-import"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "other",
-      "applies_to": "person",
+      "type": "ban",
+      "applies_to": "rat",
       "activity": [
-        "keep",
         "breed",
         "sell_give",
         "transport"
       ],
-      "summary": "Guam's Dept of Agriculture import list bans rodents for breeding or pet sale, and all animal imports need Territorial Veterinarian clearance — so there's no lawful way to bring in or keep a captive-bred pet roof rat. Do not attempt to import one; never release any animal (9 GAR §1103(c)).",
+      "summary": "DOAG's official Species Listing for Importation (Mar 9, 2023) places 'mice and rodents for breeding or pet sale' in the BANNED column; rodents are accepted ONLY as mice for research or brown-tree-snake control. Every animal entering Guam must also clear the Territorial Veterinarian (9 GAR Ch. 1), and a banned species cannot pass. So there is no lawful way to import, breed, or sell/give a captive-bred pet roof rat. Unlike pet rabbits (spayed/neutered accepted), there is no altered-pet exception for rats. Do not attempt to import one; never release any animal.",
       "steps": [
-        "Ask the DOAG Territorial Veterinarian whether any individual entry permit/variance exists"
+        "Treat import as effectively closed: a pet roof rat is a banned 'mice and rodents for breeding or pet sale' species, with no spay/neuter or individual-variance pathway published",
+        "If you want to test the door anyway, ask the DOAG Territorial Veterinarian in writing whether any individual entry permit/variance exists (and cite the altered-pet-rabbit precedent) — expect denial",
+        "Never release a roof rat (R. rattus is an actively-eradicated invasive on Guam and a food source for the invasive brown tree snake)"
       ],
       "forms": [],
-      "where_to_file": "Guam Dept of Agriculture, Animal Health / Territorial Veterinarian",
+      "where_to_file": "Guam Dept of Agriculture — Animal Health Section / Territorial Veterinarian (Quarantine)",
       "fees": "",
       "source_ids": [
         "gu-species-listing",
-        "gu-9gar-1"
+        "gu-9gar-1-import",
+        "gu-cqa-import"
       ]
     },
     {
       "type": "other",
       "applies_to": "person",
       "activity": [
-        "keep",
         "breed",
-        "sell_give",
-        "transport"
+        "sell_give"
       ],
-      "summary": "Guam prohibits importing/keeping/breeding/selling rats (DOAG closed import list, Mar 2023) -- even the fancy rat (R. norvegicus); the only exception is institutional mice for brown-tree-snake research. No private-keeper permit pathway. Never release (R. rattus is an established invasive pest here).",
-      "steps": [],
+      "summary": "Rodent harborage / breeding-place prohibition. The Rodent Control Act (10 GCA §37101) requires every occupied building/property to be 'maintained so as to avoid harborage or breeding places for rodents,' with no exemption for intentional or domesticated rodent breeding; §37106 lets the DPHSS Director make rules and act against 'rodent harborage and rodent breeding areas.' A captive rat-breeding colony is textually a prohibited rodent breeding place, so even breeding a lawfully-possessed locally caught rat is unlawful, and a commercial Sanitary Permit (10 GCA §34202) could not lawfully be granted for it.",
+      "steps": [
+        "Understand that maintaining a rat-breeding colony reads as an illegal 'rodent breeding place' under 10 GCA §37101, independent of the import ban",
+        "Confirm with the DPHSS Division of Environmental Health whether a clean, secure indoor pet enclosure (single non-breeding rat) is treated as a regulated 'rodent harborage' before relying on the bare-possession gap"
+      ],
       "forms": [],
-      "where_to_file": "Guam DOAG -- Animal Health Division (Quarantine)",
+      "where_to_file": "Guam Dept of Public Health & Social Services — Division of Environmental Health (DEH)",
       "fees": "",
       "source_ids": [
-        "gu-doag-species-list"
+        "gu-10gca-37-rodent",
+        "gu-10gca-34"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep"
+      ],
+      "summary": "Bare possession is the one open door — but a narrow one. 5 GCA §63118 lists 'Rats' as Unprotected Wild Animals and 9 GAR §11120 permits 'holding' them, and 10 GCA §34101(e) defines a licensed 'Pet' as only a cat or dog (so no license/microchip/rabies-cert applies to a rat). This makes possession of a LOCALLY trapped rat lawful and unregulated — but it is NOT a pathway to a captive-bred pet (which cannot be lawfully imported), and DPHSS strongly discourages keeping wild-caught rats due to zoonotic-disease risk (e.g., Capillaria hepatica documented in Guam-area R. rattus). Never release one.",
+      "steps": [
+        "Possession of a rat already on-island is lawful (5 GCA §63118 + 9 GAR §11120) and needs no pet license (10 GCA §34101)",
+        "But there is no lawful way to obtain a captive-bred domesticated roof rat — import is banned (DOAG Species Listing)",
+        "Keep any rat strictly contained; never release it (active invasive-rodent eradication on Guam)"
+      ],
+      "forms": [],
+      "where_to_file": "Guam Dept of Agriculture — Division of Aquatic & Wildlife Resources (DAWR); Dept of Public Health & Social Services — Division of Environmental Health",
+      "fees": "",
+      "source_ids": [
+        "gu-5gca-63",
+        "gu-9gar-11-hunting",
+        "gu-10gca-34"
       ]
     }
   ],
-  "inquiry_focus": "Please confirm in writing whether captive-bred domestic Rattus rattus kept solely as a pet falls within the 'Mammals — Banned: mice and rodents for breeding or pet sale' category of DOAG's Species Listing for Importation, or whether any individual entry permit under 9 GAR §1101/§1111 is available for a single altered (non-breeding) pet (analogous to the spayed/neutered-pet-rabbit allowance); and the legal basis and any appeal/variance path.",
+  "inquiry_focus": "(1) DOAG Animal Health / Territorial Veterinarian: under the Species Listing for Importation, does a single captive-bred, altered (non-breeding), microchipped, health-certified domestic roof rat (R. rattus) kept solely as an indoor pet fall within 'mice and rodents for breeding or pet sale,' or is any individual entry permit/variance available under 9 GAR Ch. 1 — analogous to the spayed/neutered-pet-rabbit allowance on the same list? (2) DPHSS Environmental Health: does privately breeding locally sourced rats under the 10 GCA §34202 'individual sales by owners' exemption inherently violate the 10 GCA §37101 rodent-breeding-place prohibition, and does DEH treat a clean single-pet enclosure as an illegal 'rodent harborage'? (3) DAWR: does 5 GCA §63118 + 9 GAR §11120 allow a resident to lawfully keep a wild-caught R. rattus as a pet indefinitely with no DAWR license?",
   "sources": [
     {
       "id": "gu-species-listing",
-      "title": "DOAG Species Listing for Importation (Mammals — Banned: 'mice and rodents for breeding or pet sale')",
+      "title": "Guam DOAG Species Listing for Importation (Mar 9, 2023; compiled June 2022) — Mammals BANNED: 'mice and rodents for breeding or pet sale'; ACCEPTED: 'mice for research or brown-tree-snake control ONLY' and 'pet rabbits that have been spayed or neutered'",
       "url": "https://doag.guam.gov/wp-doag-content/uploads/2024/02/DOAG-Species-listing-reference.pdf",
-      "authority": "Guam Dept of Agriculture (Animal Health/Animal Control)",
-      "accessed": "2026-06-06"
+      "authority": "Guam Dept of Agriculture (Animal Health / Animal Control)",
+      "accessed": "2026-06-13"
     },
     {
-      "id": "gu-9gar-1",
-      "title": "9 GAR Title 9, Div. 1, Ch. 1 — Importing Animals (§§1100-1113; Territorial Vet clearance; no-release)",
+      "id": "gu-9gar-1-import",
+      "title": "9 GAR Title 9, Div. 1, Ch. 1 — Importing Animals (Territorial-Veterinarian clearance for all incoming animals; carrier bonds; no-release rule)",
       "url": "https://col.guamcourts.gov/sites/default/files/09GAR001.pdf",
       "authority": "Compiler of Laws, Judiciary of Guam",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "gu-9gar-11-hunting",
+      "title": "9 GAR Div. 2, Ch. 11 — Hunting Regulations, §11120 ('Picking Up Live Wild Animals or Birds': taking/holding live wild animals is unlawful EXCEPT the Unprotected Wild Animals listed in 5 GCA §§63118 and 63119)",
+      "url": "https://doag.guam.gov/wp-doag-content/uploads/2019/06/Hunting-Regulations.pdf",
+      "authority": "Compiler of Laws, Judiciary of Guam (Guam Dept of Agriculture)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "gu-5gca-63",
+      "title": "5 GCA Ch. 63 — Fish, Game, Forestry & Conservation: §63118 ('Rats' = Unprotected Wild Animals, takeable in daytime); §63121 (general bar on take/buy/sell/transport/possess of any wild or feral animal, except as authorized); §63124 (Importation: Harboring — game-import licensing)",
+      "url": "https://doag.guam.gov/wp-doag-content/uploads/2019/06/Chapter-63-Fish-Game-Forestry-and-Conservation.pdf",
+      "authority": "Compiler of Laws, Judiciary of Guam (Guam Dept of Agriculture)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "gu-10gca-37-rodent",
+      "title": "10 GCA Ch. 37 — Rodent Control: §37101 (every property maintained to avoid rodent harborage/breeding places); §37106 (Director's rules over rodent harborage and breeding areas)",
+      "url": "https://faolex.fao.org/docs/pdf/gum54679.pdf",
+      "authority": "Compiler of Laws, Judiciary of Guam (via FAOLEX)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "gu-10gca-34",
+      "title": "10 GCA Ch. 34 — Keeping Animals: §34101(e) ('Pet' = a cat or dog); §34102 (pet license required); §34202 (Sanitary Permit for commercial animal establishments; 'individual sales by owners' exemption)",
+      "url": "https://faolex.fao.org/docs/pdf/gum54215.pdf",
+      "authority": "Compiler of Laws, Judiciary of Guam (via FAOLEX)",
+      "accessed": "2026-06-13"
     },
     {
       "id": "gu-cqa-import",
-      "title": "Guam CQA/DOAG Pet Import Requirements (other vertebrates 'generally prohibited entry')",
-      "url": "https://cqa.guam.gov/wp-cqa-content/uploads/2016/11/Pet-Import-Requirements.pdf",
+      "title": "Guam CQA/DOAG Pet Import Requirements (rabies-free border controls; rodents not an importable pet class; Customs & Quarantine border enforcement)",
+      "url": "https://cqa.guam.gov/pet-import-requirements-3/",
       "authority": "Guam Customs & Quarantine Agency / DOAG",
-      "accessed": "2026-06-06"
-    },
-    {
-      "id": "gu-doag-species-list",
-      "title": "Guam DOAG Species Listing for Importation (Mar 9, 2023) -- mice/rodents prohibited for breeding/pet sale; only BTS-research exception",
-      "url": "https://doag.guam.gov/wp-doag-content/uploads/2024/02/DOAG-Species-listing-reference.pdf",
-      "authority": "Guam Department of Agriculture",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     }
   ],
   "contacts": [
     {
-      "agency": "Guam Dept of Agriculture — Animal Health Section / Animal Control (Territorial Veterinarian)",
+      "agency": "Guam Dept of Agriculture — Animal Health Section / Animal Control (Territorial Veterinarian / Quarantine)",
       "role": "agriculture",
       "email": "quarantine@doag.guam.gov",
-      "form_url": "",
+      "form_url": "https://doag.guam.gov/animal-health-animal-control/",
       "phone": "(671) 300-7965",
-      "primary": true
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Guam Dept of Public Health & Social Services — Division of Environmental Health (DEH)",
+      "role": "other",
+      "email": "dphss-deh@dphss.guam.gov",
+      "form_url": "https://dphss.guam.gov/",
+      "phone": "(671) 922-2533",
+      "primary": false,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Guam Dept of Agriculture — Division of Aquatic & Wildlife Resources (DAWR)",
+      "role": "wildlife",
+      "email": "wildlife@doag.guam.gov",
+      "form_url": "https://doag.guam.gov/dawr/",
+      "phone": "(671) 735-0294",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }
