@@ -2,7 +2,8 @@
 
 This skill produces two very different kinds of text. Use the right register for each. Either way, avoid
 flowery, polished "AI" prose: no rhetorical parallelism, no three-beat rhythms, no "the very accident of
-history that…", and avoid em-dashes (use periods, commas, colons, or parentheses).
+history that…", and avoid em-dashes in your own prose (use periods, commas, colons, or parentheses). The
+em-dash rule governs the words *you* write, not non-ASCII characters or quoted sources (see PRESERVE below).
 
 ## Register B — LEGAL & ADVOCACY TEXT (most of what this skill renders)
 For the jurisdiction pages (summaries, each activity's `why`, restrictions, disclaimers) and the advocacy
@@ -26,6 +27,18 @@ For blog posts, "about" / mission pages, and image captions: anything written as
   parentheticals for asides, and a clear "why". Honest, never salesy.
 - Do not layer flowery prose on top of the owner's voice. If you don't have samples yet, ask for some
   before writing in their name.
+
+## PRESERVE native spelling & official wording
+These two things outrank the style rules above. The style rules govern the words *you* write, never these.
+- **Use correct native-language spelling and diacritics** for each jurisdiction in its own language
+  (å ø æ; á é í ó ú ñ ¿ ¡; ä ö ü ß; ă â î ș ț; Hangul; and so on). Never transliterate a foreign-language
+  letter template, statute name, agency name, or place name to plain ASCII. The no-em-dash rule is about
+  em-dashes in your prose, not about non-ASCII characters.
+- **Text quoted directly from an official, primary, or legal source is EXEMPT from this style guide.**
+  Reproduce the source's exact wording, terminology, and punctuation, including em-dashes if the original
+  has them. Do not "fix" or sanitize a verbatim official quote to the house style. The accuracy of the
+  quoted source outranks the punctuation rules. Aim for quotes that are clear and readable while staying as
+  faithful as possible to the original.
 
 ## How to decide
 Ask: is this neutral legal/factual information (Register B), or the owner speaking about their animal and
