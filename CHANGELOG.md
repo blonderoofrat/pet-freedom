@@ -11,6 +11,18 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.2.0 (2026-06-14)
+
+- The agency-inquiry mailer (`skill/mail.py`) now keeps a record of everything you send. Each send is saved
+  locally to `data/sent_archive/<date>.eml` plus an index line in `data/sent_log.jsonl` (independent of your
+  mail server), and, unless your provider auto-saves sent mail, a copy is appended to your mailbox's Sent
+  folder so it shows in webmail. New `python skill/mail.py sent` lists the record.
+- New `python skill/mail.py verify`: checks SMTP + IMAP login and detects your Sent folder, then reports how
+  the Sent copy will behave on your provider. It sends nothing. Run it before relying on the mailer.
+- New optional `.env` settings so the Sent copy works across providers: `SITE_MAIL_COPY_TO_SENT`
+  (auto / always / never; use `never` on Gmail/Outlook, which auto-save) and `SITE_MAIL_SENT_FOLDER` (exact
+  Sent-folder name if auto-detection fails). The local archive is always kept regardless.
+
 ## 1.1.0 (2026-06-13)
 
 - On a successful publish, the skill now records its version to the companion plugin (a new admin-only
