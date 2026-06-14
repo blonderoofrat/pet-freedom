@@ -11,6 +11,13 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.1.0 (2026-06-13)
+
+- On a successful publish, the skill now records its version to the companion plugin (a new admin-only
+  `/skill-version` route), so the plugin's Get Started page can show which skill version last built the site.
+  This is a drift signal: if it is newer than the plugin expects, update the plugin. It is a no-op without the
+  companion plugin or in no-plugin mode, and never fails the build. (Companion plugin 1.4.0 adds the display.)
+
 ## 1.0.0 (2026-06-13)
 
 First public release.

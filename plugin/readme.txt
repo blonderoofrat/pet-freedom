@@ -4,7 +4,7 @@ Tags: pet, animal, legal, wildlife, exotic pets
 Requires at least: 5.8
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.3.1
+Stable tag: 1.4.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,8 +20,9 @@ This plugin — **Pet Freedom Companion** — is the small WordPress half of the
 
 * A friendly **Get Started** admin page that explains what Pet Freedom is, what else you need, and shows whether everything is wired up correctly.
 * One optional, **admin-only** REST helper used by the publishing tool: read/write post meta, so SEO meta for **Rank Math** or **Yoast** can be set programmatically.
+* A second **admin-only** route the publishing tool uses to record which **skill version** last published to your site, shown on the Get Started page as an update/drift signal (so you can tell if the plugin needs updating).
 
-The route requires the `manage_options` capability — nothing is exposed to anonymous visitors. The plugin stores no secrets, references no specific domain/owner/species, makes no outbound calls, and does not modify its own files; all configuration lives in your own `config.json`.
+Both routes require the `manage_options` capability — nothing is exposed to anonymous visitors. The plugin stores no secrets, references no specific domain/owner/species, makes no outbound calls, and does not modify its own files; all configuration lives in your own `config.json`.
 
 = Do I need anything else? =
 
@@ -65,7 +66,7 @@ The easy way: paste a short prompt into **Claude Code** and it walks you through
 
 = What does this plugin actually do on its own? =
 
-It adds a **Get Started** info page to wp-admin and registers one optional, admin-only REST helper route (post-meta read/write). It does not publish anything by itself, collect any data, modify its own files, or expose anything to anonymous visitors.
+It adds a **Get Started** info page to wp-admin and registers two optional, admin-only REST routes: post-meta read/write, and a small skill-version marker the publishing tool sets so the Get Started page can show which skill version last published. It does not publish anything by itself, collect any personal data, modify its own files, or expose anything to anonymous visitors.
 
 = Do I need anything else? =
 
@@ -79,9 +80,9 @@ No. It is a **research aid, not legal advice.** Always verify with the responsib
 
 No. The plugin stores no secrets, references no specific domain/owner/species, and adds no tracking. Your credentials and private notes stay on your own machine; published pages render only public-safe fields.
 
-= Is the REST route safe? =
+= Are the REST routes safe? =
 
-Yes. The single `/meta` route requires the `manage_options` capability (a site administrator, e.g. via an Application Password) and is never exposed to anonymous visitors. It sanitizes meta keys and only reads/writes post meta. The plugin contains no file-writing or self-update code and makes no outbound calls.
+Yes. Both routes (`/meta` and `/skill-version`) require the `manage_options` capability (a site administrator, e.g. via an Application Password) and are never exposed to anonymous visitors. `/meta` sanitizes meta keys and only reads/writes post meta; `/skill-version` stores only a sanitized version string for display. The plugin contains no file-writing or self-update code and makes no outbound calls.
 
 = Which SEO plugins are supported? =
 
@@ -96,6 +97,9 @@ GitHub: https://github.com/blonderoofrat/pet-freedom — issues, source, and the
 1. The Pet Freedom "Get Started" admin page: what the project is, what you also need (Claude Code + the free skill), live route status, and the two config constants to keep in sync.
 
 == Changelog ==
+
+= 1.4.0 =
+* Added an admin-only `/skill-version` route and a "Published with skill version" row on the Get Started page. The publishing tool (the Pet Freedom skill) records its version when it builds your site, so you can see at a glance whether the skill is newer than this plugin expects and the plugin needs updating. The plugin still makes no outbound calls and stores no secrets (just a version string for display).
 
 = 1.3.1 =
 * The admin "Get Started" page and readme now link to the project's landing page (blonderoofrat.com/pet-freedom/) for the live demo, instead of a GitHub URL. Clearer for non-technical users and keeps the plugin free of remote-file calls.
@@ -119,6 +123,9 @@ GitHub: https://github.com/blonderoofrat/pet-freedom — issues, source, and the
 * Initial release: admin-only REST helpers — generic post-meta read/write (Rank Math / Yoast SEO meta), install inspect, and an admin-authenticated self-update endpoint.
 
 == Upgrade Notice ==
+
+= 1.4.0 =
+Adds a "Published with skill version" display (a new admin-only route the skill writes to) so you can tell when the plugin needs updating. No outbound calls; no breaking changes.
 
 = 1.3.1 =
 The live-demo link now points to the project landing page (clearer for everyone). No functional change.

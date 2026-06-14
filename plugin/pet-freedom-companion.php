@@ -3,7 +3,7 @@
  * Plugin Name: Pet Freedom Companion
  * Plugin URI:  https://github.com/blonderoofrat/pet-freedom
  * Description: Companion for the free Pet Freedom skill for Claude Code: map a pet species' legal status across jurisdictions worldwide and publish it as a sourced WordPress resource. Adds a friendly admin "Get Started" page plus one optional, admin-only REST helper for writing SEO post-meta (Rank Math / Yoast). Research aid, not legal advice.
- * Version:     1.3.1
+ * Version:     1.4.0
  * Author:      Pet Freedom (blonderoofrat.com)
  * Author URI:  https://blonderoofrat.com
  * License:     GPLv2 or later
@@ -108,6 +108,42 @@ add_action( 'rest_api_init', function () {
 					}
 				}
 				return array( 'ok' => true, 'post_id' => $id, 'updated' => $updated );
+			},
+		),
+	) );
+
+	/* ------------------------------------------------------------------
+	 * SKILL VERSION -- a drift signal, not an updater.
+	 *   GET  /skill-version           -> { version, at }
+	 *   POST /skill-version {version}  -> store it (+ a UTC timestamp)
+	 * The skill records its own version here when it publishes; the Get Started
+	 * page shows it so you can tell whether the skill that built this site is newer
+	 * than this plugin expects (and so whether the plugin needs updating). The
+	 * plugin itself still makes no outbound calls.
+	 * ---------------------------------------------------------------- */
+	register_rest_route( PETFREEDOM_NS, '/skill-version', array(
+		array(
+			'methods'             => WP_REST_Server::READABLE, // GET
+			'permission_callback' => $admin,
+			'callback'            => function () {
+				return array(
+					'version' => (string) get_option( PETFREEDOM_OPT_PREFIX . 'skill_version', '' ),
+					'at'      => (string) get_option( PETFREEDOM_OPT_PREFIX . 'skill_version_at', '' ),
+				);
+			},
+		),
+		array(
+			'methods'             => WP_REST_Server::CREATABLE, // POST
+			'permission_callback' => $admin,
+			'args'                => array( 'version' => array( 'required' => true ) ),
+			'callback'            => function ( WP_REST_Request $req ) {
+				$v = sanitize_text_field( (string) $req->get_param( 'version' ) );
+				if ( $v === '' ) {
+					return new WP_Error( 'petfreedom_bad_version', 'version is required.', array( 'status' => 400 ) );
+				}
+				update_option( PETFREEDOM_OPT_PREFIX . 'skill_version', $v, false );
+				update_option( PETFREEDOM_OPT_PREFIX . 'skill_version_at', gmdate( 'Y-m-d H:i:s' ) . ' UTC', false );
+				return array( 'ok' => true, 'version' => $v );
 			},
 		),
 	) );
@@ -232,7 +268,23 @@ For any step I must do by hand (accounts, installing a plugin, purging cache), g
 					</tr>
 					<tr>
 						<td><strong>Plugin version</strong></td>
-						<td><code>1.3.1</code></td>
+						<td><code>1.4.0</code></td>
+					</tr>
+					<tr>
+						<td><strong>Published with skill version</strong></td>
+						<td>
+							<?php
+							$pf_sv = get_option( PETFREEDOM_OPT_PREFIX . 'skill_version', '' );
+							$pf_at = get_option( PETFREEDOM_OPT_PREFIX . 'skill_version_at', '' );
+							if ( $pf_sv ) {
+								echo '<code>' . esc_html( $pf_sv ) . '</code>';
+								if ( $pf_at ) { echo ' <span class="description">(recorded ' . esc_html( $pf_at ) . ')</span>'; }
+							} else {
+								echo '<span class="description">Not recorded yet. It appears the first time the skill publishes to this site.</span>';
+							}
+						?>
+						<p class="description" style="margin:4px 0 0;">The skill version that last built this site. If it is newer than this plugin expects, update the plugin.</p>
+						</td>
 					</tr>
 				</tbody>
 			</table>

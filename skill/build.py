@@ -851,6 +851,23 @@ def depth(d, by_id):
     return n
 
 
+def _record_skill_version():
+    """Best-effort: tell the companion plugin which skill version published, for its Get Started page
+    (a drift signal: if it is newer than the plugin expects, update the plugin). No-op on an older plugin
+    or in no-plugin mode; never fails the build."""
+    try:
+        ver = open(os.path.join(config.ROOT, "VERSION"), encoding="utf-8").read().strip()
+    except Exception:
+        return
+    try:
+        st, _ = common.api_request("POST", "/wp-json/%s/skill-version" % cfg.plugin_namespace,
+                                   {"version": ver})
+        if st and 200 <= st < 300:
+            print("Recorded skill version %s on the site (shown on the plugin's Get Started page)." % ver)
+    except Exception:
+        pass  # route absent (older plugin / no-plugin mode) -- harmless
+
+
 def main():
     src_dir = SOURCE_DIR or cfg.data_dir()
     files = sorted(glob.glob(os.path.join(src_dir, "*.json")))
@@ -903,6 +920,8 @@ def main():
     total = 3 + len(page_ids)
     print("\nDONE. Hub id=%s. Jurisdiction pages: %d. Total pages: %d." % (hub_id, len(page_ids), total))
     print("Purge your host cache to show changes to visitors.")
+    if not DRY_RUN and cfg.use_plugin:
+        _record_skill_version()
 
 
 def _parse_args(argv=None):
