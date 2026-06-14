@@ -46,13 +46,27 @@ it with me. Once setup is done, take over the research-and-publish work.
 ```
 
 ## Quickstart (manual)
-1. `cp config.example.json config.json` and edit it (species, site, preferences).
-2. `cp .env.example .env` and fill in your WordPress (and optional mail) credentials. **Never commit `.env`.**
-3. Open the project in Claude Code and ask it to *"research the legal status of <your species> and build the
-   resource."* The `pet-freedom` skill takes it from there — see `SKILL.md`.
+1. **Get the skill:** `git clone https://github.com/blonderoofrat/pet-freedom` and open the folder in Claude
+   Code. (Clone it, rather than downloading the .zip, so the skill can keep itself up to date later.)
+2. `cp config.example.json config.json` and edit it (species, site, preferences).
+3. `cp .env.example .env` and fill in your WordPress (and optional mail) credentials. **Never commit `.env`.**
+4. Ask Claude to *"research the legal status of <your species> and build the resource."* The `pet-freedom`
+   skill takes it from there — see `SKILL.md`.
 
 Full setup in [`docs/INSTALL.md`](docs/INSTALL.md); day‑to‑day use in [`docs/RUNBOOK.md`](docs/RUNBOOK.md); the
 privacy contract in [`docs/OPSEC.md`](docs/OPSEC.md).
+
+## Updating
+The skill keeps itself current. When you use it, Claude checks GitHub and, with your OK, pulls the latest and
+runs a self-test before trusting it: a non-breaking update applies once the self-test passes, and a breaking
+one pauses for your confirmation. Your own `config.json` and `data/` are gitignored, so an update never touches
+your content. You can also do it by hand:
+
+```bash
+python skill/update.py            # show what changed since your installed version
+python skill/update.py --apply    # pull a non-breaking update, run the self-test, auto roll back on failure
+python skill/selftest.py          # verify the offline pipeline any time (this is what gates an update)
+```
 
 ## Honesty & responsibility
 This is a **research aid, not legal advice.** Laws change and are interpreted by local officials. Every page tells

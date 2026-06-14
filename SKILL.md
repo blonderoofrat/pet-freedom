@@ -35,7 +35,7 @@ jurisdictions. Everything species/brand-specific lives in `config.json` — read
 
 ## 1. Setup check
 Confirm `config.json` and `.env` exist and WordPress is reachable (`skill/config.py`, `skill/common.py`). Note from
-`config.research` whether Gemini is available.
+`config.research` whether Gemini is available. At the start of a session, also run the update check (section 5).
 
 ## 2. The loop (per jurisdiction)
 1. **Seed** skeletons — `skill/seed.py --pack <packs>` or `--add <id> ...` (status `unknown`, `needs_verification:true`).
@@ -66,6 +66,23 @@ and say so on the page.
 ## 4. Modules (opt-in, per config)
 Inquiries/mail (`skill/inquiries.py`, `skill/mail.py`); the companion plugin (`plugin/`); the Answer Garden
 crowdsourcing loop for leaf nodes/cities (`modules/answer-garden/`). All optional; the core (1–6) works without them.
+
+## 5. Keeping the skill up to date (check at the start of a session)
+This install updates by `git pull`: the user cloned the repo into their project, and their `config.json` +
+`data/` are gitignored, so a pull never touches their content. Consent is TIERED (Brian, 2026-06-13).
+
+1. Run `python skill/update.py` to check installed vs latest (it reads `VERSION` + `CHANGELOG.md` from GitHub).
+2. If it reports an update, tell the user in plain language what changed (from the changelog it prints).
+3. Apply per tier:
+   - **PATCH or MINOR (non-breaking):** run `python skill/update.py --apply`. It pulls, runs the self-test,
+     and rolls back automatically if the self-test fails. Report the result.
+   - **MAJOR (breaking):** summarize what is breaking, ASK the user to confirm, then run
+     `python skill/update.py --apply --yes`.
+4. After any update, do NOT auto-republish. If the renderer changed, tell the user to re-run `skill/build.py`
+   to apply it to their live site (their explicit choice).
+5. If the check cannot reach GitHub, or this is not a git clone, just proceed; do not block work.
+
+Run `python skill/selftest.py` any time to confirm the offline pipeline is intact (it is what gates updates).
 
 See `docs/RUNBOOK.md` for day-to-day operation, `docs/OPSEC.md` for the full public/private contract, and
 `docs/VOICE.md` for which register to write in (factual for legal/advocacy; the owner's own voice for posts).

@@ -7,6 +7,21 @@ companion plugin are **optional** and you can add them later.
 > **A research aid, not legal advice.** Whatever you publish, you own its accuracy. Be honest about
 > confidence; never fabricate certainty; never impersonate an official.
 
+## Get the skill (and keep it current)
+
+Clone the repo into your own project and open it in Claude Code:
+
+```bash
+git clone https://github.com/blonderoofrat/pet-freedom
+```
+
+Clone it (rather than downloading the .zip) so the skill can update itself. When you use it, Claude checks
+GitHub and, with your OK, pulls the latest and runs a self-test first: a non-breaking update applies once the
+self-test passes, a breaking one pauses for confirmation. Your `config.json` and `data/` are gitignored, so an
+update never overwrites your content. Manual equivalents: `python skill/update.py` (check),
+`python skill/update.py --apply` (pull a non-breaking update with the self-test gate), `python skill/selftest.py`
+(verify the offline pipeline any time).
+
 ## At a glance — what an adopter needs
 
 | Requirement | When | Why |
