@@ -16,206 +16,237 @@
       "rat des champs"
     ]
   },
-  "summary": "In France the roof rat falls on the wrong side of a purely taxonomic line. The official domestic-animals list (Arrêté du 11 août 2006) names only captive strains of Rattus norvegicus among the Muridae — so Rattus rattus is legally 'non-domestic,' which pulls it into the Code de l'environnement's regime for espèces non domestiques. In practice a hobbyist with a small number of captive-bred roof rats must file a prefectural déclaration de détention (but not the harder certificat de capacité, which only kicks in above ~40 adult mammals), register each animal in the national I-FAP file within 8 days, and use an attestation de cession for any transfer. The good news: R. rattus is NOT on the EU invasive-species Union list (Reg. 1143/2014) or France's metropolitan invasive Arrêté, so there's no keeping/sale ban. The wrinkle: the 2021 animal-welfare law created a 'positive list' for pet species (Art. L413-1A) that, as of 2026, still hasn't been published — leaving the regime in limbo and opening a concrete advocacy window to request R. rattus's inclusion.",
-  "last_reviewed": "2026-06-07",
+  "summary": "In metropolitan France a captive-bred roof rat is legal to keep, hobby-breed, and give away, and the species-vs-domestication line does not, in practice, add a permit. The roof rat is non-domestic (the Arrêté du 11 août 2006 lists only 'les races domestiques du rat (Rattus norvegicus)' among the rodents), so it is governed by the Code de l'environnement and the Arrêté du 8 octobre 2018. But Annexe 2 of that order places Rattus rattus in the catch-all 'Toutes les autres espèces de Rodentia' row, which is column (a) 'Pas de formalité' (no formality) for 1 to 40 adult animals; only 41 or more triggers a certificat de capacité. Marking and I-FAP registration apply only to protected or CITES species (Article 3 of the same order), so they do not apply to the roof rat. A sale (vente) must come with a written document d'information (Art. L413-8); a free transfer between private persons does not. R. rattus is not on the EU Union list (Reg. 1143/2014) or France's metropolitan invasive Arrêté du 14 février 2018, so there is no keeping or sale ban. Commercial breeding or selling to the public is a separate, permitted-only regime (établissement authorization plus, for trade, Code rural Art. L214-6). Two limits: the species is managed as invasive in the French overseas territories (DROM-COM), where local decrees prohibit it; and the 2021 welfare law created a future 'positive list' (Art. L413-1A) whose implementing arrêté is still unpublished, a watch item rather than a current restriction.",
+  "last_reviewed": "2026-06-13",
   "advocacy": {
-    "flag": true,
-    "kit": {
-      "case_type": "positive_list",
-      "problem": "In France the pet roof rat (Rattus rattus) is treated differently from the ordinary fancy rat because of taxonomy, not because of how the animal lives. The official list of domestic animals (Arrêté du 11 août 2006) names only captive strains of the brown rat, Rattus norvegicus, among the rodents. Because the roof rat is a different species, it is classified as non-domestic, even when it is captive-bred, hand-tame, and has never lived in the wild. That taxonomic line pulls a tame pet rat into the framework for non-domestic species under the Code de l'environnement: before acquiring one, the keeper must file a prefectural déclaration de détention, register each animal in the national I-FAP file within eight days, and use an attestation de cession for any transfer. A fancy-rat keeper has none of these obligations. The already-permitted fancy rat (Rattus norvegicus) is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred Rattus rattus is the same case one species over. Separately, the 2021 animal-welfare law (Loi 2021-1539, Art. L413-1A) created a forthcoming positive list of non-domestic species that may be kept as companion animals, but the implementing arrêté has not been published (confirmed by a November 2025 Sénat written question). The regime is in limbo, and captive-bred Rattus rattus could be left off the list when it is drawn up.",
-      "ask": "Ask the Ministre chargé de l'environnement (the minister who, under Art. L413-1A, fixes the positive list) to examine captive-bred, indoor-kept Rattus rattus for inclusion on the forthcoming positive list of non-domestic companion species, so that a tame, captive-bred roof rat is treated like the fancy rat it resembles in practice, rather than carrying declaration and registration burdens based on its Latin name. The relevant test is domestication, not wild ancestry. The dog descends from the wolf and the cat from a wild felid, yet both are recognised as domestic animals, because what defines a domestic animal is generations of captive breeding for tameness, not the species label. A captive-bred R. rattus is domesticated in that same sense. The already-permitted fancy rat (Rattus norvegicus) is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred Rattus rattus is the same case one species over (see https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/ ). Anyone may make this request in writing under Art. L413-1A, and the minister owes a reasoned reply within six months. When the draft arrêté goes out for public comment, also submit a short contribution on the official public-consultation portal supporting inclusion.",
-      "branch_note": "This is the legislature/rulemaking-window branch, not the bureaucracy-misreading branch. The agencies (préfecture, OFB) are applying the law correctly: the Arrêté du 11 août 2006 lists only Rattus norvegicus strains as domestic, so a préfet who classes Rattus rattus as non-domestic and asks for a déclaration de détention is doing what the texts require. Writing to OFB or a préfecture to complain will not change this; they cannot rewrite a national list, and they are not misapplying anything. The fix is at the rulemaking level. The 2021 welfare law (Loi 2021-1539, Art. L413-1A) created the lever: a forthcoming positive list of non-domestic species allowed as companion animals, fixed by an arrêté of the minister responsible for the environment. Art. L413-1A expressly invites \"toute personne physique ou morale\" to request that a species be examined for inclusion, with a reasoned ministerial answer due within six months and judicial review available. Because the implementing arrêté is still unpublished (Sénat written question qSEQ251106679, Nov. 2025, awaiting answer; April 2025 IGEDD-CGAAER report urged publication and ANSES coordination), there is a statutorily-invited window to get captive-bred Rattus rattus onto the list before it is finalized, and to avoid a de-facto ban if the species is omitted. The target is the Ministry (which holds the pen on the arrêté) via the formal L413-1A inclusion request, plus the official public-consultation portal when the draft arrêté is posted. This is not an individual-representative matter, because the underlying statute already exists; what is missing is the executive instrument (the arrêté) and the species' place on it.",
-      "time_sensitive": "The implementing arrêté establishing the Art. L413-1A \"positive list\" of non-domestic companion species is still unpublished as of late 2025 (Sénat written question qSEQ251106679, Nov. 2025, awaiting government reply; an April 2025 IGEDD-CGAAER report recommended publishing it and assigning coordination to ANSES). This means the list is being prepared now — the moment to request that captive-bred Rattus rattus be examined for inclusion is BEFORE the arrêté is finalized. No specific public-comment window for this arrêté is open at the time of writing; watch the official public-consultation portal (consultations-publiques.developpement-durable.gouv.fr, \"Eau et biodiversité\") for the draft to appear.",
-      "targets": [
-        {
-          "name": "Ministère de la Transition écologique, de la Biodiversité, de la Forêt, de la Mer et de la Pêche — official contact portal",
-          "type": "agency",
-          "form_url": "https://contact.ecologie.gouv.fr",
-          "why": "This ministry holds the pen on the Art. L413-1A positive-list arrêté (the minister 'chargé de l'environnement' fixes the list). Under L413-1A any person may request that a species be examined for inclusion, with a reasoned reply due within six months. This is the official, secure electronic contact form (FranceConnect or email identification; acknowledgment within 10 business days). Address the request to the Direction de l'eau et de la biodiversité (DEB)."
-        },
-        {
-          "name": "Consultations publiques du ministère de la Transition écologique — rubrique « Eau et biodiversité »",
-          "type": "public_comment",
-          "form_url": "https://www.consultations-publiques.developpement-durable.gouv.fr/eau-et-biodiversite-r2.html",
-          "why": "The official portal where draft arrêtés on water and biodiversity (including, when posted, the L413-1A positive-list arrêté) are opened for public comment. Submit a short contribution supporting inclusion of captive-bred Rattus rattus when the draft appears. No relevant window is open right now — monitor this page."
-        }
-      ],
-      "template": {
-        "en": "Subject: Request under Article L413-1A to examine captive-bred Rattus rattus for the positive list\n\nTo the Direction de l'eau et de la biodiversité, Ministère de la Transition écologique,\n\nI am writing about the legal status of the pet roof rat (Rattus rattus). It is classed as a non-domestic species because the domestic-animals list (Arrêté du 11 août 2006) names only Rattus norvegicus among rodents. As a result, a captive-bred, hand-tame roof rat carries declaration and I-FAP registration burdens that an identical fancy rat does not, a difference based on the animal's Latin name, with no ecological rationale for animals that are bred in captivity, kept indoors, and never released.\n\nUnder Article L413-1A of the Code de l'environnement, I request that captive-bred Rattus rattus be examined for inclusion on the forthcoming positive list of non-domestic species that may be kept as companion animals.\n\nThese animals are captive-bred, tame, kept exclusively indoors, and never released into the wild. The relevant test is domestication, not wild ancestry. The dog descends from the wolf and the cat from a wild felid, yet both are recognised as domestic animals, because what defines a domestic animal is generations of captive breeding for tameness, not its Latin name. A captive-bred roof rat is domesticated in that same sense. The already-permitted fancy rat (Rattus norvegicus) is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred Rattus rattus is the same case one species over.\n\nThank you for your consideration. I would be grateful for your reasoned reply within the six-month period provided by Article L413-1A.\n\n[Your name]\n[Town / department]\n[Date]",
-        "fr": "Objet: Demande au titre de l'article L413-1A d'examen du Rattus rattus né en captivité en vue de la liste positive\n\nÀ l'attention de la Direction de l'eau et de la biodiversité, Ministère de la Transition écologique,\n\nJe vous saisis au sujet du statut juridique du rat des toits de compagnie (Rattus rattus). Il est classé parmi les espèces non domestiques au motif que la liste des animaux domestiques (arrêté du 11 août 2006) ne mentionne, parmi les rongeurs, que le Rattus norvegicus. De ce fait, un rat des toits né en captivité et apprivoisé entraîne des obligations de déclaration de détention et d'enregistrement I-FAP qu'un rat domestique identique n'impose pas. Cette différence est fondée sur le nom latin de l'animal, sans justification écologique pour des animaux nés en captivité, détenus en intérieur et jamais relâchés.\n\nEn application de l'article L413-1A du code de l'environnement, je sollicite l'examen de l'inscription du Rattus rattus né en captivité sur la future liste positive des espèces non domestiques pouvant être détenues comme animaux de compagnie.\n\nCes animaux sont nés en captivité, apprivoisés, détenus exclusivement en intérieur et jamais relâchés dans la nature. Le critère pertinent est la domestication, et non l'ascendance sauvage. Le chien descend du loup et le chat d'un félidé sauvage, et pourtant tous deux sont reconnus comme des animaux domestiques, car ce qui définit un animal domestique, ce sont des générations d'élevage en captivité pour l'apprivoisement, et non son nom latin. Un rat des toits né en captivité est domestiqué en ce sens. Le rat domestique déjà autorisé (Rattus norvegicus) est lui-même le rat brun sauvage, domestiqué seulement au XIXe siècle, de sorte qu'un Rattus rattus né en captivité relève du même cas, une espèce plus loin.\n\nJe vous remercie de votre attention et vous saurais gré de bien vouloir m'adresser une réponse motivée dans le délai de six mois prévu par l'article L413-1A.\n\n[Votre nom]\n[Commune / département]\n[Date]"
-      },
-      "confidence_notes": "Verified via web: (1) Art. L413-1A of the Code de l'environnement (Légifrance) confirms the positive list is fixed by an arrêté of the minister responsible for the environment, revised every three years, and that \"toute personne physique ou morale\" may request a species' examination for inclusion, with a reasoned ministerial reply due within six months and administrative-court review available. (2) The implementing arrêté is still unpublished — confirmed by Sénat written question qSEQ251106679 (Sen. Jadot, Nov. 2025, still \"en attente de réponse\"), which also cites an April 2025 IGEDD-CGAAER report recommending publication and ANSES coordination. (3) contact.ecologie.gouv.fr is the official ministry electronic contact form (Ordinance 2014-1330; acknowledgment within 10 business days). (4) consultations-publiques.developpement-durable.gouv.fr ('Eau et biodiversité') is the official public-comment portal; checked on access — no positive-list/non-domestic-animal consultation was open (the only animal item was an unrelated Pyrenees brown-bear deterrence draft, 8-29 June 2026). Grounding facts from fr.json (Arrêté 11 août 2006 lists only R. norvegicus; R. rattus absent from the EU Union list and the metropolitan invasive Arrêté du 14 fév. 2018) are consistent with prior research but were not each re-verified line-by-line in this pass. Uncertain/u/watch items: the exact future timeline for the arrêté (government had not answered the Sénat question at last check); whether ANSES will run the technical assessment (recommended, not yet formalized); and the precise Annexe-2 threshold separating déclaration de détention from certificat de capacité for this species (flagged needs_verification in fr.json). The OFB contact directory has no national email/form and OFB does not write the list, so it was intentionally excluded as a target. This is a research aid, not legal advice; OPSEC-clean (no individual civil servant named).",
-      "local_lang": "fr"
-    }
+    "flag": false
   },
   "activities": {
     "keep": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "R. rattus is non-domestic (only R. norvegicus strains are on the Arrêté du 11 août 2006 domestic list), so it's governed by Code de l'environnement Art. L413-1 et seq. + the Arrêté du 8 octobre 2018 (mod. 5 sept. 2025). Below the threshold (generally ~40 adult mammals) a hobbyist needs only a prefectural déclaration de détention — not a certificat de capacité — filed before acquisition, plus I-FAP registration. Not banned (R. rattus absent from the EU Union list + metropolitan invasive Arrêté). ⚠️ The 2021 positive-list (L413-1A) is still unpublished as of 2026, so the pre-existing declaration regime continues.",
-      "governing_law": "Arrêté du 11 août 2006 (domestic list — R. norvegicus only); Code de l'environnement Art. L413-1 à L413-5; Arrêté du 8 octobre 2018 (mod. Arrêté du 5 sept. 2025), Annexe 2; Loi 2021-1539 Art. 14 / Art. L413-1A.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "The roof rat is non-domestic (the Arrêté du 11 août 2006 lists only 'les races domestiques du rat (Rattus norvegicus)' among the Muridae), so it is governed by the Code de l'environnement (Art. L413-1 et seq.) and the Arrêté du 8 octobre 2018. Annexe 2 of that order places R. rattus in the catch-all row 'Toutes les autres espèces de Rodentia, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement', for which column (a) 'Pas de formalité' covers 'De 1 à 40' adults and only '41 et plus' triggers a certificat de capacité. So keeping 1 to 40 adult roof rats requires no declaration and no permit. Marking and I-FAP registration apply only to protected or CITES species (Article 3 of the order), not to R. rattus. The species is not on the EU Union list or the metropolitan invasive list, so there is no keeping ban. Overseas territories (DROM-COM) manage it as invasive and may prohibit it locally.",
+      "governing_law": "Arrêté du 11 août 2006 (domestic list, R. norvegicus only); Code de l'environnement Art. L413-1 à L413-5; Arrêté du 8 octobre 2018 (mod. Arrêté du 5 sept. 2025), Annexe 2, column (a) 'Pas de formalité' De 1 à 40; Article 3 (marking limited to protected/CITES).",
       "source_ids": [
         "fr-2006-domestic",
-        "fr-2018-detention",
-        "fr-L413-1A"
+        "fr-2018-detention-annexe2",
+        "fr-2018-detention-art3"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Hobby breeding (élevage d'agrément) extends detention: below the certificat-de-capacité threshold (~40 adult mammals) only the prefectural déclaration de détention is required; above it, a certificat de capacité (Art. L413-2) and possibly an autorisation d'ouverture d'établissement (Art. L413-3) apply. No specific ban on breeding captive R. rattus. The L413-1A 'élevage de conservation' carve-out awaits its implementing decree.",
-      "governing_law": "Code de l'environnement Art. L413-2, L413-3; Arrêté du 8 octobre 2018, Annexe 2; Loi 2021-1539 Art. 14.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Non-commercial hobby breeding (élevage d'agrément) follows the same Annexe 2 thresholds as keeping: below 41 adult animals R. rattus sits in column (a) 'Pas de formalité', so no declaration and no breeding permit are required; offspring count toward the threshold only once adult. Reaching 41 or more adults moves the keeper into column (c), requiring a certificat de capacité (Art. L413-2) and an autorisation d'ouverture d'établissement (Art. L413-3). Breeding for profit or systematically producing litters for the public is a separate matter: it requires opening a declared establishment (autorisation préalable under Art. R413-8) and, as a pet-trade activity, falls under Code rural Art. L214-6. The L413-1A 'élevage de conservation' carve-out awaits its implementing decree.",
+      "governing_law": "Arrêté du 8 octobre 2018, Annexe 2 (column (a) 'Pas de formalité' De 1 à 40); Code de l'environnement Art. L413-2, L413-3, R413-8; Code rural Art. L214-6 (commercial); Loi 2021-1539 Art. 14 / Art. L413-1A.",
       "source_ids": [
-        "fr-2018-detention",
+        "fr-2018-detention-annexe2",
+        "fr-rural-L214-6",
         "fr-L413-1A"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Transfer of a non-domestic animal is legal but procedural: an attestation de cession (two copies) under Art. R413-1 et seq. + registration of each animal in the national I-FAP file within 8 days of acquisition. A private person may give animals away but cannot sell commercially to the public without being a declared pet-trade establishment (animalerie) under Code rural Art. L214-6. No EU sale ban (R. rattus not on the Union list).",
-      "governing_law": "Code de l'environnement Art. R413-1 et seq. (cession + I-FAP); Code rural Art. L214-6; Reg. (EU) 1143/2014 (R. rattus not listed).",
+      "status": "legal",
+      "confidence": "high",
+      "why": "A private person may give away or sell a small number of captive-bred roof rats without a permit. The attestation de cession and identification-document formalities of Art. R413-23-4 apply only 'pour les animaux des espèces mentionnées à l'article L. 413-6' (marked, i.e. protected or CITES species), which R. rattus is not, so they do not bind a roof-rat transfer. A sale (vente) of a live non-domestic animal must be accompanied by a written document d'information on the animal's characteristics, needs, and upkeep (Art. L413-8); a gratuitous transfer between private persons does not require it. Selling commercially or systematically to the public requires operating a declared pet-trade establishment (autorisation préalable, Art. R413-8; Code rural Art. L214-6). R. rattus is not on the EU Union list, so there is no sale ban.",
+      "governing_law": "Code de l'environnement Art. R413-23-4 (cession formalities limited to L413-6 marked species), Art. L413-8 (document d'information on a sale), Art. R413-8 (establishment authorization); Code rural Art. L214-6 (commercial pet trade); Reg. (EU) 1143/2014 (R. rattus not on the Union list).",
       "source_ids": [
-        "fr-R413",
+        "fr-R413-23-4",
+        "fr-L413-8",
         "fr-rural-L214-6",
         "fr-eu-1143"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "legal_with_permit",
+      "status": "legal",
       "confidence": "medium",
-      "why": "Intra-EU non-commercial movement of pet rodents has no EU passport/health-certificate scheme like cats/dogs, but the French déclaration de détention + I-FAP registration must be satisfied; an attestation de cession is needed if ownership changes. IMPORT from a non-EU country requires a veterinary health certificate per the Arrêté du 19 juillet 2002 (Annexe 18 model for rodents), limited to 5 specimens per non-commercial movement. R. rattus is not on the EU Union list, so no import ban. ⚠️ French OVERSEAS territories (Réunion, Martinique, Polynésie) actively manage R. rattus as invasive — local rules there may restrict.",
-      "governing_law": "Arrêté du 19 juillet 2002 (Annexe 18 — rodent import health cert); Code de l'environnement (déclaration + I-FAP); Reg. (EU) 1143/2014 Art. 7; Arrêté du 14 février 2018 (metropolitan invasive list — R. rattus absent).",
+      "why": "Moving a captive-bred roof rat within metropolitan France is legal for private individuals, subject to humane, escape-proof transport. There is no EU pet-passport or harmonised health-certificate scheme for rodents (Reg. (EU) 576/2013 does not cover them), so intra-EU non-commercial movement follows the destination country's national rules. Importing from outside the EU triggers veterinary controls: the Arrêté du 19 juillet 2002 (Annexe 18 model certificate for rodents) requires a health certificate from an official veterinarian of the exporting country and presentation at an approved Border Control Post. R. rattus is not on the EU Union list or the metropolitan invasive Arrêté du 14 février 2018, so there is no import ban for métropole. The French OVERSEAS territories (Réunion, Mayotte, Martinique, Guadeloupe and others) manage R. rattus as a damaging invasive species and local decrees prohibit its introduction, detention, transport, and sale, so transport into or within those territories is unlawful.",
+      "governing_law": "Arrêté du 19 juillet 2002 (Annexe 18 model, rodent import health certificate); Reg. (EU) 576/2013 (does not cover rodents); Reg. (EU) 1143/2014; Arrêté du 14 février 2018, Annexe I (metropolitan invasive list, R. rattus absent); overseas prefectural/ministerial invasive-species decrees (DROM-COM).",
       "source_ids": [
         "fr-2002-import",
+        "fr-eu-576",
         "fr-eu-1143",
         "fr-2018-invasive"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "registration",
+      "type": "permit",
       "applies_to": "person",
       "activity": [
         "keep",
         "breed"
       ],
-      "summary": "Because R. rattus is 'non-domestic' in France, file a prefectural déclaration de détention BEFORE acquiring one (online or registered mail) and register each animal in the national I-FAP file within 8 days. A certificat de capacité is only required above the ~40-adult-mammal threshold. Keep the paperwork — it's the difference between a legal hobby and an offence.",
+      "summary": "Below 41 adult animals there is no formality: the roof rat falls in column (a) 'Pas de formalité' of Annexe 2 of the Arrêté du 8 octobre 2018. Reaching 41 or more adults moves the keeper into column (c), which requires a certificat de capacité and an autorisation d'ouverture d'établissement. The certificat de capacité is a professional-grade credential (theory dossier, logged practical experience, defence before a departmental commission, facility inspection), so the practical ceiling for a hobbyist is 40 adults.",
       "steps": [
-        "File a déclaration de détention with the préfecture (DDT/DREAL) before acquisition",
-        "Register each animal in I-FAP within 8 days of acquisition"
+        "Stay at or below 40 adult animals to remain in the 'Pas de formalité' tier",
+        "To exceed 40 adults, obtain a certificat de capacité and an autorisation d'ouverture d'établissement"
       ],
-      "forms": [
-        {
-          "name": "Déclaration de détention d'animaux non domestiques",
-          "url": "https://www.service-public.fr/particuliers/vosdroits/F33834"
-        }
-      ],
-      "where_to_file": "Préfecture de département (DDT/DREAL); I-FAP",
+      "forms": [],
+      "where_to_file": "Préfecture de département (DDETSPP / DREAL) for the certificat de capacité and establishment authorization",
       "fees": "",
       "source_ids": [
-        "fr-2018-detention",
-        "fr-R413"
+        "fr-2018-detention-annexe2"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "A sale (vente) of a live roof rat must be accompanied by a written document d'information on the animal's characteristics, needs, and upkeep (Art. L413-8). A free transfer between private persons does not require it. Selling commercially or systematically to the public requires operating a declared pet-trade establishment (autorisation préalable, Art. R413-8; Code rural Art. L214-6). The attestation de cession / I-FAP formalities of Art. R413-23-4 do not apply, because they are limited to marked (protected/CITES) species.",
+      "steps": [
+        "On a sale, give the buyer a written document d'information (Art. L413-8)",
+        "Do not sell commercially or systematically without a declared establishment"
+      ],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "fr-L413-8",
+        "fr-R413-23-4"
+      ]
+    },
+    {
+      "type": "health_cert",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing from outside the EU requires a veterinary health certificate (Arrêté du 19 juillet 2002, Annexe 18 model for rodents) issued by an official veterinarian of the exporting country, with presentation at an approved Border Control Post. There is no EU pet passport for rodents; intra-EU non-commercial movement follows the destination state's rules. Never release a roof rat into the wild.",
+      "steps": [
+        "For non-EU import, obtain the Annexe 18 veterinary health certificate and clear an approved Border Control Post",
+        "For intra-EU movement, check the destination country's national rules for rodents"
+      ],
+      "forms": [],
+      "where_to_file": "Border Control Post (Poste de contrôle frontalier)",
+      "fees": "",
+      "source_ids": [
+        "fr-2002-import"
       ]
     },
     {
       "type": "other",
       "applies_to": "rat",
       "activity": [
+        "keep",
+        "breed",
+        "sell_give",
         "transport"
       ],
-      "summary": "Importing from outside the EU needs a veterinary health certificate (Arrêté du 19 juillet 2002, Annexe 18 model for rodents), max 5 specimens per non-commercial movement. French overseas territories manage R. rattus as invasive — check local prefectoral rules there. Never release a roof rat.",
+      "summary": "In the French overseas territories (DROM-COM: Réunion, Mayotte, Martinique, Guadeloupe and others) R. rattus is managed as a damaging invasive species and local prefectural/ministerial decrees prohibit its introduction, detention, transport, reproduction, and sale. The metropolitan 'no formality' position does NOT apply there.",
       "steps": [],
       "forms": [],
-      "where_to_file": "",
+      "where_to_file": "Préfecture / DEAL of the territory concerned",
       "fees": "",
       "source_ids": [
-        "fr-2002-import"
+        "fr-2018-invasive"
       ]
     }
   ],
-  "inquiry_focus": "(1) Annexe 2 of the Arrêté du 8 octobre 2018 (mod. sept. 2025): is Rattus rattus listed by name (or genus Rattus / non-domestic rodents via catch-all), and what exact numerical threshold (column a/b/c) separates a déclaration de détention from a certificat de capacité for this species? (2) The positive-list arrêté under Art. L413-1A (Loi 2021-1539) is not yet published — what is the timeline, and what is the procedure to formally request that captive-bred Rattus rattus be evaluated for inclusion as a companion species? (3) For intra-EU transport of a captive-bred R. rattus by a private individual with no change of ownership, is any documentation/notification required beyond the détention paperwork, and does TRACES apply?",
+  "inquiry_focus": "(1) Confirm that captive-bred Rattus rattus, as a non-protected, non-CITES rodent, falls under the 'Toutes les autres espèces de Rodentia' catch-all row of Annexe 2 of the Arrêté du 8 octobre 2018, placing 1 to 40 adults in column (a) 'Pas de formalité' (no declaration, no certificat de capacité), and that under Article 3 it is therefore exempt from mandatory marking and I-FAP registration. (2) The positive-list arrêté under Art. L413-1A (Loi 2021-1539) is not yet published. What is the timeline, and what is the procedure to formally request that captive-bred Rattus rattus be evaluated for inclusion as a companion species (and any grandfathering for existing pets if it is omitted)? (3) For intra-EU transport of a captive-bred R. rattus by a private individual with no change of ownership, is any documentation/notification required, and does TRACES apply to non-commercial movement?",
   "sources": [
     {
       "id": "fr-2006-domestic",
-      "title": "Arrêté du 11 août 2006 — liste des espèces, races ou variétés d'animaux domestiques (Muridae: only R. norvegicus strains)",
+      "title": "Arrêté du 11 août 2006, liste des espèces, races ou variétés d'animaux domestiques (Muridae: only 'les races domestiques du rat (Rattus norvegicus)'; R. rattus absent)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000789087",
       "authority": "Ministère de l'Écologie",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     },
     {
-      "id": "fr-2018-detention",
-      "title": "Arrêté du 8 octobre 2018 — règles générales de détention d'animaux d'espèces non domestiques (Annexe 2 thresholds; mod. Arrêté du 5 sept. 2025)",
-      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037491137",
+      "id": "fr-2018-detention-annexe2",
+      "title": "Arrêté du 8 octobre 2018, Annexe 2: 'Toutes les autres espèces de Rodentia' in column (a) 'Pas de formalité' De 1 à 40, 41 et plus = certificat de capacité (R. norvegicus = déclaration from 1)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041891321",
       "authority": "Ministère de la Transition écologique",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "fr-2018-detention-art3",
+      "title": "Arrêté du 8 octobre 2018, Article 3: mandatory marking + national-file registration limited to L411-1/L411-2 protected and CITES (Reg. 338/97 Annexes A-D) species; R. rattus exempt",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052233388",
+      "authority": "Ministère de la Transition écologique",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "fr-R413-23-4",
+      "title": "Code de l'environnement Art. R413-23-4: attestation de cession / identification document obligations limited to 'animaux des espèces mentionnées à l'article L. 413-6' (marked species)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006159397/",
+      "authority": "Légifrance",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "fr-L413-8",
+      "title": "Code de l'environnement Art. L413-8: 'Toute vente d'un animal vivant d'une espèce non domestique' must include a document d'information (applies to sales, not gratuitous gifts)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033030770",
+      "authority": "Légifrance",
+      "accessed": "2026-06-13"
     },
     {
       "id": "fr-L413-1A",
-      "title": "Code de l'environnement Art. L413-1A — positive list for non-domestic companion animals (Loi 2021-1539, arrêté pending)",
+      "title": "Code de l'environnement Art. L413-1 A: positive list for non-domestic companion animals fixed by arrêté du ministre chargé de l'environnement; 'toute personne physique ou morale' may request inclusion, reasoned reply within six months (arrêté still pending)",
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044467793",
       "authority": "Légifrance",
-      "accessed": "2026-06-07"
-    },
-    {
-      "id": "fr-R413",
-      "title": "Code de l'environnement Art. R413-1 à R413-51 — cession (attestation), I-FAP registration, establishments",
-      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159397/",
-      "authority": "Légifrance",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     },
     {
       "id": "fr-rural-L214-6",
-      "title": "Code rural Art. L214-6 — pet-trade establishment declaration (animalerie)",
+      "title": "Code rural Art. L214-6: pet-trade establishment declaration (élevage / vente)",
       "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000022200051/",
       "authority": "Légifrance",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     },
     {
       "id": "fr-eu-1143",
-      "title": "Regulation (EU) 1143/2014 on invasive alien species — Union list does NOT include Rattus rattus",
+      "title": "Regulation (EU) 1143/2014 on invasive alien species: Union list does NOT include Rattus rattus",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R1143",
       "authority": "EU / EUR-Lex",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "fr-eu-576",
+      "title": "Regulation (EU) 576/2013 on the non-commercial movement of pet animals: rodents not covered by the EU pet-passport scheme",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0576",
+      "authority": "EU / EUR-Lex",
+      "accessed": "2026-06-13"
     },
     {
       "id": "fr-2018-invasive",
-      "title": "Arrêté du 14 février 2018 — espèces exotiques envahissantes (métropole); R. norvegicus listed, R. rattus not",
-      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036629851",
+      "title": "Arrêté du 14 février 2018 (métropole), Annexe I: espèces exotiques envahissantes; 'Rattus norvegicus (Berkenhout, 1769): Rat surmulot' listed, R. rattus absent",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036630606/2021-11-16/",
       "authority": "Ministère de la Transition écologique",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     },
     {
       "id": "fr-2002-import",
-      "title": "Arrêté du 19 juillet 2002 — conditions sanitaires pour l'importation d'animaux vivants (Annexe 18: rodents)",
-      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005633224",
+      "title": "Arrêté du 19 juillet 2002: conditions sanitaires pour l'importation d'animaux vivants (Annexe 18: rongeurs / rodents health certificate)",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006123655",
       "authority": "Ministère de l'Agriculture",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     },
     {
       "id": "fr-senat-2025",
-      "title": "Sénat Question qSEQ251106679 (nov. 2025) — confirms the L413-1A positive-list arrêté is still unpublished",
+      "title": "Sénat Question qSEQ251106679 (13 nov. 2025, en attente de réponse): confirms the L413-1A positive-list arrêté is still unpublished; cites April 2025 IGEDD-CGAAER report",
       "url": "https://www.senat.fr/questions/base/2025/qSEQ251106679.html",
       "authority": "Sénat de la République française",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
     }
   ],
   "contacts": [
     {
-      "agency": "Office français de la biodiversité (OFB) — Direction des affaires juridiques",
+      "agency": "Office français de la biodiversité (OFB), Direction des affaires juridiques",
       "role": "wildlife",
       "email": "dr.ile-de-france@ofb.gouv.fr",
       "form_url": "https://ofb.gouv.fr/comment-contacter-ofb",
@@ -224,7 +255,7 @@
       "inquiry_language": "fr"
     },
     {
-      "agency": "Ministère de la Transition écologique — Direction de l'eau et de la biodiversité (DEB)",
+      "agency": "Ministère de la Transition écologique, Direction de l'eau et de la biodiversité (DEB)",
       "role": "wildlife",
       "email": "",
       "form_url": "https://www.ecologie.gouv.fr/direction-leau-et-biodiversite",

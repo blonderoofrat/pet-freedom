@@ -12,11 +12,13 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "exotic wildlife",
+      "pocket pet"
     ]
   },
-  "summary": "Kansas is among the most permissive states for the roof rat. The Dangerous Regulated Animals Act (K.S.A. 32-1301+) covers only big cats, bears, and non-native venomous snakes — no rodents. KDWP's exotic-wildlife rule (K.A.R. 115-20-3) AFFIRMATIVELY allows possessing, breeding, and selling non-native species with no permit (just confine them and never release). The Pet Animal Act covers rodents but exempts a resident home breeder who sells only animals raised on their own premises, and its dealer license targets dog/cat sellers. So keeping, breeding, and selling/giving a captive-bred roof rat is legal; the only open edge is whether an import CVI applies (pocket pets are exempt from the import permit; confirm the CVI with the Dept of Agriculture).",
-  "last_reviewed": "2026-06-07",
+  "summary": "Kansas is among the most permissive states for the roof rat, and keeping, breeding, and selling a captive-bred R. rattus is legal. Three independent rules confirm it. The Dangerous Regulated Animals Act (K.S.A. 32-1301) defines a 'dangerous regulated animal' as only big cats, bears, and non-native venomous snakes, so no rodent is restricted. KDWP's exotic-wildlife rule (K.A.R. 115-20-3) affirmatively allows non-native species to be imported, possessed, sold, and purchased, with no permit and no limit in time or number, on one condition: confine the animal and never release it. R. rattus is non-native to Kansas, so it falls in this permissive class, and it does not appear on the KDWP prohibited-species list (K.A.R. 115-18-10). Kansas draws no R. rattus / R. norvegicus distinction; both are treated alike as non-native rodents. The Pet Animal Act (K.S.A. 47-1701) does reach rodents at commercial scale, but it exempts a resident home breeder who sells only animals produced and raised on their own premises, and its breeder and distributor licenses are written for dogs and cats only. So hobby keeping, breeding, and private sale or gifting are unregulated. The only open edge is import: the Department of Agriculture exempts 'pocket pets' from the exotic-animal import permit, but its general rule (K.A.R. 9-7-1) requires imported exotic animals to carry a Certificate of Veterinary Inspection, and how strictly that applies to a single pet rodent is best confirmed with the KDA Import Desk.",
+  "last_reviewed": "2026-06-13",
   "advocacy": {
     "flag": false
   },
@@ -24,101 +26,178 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "The Dangerous Regulated Animals Act (K.S.A. 32-1301/-1302) lists only big cats, bears, and non-native venomous snakes — no rodents. KDWP's exotic-wildlife rule (K.A.R. 115-20-3) permits possession of non-native species (confined, not released) with NO permit. KDWP's nuisance-control guidance states no permit is required for Norway rats or house mice. No statute restricts keeping a captive-bred roof rat.",
-      "governing_law": "K.S.A. 32-1301 & 32-1302; K.A.R. 115-20-3.",
+      "why": "No Kansas statute restricts keeping a captive-bred roof rat. The Dangerous Regulated Animals Act defines a 'dangerous regulated animal' as only lions, tigers, leopards, jaguars, cheetahs, mountain lions and hybrids, bears and hybrids, and all non-native venomous snakes (K.S.A. 32-1301), so no rodent is covered. KDWP's exotic-wildlife rule (K.A.R. 115-20-3) then governs: a non-native species 'may be possessed without limit in time and number' with no permit, and is not on the prohibited-species list (K.A.R. 115-18-10). The only obligation is confinement: exotic wildlife 'shall be confined or controlled at all times and shall not be released onto the lands or into the waters of this state' (K.A.R. 115-20-3). No registration, microchipping, insurance, or quantity limit applies. Local ordinances can still impose stricter rules, so check the municipality.",
+      "governing_law": "K.S.A. 32-1301 (Dangerous Regulated Animals Act; rodents not listed); K.A.R. 115-20-3 (exotic wildlife; possess without limit, confine, no release); K.A.R. 115-18-10 (prohibited species; R. rattus absent).",
       "source_ids": [
         "ks-32-1301",
-        "ks-115-20-3"
+        "ks-115-20-3",
+        "ks-115-18-10"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "K.A.R. 115-20-3 permits possession/breeding of non-native species without a permit. The Pet Animal Act (K.S.A. 47-1701+) covers rodents but EXEMPTS a resident home breeder who sells only animals produced and raised on their own premises — so hobby breeding needs no license.",
-      "governing_law": "K.A.R. 115-20-3; K.S.A. 47-1701 (home-breeder exemption).",
+      "why": "Breeding is authorized under the exotic-wildlife rule, which allows non-native species to be raised and possessed without a KDWP permit (K.A.R. 115-20-3). At commercial scale the Pet Animal Act (K.S.A. 47-1701) can apply to rodents, but a resident home breeder is exempt: a 'pet shop' excludes animals 'that are produced and raised on such premises and are sold, or offered or maintained for sale, by a person who resides on such premises' (K.S.A. 47-1701(t)(1)(B)). The Act's breeder licenses ('animal breeder', 'retail breeder', 'hobby breeder') and its 'animal distributor' license are all defined in terms of dogs or cats only, so no rodent-specific breeder license exists. A home hobby breeder of roof rats therefore needs no license at any volume, as long as every animal sold was produced and raised on the seller's own residence.",
+      "governing_law": "K.A.R. 115-20-3 (exotic wildlife may be raised/possessed, no permit); K.S.A. 47-1701(t)(1)(B) (pet-shop exemption for home-raised animals sold by a resident); K.S.A. 47-1701 breeder/distributor definitions limited to dogs/cats.",
       "source_ids": [
         "ks-115-20-3",
         "ks-47-1701"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "K.A.R. 115-20-3 expressly authorizes sale of exotic (non-native) wildlife with no KDWP permit. The Pet Animal Act's pet-shop license is needed for retail of animals NOT raised on your premises; a resident home breeder selling their own is exempt, and the 'animal distributor' license targets dog/cat dealers. Free adoption is unregulated.",
-      "governing_law": "K.A.R. 115-20-3; K.S.A. 47-1701/-1703 (home-breeder exemption; dealer = dogs/cats).",
+      "why": "Selling, offering for sale, or giving away a captive-bred roof rat is lawful. K.A.R. 115-20-3 expressly allows exotic wildlife to be 'sold, offered for sale or purchased' with no KDWP permit. A resident who sells only animals produced and raised on their own premises is exempt from the Pet Animal Act pet-shop license (K.S.A. 47-1701(t)(1)(B)); free adoption is likewise unregulated. A Pet Shop Operator license is required only for retail of animals NOT born on the seller's residence, for example reselling rats bought from outside breeders (K.S.A. 47-1701(t)(1); K.S.A. 47-1703). The Act's 'animal distributor' (dealer) license is written for dogs and cats only, so it does not reach a rodent seller.",
+      "governing_law": "K.A.R. 115-20-3 (exotic wildlife may be sold/offered for sale/purchased, no permit); K.S.A. 47-1701(t)(1)(B) (home-raised exemption) + K.S.A. 47-1703 (Pet Shop Operator license for retail of bought-in stock); distributor license = dogs/cats only.",
       "source_ids": [
         "ks-115-20-3",
         "ks-47-1701"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal",
       "confidence": "medium",
-      "why": "K.A.R. 115-20-3 requires confinement but doesn't restrict intrastate movement. For IMPORT, the Dept of Agriculture exempts 'pocket pets' (rats/hamsters/gerbils/mice) from the zoo/exotic-animal import permit; whether the general 30-day CVI rule applies to pet rodents isn't explicit — confirm with the KDA Import Desk. Never release (K.A.R. 115-20-3 no-release).",
-      "governing_law": "K.A.R. 115-20-3 (confinement/no-release); KDA Division of Animal Health import rules (pocket pets exempt from permit).",
+      "why": "Intrastate movement is unrestricted as long as the animal stays confined (K.A.R. 115-20-3 requires control at all times and no release). For import into Kansas, the Department of Agriculture exempts 'pocket pets' (rodents such as rats, hamsters, gerbils, and mice), along with zoo-to-zoo movements and non-poisonous reptiles, from the exotic-animal import permit. A separate rule, K.A.R. 9-7-1, provides that livestock and exotic animals shall not be imported into Kansas without a Certificate of Veterinary Inspection from an accredited veterinarian in the state of origin, subject to four listed exceptions (slaughter, public livestock market, special permit/movement agreement, and adjacent-county movement) that do not include pocket pets. The regulation itself sets no 30-day window; KDA guidance applies a 30-day standard CVI. How strictly the CVI is required for a single privately owned pet rodent is the one unsettled point and is best confirmed with the KDA Import Desk. Export is governed by the destination jurisdiction.",
+      "governing_law": "K.A.R. 115-20-3 (confinement/no-release; intrastate movement unrestricted); KDA Division of Animal Health import rules (pocket pets exempt from the exotic-animal import permit); K.A.R. 9-7-1 (CVI required for imported livestock/exotic animals, with four exceptions not covering pocket pets).",
       "source_ids": [
         "ks-115-20-3",
-        "ks-kda-import"
+        "ks-kda-import",
+        "ks-9-7-1"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-13",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
       "type": "other",
-      "applies_to": "person",
+      "applies_to": "rat",
       "activity": [
-        "keep"
+        "keep",
+        "transport"
       ],
-      "summary": "K.A.R. 115-20-3 requires exotic wildlife to be confined and never released into Kansas lands/waters. Importing? Pocket pets are exempt from the KDA import permit; confirm any CVI with the Import Desk. Check local ordinances.",
-      "steps": [],
+      "summary": "Exotic wildlife (including a non-native roof rat) must be confined or controlled at all times and must never be released onto the lands or into the waters of Kansas (K.A.R. 115-20-3). This is the core duty; releasing the animal is the prohibited act, not keeping it.",
+      "steps": [
+        "Keep the rat in a secure, escape-proof indoor enclosure",
+        "Never release a roof rat into the wild; release of confined exotic wildlife violates K.A.R. 115-20-3"
+      ],
       "forms": [],
       "where_to_file": "",
       "fees": "",
       "source_ids": [
         "ks-115-20-3"
       ]
+    },
+    {
+      "type": "health_cert",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Pocket pets are exempt from the Kansas exotic-animal import permit, but K.A.R. 9-7-1 requires imported livestock and exotic animals to be accompanied by a Certificate of Veterinary Inspection (CVI) from an accredited veterinarian in the state of origin (four listed exceptions do not cover pocket pets). Whether this is enforced on a single privately owned pet rodent is unsettled; confirm with the KDA Import Desk before importing.",
+      "steps": [
+        "Confirm with the KDA Import Desk (785-564-6616) whether a CVI is required for a single pet rodent",
+        "If required, obtain a CVI from a USDA-accredited veterinarian in the state of origin (KDA guidance uses a 30-day standard) certifying the animal free of clinical signs of infectious/contagious disease"
+      ],
+      "forms": [],
+      "where_to_file": "Kansas Department of Agriculture, Division of Animal Health (Import Desk)",
+      "fees": "",
+      "source_ids": [
+        "ks-kda-import",
+        "ks-9-7-1"
+      ]
+    },
+    {
+      "type": "license",
+      "applies_to": "facility",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "A commercial Pet Shop Operator license (K.S.A. 47-1703) is required ONLY to retail animals not produced and raised on the seller's own residence (for example, reselling rats bought from other breeders). A resident home breeder selling only self-raised animals is exempt (K.S.A. 47-1701(t)(1)(B)), as is free adoption. Licensed pet shops are subject to KDA facility inspection and a documented veterinary-care program.",
+      "steps": [
+        "A resident selling only self-raised rats needs no license",
+        "If reselling bought-in stock or operating a non-residence retail premises, apply to the KDA for a Pet Shop Operator license and meet facility/veterinary-care standards"
+      ],
+      "forms": [],
+      "where_to_file": "Kansas Department of Agriculture, Animal Facilities Inspection (AFI) Program",
+      "fees": "Pet Shop Operator license set by KDA (commercial premises)",
+      "source_ids": [
+        "ks-47-1701"
+      ]
     }
   ],
   "sources": [
     {
       "id": "ks-32-1301",
-      "title": "K.S.A. 32-1301 / 32-1302 — Dangerous Regulated Animals (big cats/bears/venomous snakes; no rodents)",
+      "title": "K.S.A. 32-1301: Dangerous Regulated Animals Act (defines 'dangerous regulated animal' as big cats/bears/non-native venomous snakes; no rodents)",
       "url": "https://ksrevisor.gov/statutes/chapters/ch32/032_013_0001.html",
-      "authority": "Kansas Statute Revisor",
-      "accessed": "2026-06-07"
+      "authority": "Kansas Office of Revisor of Statutes",
+      "accessed": "2026-06-13"
     },
     {
       "id": "ks-115-20-3",
-      "title": "K.A.R. 115-20-3 — Exotic Wildlife; Possession, Sale & Requirements (non-native allowed, no permit)",
-      "url": "https://www.animallaw.info/administrative/kansas-exotic-pets-115-20-3-exotic-wildlife-possession-sale-and-requirements",
-      "authority": "KDWP (via MSU Animal Legal & Historical Center)",
-      "accessed": "2026-06-07"
+      "title": "K.A.R. 115-20-3: Exotic wildlife; possession, sale and requirements (non-native species may be imported/possessed/sold/purchased, no permit, no limit in time/number; must be confined and never released; (d) defines exotic wildlife)",
+      "url": "https://www.law.cornell.edu/regulations/kansas/K-A-R-115-20-3",
+      "authority": "Kansas Department of Wildlife and Parks (via Cornell LII)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "ks-115-18-10",
+      "title": "K.A.R. 115-18-10: Importation and possession of certain wildlife; prohibition (prohibited list = aquatic species, monk parakeet, Asian raccoon dog; R. rattus absent)",
+      "url": "https://www.law.cornell.edu/regulations/kansas/K-A-R-115-18-10",
+      "authority": "Kansas Department of Wildlife and Parks (via Cornell LII)",
+      "accessed": "2026-06-13"
     },
     {
       "id": "ks-47-1701",
-      "title": "K.S.A. 47-1701 et seq. — Pet Animal Act (resident home-breeder exemption; dealer = dogs/cats)",
-      "url": "https://ksrevisor.gov/statutes/chapters/ch47/047_017_0001.html",
-      "authority": "Kansas Statute Revisor",
-      "accessed": "2026-06-07"
+      "title": "K.S.A. 47-1701: Kansas Pet Animal Act definitions ((t)(1)(B) pet-shop exemption for home-raised animals sold by a resident; breeder/distributor licenses defined for dogs/cats only)",
+      "url": "https://www.animallaw.info/statute/ks-pet-sales-chapter-47-livestock-and-domestic-animals",
+      "authority": "Kansas Office of Revisor of Statutes (via MSU Animal Legal & Historical Center)",
+      "accessed": "2026-06-13"
+    },
+    {
+      "id": "ks-9-7-1",
+      "title": "K.A.R. 9-7-1: General import rule (livestock and exotic animals shall not be imported into Kansas without a Certificate of Veterinary Inspection; four listed exceptions do not include pocket pets)",
+      "url": "https://www.law.cornell.edu/regulations/kansas/Kan-Admin-Regs-SS-9-7-1",
+      "authority": "Kansas Department of Agriculture (via Cornell LII)",
+      "accessed": "2026-06-13"
     },
     {
       "id": "ks-kda-import",
-      "title": "Kansas Dept of Agriculture — Import & Export Regulations (pocket pets exempt from import permit)",
+      "title": "Kansas Dept of Agriculture, Import & Export Regulations (zoo-to-zoo movements, pocket pets, and non-poisonous reptiles do not require an import permit; Import Desk 785-564-6616)",
       "url": "https://www.agriculture.ks.gov/divisions-programs/division-of-animal-health/import-and-export-regulations",
       "authority": "Kansas Dept of Agriculture, Division of Animal Health",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-13"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Kansas Department of Agriculture, Division of Animal Health (Import Desk / Animal Facilities Inspection Program)",
+      "role": "agriculture",
+      "email": "KDA.AFI@ks.gov",
+      "form_url": "https://www.agriculture.ks.gov/divisions-programs/division-of-animal-health/import-and-export-regulations",
+      "phone": "785-564-6616 (Import Desk); 785-564-6605 (AFI)",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Kansas Department of Wildlife and Parks (KDWP)",
+      "role": "wildlife",
+      "email": "kdwpt.kdwptinfo@ks.gov",
+      "form_url": "https://www.ksoutdoors.gov/about-kdwp/contact-us",
+      "phone": "785-296-2281",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }
