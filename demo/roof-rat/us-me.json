@@ -12,97 +12,134 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "wild animal",
+      "wildlife in captivity",
+      "unrestricted species",
+      "unclassified species",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "Maine runs a three-tier captive-wildlife scheme (unrestricted / restricted / prohibited) under 12 M.R.S. §12152 + MDIFW Ch. 7. The Unrestricted Species List names 'Rattus norvegicus var.' (the domestic Norway/fancy rat) but NOT Rattus rattus. A species that's neither unrestricted nor prohibited defaults to RESTRICTED — meaning a Wildlife Possession/Importation Permit from MDIFW is required to keep, breed, sell, or import a roof rat. (R. rattus is also not on the prohibited list, so the permit pathway appears open rather than a flat ban.) Another 'Norway-rat-only' species trap, with an advocacy path: petition MDIFW to add captive-bred R. rattus to the Unrestricted list. A direct MDIFW call is the recommended first step.",
-  "last_reviewed": "2026-06-07",
+  "summary": "Maine is a clear 'no' for the roof rat as the rule reads today, and the reason is one missing name on a list. The Department of Inland Fisheries & Wildlife (MDIFW) sorts every captive mammal into five buckets under 12 M.R.S. ch. 723 and 09-137 C.M.R. ch. 7: Unrestricted, Restricted Category 1, Restricted Category 2, Prohibited, and Unclassified. The Unrestricted Species List names 'Brown Rat - Rattus norvegicus' (the fancy rat) and 'House Mouse - Mus musculus' by exact binomial, but it does not name Rattus rattus. A species that is not on the Unrestricted, Restricted, or Prohibited list is 'Unclassified,' and 09-137 C.M.R. ch. 7, Sec. 7.06(4) states that 'A person may not possess any species that has not been categorized' and that an unclassified species 'will not be eligible for a permit under this chapter.' So the roof rat is not merely restricted-with-a-permit (as preliminary research assumed) and it is not on the named Prohibited list either; it sits in the Unclassified gap, which functions as a flat ban because no permit can be issued for it. Maine's 'wild animal' definition (12 M.R.S. Sec. 10001(69)) reaches a species 'wild by nature, whether or not bred or reared in captivity,' so a captive-bred, hand-tame roof rat is still treated as wildlife. There IS a pathway, but it is a list-fix, not a pet permit: Sec. 7.06(5) lets a person petition the MDIFW Captive Wildlife Technical Committee and Commissioner to categorize the species (ideally onto the Unrestricted List beside the fancy rat). Until that succeeds, keeping, breeding, selling/giving, and importing a roof rat are all prohibited. The fancy rat (R. norvegicus) is freely legal with no permit. Federal law adds a thin layer for movement/commerce: USFWS treats R. rattus as 'wildlife,' the USDA Animal Welfare Act licenses only wholesale/sight-unseen dealers (hobby and direct-to-consumer sales are exempt; lab rats of genus Rattus are excluded entirely), and the CDC bars rodents of African origin (not relevant to R. rattus, which is Asian in origin). Never release a roof rat.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": true,
     "kit": {
       "case_type": "agency_species_trap",
-      "problem": "Maine sorts every captive animal into three tiers (unrestricted, restricted, or prohibited) under 12 M.R.S. §12152 and the MDIFW \"Wildlife in Captivity\" rules (09-137 C.M.R. Ch. 7). The obstacle is a wording gap: the state's Unrestricted Species List names \"Rattus norvegicus var.,\" the domestic Norway/fancy rat sold in pet shops, but does not name \"Rattus rattus,\" the domestic roof rat. Because the roof rat is not on the unrestricted list and not on the prohibited list (which covers bears, big cats, wild canids, and primates), it falls to the default \"restricted\" tier. The same kind of animal, a captive-bred, hand-tame pet rat, therefore needs a Wildlife Possession Permit because of which species name is on a list, not because of how the animal lives. This is not a ban; the permit pathway appears open. It is a species trap: two domesticated pet rats treated differently for no behavioral or safety reason. The fancy rat already on the list is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is the same case one species over.",
-      "ask": "Ask MDIFW to add captive-bred domestic roof rats (\"Rattus rattus var.\") to the Unrestricted Species List, alongside the domestic Norway/fancy rat (\"Rattus norvegicus var.\") and the house mouse already on it. The fix is a one-line addition to a list the Department maintains and updates. Use MDIFW's species-categorization (reclassification) request process to make the request in writing, and ask for a written determination of how the Department currently classifies Rattus rattus so keepers know where they stand in the meantime. If the statute's 'wild by nature' language is the obstacle, the relevant question is domestication, not wild ancestry: the dog descends from the wolf and the cat from a wild felid, yet both are domestic animals because of generations bred for tameness. The fancy rat already on the list is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century (https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/), and a captive-bred R. rattus is domesticated in that same sense, one species over. The question for the Department is whether a captive-bred R. rattus is domesticated in the same sense as the fancy rat already on its list, a question for the Department to decide.",
-      "branch_note": "This is an AGENCY problem, not a legislative one; the lever is MDIFW, not the Legislature. The roof rat is not named in any statute. It is missing from an administrative list, the Unrestricted Species List, that MDIFW creates, maintains, and amends under 09-137 C.M.R. Ch. 7. The statute (12 M.R.S. §12152) sets up the three-tier permit framework and delegates the species sorting to the Department. The Department has exercised that power before: in 2009 it added about 50 reptile and amphibian species to the unrestricted list, and its \"Wildlife in Captivity\" page describes an \"Unclassified Species\" category and a \"Species Categorization Requests\" process for reviewing and recategorizing species. This is not an agency misreading a law; it is an agency applying a framework in which a captive-bred domestic species has not yet been added to the exemption list. The right move is a written reclassification petition to MDIFW asking it to add \"Rattus rattus var.\" to the unrestricted list (parallel to the fancy rat), plus a request for a written classification determination. Because no Maine statute names or bans the roof rat, the Legislature is not the primary path; a bill is unnecessary to change an agency-maintained list and could be slower. The Legislature is a fallback only if MDIFW declines and a keeper wants the change codified.",
+      "problem": "Maine sorts every captive mammal into five tiers under 12 M.R.S. ch. 723 and the MDIFW \"Wildlife in Captivity\" rules (09-137 C.M.R. ch. 7): Unrestricted, Restricted Category 1, Restricted Category 2, Prohibited, and Unclassified. The state's Unrestricted Species List names \"Brown Rat - Rattus norvegicus,\" the domestic fancy rat sold in pet shops, and \"House Mouse - Mus musculus,\" but it does not name \"Rattus rattus,\" the domestic roof rat. The roof rat is also not on the named Prohibited list (which targets bears, big cats, wild canids, primates, and a short list of dangerous rodents). Because it is on no list, it is \"Unclassified,\" and the rule (09-137 C.M.R. ch. 7, Sec. 7.06(4)) says \"A person may not possess any species that has not been categorized\" and that such a species \"will not be eligible for a permit under this chapter.\" So a captive-bred, hand-tame pet roof rat is banned by default, and no permit can even be issued for it, while the fancy rat one species over is freely legal with no permit at all. This is not a behavioral or safety judgment about the animal; it is a gap in a list. The fancy rat already on the list is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is the same case one species over.",
+      "ask": "Ask MDIFW to use its species-categorization process (09-137 C.M.R. ch. 7, Sec. 7.06(5)) to add captive-bred domestic roof rats (\"Rattus rattus\") to the Unrestricted Species List, alongside the domestic Norway/fancy rat (\"Rattus norvegicus\") and the house mouse already on it, and in the meantime to provide a written determination of how the Department currently classifies Rattus rattus so keepers know where they stand. If the obstacle is the statute's \"wild by nature\" language (12 M.R.S. Sec. 10001(69)), the relevant question is domestication, not wild ancestry: the dog descends from the wolf and the cat from a wild felid, yet Maine recognizes both as common domestic animals because what makes an animal domestic is generations bred for tameness, not the wild origin of its species. The fancy rat already on the list is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century (https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/), and a captive-bred roof rat is domesticated in that same sense, one species over. Whether a captive-bred Rattus rattus is domesticated in the same sense as the fancy rat already on the list is a question for the Department to decide; the petitioner is not asking it to assume any particular answer.",
+      "branch_note": "This is an AGENCY problem, not a legislative one; the lever is MDIFW, not the Legislature. No Maine statute names, bans, or singles out the roof rat. The species is simply absent from the Unrestricted Species List that MDIFW creates and amends under 09-137 C.M.R. ch. 7, and the five-tier framework (12 M.R.S. ch. 723) delegates the species sorting to the Department. The Department has exercised that power before and maintains a standing process for it: Sec. 7.06(5) provides for a written \"Request to Review or Change the Categorization of a Species,\" evaluated by the Captive Wildlife Technical Committee against the criteria in Sec. 7.06(3), with the Commissioner making the final decision. So the body that created the gap can close it administratively, no bill required. The petitioner should be candid that the outcome is not assured: the same Sec. 7.06(3) criteria weigh whether the species could survive in the Maine wild and whether it harbors agents harmful to people, livestock, or native wildlife, and Maine's DACF pest and pesticide materials describe the roof rat as an invasive disease vector. A realistic ask therefore offers MDIFW two acceptable outcomes: best case, add captive-bred R. rattus to the Unrestricted List beside the fancy rat; failing that, categorize it as a Restricted (Category 2) species so that a permitted pathway at least exists rather than a flat Unclassified ban. The Legislature is a fallback only if MDIFW declines both and a keeper wants parity codified.",
       "time_sensitive": "",
       "targets": [
         {
-          "name": "Maine Department of Inland Fisheries & Wildlife (MDIFW) — Wildlife Division / Captive Wildlife",
+          "name": "Maine Department of Inland Fisheries & Wildlife (MDIFW) - Wildlife Division (Captive Wildlife)",
           "type": "agency",
           "email": "info.ifw@maine.gov",
           "form_url": "https://www.maine.gov/ifw/fish-wildlife/captivity/index.html",
-          "why": "MDIFW owns and amends the Unrestricted Species List under 09-137 C.M.R. Ch. 7 — this is the office that can actually fix the gap. Its captive-wildlife page describes a 'Species Categorization Requests' process for adding/recategorizing species (mail to Wildlife Division, 353 Water Street, Augusta, ME 04330), and it added ~50 species to the unrestricted list in 2009, so the pathway is real. Send the reclassification request here and ask for a written determination of how R. rattus is currently classified. General inbox info.ifw@maine.gov is confirmed on the official contact page."
+          "why": "MDIFW owns and amends the Unrestricted Species List and runs the Sec. 7.06(5) categorization-review process. Its 'Fish and Wildlife in Captivity' page describes the five tiers (including the 'Unclassified' category) and the 'Species Categorization Requests' process, with requests mailed to the Wildlife Division, Inland Fisheries & Wildlife, 353 Water Street, Augusta, ME 04330. This is the office that can actually fix the gap, by adding R. rattus to the Unrestricted List or by categorizing it into a Restricted tier so a permit becomes possible. Ask here for the categorization-request forms and for a written determination of how R. rattus is currently classified. General inbox info.ifw@maine.gov is confirmed on the official MDIFW contact page."
         },
         {
-          "name": "Maine State Legislature — Contact Your Legislator (House & Senate)",
+          "name": "Maine State Legislature - Contact Your Legislator (House & Senate)",
           "type": "legislature",
           "form_url": "https://legislature.maine.gov/house/house/MemberProfiles/ContactYourLegislator",
-          "why": "FALLBACK ONLY, not the primary lever. No Maine statute names or bans the roof rat, so a bill isn't needed to change an agency-maintained list. Use this only if MDIFW declines the reclassification request and you want the parity (fancy rat = roof rat) codified — a legislator can direct the Department or amend the underlying statute. Official 'find and contact your legislator' page for both chambers."
+          "why": "FALLBACK ONLY, not the primary lever. No Maine statute names or bans the roof rat, so a bill is not needed to change an agency-maintained list; the cleanest path is the MDIFW categorization request. Use this only if MDIFW declines both to add R. rattus to the Unrestricted List and to categorize it into a permitted Restricted tier, and a keeper wants the fancy-rat/roof-rat parity codified or wants a legislator to ask the Department to act. Official 'find and contact your legislator' page for both chambers."
         }
       ],
       "template": {
-        "en": "To: Maine Department of Inland Fisheries & Wildlife, Wildlife Division (Captive Wildlife)\nRe: Request to add captive-bred domestic roof rats (Rattus rattus var.) to the Unrestricted Species List\n\nDear MDIFW Wildlife Division,\n\nI am writing about a wording gap in the Unrestricted Species List under 09-137 C.M.R. Ch. 7. The list names \"Rattus norvegicus var.,\" the domestic Norway/fancy rat sold in pet shops, but it does not name \"Rattus rattus,\" the domestic roof rat. Both are the same kind of animal: captive-bred, hand-tame pet rats. The roof rats I am writing about are bred in captivity, gentle, kept entirely indoors as family pets, and never released to the wild.\n\nBecause the roof rat is absent from the list and is not on the prohibited list, it appears to default to the restricted tier, so an identical pet needs a permit only because of which species name is on a list. That is a distinction based on label, not on how the animal lives or any risk it poses.\n\nIf the concern is that the species is 'wild by nature,' the dog descends from the wolf and the cat from a wild felid, yet Maine recognizes both as domestic animals because what makes an animal domestic is generations bred for tameness, not the wild origin of its species. The fancy rat already on the list is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century. I ask the Department to consider whether a captive-bred roof rat is domesticated in that same sense as the fancy rat already on the list; I am not asking it to assume any particular answer.\n\nI respectfully request that the Department use its species-categorization process to add captive-bred domestic roof rats (\"Rattus rattus var.\") to the Unrestricted Species List, parallel to the domestic Norway rat and house mouse already on it. I would also be grateful for a written determination of how the Department currently classifies Rattus rattus, so keepers know where they stand in the meantime.\n\nThank you for your time and for maintaining this list.\n\nSincerely,\n[Your name]\n[Your town, Maine]\n[Your email / phone]"
+        "en": "To: Maine Department of Inland Fisheries & Wildlife, Wildlife Division (Captive Wildlife)\nRe: Request to categorize the captive-bred domestic roof rat (Rattus rattus), ideally onto the Unrestricted Species List\n\nDear MDIFW Wildlife Division,\n\nI am writing about a gap in the Unrestricted Species List under 09-137 C.M.R. ch. 7. The list names \"Brown Rat - Rattus norvegicus,\" the domestic fancy rat sold in pet shops, and \"House Mouse - Mus musculus,\" but it does not name \"Rattus rattus,\" the domestic roof rat. Because the roof rat is on no list, I understand it is treated as an \"Unclassified\" species, which Sec. 7.06(4) says a person may not possess and which is not eligible for any permit. The fancy rat one species over is freely legal. The roof rats I am writing about are bred in captivity for generations, gentle, kept entirely indoors as family pets, and never released to the wild. They are kept no differently from the fancy rat.\n\nThis is a distinction based on which species name is on a list, not on how the animal lives or any risk it poses. If the concern is the statute's \"wild by nature\" language (12 M.R.S. Sec. 10001(69)), the dog descends from the wolf and the cat from a wild felid, yet Maine recognizes both as common domestic animals, because what makes an animal domestic is generations bred for tameness, not the wild origin of its species. The fancy rat already on your list is itself the wild brown rat, domesticated in the 19th century. I ask the Department to consider whether a captive-bred roof rat is domesticated in that same sense as the fancy rat already on the list; I am not asking it to assume any particular answer.\n\nUsing the species-categorization process at Sec. 7.06(5), I respectfully request that the Department add captive-bred domestic roof rats (\"Rattus rattus\") to the Unrestricted Species List, parallel to the domestic Norway rat and house mouse already on it. If the Department concludes that some oversight is warranted, I would ask in the alternative that it categorize the captive-bred roof rat as a Restricted (Category 2) species, so that at least a permitted pathway exists rather than a flat Unclassified ban. Please also let me know the application forms required to initiate this review, and provide a written determination of how the Department currently classifies Rattus rattus, so keepers know where they stand in the meantime.\n\nThank you for your time and for maintaining these lists.\n\nSincerely,\n[Your name]\n[Your town, Maine]\n[Your email / phone]"
       },
-      "confidence_notes": "Verified June 2026 against official maine.gov sources. CONFIRMED: (1) The MDIFW \"Fish and Wildlife in Captivity\" page (maine.gov/ifw/fish-wildlife/captivity/) describes the unrestricted/restricted/prohibited tiers, an \"Unclassified Species\" category, and a \"Species Categorization Requests\" process — requests mailed to Wildlife Division, Inland Fisheries & Wildlife, 353 Water Street, Augusta, ME 04330. (2) The general email info.ifw@maine.gov is confirmed on the official MDIFW contact page (maine.gov/ifw/about/contact/), along with main phone (207) 287-8000 and mailing address 41 State House Station, Augusta, ME 04333-0041. (3) The Unrestricted Species List (maine.gov/ifw/docs/unrestrictedspecies.pdf) names \"Rattus norvegicus var.\" but not Rattus rattus, and 12 M.R.S. §12152 delegates species classification to the Department. (4) Precedent: MDIFW added ~50 reptile/amphibian species to the unrestricted list in 2009, confirming it amends the list administratively. (5) Maine Legislature \"Contact Your Legislator\" page verified (legislature.maine.gov/house/house/MemberProfiles/ContactYourLegislator). UNCERTAIN / WORTH ASKING IN THE LETTER: whether MDIFW even applies its captive-wildlife rules to a non-native commensal rodent at all (it might treat R. rattus as outside its jurisdiction, which would make it unregulated rather than restricted) — that's why the letter also asks for a written classification determination. I did not independently re-open the current PDF to confirm R. rattus is still absent in the latest revision; the absence is per prior research dated 2026-06-07. The captive-wildlife page lists named staff for some permit types; per OPSEC and because they are not the right contact for a list-amendment petition, I have used only the general agency inbox and the mailed-petition address. This is a research aid, not legal advice; a keeper should confirm current classification directly with MDIFW before acquiring an animal.",
+      "confidence_notes": "Verified 14 June 2026 against primary maine.gov and Maine Legislature sources, plus the Cornell LII and animallaw.info reproductions of the rule. CONFIRMED: (1) The Unrestricted Species List PDF (maine.gov/ifw/docs/unrestrictedspecies.pdf) names 'Brown Rat - Rattus norvegicus' and 'House Mouse - Mus musculus' by binomial and contains NO entry for Rattus rattus / roof rat / black rat / ship rat (verified by extracting the PDF text directly). (2) 09-137 C.M.R. ch. 7, Sec. 7.06(4) reads verbatim: 'A person may not possess any species that has not been categorized. Any species which has not been identified as a Prohibited, Restricted, or Unrestricted species will not be eligible for a permit under this chapter, however a request may be made to review the categorization of a species subject to section 7.06(5).' (confirmed on Cornell LII and animallaw.info). (3) Sec. 7.06(5) provides the categorization-review/petition pathway ('must be made on application forms provided by the department; applicants shall bear the burden of proof'). (4) Sec. 7.06(1) provides that unrestricted species 'may be traded by commercial pet shops.' (5) 12 M.R.S. Sec. 10001(69) defines 'wild animal' as 'a species of mammal, wild by nature, whether or not bred or reared in captivity, as distinguished from the common domestic animals' (confirmed verbatim on legislature.maine.gov). (6) The MDIFW 'Fish and Wildlife in Captivity' page describes the five tiers (including 'Unclassified'), the 'Species Categorization Requests' process, and the mailing address Wildlife Division, Inland Fisheries & Wildlife, 353 Water Street, Augusta, ME 04330, and warns not to assume animals legal in other states or online are legal in Maine. (7) The general email info.ifw@maine.gov and main line (207) 287-8000 are on the official MDIFW contact page; mailing 41 State House Station, Augusta, ME 04333-0041. (8) Maine Legislature 'Contact Your Legislator' page verified. HONEST CAVEAT: an Unrestricted outcome is not guaranteed, because Sec. 7.06(3) lets the Captive Wildlife Technical Committee weigh wild-survival capability and harmful-agent risk, and Maine DACF pest/pesticide materials describe the roof rat as an invasive disease vector; a Category 2 Restricted categorization is a plausible (more conservative) agency outcome, which is why the letter offers it as an alternative. Per OPSEC and because they are not the right contact for a list/categorization petition, only the general agency inbox and the mailed-petition address are used (no individual staff names). This is a research aid, not legal advice; a keeper should confirm current classification directly with MDIFW before acquiring an animal.",
       "local_lang": "en"
     }
   },
   "activities": {
     "keep": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "MDIFW's Unrestricted Species List (Ch. 7) names only 'Rattus norvegicus var.', not R. rattus, and R. rattus is not on the prohibited list (§7.18 = bears/canids/felids/primates) — so under the three-tier scheme it defaults to RESTRICTED, requiring a Wildlife Possession Permit (12 M.R.S. §12152). The 'wild animal' definition (§10001: 'wild by nature, whether or not bred in captivity') would likely capture R. rattus since it lacks a recognized domestic breed line like the fancy rat.",
-      "governing_law": "12 M.R.S. §10001 (wild animal defn); §12152 (possession permit); 09-137 C.M.R. Ch. 7 (unrestricted/restricted/prohibited; Unrestricted List omits R. rattus).",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "MDIFW's Unrestricted Species List names 'Brown Rat - Rattus norvegicus' and 'House Mouse - Mus musculus' by binomial but does NOT name Rattus rattus, and R. rattus is not on the Prohibited list either. Under the five-tier scheme it is therefore 'Unclassified,' and 09-137 C.M.R. ch. 7, Sec. 7.06(4) provides verbatim: 'A person may not possess any species that has not been categorized. Any species which has not been identified as a Prohibited, Restricted, or Unrestricted species will not be eligible for a permit under this chapter.' So possession is unlawful AND no permit can be issued. The 'wild animal' definition (12 M.R.S. Sec. 10001(69): 'wild by nature, whether or not bred or reared in captivity, as distinguished from the common domestic animals') keeps a captive-bred, tame roof rat within MDIFW wildlife jurisdiction rather than treating it as a common domestic animal. The only lawful route to possession is to first petition MDIFW under Sec. 7.06(5) to categorize the species (best case onto the Unrestricted List beside the fancy rat).",
+      "governing_law": "12 M.R.S. Sec. 10001(69) (wild animal defn); 12 M.R.S. Sec. 12152 (permit to possess wildlife in captivity); 09-137 C.M.R. ch. 7, Sec. 7.06(1) (unrestricted), Sec. 7.06(4) (unclassified = possession barred + permit-ineligible), Sec. 7.06(5) (categorization petition); MDIFW Unrestricted Species List (names R. norvegicus, omits R. rattus).",
       "source_ids": [
         "me-12152",
-        "me-ch7",
-        "me-unrestricted"
+        "me-10001",
+        "me-ch7-06",
+        "me-unrestricted",
+        "me-captivity"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Ch. 7 requires a permit to propagate any restricted (non-unrestricted) species; R. rattus isn't on the Unrestricted List, so breeding needs an MDIFW possession/propagation permit. Maine's simpler 'small animal' DACF breeder pathway (7 M.R.S. §3907) is limited to species ON the MDIFW unrestricted list — which R. rattus is not.",
-      "governing_law": "09-137 C.M.R. Ch. 7; 12 M.R.S. §12152; 7 M.R.S. §3907 (small-animal = unrestricted-list species).",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Breeding (propagation) requires lawful possession plus a propagation permit, and an unclassified species is both barred from possession and ineligible for any permit under 09-137 C.M.R. ch. 7, Sec. 7.06(4). Because R. rattus is unclassified, there is no lawful animal to breed and no propagation permit available, so breeding is prohibited. Even the simpler commercial pathway runs through the same gate: under Sec. 7.06(1) only species on the Unrestricted List may be traded by commercial pet shops, and a DACF commercial breeder/dealer or pet-shop license (7 M.R.S. ch. 739) does not override MDIFW species classification. Federal note: the USDA Animal Welfare Act licenses only wholesale/sight-unseen dealers (hobby and direct-to-consumer sales are exempt; rats of genus Rattus bred for research are excluded from the AWA), but that federal layer cannot make a state-prohibited species lawful to breed in Maine.",
+      "governing_law": "09-137 C.M.R. ch. 7, Sec. 7.06(4) (unclassified barred + permit-ineligible), Sec. 7.06(1) (only unrestricted species traded by pet shops); 7 M.R.S. ch. 739 (DACF pet-shop/breeder/dealer licensing, does not override MDIFW classification); federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers only.",
       "source_ids": [
-        "me-ch7",
-        "me-12152"
+        "me-ch7-06",
+        "me-awp-lawbook",
+        "me-usda-awa"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Unrestricted species may be sold by pet shops; R. rattus isn't unrestricted, so it can't be sold without the appropriate MDIFW permit (and possibly a DACF pet-shop license). Non-commercial transfer still requires both parties to hold valid possession permits for a restricted species.",
-      "governing_law": "7 M.R.S. §3907 / §3933 (pet shop); 09-137 C.M.R. Ch. 7 (restricted species — permit to sell).",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Selling, bartering, or giving away a roof rat in Maine is barred by the same unclassified-species rule. 09-137 C.M.R. ch. 7, Sec. 7.06(1) limits commercial pet shops and dealers to species on the Unrestricted List, and R. rattus is not on it; Sec. 7.06(4) makes possession of an unclassified species unlawful for any party, so neither a seller nor a private recipient can lawfully hold the animal. Unlike a state where only the commercial 'sale' is regulated, here the underlying possession is itself unlawful, so even a free transfer or adoption is prohibited because the recipient cannot lawfully possess the rat. (Were the species ever categorized as Restricted, an interstate Certificate of Veterinary Inspection within 30 days would attach to any transfer that involves moving the animal, but that condition is moot while possession is barred.)",
+      "governing_law": "09-137 C.M.R. ch. 7, Sec. 7.06(1) (pet-shop/dealer trade limited to unrestricted species), Sec. 7.06(4) (unclassified = possession barred for all parties); 7 M.R.S. ch. 739 (DACF pet-shop/dealer licensing).",
       "source_ids": [
-        "me-ch7",
-        "me-unrestricted"
+        "me-ch7-06",
+        "me-unrestricted",
+        "me-awp-lawbook"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Importing a non-unrestricted species requires an MDIFW Wildlife Importation Permit (Category 1/2) + an interstate CVI from the origin state (12 M.R.S. §12152). In-state transport of a restricted species requires the underlying possession permit. No specific R. rattus invasive-import ban was found, so the permit pathway appears open. Never release (§12152).",
-      "governing_law": "12 M.R.S. §12152 (importation permit + CVI); 09-137 C.M.R. Ch. 7.",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Importing or transporting a roof rat into or within Maine is unlawful while the species is unclassified. 12 M.R.S. Sec. 12152(1-A) provides that 'a person may not import wildlife into or possess wildlife in the State or receive or possess wildlife imported into the State' without a permit, and an unclassified species cannot obtain that permit (09-137 C.M.R. ch. 7, Sec. 7.06(4)). MDIFW expressly warns residents not to assume animals legally for sale in adjacent states or online are lawful to bring into Maine. If the species were ever categorized as Restricted, importation would then require a Wildlife Importation Permit (Category 2: $100 application + $27 permit) plus an interstate Certificate of Veterinary Inspection (CVI) dated within 30 days, and a Category 2 possession permit ($27 + $27, valid two years) with a one-year-husbandry / 100-hours-experience requirement and Care-and-Housing standards (Sec. 7.17). Penalty for unlawful import/possession: each day is a separate Class E crime carrying a minimum fine of $50 plus an amount equal to twice the applicable permit fee (Sec. 12152(1-A)). Federal layer: USFWS treats R. rattus as 'wildlife,' and the CDC bars rodents of African origin (R. rattus is Asian in origin, so the CDC African-rodent bar does not apply). Never release a roof rat.",
+      "governing_law": "12 M.R.S. Sec. 12152(1-A) (import/possession permit; Class E crime, $50/day + twice the permit fee); 09-137 C.M.R. ch. 7, Sec. 7.06(4) (unclassified = permit-ineligible), Sec. 7.11(1)C (import health certificate/CVI for restricted species), Sec. 7.17 (care/housing); MDIFW captivity guidance (out-of-state/online warning); federal CDC/USFWS for international.",
       "source_ids": [
         "me-12152",
-        "me-ch7"
+        "me-ch7-06",
+        "me-ch7-11",
+        "me-import-cat2",
+        "me-possession-cat2",
+        "me-captivity",
+        "me-usda-rodent-import"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Default ban via the 'Unclassified Species' rule. Because R. rattus is on none of MDIFW's lists, 09-137 C.M.R. ch. 7, Sec. 7.06(4) makes it unlawful to possess and ineligible for any wildlife permit. There is no pet-permit application a keeper can file today; the only lawful route is to first get the species categorized (next entry). Unlawful possession/import is a Class E crime, each day a separate offense, minimum $50/day plus twice the applicable permit fee (12 M.R.S. Sec. 12152(1-A)).",
+      "steps": [
+        "Understand that no possession or import permit can be issued for R. rattus while it is unclassified.",
+        "Do not acquire or import a roof rat into Maine until the species is categorized; doing so is a per-day Class E crime and the animal can be confiscated.",
+        "Check local county/municipal ordinances as well; towns may further restrict animal keeping even if the species is later categorized."
+      ],
+      "forms": [],
+      "where_to_file": "Maine Dept of Inland Fisheries & Wildlife (MDIFW), Wildlife Division",
+      "fees": "",
+      "source_ids": [
+        "me-ch7-06",
+        "me-12152"
+      ]
+    },
     {
       "type": "permit",
       "applies_to": "person",
@@ -112,59 +149,189 @@
         "sell_give",
         "transport"
       ],
-      "summary": "Because R. rattus isn't on MDIFW's Unrestricted Species List (only the Norway rat is), it defaults to the restricted tier — a Wildlife Possession/Importation Permit is required to keep, breed, sell, or import. Call MDIFW (207-287-5252) for the species' tier classification before acquiring one; consider petitioning to add captive-bred R. rattus to the Unrestricted list. Never release.",
+      "summary": "Categorization petition (the only pathway). 09-137 C.M.R. ch. 7, Sec. 7.06(5) lets a person petition MDIFW to review and categorize an unclassified species. The request is made on Department forms, the applicant bears the burden of proof, the Captive Wildlife Technical Committee evaluates it against the Sec. 7.06(3) criteria, and the Commissioner decides. Best outcome is adding captive-bred R. rattus to the Unrestricted List beside the fancy rat; a plausible conservative outcome is a Category 2 Restricted placement (then a Category 2 possession permit becomes available). Only after a successful categorization can any possession/import permit be sought.",
       "steps": [
-        "Ask MDIFW which tier R. rattus is in and the permit pathway",
-        "If pursuing reform: petition to add captive-bred R. rattus to the Unrestricted Species List"
+        "Request the 'Request to Review or Change the Categorization of a Species' application form from the MDIFW Wildlife Division (info.ifw@maine.gov or by mail).",
+        "Compile biological, ecological, and husbandry evidence supporting the requested category (you bear the burden of proof under Sec. 7.06(5)).",
+        "Mail the completed application to: Wildlife Division, Inland Fisheries & Wildlife, 353 Water Street, Augusta, ME 04330.",
+        "If categorized as Category 2 Restricted, then apply for a Wildlife General Possession Permit (Cat 2) and, for any import, a Wildlife Importation Permit (Cat 2) plus a CVI dated within 30 days."
       ],
+      "forms": [
+        {
+          "name": "MDIFW Fish and Wildlife in Captivity (Species Categorization Requests + forms)",
+          "url": "https://www.maine.gov/ifw/fish-wildlife/captivity/index.html"
+        },
+        {
+          "name": "Wildlife General Possession Permit Application - Category 2 Restricted Species ($27 application + $27 permit; one-year husbandry / 100-hours experience; CVI within 30 days)",
+          "url": "https://www.maine.gov/ifw/docs/wildlife_possession.pdf"
+        },
+        {
+          "name": "Wildlife Importation Permit Application - Category 2 Restricted Species ($100 application + $27 permit)",
+          "url": "https://www.maine.gov/ifw/docs/import_cat2.pdf"
+        }
+      ],
+      "where_to_file": "Wildlife Division, Inland Fisheries & Wildlife, 353 Water Street, Augusta, ME 04330 (categorization request); fees payable to 'Treasurer, State of Maine'.",
+      "fees": "Categorization request: no fee stated on the captivity page. Post-categorization Category 2 possession permit: $27 application + $27 permit (valid two years). Category 2 importation permit: $100 application + $27 permit.",
+      "source_ids": [
+        "me-ch7-06",
+        "me-captivity",
+        "me-possession-cat2",
+        "me-import-cat2"
+      ]
+    },
+    {
+      "type": "health_cert",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Interstate Certificate of Veterinary Inspection (CVI). This would apply only IF the species were categorized as Restricted and an import permit issued: 09-137 C.M.R. ch. 7, Sec. 7.11(1)C and the Cat 2 import/possession forms require an interstate health certificate / CVI issued by a veterinarian licensed in the state of origin, dated within 30 days of taking possession, with disease test results approved by the Maine DACF and DHHS. It is moot while the species is unclassified and possession is barred.",
+      "steps": [
+        "Applies only after a successful categorization to Restricted and issuance of a Category 2 import permit.",
+        "Then: obtain a CVI from a veterinarian licensed in the origin state, dated within 30 days of taking possession, including required disease statements."
+      ],
+      "forms": [
+        {
+          "name": "Wildlife Importation Permit Application - Category 2 Restricted Species (CVI requirement on the instructions page)",
+          "url": "https://www.maine.gov/ifw/docs/import_cat2.pdf"
+        }
+      ],
+      "where_to_file": "CVI issued by a veterinarian licensed in the state of origin; filed with the MDIFW import permit. Maine DACF / DHHS approve required disease statements.",
+      "fees": "No state fee for the CVI; the issuing veterinarian charges an examination/paperwork fee.",
+      "source_ids": [
+        "me-ch7-11",
+        "me-import-cat2"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Never release a roof rat into the wild. R. rattus is treated as an invasive species and disease vector in Maine (DACF pest/pesticide materials list 'Roof rat (Rattus rattus)' as a target pest), and releasing captive wildlife is unlawful. Rehome responsibly. Local county/municipal ordinances can further restrict animal keeping.",
+      "steps": [],
       "forms": [],
-      "where_to_file": "Maine Dept of Inland Fisheries & Wildlife (MDIFW)",
+      "where_to_file": "",
       "fees": "",
       "source_ids": [
-        "me-ch7",
-        "me-unrestricted"
+        "me-ipm-rats"
       ]
     }
   ],
-  "inquiry_focus": "Under 09-137 C.M.R. Ch. 7, what tier applies to Rattus rattus (roof/black rat)? The Unrestricted Species List names 'Rattus norvegicus var.' but not R. rattus, and R. rattus isn't on the prohibited list — so does it default to RESTRICTED (Wildlife Possession/Importation Permit required), and what does the permit application look like for a private keeper of a captive-bred pet? Has MDIFW ever applied the 12 M.R.S. §10001 'wild animal' definition to R. rattus, or does it treat non-native commensal rodents as outside its captive-wildlife jurisdiction? Would MDIFW consider adding captive-bred R. rattus to the Unrestricted Species List alongside the fancy rat?",
+  "inquiry_focus": "Under 09-137 C.M.R. ch. 7, the Unrestricted Species List names 'Brown Rat - Rattus norvegicus' and 'House Mouse - Mus musculus' but not Rattus rattus, and R. rattus is not on the Prohibited list, so it appears 'Unclassified' under Sec. 7.06(4) (possession barred, permit-ineligible). (1) Does MDIFW confirm that a captive-bred, domesticated Rattus rattus kept as an indoor pet is currently Unclassified (and therefore prohibited), or does the Department treat it differently? (2) Will MDIFW accept a Sec. 7.06(5) request to categorize captive-bred R. rattus onto the Unrestricted List beside the fancy rat, and what forms/evidence does it require? (3) Is there historical precedent for the Captive Wildlife Technical Committee granting Unrestricted status to a commensal rodent, or would the roof rat's pest/vector status push it toward Category 2 Restricted or Prohibited? (4) If categorized as Category 2 Restricted, does MDIFW in practice issue possession permits to private companion-pet keepers who meet the experience and caging standards, or are those permits reserved for exhibitors/researchers? (5) What is the expected timeline for a categorization decision?",
   "sources": [
     {
       "id": "me-12152",
-      "title": "12 M.R.S. §12152 — Permit to possess/import wildlife in captivity (CVI for import)",
+      "title": "12 M.R.S. Sec. 12152 - Permit to possess wildlife in captivity (Sec. 12152(1-A): 'a person may not import wildlife into or possess wildlife in the State or receive or possess wildlife imported into the State' without a permit; each day a separate Class E crime, minimum fine $50 plus twice the applicable permit fee)",
       "url": "https://legislature.maine.gov/statutes/12/title12sec12152.html",
       "authority": "Maine Legislature",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
     },
     {
-      "id": "me-ch7",
-      "title": "09-137 C.M.R. Ch. 7 — MDIFW Regulations for Wildlife in Captivity (unrestricted/restricted/prohibited tiers)",
+      "id": "me-10001",
+      "title": "12 M.R.S. Sec. 10001 - Definitions (Sec. 10001(69) 'Wild animal' = 'a species of mammal, wild by nature, whether or not bred or reared in captivity, as distinguished from the common domestic animals'; Sec. 10001(71) 'Wildlife')",
+      "url": "https://legislature.maine.gov/statutes/12/title12sec10001.html",
+      "authority": "Maine Legislature",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-ch7-06",
+      "title": "09-137 C.M.R. ch. 7, Sec. 7.06 - Classification of Species (Sec. 7.06(1) unrestricted species may be traded by commercial pet shops; Sec. 7.06(4) 'A person may not possess any species that has not been categorized... will not be eligible for a permit under this chapter, however a request may be made to review the categorization of a species subject to section 7.06(5)'; Sec. 7.06(3) categorization criteria; Sec. 7.06(5) petition pathway)",
+      "url": "https://www.law.cornell.edu/regulations/maine/09-137-C-M-R-ch-7-SS-06",
+      "authority": "Maine Dept of Inland Fisheries and Wildlife (via Cornell Legal Information Institute)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-ch7-full",
+      "title": "09-137 C.M.R. ch. 7 (full text mirror) - Rules for Importation, Possession, Propagation, Rehabilitation, and Exhibition of Wildlife (confirms Sec. 7.06(4) unclassified language and Sec. 7.06(5) request-to-review verbatim; Sec. 7.11 importation/health certificate; Sec. 7.17 care and housing)",
       "url": "https://www.animallaw.info/administrative/me-exotic-pets-chapter-7-regulations-wildlife-captivity",
-      "authority": "Maine Dept of Inland Fisheries & Wildlife (via MSU Animal Legal & Historical Center)",
-      "accessed": "2026-06-07"
+      "authority": "Maine Dept of Inland Fisheries and Wildlife (via MSU Animal Legal & Historical Center)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-ch7-11",
+      "title": "09-137 C.M.R. ch. 7, Sec. 7.17 - Care and Housing Requirements (minimum caging/standards for restricted species; the import health certificate/CVI requirement appears at Sec. 7.11(1)C)",
+      "url": "https://www.law.cornell.edu/regulations/maine/09-137-C-M-R-ch-7-SS-17",
+      "authority": "Maine Dept of Inland Fisheries and Wildlife (via Cornell Legal Information Institute)",
+      "accessed": "2026-06-14"
     },
     {
       "id": "me-unrestricted",
-      "title": "MDIFW Unrestricted Species List (names 'Rattus norvegicus var.'; R. rattus absent)",
+      "title": "MDIFW Unrestricted Species List (PDF) - names 'Brown Rat - Rattus norvegicus' and 'House Mouse - Mus musculus' by binomial; contains NO Rattus rattus / roof rat / black rat / ship rat entry (verified by direct PDF text extraction)",
       "url": "https://www.maine.gov/ifw/docs/unrestrictedspecies.pdf",
-      "authority": "Maine Dept of Inland Fisheries & Wildlife",
-      "accessed": "2026-06-07"
+      "authority": "Maine Dept of Inland Fisheries and Wildlife",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-captivity",
+      "title": "MDIFW Fish and Wildlife in Captivity - describes the five tiers (incl. 'Unclassified'), the 'Species Categorization Requests' process (mail to Wildlife Division, Inland Fisheries & Wildlife, 353 Water Street, Augusta, ME 04330), and the warning not to assume animals legal in other states or online are legal in Maine",
+      "url": "https://www.maine.gov/ifw/fish-wildlife/captivity/index.html",
+      "authority": "Maine Dept of Inland Fisheries and Wildlife",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-possession-cat2",
+      "title": "Wildlife General Possession Permit Application - Category 2 Restricted Species (PDF): $27 application + $27 permit (two-year term); one-year husbandry or 100 hours experience/training (BS substitutes 50 hours); CVI dated within 30 days of taking possession; mail with fee payable 'Treasurer, State of Maine'",
+      "url": "https://www.maine.gov/ifw/docs/wildlife_possession.pdf",
+      "authority": "Maine Dept of Inland Fisheries and Wildlife",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-import-cat2",
+      "title": "Wildlife Importation Permit Application - Category 2 Restricted Species (PDF): $100 application + $27 permit; interstate CVI / health certificate required (verified by direct PDF text extraction)",
+      "url": "https://www.maine.gov/ifw/docs/import_cat2.pdf",
+      "authority": "Maine Dept of Inland Fisheries and Wildlife",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-awp-lawbook",
+      "title": "State of Maine Animal Welfare Laws and Regulations (DACF Animal Welfare Program, Title 7) - commercial pet-shop/breeder/dealer licensing; a DACF license does not override MDIFW species classification",
+      "url": "https://www.maine.gov/dacf/ahw/animal_welfare/documents/2022-AWP-law-book.pdf",
+      "authority": "Maine Dept of Agriculture, Conservation and Forestry (DACF)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-ipm-rats",
+      "title": "Integrated Pest Management - RATS (DACF) - identifies 'Roof rat (Rattus rattus)' as a target invasive pest and disease vector in Maine (context for the categorization risk and the no-release rule)",
+      "url": "https://www.maine.gov/dacf/php/gotpests/othercritters/documents/rats-cal.pdf",
+      "authority": "Maine Dept of Agriculture, Conservation and Forestry (DACF)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-usda-awa",
+      "title": "USDA APHIS Animal Welfare Act licensing - Class A breeder license applies to wholesale/sight-unseen dealers; direct-to-consumer and de minimis hobby sales exempt; rats of genus Rattus bred for research excluded from the AWA",
+      "url": "https://www.aphis.usda.gov/sites/default/files/license-app-pack-with-dogs-cats-and-other-animals.pdf",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "me-usda-rodent-import",
+      "title": "USDA APHIS / CDC - Bring a Pet Rodent into the United States (federal international-import layer; CDC bars rodents of African origin under 42 CFR 71.56; R. rattus is Asian in origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-14"
     }
   ],
   "contacts": [
     {
-      "agency": "Maine Dept of Inland Fisheries & Wildlife (MDIFW) — Wildlife Division / Captive Wildlife",
+      "agency": "Maine Dept of Inland Fisheries & Wildlife (MDIFW) - Wildlife Division / Captive Wildlife",
       "role": "wildlife",
       "email": "info.ifw@maine.gov",
-      "form_url": "",
-      "phone": "(207) 287-5252",
-      "primary": true
+      "form_url": "https://www.maine.gov/ifw/fish-wildlife/captivity/index.html",
+      "phone": "(207) 287-8000",
+      "primary": true,
+      "inquiry_language": "en"
     },
     {
-      "agency": "Maine Dept of Agriculture, Conservation & Forestry — Animal Health (import CVI)",
+      "agency": "Maine Dept of Agriculture, Conservation & Forestry (DACF) - Animal Welfare Program / Animal Health (commercial licensing + import CVI)",
       "role": "agriculture",
-      "email": "",
-      "form_url": "https://www.maine.gov/dacf/ahw/animal_health/import-permit-request-form.shtml",
-      "phone": "(207) 287-3701"
+      "email": "animal.welfare@maine.gov",
+      "form_url": "https://www.maine.gov/dacf/ahw/animal_welfare/",
+      "phone": "(207) 287-3846",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }

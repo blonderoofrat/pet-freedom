@@ -10,65 +10,79 @@
     "slug": "germany",
     "local_terms": [
       "Rattus rattus",
+      "Hausratte",
+      "Dachratte",
+      "Schiffsratte",
       "black rat",
       "roof rat",
-      "ship rat"
+      "ship rat",
+      "Wanderratte (= Rattus norvegicus, the Norway/fancy rat, for contrast)",
+      "Tierschutzgesetz (TierSchG)",
+      "Bundesartenschutzverordnung (BArtSchV)"
     ]
   },
-  "summary": "Germany has no national 'positive list' and generally permits keeping small pets. The black rat (Hausratte, Rattus rattus) does not appear on the EU list of invasive alien species of Union concern, so keeping it is generally allowed, subject to animal-welfare husbandry rules. Selling animals commercially needs a §11 permit. To be confirmed.",
-  "last_reviewed": "2026-06-06",
+  "summary": "Germany is one of the cleanest 'yes' countries for keeping a roof rat. It uses a negative-list system (any animal may be kept unless a law bans it), and the black rat (Hausratte, Rattus rattus) is named-and-excluded by binomial from the federal species-protection annex. Although wild R. rattus is a Red List native mammal, Anlage 1 of the Bundesartenschutzverordnung (BArtSchV) lists both Rattus rattus and Rattus norvegicus as exceptions (mit Ausnahme von) to the 'specially protected' status that covers other native mammals, so a captive specimen has the exact same unregulated standing as the common fancy rat (R. norvegicus), with no registration, no origin certificate, and no CITES paperwork. Neither species is on the EU list of invasive alien species of Union concern (Reg. 1143/2014), so no EU keep/breed/sell/transport ban applies. No Bundesland dangerous-animal ordinance (Gefahrtierverordnung) covers small rodents, so keeping is uniform across all 16 states. The only live conditions sit at the welfare and commercial tiers: §2 TierSchG requires species-appropriate, behaviour-appropriate housing (R. rattus is strongly arboreal, so tall climbing enclosures), and crossing into a commercial operation triggers a §11 TierSchG Erlaubnis (the threshold for rodents is more than 300 young per year under the AVV TierSchG, or any business-like trading for profit). Hobby keeping, hobby breeding, and free or occasional private transfer need no permit. The one genuinely unclear point is importing a roof rat from a non-EU third country, because rodents fall outside the EU pet-travel rules and national veterinary-certificate requirements vary by port. Never release a roof rat into the wild.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "No national positive list; Rattus rattus is not on the EU list of invasive alien species of Union concern, so private keeping is generally permitted. Animal-welfare husbandry standards (social housing, minimum cage sizes) apply.",
-      "governing_law": "EU Reg. 1143/2014 (R. rattus not listed); Bundesnaturschutzgesetz §40; TierSchG (welfare)",
+      "confidence": "high",
+      "why": "Germany operates a negative-list system: any animal may be privately kept unless a specific law bans it, and no law bans R. rattus. The Bundesartenschutzverordnung (BArtSchV) Anlage 1 designates mammals (Mammalia spp. / Saeugetiere) as specially protected but lists an explicit exception block, and both 'Rattus norvegicus' (Wanderratte) and 'Rattus rattus' (Hausratte) appear by name in that 'mit Ausnahme von' exclusion, so the roof rat carries zero special protection despite wild populations being Red-Listed. Consequently no registration with the lower nature-conservation authority and no origin/CITES certificate is required. No EU bar applies either: neither Rattus species is on the EU list of invasive alien species of Union concern (Reg. 1143/2014). No Bundesland dangerous-animal ordinance (Gefahrtierverordnung) covers small rodents. The only keeping rule is §2 TierSchG: the keeper must provide species-appropriate and behaviour-appropriate feeding, care, and housing and have the necessary knowledge and skills; because R. rattus is arboreal, this implies tall climbing enclosures, enforced ex-post by the local Veterinaeramt only on complaint.",
+      "governing_law": "BArtSchV Anlage 1 (R. norvegicus and R. rattus named as exceptions to 'besonders geschuetzt'); BNatSchG §39 (baseline protection of wild species, modified by BArtSchV); TierSchG §2 (species-appropriate keeping); EU Reg. 1143/2014 (R. rattus NOT on Union list); no Bundesland Gefahrtierverordnung covers rodents.",
       "source_ids": [
-        "eu-ias",
-        "de-tierschg"
+        "de-bartschv-anlage1",
+        "de-tierschg-2",
+        "de-bnatschg-39",
+        "eu-ias-unionlist"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "Hobby breeding is generally permitted; commercial/regular breeding may require a §11 TierSchG permit.",
-      "governing_law": "Tierschutzgesetz §11",
+      "confidence": "high",
+      "why": "Hobby breeding is unregulated: a private citizen may breed roof rats without a permit, registration, fee, or inspection. All breeders are still bound by §11b TierSchG (the Qualzucht / torture-breeding prohibition), but R. rattus is rarely bred for the extreme mutations (hairlessness, tailless, etc.) that trigger it. Breeding only becomes regulated when it is gewerbsmaessig (commercial): §11(1) sentence 1 No. 8(a) TierSchG requires a prior Erlaubnis from the local Veterinaeramt to commercially breed or keep vertebrates. The threshold is set in the AVV TierSchG (No. 12.2.1.5.1), which assumes commercial activity for rodents (Maeuse, Hamster, Ratten, Gerbils) at more than 300 young animals (Jungtiere) per year. A commercial breeder must pass a Sachkundenachweis (proof of competence), a Zuverlaessigkeitspruefung (reliability check), and an on-site facility inspection. This commercial layer applies identically to every vertebrate species, not just R. rattus.",
+      "governing_law": "TierSchG §11(1) Nr. 8(a) (Erlaubnis to commercially breed/keep vertebrates); AVV TierSchG No. 12.2.1.5.1 (more than 300 young/year for rodents = commercial); TierSchG §11b (Qualzucht prohibition, all breeders).",
       "source_ids": [
-        "de-tierschg"
+        "de-tierschg-11",
+        "de-avv-tierschg",
+        "de-tierschg-2"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Selling animals commercially requires a permit under §11 of the Animal Welfare Act (Tierschutzgesetz); occasional private rehoming generally does not.",
-      "governing_law": "Tierschutzgesetz §11",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Private, occasional, non-business transfer (giving away a litter, an occasional small-scale sale) is unregulated: no health certificate, registration, bill of sale, or species-protection paperwork is required, because the BArtSchV exemption removes any CITES/origin-document duty for R. rattus. Regulation attaches only to commercial dealing: §11(1) sentence 1 No. 8(b) TierSchG requires an Erlaubnis from the local Veterinaeramt for anyone who commercially trades in vertebrates (gewerbsmaessiger Handel mit Wirbeltieren), defined by the AVV TierSchG by business-like intent (planmaessig, fortgesetzt und mit der Absicht der Gewinnerzielung) rather than a fixed volume. A commercial seller must also give the buyer written care information about the species. Because the predominant case for a hobbyist keeper is free or occasional private transfer, the headline status is legal, with the §11 permit applying only to a business-like dealer.",
+      "governing_law": "TierSchG §11(1) Nr. 8(b) (Erlaubnis for commercial trade in vertebrates); AVV TierSchG (business-like intent test for 'gewerbsmaessig'); TierSchG (written care-information duty for commercial sellers); BArtSchV Anlage 1 (no CITES/origin paperwork for R. rattus).",
       "source_ids": [
-        "de-tierschg"
+        "de-tierschg-11",
+        "de-avv-tierschg",
+        "de-bartschv-anlage1"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "restricted",
-      "confidence": "low",
-      "why": "Within the EU, movement of pet animals follows EU pet-movement/health rules; no German release of non-native species.",
-      "governing_law": "EU pet movement rules; Bundesnaturschutzgesetz §40 (release)",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Domestic transport within Germany (including between Bundeslaender) is entirely unregulated: there are no internal border checks for pets and no movement documents, the only condition being general §2 TierSchG welfare during transit (appropriate carrier with adequate space, ventilation, and protection from temperature extremes). Moving a roof rat into Germany from another EU country is also simple: rodents are explicitly outside the EU pet-travel rules (Reg. 576/2013, which target rabies in dogs, cats, and ferrets), so no EU pet passport or microchip is required, and R. rattus is not on the EU invasive-species Union list (Reg. 1143/2014), so no IAS transport ban applies. The single open point is import from a non-EU third country, handled at activity level here but flagged as unclear in notes and routed to Zoll/BMEL. Never release a roof rat into the wild (intentional release of a captive animal is an offence under animal-welfare and ecological law).",
+      "governing_law": "TierSchG §2 (welfare during transport); EU Reg. 576/2013 (pet-travel rules do NOT apply to rodents); EU Reg. 1143/2014 (R. rattus NOT on Union list); national customs/veterinary rules (Zoll/BMEL) for non-EU import.",
       "source_ids": [
-        "eu-ias"
+        "de-tierschg-2",
+        "de-zoll-heimtiere",
+        "eu-ias-unionlist"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -76,44 +90,158 @@
       "type": "license",
       "applies_to": "person",
       "activity": [
-        "sell_give",
-        "breed"
+        "breed",
+        "sell_give"
       ],
-      "summary": "Commercial breeding or sale of animals requires a permit under §11 of the Tierschutzgesetz (animal welfare act), issued by the local Veterinäramt.",
+      "summary": "Commercial (gewerbsmaessig) breeding or trading of vertebrates requires a prior Erlaubnis under §11(1) TierSchG from the local Veterinaeramt. For rodents, breeding is assumed commercial above more than 300 young animals per year (AVV TierSchG No. 12.2.1.5.1); trading is assumed commercial by business-like, profit-seeking intent. Hobby breeding and free/occasional private transfer are exempt.",
       "steps": [
-        "Apply for a §11 TierSchG permit at your local Veterinäramt"
+        "Determine whether your activity is gewerbsmaessig: for breeding, more than 300 young/year (AVV TierSchG); for selling, regular business-like trading for profit.",
+        "If commercial, apply for the §11 TierSchG Erlaubnis at your local Veterinaeramt BEFORE starting operations.",
+        "Pass the Sachkundenachweis (proof of competence) via a vocational qualification or a Fachgespraech with the official state veterinarian (Amtstierarzt).",
+        "Pass the Zuverlaessigkeitspruefung (reliability check) and an on-site facility inspection (lighting, ventilation, hygiene, enclosure sizes; check local Baurecht/zoning).",
+        "Commercial sellers must additionally give each buyer written species-care information at the point of sale."
       ],
       "forms": [],
-      "where_to_file": "Local Veterinäramt",
-      "fees": "Varies",
+      "where_to_file": "Local Veterinaeramt (oertliches Veterinaeramt / Amtstierarzt)",
+      "fees": "No fixed national fee; permit processing scales with administrative effort and economic advantage, roughly 50 to 10,000 EUR plus travel costs of inspecting officials.",
       "source_ids": [
-        "de-tierschg"
+        "de-tierschg-11",
+        "de-avv-tierschg"
+      ]
+    },
+    {
+      "type": "facility",
+      "applies_to": "rat",
+      "activity": [
+        "keep"
+      ],
+      "summary": "§2 TierSchG requires species-appropriate, behaviour-appropriate housing. Because R. rattus is strongly arboreal (longer balancing tail, larger ears, naturally lives in high places), a wide-but-short enclosure that might satisfy a terrestrial rodent can fall short, and the local Veterinaeramt may issue corrective orders. This is an ongoing welfare duty enforced ex-post (on complaint or observed cruelty), not a pre-acquisition permit or registration.",
+      "steps": [
+        "Provide a tall enclosure with vertical climbing space, multiple levels, secure bar spacing (commonly cited maxima around 1.5 cm, 1.0 cm for juveniles), ventilation, and social housing.",
+        "Use the BMEL Saeugetiergutachten and TVT Merkblatt 160 as the practical interpretive standard for §2 TierSchG.",
+        "Keep at least two rats together (rats are social); never single-house."
+      ],
+      "forms": [],
+      "where_to_file": "Local Veterinaeramt (enforces §2 TierSchG; no filing required by a private keeper)",
+      "fees": "",
+      "source_ids": [
+        "de-tierschg-2"
+      ]
+    },
+    {
+      "type": "health_cert",
+      "applies_to": "rat",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Importing a roof rat from a NON-EU third country is the one unclear area. Rodents are outside the EU pet-travel rules (Reg. 576/2013, which cover dogs/cats/ferrets and rabies), so no EU pet passport applies, but the German border inspection post (Veterinaergrenzkontrollstelle) may require a national veterinary health certificate (Tiergesundheitsbescheinigung) depending on the origin country's epidemiological status and the port of entry. Domestic and intra-EU movement need no such document. Confirm the exact certificate with Zoll/BMEL before any third-country import.",
+      "steps": [
+        "Domestic / intra-EU: no passport, microchip, or permit for rodents; transport with §2 TierSchG welfare conditions only.",
+        "Non-EU import: contact German Customs (Zoll) and/or BMEL in advance for the required Tiergesundheitsbescheinigung and any zoonosis-testing requirements for the genus Rattus at your intended border inspection post.",
+        "Never release a roof rat into the wild."
+      ],
+      "forms": [],
+      "where_to_file": "German Customs (Zoll) central information desk / BMEL; the Veterinaergrenzkontrollstelle at the port of entry.",
+      "fees": "",
+      "source_ids": [
+        "de-zoll-heimtiere"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Never release a roof rat into the wild. Intentional release of a captive-bred animal is an offence under animal-welfare and ecological law, and R. rattus is an invasive species globally. Rehome responsibly through free adoption with vetting.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "de-tierschg-2"
       ]
     }
   ],
   "sources": [
     {
-      "id": "eu-ias",
-      "title": "EU Regulation 1143/2014 — Invasive Alien Species (Union list)",
-      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R1143",
-      "authority": "European Union",
-      "accessed": "2026-06-06"
+      "id": "de-bartschv-anlage1",
+      "title": "Anlage 1 BArtSchV (Bundesartenschutzverordnung): Mammalia spp. specially protected, with explicit exception block naming 'Rattus norvegicus' and 'Rattus rattus' (mit Ausnahme von), removing both from 'besonders geschuetzt' status",
+      "url": "https://www.gesetze-im-internet.de/bartschv_2005/anlage_1.html",
+      "authority": "Bundesministerium der Justiz / gesetze-im-internet.de (federal statute portal)",
+      "accessed": "2026-06-14"
     },
     {
-      "id": "de-tierschg",
-      "title": "German Animal Welfare Act (Tierschutzgesetz) — overview",
-      "url": "https://www.animallaw.info/statute/germany-cruelty-german-animal-welfare-act",
-      "authority": "Animal Legal & Historical Center (summary)",
-      "accessed": "2026-06-06"
+      "id": "de-tierschg-11",
+      "title": "§ 11 TierSchG (Tierschutzgesetz): Erlaubnispflicht; §11(1) S.1 Nr. 8 requires a permit to gewerbsmaessig (a) breed/keep vertebrates (except farm animals and enclosed game) or (b) trade in vertebrates",
+      "url": "https://www.gesetze-im-internet.de/tierschg/__11.html",
+      "authority": "Bundesministerium der Justiz / gesetze-im-internet.de",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "de-tierschg-2",
+      "title": "§ 2 TierSchG: anyone keeping an animal must feed, care for, and house it appropriately to its species and needs (verhaltensgerechte Unterbringung) and possess the necessary knowledge and skills",
+      "url": "https://www.gesetze-im-internet.de/tierschg/__2.html",
+      "authority": "Bundesministerium der Justiz / gesetze-im-internet.de",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "de-avv-tierschg",
+      "title": "Allgemeine Verwaltungsvorschrift zur Durchfuehrung des Tierschutzgesetzes (AVV TierSchG), No. 12.2.1.5.1: rodents (Maeuse, Hamster, Ratten, Gerbils) assumed gewerbsmaessig at more than 300 Jungtiere per year",
+      "url": "https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_09022000_32135220006.htm",
+      "authority": "Bundesregierung / verwaltungsvorschriften-im-internet.de",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "de-bnatschg-39",
+      "title": "§ 39 BNatSchG (Bundesnaturschutzgesetz): general protection of wild-living animals and plants (the baseline that BArtSchV Anlage 1 modifies; R. rattus excepted)",
+      "url": "https://www.gesetze-im-internet.de/bnatschg_2009/__39.html",
+      "authority": "Bundesministerium der Justiz / gesetze-im-internet.de",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "eu-ias-unionlist",
+      "title": "EU list of invasive alien species of Union concern (Regulation (EU) 1143/2014; consolidated Union list, 114 species as of the Aug 2025 update). NEITHER Rattus rattus NOR Rattus norvegicus is listed; listed rodents are squirrels/chipmunks, listed mammals include Myocastor coypus, Ondatra zibethicus, Procyon lotor",
+      "url": "https://environment.ec.europa.eu/topics/nature-and-biodiversity/invasive-alien-species_en",
+      "authority": "European Commission, DG Environment",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "de-zoll-heimtiere",
+      "title": "Zoll (German Customs): rules for bringing pets (Heimtiere) from non-EU states; EU pet-travel rules (Reg. 576/2013) cover only dogs/cats/ferrets, so rodents fall under national veterinary rules confirmed via Zoll/BMEL/the border veterinary post",
+      "url": "https://www.zoll.de/DE/Privatpersonen/Reisen/Rueckkehr-aus-einem-Nicht-EU-Staat/Einschraenkungen/Tiere-und-Pflanzen/Schutz-Tierseuchen/Regelungen-Heimtiere/regelungen-heimtiere_node.html",
+      "authority": "Generalzolldirektion (German Customs)",
+      "accessed": "2026-06-14"
     }
   ],
   "contacts": [
     {
-      "agency": "Local Veterinäramt (örtliches Veterinäramt)",
+      "agency": "Bundesamt fuer Naturschutz (BfN) (Federal Agency for Nature Conservation)",
+      "role": "wildlife",
+      "email": "info@bfn.de",
+      "form_url": "https://www.bfn.de/kontakt",
+      "phone": "+49 228 8491-0",
+      "primary": true,
+      "inquiry_language": "de"
+    },
+    {
+      "agency": "Zoll (German Customs) / Generalzolldirektion, Zentrale Auskunft",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.zoll.de/DE/Service/Auskuenfte/Allgemeine-Fragen/allgemeine-fragen_node.html",
+      "phone": "+49 228 303-26020",
+      "primary": false,
+      "inquiry_language": "de"
+    },
+    {
+      "agency": "Local Veterinaeramt (oertliches Veterinaeramt / Amtstierarzt)",
       "role": "veterinary",
       "email": "",
       "form_url": "",
-      "phone": ""
+      "phone": "",
+      "primary": false,
+      "inquiry_language": "de"
     }
   ]
 }

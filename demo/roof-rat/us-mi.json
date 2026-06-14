@@ -12,106 +12,99 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "nonnative domestic rodent",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "Michigan has no exotic/wild-animal possession permit that captures rodents. The Large Carnivore Act covers only big cats and bears; the roof rat is not on the NREPA Part 413 prohibited/restricted (invasive) list (only nutria and Russian boar are among prohibited mammals); and the Pet Shops Act excludes rodents from its licensing definition. So keeping, breeding, and selling/giving a roof rat is effectively legal/unregulated at the state level. The one concrete requirement is animal-health: importing a non-native rodent needs a Certificate of Veterinary Inspection (no Michigan entry permit). Because no rule names the species, it's best labeled unregulated/unclear, and local ordinances may add limits.",
-  "last_reviewed": "2026-06-06",
+  "summary": "Michigan is a clean 'yes' state for keeping a roof rat, and the law treats it exactly the same as the ordinary fancy rat (Rattus norvegicus). No state rule names Rattus rattus, but every statute that could capture it instead exempts the whole order of rodents or names only other animals. The Pet Shops Act defines a regulated 'animal' as 'a mammal except livestock... and rodents,' so a rodent-only breeder or seller is not a pet shop and needs no MDARD license, inspection, or sale health certificate. The roof rat is not on Michigan's prohibited or restricted invasive-species list under NREPA Part 413 (the only prohibited mammals are nutria and wild/Russian boar), it is not a 'game' species under the exhaustive game list in MCL 324.40103 (so no DNR captive-game permit applies), and the Large Carnivore Act reaches only big cats and bears. Keeping, breeding, and selling or giving one away are therefore lawful and unregulated at the state level, subject only to general animal-cruelty law (MCL 750.50). The one concrete movement requirement is animal-health, not a possession or dealer permit: bringing a roof rat into Michigan from another state requires an official interstate Certificate of Veterinary Inspection (CVI) signed by a USDA-accredited veterinarian in the state of origin, and Michigan issues no entry permit for nonnative domestic rodents (so no permit number is needed). Intrastate movement is unregulated. Never release a roof rat into the wild, which is an illegal 'introduction' of a nonnative mammal under NREPA Part 413. Local city, township, or county ordinances on rodent harborage and nuisance can add limits, especially for large indoor colonies.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
-    "flag": true,
-    "kit": {
-      "case_type": "clarification",
-      "problem": "In Michigan, keeping, breeding, and rehoming a captive-bred pet roof rat (Rattus rattus) is effectively legal, but no state rule says so by name. The species sits in a gap. It is not on Michigan's prohibited or restricted invasive-species list under NREPA Part 413 (the only prohibited mammals are nutria and wild/Russian boar), the Large Carnivore Act covers only big cats and bears, and the Pet Shops Act's definition of \"animal\" excludes rodents entirely. No permit captures it and no statute bans it. Its lawful status is inferred from silence rather than stated anywhere. That leaves owners, veterinarians, and rescues without a clear document to cite, and leaves the species open to being treated as a wild pest. The fix is a written confirmation from the state, not a new law.",
-      "ask": "Ask MDARD (with DNR for the wildlife-permit point) to confirm in writing that captive-bred domestic roof rats are treated like other unregulated non-native pet rodents: (1) Rattus rattus is not a prohibited or restricted species under NREPA Part 413; (2) no DNR captive-wildlife permit or MDARD exotic-animal permit is required to keep, breed, or rehome them; and (3) the only state movement requirement is an interstate Certificate of Veterinary Inspection on import, with no Michigan entry permit. A short letter, email, or declaratory statement gives owners and veterinarians something concrete to rely on. Being non-native is not by itself what makes a species prohibited. Cats and dogs are also non-native and documented to harm native wildlife, yet Michigan permits them because their value as companions is judged to outweigh that risk. Whether the limited additional risk of a sterilized, indoor-only pet roof rat is similarly outweighed by its value as a companion is a cost-benefit judgment for the state to make. The request is only to confirm where existing law places the species, not to reach any particular conclusion.",
-      "branch_note": "This is an agency clarification case, not a law-change case. Michigan law as written already leaves captive-bred roof rats unregulated. The species is absent from the NREPA Part 413 prohibited/restricted lists (only nutria and wild/Russian boar are prohibited mammals, verified), the Large Carnivore Act reaches only big cats and bears, and the Pet Shops Act excludes rodents from \"animal.\" The problem is that no rule names the species, so its legal status is inferred from silence and undocumented. That is the kind of gap an agency can close with a written clarification or declaratory statement. The correct lever is MDARD's Animal Industry Division, with the DNR confirming the captive-wildlife-permit point, asked to put the existing status in writing. Going to the Legislature would be the wrong move and could backfire. There is no defective statute to amend, and opening Part 413 or the exotic-pet statutes invites adding the species to a prohibited list rather than affirming it as a legal pet. Pursue the agency confirmation; do not seek legislation.",
-      "time_sensitive": "",
-      "targets": [
-        {
-          "name": "Michigan Department of Agriculture & Rural Development (MDARD) — Contact MDARD / Animal Industry Division (State Veterinarian)",
-          "type": "agency",
-          "form_url": "https://www.michigan.gov/mdard/about/contact-mdard",
-          "email": "MDA-Info@Michigan.gov",
-          "why": "MDARD's Animal Industry Division administers animal-movement and animal-health rules and is the right office to confirm in writing that captive-bred roof rats need no exotic-animal permit and that the only import requirement is an interstate Certificate of Veterinary Inspection. Use the official contact form (or the verified MDA-Info inbox / 800-292-3939) — this is the primary lever for a written clarification."
-        },
-        {
-          "name": "Michigan Department of Natural Resources (DNR) — Wildlife Permits / Invasive Species Program",
-          "type": "agency",
-          "form_url": "https://www.michigan.gov/dnr",
-          "why": "The DNR co-administers the NREPA Part 413 prohibited/restricted species list and issues captive-wildlife permits. A short note (or call to Wildlife Permits, 517-284-6210) asking the DNR to confirm that Rattus rattus is not a prohibited/restricted species and that captive-wildlife permits do not reach non-native pet rodents documents the second half of the status."
-        }
-      ],
-      "template": {
-        "en": "Subject: Request to confirm in writing the legal status of captive-bred pet roof rats (Rattus rattus)\n\nDear MDARD Animal Industry Division,\n\nI keep domesticated, captive-bred roof rats (Rattus rattus) as indoor pets. These animals are tame, born in captivity, kept entirely indoors, and never released to the wild. Michigan law does not name this species anywhere, which leaves its pet status unclear on paper even though it appears to be unregulated.\n\nFrom my reading, Rattus rattus is not on the NREPA Part 413 prohibited or restricted species list (only nutria and wild/Russian boar are prohibited mammals), the Large Carnivore Act covers only big cats and bears, and the Pet Shops Act excludes rodents. I am not asking for any change to the law.\n\nI mention one point to prevent a possible misunderstanding. Being non-native is not by itself what places an animal on the prohibited list. Cats and dogs are also non-native and documented to harm native wildlife, yet Michigan permits them because their value as companions is judged to outweigh that risk. I am not asking the state to reach any particular conclusion about my pets, only to confirm where existing law places them.\n\nPlease confirm in writing that: (1) Rattus rattus is not a prohibited or restricted species under Part 413; (2) no DNR captive-wildlife permit or MDARD exotic-animal permit is required to keep, breed, or rehome captive-bred roof rats; and (3) the only state movement requirement is an interstate Certificate of Veterinary Inspection on import, with no Michigan entry permit.\n\nA brief written confirmation would give owners and veterinarians a clear document to rely on. Thank you for your time.\n\nSincerely,\n[Your name]\n[Your city, Michigan]\n[Your email / phone]"
-      },
-      "confidence_notes": "Verified (June 2026): (1) MDARD's official contact page is live at https://www.michigan.gov/mdard/about/contact-mdard (\"Contact MDARD / File a Complaint\"), which hosts online forms, lists the general line 800-292-3939, and confirms MDA-Info@Michigan.gov as the after-hours/general department inbox — so both the form page and that email are official. (2) Confirmed across multiple sources (michigan.gov invasives mammals pages; clickondetroit \"Michigan's 2 invasive mammals\") that the ONLY prohibited mammals under NREPA Part 413 are nutria and wild/Russian boar; Rattus rattus is not listed as prohibited or restricted. (3) Michigan Legislature find/contact pages (legislature.mi.gov) verified but intentionally NOT used as a target, per the branch judgment. The Large Carnivore Act (cats/bears only) and Pet Shops Act (rodents excluded) points come from the prior internal research and statute citations (MCL 287.1101+, MCL 287.331+) and remain consistent with current sources, though I could not re-fetch the legislature PDFs this session (michigan.gov returned 403 to direct fetch; relied on verified search snippets and the grounding file). The DNR Wildlife Permits line (517-284-6210) and the invasive-species program contacts page are from the grounding file; the general michigan.gov/dnr portal and invasives contacts page are stable. Uncertainty: the exact form on the MDARD contact page is a general inquiry/complaint form rather than a dedicated \"declaratory ruling\" portal, so the agency may route the request internally — phone or the MDA-Info email may get a faster substantive answer. This is a research aid, not legal advice; local city/township/county ordinances may add limits and should be checked separately.",
-      "local_lang": "en"
-    }
+    "flag": false
   },
   "activities": {
     "keep": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "No general exotic-possession permit captures rodents. The only exotic-mammal possession ban (Large Carnivore Act, MCL 287.1101+) covers big cats/bears, and R. rattus is not on the NREPA Part 413 prohibited/restricted list (only nutria and Russian boar among prohibited mammals). No statute prohibits or licenses keeping one — but none affirmatively names/exempts the species either, so it's unregulated rather than expressly permitted.",
-      "governing_law": "MCL 287.1101 et seq. (Large Carnivore Act); NREPA Part 413, MCL 324.41301 et seq. (prohibited/restricted species).",
-      "source_ids": [
-        "mi-carnivore",
-        "mi-invasive"
-      ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
-    },
-    "breed": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "No Michigan statute requires a permit to breed pet rodents; the DNR captive-wildlife permit covers native game, not non-native rodents, and R. rattus is neither regulated game nor a prohibited invasive species. Breeding is unaddressed (effectively legal).",
-      "governing_law": "NREPA Part 413; Wildlife Conservation Order Ch. V (native game only).",
-      "source_ids": [
-        "mi-invasive"
-      ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
-    },
-    "sell_give": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "Michigan's Pet Shops Act (MCL 287.331+) requires a license to sell animals, but its definition of 'animal' EXCLUDES rodents — so a rodent-only seller isn't a regulated pet shop. Selling a prohibited invasive species would be unlawful, but R. rattus isn't on that list. No state breeder/dealer license reaches rodents.",
-      "governing_law": "MCL 287.331 et seq. (Pet Shops Act; rodents excluded); NREPA Part 413.",
-      "source_ids": [
-        "mi-petshop",
-        "mi-invasive"
-      ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
-    },
-    "transport": {
       "status": "legal",
       "confidence": "high",
-      "why": "Importing a non-native rodent requires an official interstate Certificate of Veterinary Inspection from a USDA-accredited vet; Michigan issues NO entry permit for non-native rodents (no permit number needed). Intrastate transport is unregulated. Never release a roof rat.",
-      "governing_law": "MDARD animal-movement requirements (Animal Industry Act); CVI by accredited vet.",
+      "why": "No Michigan statute bans or licenses keeping a roof rat, and three separate possession frameworks each exclude it. (1) The Large Carnivore Act (MCL 287.1101 et seq.) bans private possession only of big cats and bears, not small mammals. (2) NREPA Part 413 (MCL 324.41301 et seq.) makes it unlawful to possess a 'prohibited' or 'restricted' species, but the only prohibited mammals are nutria (Myocastor coypus) and wild/Russian boar (Sus scrofa Linnaeus); R. rattus is on neither the prohibited nor the restricted list. (3) DNR captive-wildlife rules reach only 'game,' and MCL 324.40103 defines game through an exhaustive list (the only game rodents are squirrel, muskrat, beaver, and woodchuck), so rats are not game and no captive-game permit applies. The species is also not native or department-introduced wildlife under MCL 324.43508. General animal-cruelty and sanitary-condition law (MCL 750.50) still applies to how the animal is kept.",
+      "governing_law": "MCL 287.1101 et seq. (Large Carnivore Act, big cats/bears only); NREPA Part 413, MCL 324.41301 et seq. (prohibited/restricted species; only nutria and wild/Russian boar among prohibited mammals); MCL 324.40103 (definition of 'game'; rats not listed) + MCL 324.42703 (captive-game permit, game only); MCL 750.50 (cruelty/sanitary conditions).",
+      "source_ids": [
+        "mi-petshop",
+        "mi-invasive-mammals",
+        "mi-nrepa-413",
+        "mi-game-def",
+        "mi-cruelty"
+      ],
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Breeding pet roof rats is unregulated at the state level. Michigan licenses dog breeding (large-scale dog kennels under the Pet Shops Act) but has enacted no parallel rodent-breeder or small-mammal-propagation license. Because R. rattus is not 'game' under MCL 324.40103, the DNR captive-game propagation permit (MCL 324.42703) does not apply, and because it is not a prohibited/restricted species under NREPA Part 413 there is no invasive-species breeding ban. There is no numeric or revenue threshold that turns a rodent hobbyist into a regulated dealer under state law. Federal USDA/AWA licensing can reach a large-scale breeder who ships wholesale or sight-unseen or sells to research, but direct-to-consumer retail sales and de minimis hobby breeding are federally exempt, and rats of the genus Rattus bred for research are excluded from the AWA entirely.",
+      "governing_law": "Pet Shops Act, MCL 287.331 et seq. (no rodent-breeder license; large-scale rules are dogs only); MCL 324.40103 + MCL 324.42703 (captive-game permit, game only); NREPA Part 413 (not prohibited/restricted); federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers.",
+      "source_ids": [
+        "mi-petshop",
+        "mi-game-def",
+        "mi-nrepa-413",
+        "mi-usda-awa"
+      ],
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Selling or giving away a roof rat is unregulated because of an explicit statutory carve-out. The Pet Shops Act (MCL 287.331 et seq.) requires an MDARD license to operate a 'pet shop' (a place where animals are sold, exchanged, or transferred), but MCL 287.331(d) defines the regulated 'animal' as 'a mammal except livestock as defined in 1937 PA 284, MCL 287.121 to MCL 287.131, and rodents.' Because the entire order of rodents is excluded, a person or business that breeds and sells roof rats is not a pet shop, needs no MDARD facility license or inspection, and is not bound by the Act's health-certificate-for-buyers requirement (which applies to dogs, cats, and ferrets). Unlike some states (e.g. Kentucky), Michigan has no intrastate sale CVI rule that reaches rodents, so no health document is required for an in-state sale or gift. Selling a prohibited invasive species would be unlawful under NREPA Part 413, but R. rattus is not on that list. General cruelty law (MCL 750.50) still applies.",
+      "governing_law": "Pet Shops Act, MCL 287.331(d) (definition of 'animal' excludes rodents) and MCL 287.333 (pet-shop license); NREPA Part 413 (sale of a prohibited species barred, but R. rattus not listed); MCL 750.50 (cruelty).",
+      "source_ids": [
+        "mi-petshop",
+        "mi-nrepa-413"
+      ],
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "No wildlife transport permit applies (R. rattus is not game and not a prohibited/restricted species), but a movement health document does. To import a roof rat into Michigan from another U.S. state, MDARD's published animal-movement policy for 'Other Species (Rabbits, Rodents, Reptiles and Amphibians)' requires that the rodent be accompanied by an official interstate Certificate of Veterinary Inspection (CVI) filled out by a USDA-accredited veterinarian in the animal's state of origin. Michigan does not issue an entry permit for nonnative domestic rodents, so no permit number is required on the CVI. Intrastate movement within Michigan is unregulated (no movement document, testing, or waybill). International import is governed by federal CDC/USDA APHIS rules at the port of entry (the CDC bars rodents of African origin). Releasing a roof rat into the wild is prohibited: NREPA Part 413 (MCL 324.41305) bars introducing a nonnative mammal, and MCL 324.41301(1)(f) defines 'introduce' to mean to 'knowingly and willfully stock, place, plant, release, or allow the release of the organism in this state at any specific location where the organism is not already naturalized.'",
+      "governing_law": "Animal Industry Act, MCL 287.731 (MDARD import authority) + MDARD 'Other Species' movement policy (interstate CVI; no entry permit for nonnative domestic rodents); NREPA Part 413, MCL 324.41305 and MCL 324.41301(1)(f) (no release/introduction); federal CDC/USDA APHIS for international import.",
       "source_ids": [
         "mi-import",
-        "mi-invasive"
+        "mi-aia",
+        "mi-nrepa-413",
+        "mi-usda-rodent-import"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "inspection",
+      "type": "health_cert",
       "applies_to": "rat",
       "activity": [
         "transport"
       ],
-      "summary": "Importing a non-native pet rodent into Michigan requires an interstate Certificate of Veterinary Inspection (MDARD); no Michigan entry permit. No CVI for in-state movement.",
-      "steps": [],
-      "forms": [],
-      "where_to_file": "Michigan Dept of Agriculture & Rural Development (MDARD), Animal Industry Division",
-      "fees": "",
+      "summary": "Importing a roof rat into Michigan from another state requires an official interstate Certificate of Veterinary Inspection (CVI) signed by a USDA-accredited veterinarian in the state of origin. Michigan issues no entry permit for nonnative domestic rodents, so no permit number is needed. This applies on import only, not to keeping, intrastate movement, or an in-state sale or gift.",
+      "steps": [
+        "Before bringing the rat into Michigan, have a USDA-accredited veterinarian in the state of origin examine it and issue an official interstate CVI (the rat must be free of visual evidence of communicable disease).",
+        "Carry the CVI with the animal during transport into Michigan.",
+        "Do not request an entry permit number; Michigan does not issue one for nonnative domestic rodents.",
+        "No CVI is required for movement that stays entirely within Michigan."
+      ],
+      "forms": [
+        {
+          "name": "MDARD - Other Species (Rabbits, Rodents, Reptiles and Amphibians) import requirements",
+          "url": "https://www.michigan.gov/mdard/animals/id-movement/other-species-rabbits-rodents-reptiles-and-amphibians"
+        }
+      ],
+      "where_to_file": "Issued by a USDA-accredited veterinarian in the state of origin; carried with the animal. Michigan Dept of Agriculture & Rural Development (MDARD), Animal Industry Division, administers the rule.",
+      "fees": "No state regulatory fee for the CVI; the issuing veterinarian charges their own examination/paperwork fee.",
       "source_ids": [
         "mi-import"
       ]
@@ -120,64 +113,126 @@
       "type": "other",
       "applies_to": "person",
       "activity": [
-        "keep"
+        "keep",
+        "transport"
       ],
-      "summary": "Never release a roof rat. Local city/township/county ordinances may add limits — check yours.",
+      "summary": "Never release a roof rat into the wild. NREPA Part 413 (MCL 324.41305) bars introducing a nonnative mammal, and MCL 324.41301(1)(f) defines 'introduce' to include releasing or allowing the release of the organism where it is not already naturalized. Rehome responsibly. Local city, township, or county ordinances on rodent harborage and nuisance can add limits, especially for large indoor colonies, so check yours.",
       "steps": [],
       "forms": [],
-      "where_to_file": "",
+      "where_to_file": "Your county/city; MDNR for the no-release rule.",
       "fees": "",
       "source_ids": [
-        "mi-invasive"
+        "mi-nrepa-413"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "both",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "Husbandry is governed by general animal-cruelty law (MCL 750.50), which requires sufficient and proper care, adequate protection from the elements, and 'sanitary conditions' (a space free from health hazards, excessive animal waste, and overcrowding). This applies to any animal owner, including a roof-rat keeper or breeder.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "Enforced by local law enforcement / animal control.",
+      "fees": "",
+      "source_ids": [
+        "mi-cruelty"
       ]
     }
   ],
-  "inquiry_focus": "Please confirm in writing that: (1) Rattus rattus is not a prohibited or restricted species under NREPA Part 413, (2) no DNR captive-wildlife permit or MDARD exotic-animal permit is required to keep, breed, or sell captive-bred roof rats, and (3) the only state movement requirement is an interstate Certificate of Veterinary Inspection on import (no Michigan entry permit).",
+  "inquiry_focus": "Please confirm in writing that: (1) Rattus rattus is not a prohibited or restricted species under NREPA Part 413 (only nutria and wild/Russian boar are prohibited mammals); (2) because MCL 287.331(d) excludes 'rodents' from the Pet Shops Act definition of 'animal,' a facility that exclusively keeps, breeds, and sells captive-bred roof rats needs no MDARD Pet Shop license, breeder registration, or sale health certificate, and no DNR captive-game permit applies (rats are not 'game' under MCL 324.40103); and (3) the only state movement requirement is an interstate Certificate of Veterinary Inspection on import, with no Michigan entry permit for nonnative domestic rodents.",
   "sources": [
     {
-      "id": "mi-carnivore",
-      "title": "MCL 287.1101 et seq. — Large Carnivore Act (big cats/bears only)",
-      "url": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-274-of-2000.pdf",
+      "id": "mi-petshop",
+      "title": "MCL 287.331 - Pet Shops, Dog Pounds, and Animal Shelters Act, definitions (subsection (d): 'animal means a mammal except livestock as defined in 1937 PA 284, MCL 287.121 to MCL 287.131, and rodents'; subsection defining 'pet shop')",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-287-331",
       "authority": "Michigan Legislature",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-14"
     },
     {
-      "id": "mi-invasive",
-      "title": "Michigan Prohibited & Restricted Species (NREPA Part 413; only nutria/Russian boar among prohibited mammals)",
+      "id": "mi-nrepa-413",
+      "title": "MCL 324.41301 et seq. - NREPA Part 413 (Transgenic and Nonnative Organisms): definitions of 'prohibited species,' 'restricted species,' and 'introduce' (MCL 324.41301(1)(f)); no-introduction rule (MCL 324.41305). R. rattus is not listed.",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-324-41301",
+      "authority": "Michigan Legislature",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mi-invasive-mammals",
+      "title": "Michigan Invasive Species Program - Mammals / Prohibited and Restricted Species (the only prohibited mammals are nutria (Myocastor coypus) and wild/Russian boar (Sus scrofa Linnaeus); Rattus rattus is not prohibited or restricted)",
       "url": "https://www.michigan.gov/invasives/id-report/prohibitedrestricted",
       "authority": "Michigan Invasive Species Program (DNR/MDARD/EGLE)",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-14"
     },
     {
-      "id": "mi-petshop",
-      "title": "MCL 287.331 et seq. — Pet Shops Act (definition of 'animal' excludes rodents)",
-      "url": "http://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-287-of-1969.pdf",
+      "id": "mi-game-def",
+      "title": "MCL 324.40103 - NREPA definition of 'game' (exhaustive species list; the only game rodents are squirrel, muskrat, beaver, and woodchuck; rats and mice are not game)",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-324-40103",
       "authority": "Michigan Legislature",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mi-aia",
+      "title": "MCL 287.731 - Animal Industry Act (MDARD authority over importation of animals having potential to spread disease or endanger wildlife/humans; basis for the rodent import CVI rule)",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-287-731",
+      "authority": "Michigan Legislature",
+      "accessed": "2026-06-14"
     },
     {
       "id": "mi-import",
-      "title": "MDARD — Other Species (rabbits, rodents, reptiles): import/CVI",
+      "title": "MDARD - Other Species (Rabbits, Rodents, Reptiles and Amphibians): import requires an official interstate CVI by a USDA-accredited vet in the state of origin; 'Michigan does not issue entry permits for nonnative domestic... rodents... no permit number is required'",
       "url": "https://www.michigan.gov/mdard/animals/id-movement/other-species-rabbits-rodents-reptiles-and-amphibians",
       "authority": "Michigan Dept of Agriculture & Rural Development",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mi-cruelty",
+      "title": "MCL 750.50 - Michigan Penal Code (animal cruelty; duty of sufficient/proper care, adequate shelter, and 'sanitary conditions')",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-750-50",
+      "authority": "Michigan Legislature",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mi-carnivore",
+      "title": "MCL 287.1101 et seq. - Large Carnivore Act (private possession ban covers only big cats and bears, not small mammals)",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-287-1101",
+      "authority": "Michigan Legislature",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mi-usda-awa",
+      "title": "USDA APHIS - Animal Welfare Act licensing (Class A/B dealer license reaches wholesale/sight-unseen dealers; direct-to-consumer retail and de minimis hobby sales exempt; research rats of genus Rattus excluded from the AWA)",
+      "url": "https://www.aphis.usda.gov/pet-travel/accredited-veterinarians",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mi-usda-rodent-import",
+      "title": "USDA APHIS - Bring a Pet Rodent into the United States (federal international-import rules; CDC bars rodents of African origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-14"
     }
   ],
   "contacts": [
     {
-      "agency": "Michigan Dept of Agriculture & Rural Development (MDARD) — Animal Industry / State Veterinarian",
+      "agency": "Michigan Dept of Agriculture & Rural Development (MDARD) - Animal Industry Division (Office of the State Veterinarian)",
       "role": "agriculture",
       "email": "MDA-Info@michigan.gov",
-      "form_url": "",
+      "form_url": "https://www.michigan.gov/mdard/about/contact-mdard",
       "phone": "800-292-3939",
-      "primary": true
+      "primary": true,
+      "inquiry_language": "en"
     },
     {
-      "agency": "Michigan DNR — Wildlife Permits",
+      "agency": "Michigan Dept of Natural Resources (MDNR) - Wildlife Division (Wildlife Permits / Invasive Species Program)",
       "role": "wildlife",
-      "email": "",
-      "form_url": "https://www.michigan.gov/dnr",
-      "phone": "517-284-6210"
+      "email": "DNR-Wildlife@michigan.gov",
+      "form_url": "https://www.michigan.gov/dnr/about/contact/wildlife",
+      "phone": "517-284-9453",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }
