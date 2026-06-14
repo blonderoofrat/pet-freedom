@@ -119,7 +119,20 @@ authenticated mailbox → fetch replies (deduped by Message-ID) → record the r
 
 Guardrails: **never invent an agency email** (verified `contacts[]` only; otherwise web form / manual); on a
 bounce, find a verified replacement or flag it honestly — never guess. Requires the mailbox + SPF/DKIM/DMARC
-setup in [`EMAIL-DELIVERABILITY.md`](EMAIL-DELIVERABILITY.md).
+**and MX** setup in [`EMAIL-DELIVERABILITY.md`](EMAIL-DELIVERABILITY.md); verify both directions first.
+
+**Multiple addresses + form fallback.** If a jurisdiction lists several plausible contacts, send to all of
+them (one good delivery is enough). Where a web form also exists, try email first; if there is no reply or a
+confirmed bounce after about a week, reopen the inquiry as a web-form submission instead.
+
+**Bounce triage.** A bounce means your inquiry never arrived, so do not re-send to the same address — find a
+valid one or use the form. And do not re-pester a jurisdiction whose question Deep Research has since
+answered; only (re)contact where a genuine agency-only gap remains.
+
+**When a reply comes back.** Verify it, then let the agency answer **outrank Deep Research**: update the
+jurisdiction's status/confidence to match, record it under `agency_confirmations` (name-free), clear
+`needs_verification`, mark the inquiry answered, rebuild, and send a brief thank-you. Watch the mailbox on a
+cadence so replies are not missed.
 
 ## 10. (Optional) Advocacy — where a rule is unfair or mistaken
 

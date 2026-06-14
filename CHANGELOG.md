@@ -11,6 +11,14 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.2.1 (2026-06-14)
+
+- Documentation, from a real outage: `docs/EMAIL-DELIVERABILITY.md` now covers **MX records** (so agency
+  replies reach you, not just SPF/DKIM/DMARC for sending) plus a "verify both directions before you rely"
+  checklist. `docs/RUNBOOK.md` section 9 adds the inquiry retry/reply methodology: try all listed addresses,
+  email first with a web-form fallback after ~a week on no-reply/bounce, bounce triage, and processing
+  replies (an agency answer outranks Deep Research).
+
 ## 1.2.0 (2026-06-14)
 
 - The agency-inquiry mailer (`skill/mail.py`) now keeps a record of everything you send. Each send is saved

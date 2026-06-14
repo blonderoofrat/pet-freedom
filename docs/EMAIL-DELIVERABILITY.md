@@ -35,6 +35,34 @@ exactly what a government mail filter wants before it trusts a stranger's messag
 
 ---
 
+## Also required: MX records (so replies reach YOU)
+
+SPF/DKIM/DMARC get your mail OUT. They do nothing for mail coming back IN. For that your domain needs **MX
+records** pointing at the mail server that hosts your mailbox. A domain can be perfectly set up to SEND and
+still be unable to RECEIVE: with no MX, many senders fail to deliver (some fall back to your A record, but
+strict and government systems often will not), so agency REPLIES bounce silently and you never see them.
+
+- Add MX records in your DNS pointing to your mail host. Your provider lists the exact values (for example a
+  SiteGround mailbox uses `mx10/mx20/mx30.antispam.mailspamprotection.com`).
+- MX records are always DNS-only (no proxying).
+- Do not run two conflicting MX setups (e.g. a forwarding service and a mailbox host at once).
+
+## Verify BEFORE you rely (both directions)
+
+Do not assume; test. A silent inbound failure looks exactly like "the agency just hasn't replied yet."
+
+1. **Outbound:** send from the mailbox to an outside account (e.g. Gmail) and confirm it lands in the inbox,
+   not spam. The headers should read `spf=pass`, `dkim=pass`, `dmarc=pass`.
+2. **Inbound:** reply from that outside account back to your domain mailbox and confirm it ARRIVES. This is
+   the MX test most people skip.
+3. **Tooling:** `python skill/mail.py verify` checks SMTP + IMAP login and Sent-folder handling without
+   sending anything; a public MX lookup (or `nslookup -type=mx yourdomain`) confirms the MX is live.
+
+Only turn the inquiries module loose once both directions are proven. (Learned the hard way: a domain that
+could send but had no MX dropped agency replies for days before anyone noticed.)
+
+---
+
 ## General steps (any host)
 
 1. **Use a real mailbox on your own domain.** Send from `you@example.com`, *not* a free
