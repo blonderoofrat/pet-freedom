@@ -74,6 +74,9 @@ is a lower-depth substitute.
 
 The agent reads the research and writes/updates `data/jurisdictions/<id>.json`, applying:
 
+- **Start from the known-good sources.** See [`SOURCES.md`](SOURCES.md) for where each jurisdiction's
+  authoritative primary law lives (primary-law portals by region) and the **layer checklist** (what to check, in
+  order). Begin verification there, then cite the official primary text.
 - **The assume-a-pathway lens** — choose the *least-restrictive accurate* status. `prohibited` only when
   there is genuinely no lawful pathway; if a permit exists it's `legal_with_permit`.
 - **"Silent" or "not listed" is NOT automatically `unregulated_unclear` or legal — find the default rule

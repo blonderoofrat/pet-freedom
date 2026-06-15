@@ -11,6 +11,15 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.2.3 (2026-06-15)
+
+- New `docs/SOURCES.md`: a species-agnostic directory of WHERE the authoritative primary law lives (primary-law
+  portals by region, the US-federal and EU/CITES supranational layers, and a strong secondary corroborator),
+  plus the "layer checklist" (the predictable order to check a jurisdiction's rules) and the field-learned
+  reliability caveats. RUNBOOK §6 and SKILL.md now point to it as the starting point for verification, so research
+  begins from known-good sources. Listed by role (never personal contacts or private archives); a living file to
+  keep current as sources prove out or move.
+
 ## 1.2.2 (2026-06-15)
 
 - RUNBOOK: the assume-a-pathway lens now warns that an unlisted or unaddressed species does NOT automatically

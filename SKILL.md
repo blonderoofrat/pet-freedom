@@ -92,5 +92,6 @@ This install updates by `git pull`: the user cloned the repo into their project,
 
 Run `python skill/selftest.py` any time to confirm the offline pipeline is intact (it is what gates updates).
 
-See `docs/RUNBOOK.md` for day-to-day operation, `docs/OPSEC.md` for the full public/private contract, and
-`docs/VOICE.md` for which register to write in (factual for legal/advocacy; the owner's own voice for posts).
+See `docs/RUNBOOK.md` for day-to-day operation, `docs/SOURCES.md` for where authoritative primary law lives (by
+region) + the layer checklist to start verification from, `docs/OPSEC.md` for the full public/private contract,
+and `docs/VOICE.md` for which register to write in (factual for legal/advocacy; the owner's own voice for posts).
