@@ -15,8 +15,12 @@
       "ship rat"
     ]
   },
-  "summary": "Alberta is the strictest jurisdiction in Canada — and one of the strictest anywhere. Under the Agricultural Pests Act and the Pest and Nuisance Control Regulation, the ENTIRE genus Rattus is a declared pest, and the law prohibits the import, purchase, sale, transport, and possession of any live rat. There is NO exemption for 'fancy', tame, or captive-bred rats. The only legal route is a special Ministerial permit reserved for accredited research institutions, zoos, or approved labs. A pet roof rat in Alberta may be seized and destroyed, and the keeper fined. Alberta has defended its 'rat-free' status since 1950.",
-  "last_reviewed": "2026-06-06",
+  "summary": "Alberta is the strictest jurisdiction in Canada, and one of the strictest anywhere. Under the Agricultural Pests Act and the Pest and Nuisance Control Regulation, the ENTIRE genus Rattus is a declared pest, and the law prohibits the import, purchase, sale, transport, and possession of any live rat. There is NO exemption for 'fancy', tame, or captive-bred rats. The only legal route is a special Ministerial permit reserved for accredited research institutions, zoos, or approved labs. A pet roof rat in Alberta may be seized and destroyed, and the keeper fined. Alberta has defended its 'rat-free' status since 1950. UPDATE (2026-06-15): Alberta Agriculture and Irrigation confirmed in writing that, although keeping a rat in Alberta is banned, a non-resident MAY transit a securely caged pet rat continuously through the province under a permit (by vehicle or air), provided there is no overnight stay in Alberta; permits are not issued for travel involving an overnight stay.",
+  "last_reviewed": "2026-06-15",
+  "agency_confirmations": [
+    "Alberta Agriculture and Irrigation (Garrett Girletz, Assistant Rat and Pest Specialist) confirmed in writing on 15 June 2026 that a non-resident may transit a securely caged pet rat continuously through Alberta under a permit, by vehicle or air, provided there is no overnight stay in the province. Vehicle travel needs supporting documentation of the travel dates and times; air travel needs a flight itinerary. Permits will not be issued for travel involving an overnight stay in Alberta.",
+    "Keeping, importing to stay, breeding, and selling a pet rat remain prohibited in Alberta (the entire genus Rattus is a declared pest); the transit permit is a narrow pass-through allowance only."
+  ],
   "advocacy": {
     "flag": true,
     "kit": {
@@ -27,28 +31,28 @@
       "time_sensitive": "",
       "targets": [
         {
-          "name": "Legislative Assembly of Alberta — Members of the Legislative Assembly directory (Find Your MLA / Member Contact list)",
+          "name": "Legislative Assembly of Alberta, Members of the Legislative Assembly directory (Find Your MLA / Member Contact list)",
           "type": "legislature",
           "form_url": "https://www.assembly.ab.ca/members/members-of-the-legislative-assembly",
           "why": "The total ban is set in statute (Agricultural Pests Act) and regulation (AR 184/2001). Only the Legislature can amend it, so your own MLA is the correct first touchpoint. This official directory lists all 87 MLAs by name and constituency with individual contact pages and a downloadable contact list, letting you reach the representative who can raise or sponsor a change."
         },
         {
-          "name": "Legislative Assembly of Alberta — Find Your MLA by riding (Elections Alberta MLA search)",
+          "name": "Legislative Assembly of Alberta, Find Your MLA by riding (Elections Alberta MLA search)",
           "type": "legislature",
           "form_url": "https://www.elections.ab.ca/voters/members-of-the-legislative-assembly/",
           "why": "Use this official Elections Alberta tool to identify exactly which MLA represents your address/riding before you write, so your letter reaches your own representative (constituent letters carry the most weight)."
         },
         {
-          "name": "Alberta Agriculture and Irrigation — Rat Control Program inbox (factual clarification ONLY, not policy change)",
+          "name": "Alberta Agriculture and Irrigation, Rat Control Program inbox (factual clarification ONLY, not policy change)",
           "type": "agency",
           "email": "rats@gov.ab.ca",
-          "why": "Included only for a narrow factual question this office can legitimately answer — e.g., whether a non-resident may transit a securely caged pet Rattus through Alberta. Do NOT use this channel to request legalization: the rat-control program is correctly enforcing the statute and cannot amend it. (Phone: 310-FARM in Alberta / 403-742-7901 outside.)"
+          "why": "Included only for a narrow factual question this office can legitimately answer, e.g., whether a non-resident may transit a securely caged pet Rattus through Alberta. Do NOT use this channel to request legalization: the rat-control program is correctly enforcing the statute and cannot amend it. (Phone: 310-FARM in Alberta / 403-742-7901 outside.)"
         }
       ],
       "template": {
         "en": "Subject: Please amend the Agricultural Pests Act to allow domesticated pet rats\n\nDear [MLA name / Member for [constituency]],\n\nI am a constituent writing about Alberta's total ban on keeping pet rats. Under the Agricultural Pests Act and the Pest and Nuisance Control Regulation (AR 184/2001), the entire genus Rattus is a declared pest, so even a tame, captive-bred pet rat kept indoors is illegal.\n\nI fully support Alberta's program against wild, invasive rats. But the current law makes no distinction between a wild rat and a domesticated companion animal that is captive-bred, hand-tame, housed in a secure escape-proof cage, kept entirely indoors, and never released. I am not claiming such a pet poses zero risk. I am asking the Legislature to weigh whether the limited, controllable risk of a securely caged, altered, indoor-only animal that cannot establish a wild population is outweighed by allowing Albertans the kind of companionship that cats and dogs, themselves non-native, are already permitted to provide. That balance is yours to strike, and Alberta's wild-rat eradication program would continue unchanged.\n\nThe fancy rat (Rattus norvegicus) is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred pet rat is the same case as the cats and dogs Alberta already permits.\n\nBecause this is set in statute and regulation, only the Legislature can fix it; the rat-control office is simply applying the law. I respectfully ask you to support amending the Act and Regulation to create a narrow exemption for domesticated pet rats kept under reasonable conditions (secure caging, no outdoor release, single-sex or altered housing), while Alberta's wild-rat eradication continues unchanged.\n\nThank you for considering this. I would welcome your reply.\n\nSincerely,\n[Your name]\n[Your address / constituency]\n[Your email]"
       },
-      "confidence_notes": "Verified via official Government of Alberta sources (June 2026): alberta.ca/rat-control-methods states verbatim \"It is illegal to own pet rats in Alberta\" and that \"the Norway rat and any other rat from the genus Rattus\" are declared pests under the Agricultural Pests Act and Pest and Nuisance Control Regulation — confirming this is a law-as-written prohibition, not an agency misreading. Confirmed the rat-control reporting inbox rats@gov.ab.ca and 310-FARM (310-3276) / 403-742-7901; an alternate reporting address 310RATS@gov.ab.ca also appears in provincial communications. Confirmed the Legislative Assembly's official Members directory (assembly.ab.ca/members/members-of-the-legislative-assembly) lists all 87 MLAs with contact links and a downloadable contact list, and the Elections Alberta MLA-by-riding lookup, as the correct find-your-representative channels. The genus-level pest designation and research/zoo/lab-only permit structure are consistent with prior internal research (ca-ab.json, last reviewed 2026-06-06). Uncertainties: the exact current AR 184/2001 section/form numbering and the $5,000/60-day penalty figures come from prior research and the consolidated regulation rather than re-confirmed line-by-line in this pass; the transit/safe-harbour question for a caged pet rat driven through the province remains an open factual item put to the agency. No live bill, pending list, or open public-comment window was found, so time_sensitive is left empty — no manufactured urgency. This is a research aid, not legal advice; reform here is a high-bar, long-term ask given Alberta's 75-year rat-free policy.",
+      "confidence_notes": "Verified via official Government of Alberta sources (June 2026): alberta.ca/rat-control-methods states verbatim \"It is illegal to own pet rats in Alberta\" and that \"the Norway rat and any other rat from the genus Rattus\" are declared pests under the Agricultural Pests Act and Pest and Nuisance Control Regulation, confirming this is a law-as-written prohibition, not an agency misreading. Confirmed the rat-control reporting inbox rats@gov.ab.ca and 310-FARM (310-3276) / 403-742-7901; an alternate reporting address 310RATS@gov.ab.ca also appears in provincial communications. Confirmed the Legislative Assembly's official Members directory (assembly.ab.ca/members/members-of-the-legislative-assembly) lists all 87 MLAs with contact links and a downloadable contact list, and the Elections Alberta MLA-by-riding lookup, as the correct find-your-representative channels. The genus-level pest designation and research/zoo/lab-only permit structure are consistent with prior internal research (ca-ab.json, last reviewed 2026-06-06). Uncertainties: the exact current AR 184/2001 section/form numbering and the $5,000/60-day penalty figures come from prior research and the consolidated regulation rather than re-confirmed line-by-line in this pass; the transit/safe-harbour question for a caged pet rat driven through the province remains an open factual item put to the agency. No live bill, pending list, or open public-comment window was found, so time_sensitive is left empty, no manufactured urgency. This is a research aid, not legal advice; reform here is a high-bar, long-term ask given Alberta's 75-year rat-free policy.",
       "local_lang": "en"
     }
   },
@@ -56,7 +60,7 @@
     "keep": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "The Agricultural Pests Act declares the whole genus Rattus a pest, and possession of a live rat by a private citizen is unlawful — Alberta enforces a zero-tolerance 'rat-free' policy. There is explicitly no exemption for fancy, tame, or domesticated rats; a single caged pet is treated as an unacceptable escape risk. Wild sightings are reported to the 310-RATS line and eradicated.",
+      "why": "The Agricultural Pests Act declares the whole genus Rattus a pest, and possession of a live rat by a private citizen is unlawful, Alberta enforces a zero-tolerance 'rat-free' policy. There is explicitly no exemption for fancy, tame, or domesticated rats; a single caged pet is treated as an unacceptable escape risk. Wild sightings are reported to the 310-RATS line and eradicated.",
       "governing_law": "Agricultural Pests Act (RSA 2000, c. A-8); Pest and Nuisance Control Regulation (AR 184/2001).",
       "source_ids": [
         "ab-pests-act",
@@ -94,16 +98,16 @@
       "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "prohibited",
+      "status": "legal_with_permit",
       "confidence": "high",
-      "why": "Transporting a live rat into or within Alberta is prohibited except under a highly restricted Ministerial permit (research institutions, zoos, approved labs only). Whether a non-resident may drive a securely caged pet rat continuously THROUGH Alberta without stopping is not clearly addressed in the published rules — we have asked the province to clarify. Treat any presence of a rat in Alberta as prohibited unless you hold a permit.",
-      "governing_law": "Agricultural Pests Act; Pest and Nuisance Control Regulation.",
+      "why": "Importing a rat into Alberta to keep it remains prohibited (the genus Rattus is a declared pest). But Alberta Agriculture and Irrigation confirmed in writing (2026-06-15) that a non-resident may TRANSIT a securely caged pet roof rat continuously through the province under a permit, provided there is no overnight stay in Alberta. For vehicle travel, supporting documentation must confirm the travel dates and times and that no overnight stays will occur in Alberta; for air travel, a flight itinerary confirming no overnight stays. Permits will not be issued for travel involving an overnight stay. Arrange the permit in advance with the Rat Control Program (RATS@gov.ab.ca). Never release a rat.",
+      "governing_law": "Agricultural Pests Act (RSA 2000, c. A-8); Pest and Nuisance Control Regulation (AR 184/2001); Alberta Agriculture transit-permit practice confirmed in writing 2026-06-15.",
       "source_ids": [
         "ab-pests-act",
         "ab-pnc-reg"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
       "verified_by": "gemini-dr"
     }
   },
@@ -116,9 +120,9 @@
         "breed",
         "transport"
       ],
-      "summary": "The only lawful way to possess, breed, or transport a rat in Alberta is a special permit issued by the Minister of Agriculture, available only to accredited research institutions, major zoos, or government-approved laboratories — not to private pet keepers.",
+      "summary": "The only lawful way to possess, breed, or transport a rat in Alberta is a special permit issued by the Minister of Agriculture, available only to accredited research institutions, major zoos, or government-approved laboratories, not to private pet keepers.",
       "steps": [
-        "Pet keeping is not permitted — there is no pet-owner permit"
+        "Pet keeping is not permitted, there is no pet-owner permit"
       ],
       "forms": [],
       "where_to_file": "Alberta Agriculture and Irrigation (Ministerial permit)",
@@ -152,24 +156,43 @@
         "sell_give",
         "transport"
       ],
-      "summary": "Alberta's only legal route to hold any Rattus is a Ministerial Form-6 permit (AR 184/2001 s.11) limited to research facilities, zoos, and inspectors — no private/hobby pathway. Even the fancy rat (R. norvegicus) is prohibited for private keeping.",
+      "summary": "Alberta's only legal route to hold any Rattus is a Ministerial Form-6 permit (AR 184/2001 s.11) limited to research facilities, zoos, and inspectors, no private/hobby pathway. Even the fancy rat (R. norvegicus) is prohibited for private keeping.",
       "steps": [],
       "forms": [
         {
-          "name": "AR 184/2001 Form 6 — Ministerial permit to keep rats (research/zoo/inspector only)",
+          "name": "AR 184/2001 Form 6, Ministerial permit to keep rats (research/zoo/inspector only)",
           "url": "https://kings-printer.alberta.ca/documents/regs/2001_184.pdf"
         }
       ],
-      "where_to_file": "Alberta Agriculture and Irrigation — Inspection and Investigation Section",
+      "where_to_file": "Alberta Agriculture and Irrigation, Inspection and Investigation Section",
       "fees": "",
       "source_ids": []
+    },
+    {
+      "type": "permit",
+      "applies_to": "person",
+      "activity": [
+        "transport"
+      ],
+      "summary": "Transit-only permit: a non-resident may drive or fly a securely caged pet rat continuously through Alberta if there is no overnight stay. Vehicle travel requires documentation of the travel dates and times; air travel requires a flight itinerary; both must confirm no overnight stay in Alberta. No permit is issued for an overnight stay. This permits pass-through only, not keeping, importing to stay, breeding, or selling.",
+      "steps": [
+        "Contact the Rat Control Program (RATS@gov.ab.ca; 310-FARM in Alberta / 403-742-7901 outside) before travel to arrange the transit permit",
+        "Provide supporting documentation: for a vehicle, the travel dates and times confirming no overnight stay; for a flight, the itinerary confirming no overnight stay",
+        "Keep the rat securely caged and never release it; do not stay overnight in Alberta"
+      ],
+      "forms": [],
+      "where_to_file": "Alberta Agriculture and Irrigation - Rat Control Program (RATS@gov.ab.ca)",
+      "fees": "",
+      "source_ids": [
+        "ab-rat-control"
+      ]
     }
   ],
   "inquiry_focus": "Specifically: under the Agricultural Pests Act and the Pest and Nuisance Control Regulation, the entire genus Rattus is a declared pest. Is there any transit provision, temporary permit, or safe-harbour rule that would let a resident of another province transport a securely caged pet Rattus rattus continuously THROUGH Alberta by personal vehicle without stopping, or is such transit strictly prohibited?",
   "sources": [
     {
       "id": "ab-pests-act",
-      "title": "Agricultural Pests Act (RSA 2000, c. A-8) — declares the genus Rattus a pest",
+      "title": "Agricultural Pests Act (RSA 2000, c. A-8), declares the genus Rattus a pest",
       "url": "https://open.alberta.ca/publications/a08",
       "authority": "Government of Alberta",
       "accessed": "2026-06-06"
@@ -191,7 +214,7 @@
   ],
   "contacts": [
     {
-      "agency": "Alberta Agriculture and Irrigation — Rat Control Program",
+      "agency": "Alberta Agriculture and Irrigation, Rat Control Program",
       "role": "agriculture",
       "email": "rats@gov.ab.ca",
       "form_url": "",
