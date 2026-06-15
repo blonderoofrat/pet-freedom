@@ -12,11 +12,15 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "nuisance wild animal",
+      "domestic animal",
+      "nondomestic animal",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "Keeping, breeding, and selling a roof rat is legal in Ohio. The Dangerous Wild Animals Act (ORC ch. 935, post-Zanesville) lists big cats, bears, primates, large constrictors and the like — no rodents. The roof rat is not native wildlife regulated by ODNR (it's actually named a nuisance pest), no Ohio prohibited/exotic list captures the genus Rattus, and Ohio's commercial breeder/dealer licensing (ORC ch. 956) is dogs-only. The one nuance is interstate IMPORT: Ohio's general animal-import rule likely requires a Certificate of Veterinary Inspection for an incoming pet rat (rodents aren't named in either the domestic or non-domestic import rule), so confirm with the State Veterinarian.",
-  "last_reviewed": "2026-06-06",
+  "summary": "Ohio is a clear 'yes' for keeping, breeding, and selling or giving away a captive-bred roof rat. The Dangerous Wild Animal Act (ORC Chapter 935, passed after the 2011 Zanesville release) bans private possession of an exhaustively enumerated list of species (hyenas, gray wolves, big cats, bears, elephants, rhinos, hippos, certain primates, large reptiles and the like), and no rodent and no member of the genus Rattus appears on it, so a roof rat needs no dangerous-wild-animal registration, permit, or insurance. The Department of Natural Resources (ODNR) does not regulate the roof rat as conserved wildlife either: it is not a 'game quadruped' or 'fur-bearing animal' under ORC 1531.01 (so no propagation license under ORC 1533.71), it is absent from the prohibited/injurious-species list in OAC 1501:31-19-01, and it is in fact named a 'nuisance wild animal' targeted for control in OAC 1501:31-15-03. Ohio's commercial breeder and pet-store licensing (ORC Chapter 956) is limited to dogs, so no state dealer or breeder license attaches to selling or giving away pet rats. General humane law (ORC Chapter 959) still applies. The one genuine open point is interstate IMPORT: the Department of Agriculture's import rules (OAC 901:1-17) turn on whether the State Veterinarian classifies a captive-bred roof rat as a 'domestic animal' (OAC 901:1-17-02(K): a Certificate of Veterinary Inspection only) or a 'nondomestic animal' (OAC 901:1-17-12: a prior import permit, a CVI, and official individual identification). Because OAC 901:1-17-02 uses a genetic/phenotypic test rather than a species list, and the roof rat is less morphologically altered than the fancy rat, that classification is unresolved and should be confirmed with the State Veterinarian before moving one across state lines. In-state transport of a lawfully held rat is unregulated. Never release a roof rat.",
+  "last_reviewed": "2026-06-15",
   "advocacy": {
     "flag": false
   },
@@ -24,70 +28,89 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "R. rattus is not a 'dangerous wild animal' under ORC 935.01 (20 enumerated categories; no rodents), not native wildlife regulated by ODNR (it is named a nuisance pest in OAC 1501:31-15-03), and on no Ohio prohibited/exotic-species list (OAC 1501:31-19-01). No statute restricts private possession.",
-      "governing_law": "ORC 935.01; ORC 1531.01 / OAC 1501:31-19-01; OAC 1501:31-15-03.",
+      "why": "Private possession of a captive-bred roof rat is legal. ORC 935.01(C) defines 'dangerous wild animal' as an exhaustive enumerated list (hyenas, gray wolves, lions, tigers, jaguars, leopards, cheetahs, lynxes, cougars, bears, elephants, rhinoceroses, hippopotamuses, African wild dogs, Komodo dragons, alligators, crocodiles, certain other reptiles, and most nonhuman primates); no rodent and no member of the genus Rattus appears, so ORC 935.02's ban does not reach it and no registration, permit, or liability insurance is required. Ohio uses a black-list rather than a white-list approach to pets, so a species that is neither restricted nor prohibited is legal to keep. The roof rat is also absent from ODNR's prohibited/injurious-species list (OAC 1501:31-19-01) and is instead named a 'nuisance wild animal' in OAC 1501:31-15-03. General animal-cruelty law (ORC Chapter 959) applies.",
+      "governing_law": "ORC 935.01 (enumerated dangerous-wild-animal list, no rodents) and ORC 935.02 (possession ban); OAC 1501:31-19-01 (prohibited/injurious species, R. rattus absent); OAC 1501:31-15-03 (names roof rat a nuisance wild animal); ORC Chapter 959 (cruelty).",
       "source_ids": [
         "oh-935-01",
+        "oh-935-02",
         "oh-1501-31-19-01",
         "oh-1501-31-15-03"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "No Ohio statute restricts breeding rodents; commercial breeder/retailer licensing (ORC ch. 956) is limited to dogs. R. rattus is outside ch. 935 and ODNR's regulated-wildlife scope, so breeding is unregulated (local zoning/nuisance aside).",
-      "governing_law": "ORC ch. 956 (dogs only); ORC 935.01.",
+      "why": "Breeding captive roof rats is unregulated at the state level. ODNR propagation licenses under ORC 1533.71 apply only to 'game birds, game quadrupeds, reptiles, amphibians, or fur-bearing animals,' and ORC 1531.01 defines 'game quadrupeds' (cottontail rabbits, squirrels, chipmunks, groundhogs, white-tailed deer, elk, black bears) and 'fur-bearing animals' (minks, weasels, raccoons, skunks, opossums, muskrats, fox, beavers, badgers, otters, coyotes, bobcats) with no member of the genus Rattus in either list, so no propagation license, fee, or annual report attaches. The Department of Agriculture's commercial-breeder framework (ORC Chapter 956) regulates only dogs (it created the Commercial Dog Breeding program to address high-volume dog breeders); Ohio has no parallel small-mammal, exotic, or rodent breeder license, litter threshold, or female-animal limit. Federal USDA Animal Welfare Act licensing can reach a large-scale dealer who sells wholesale or sight-unseen, but direct-to-consumer and de minimis hobby sales are exempt, and rats of the genus Rattus bred for research are excluded from the AWA entirely.",
+      "governing_law": "ORC 1533.71 (propagation license; game/fur-bearing only) and ORC 1531.01 (those definitions exclude Rattus); ORC Chapter 956 (commercial breeder/pet-store licensing limited to dogs); federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers.",
       "source_ids": [
+        "oh-1533-71",
+        "oh-1531-01",
         "oh-956",
-        "oh-935-01"
+        "oh-usda-awa"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "Ohio's animal sales/dealer licensing (ORC ch. 956) covers only dogs and dog pet-stores; no state license attaches to selling or giving away pet rats, and R. rattus is on no restricted/dangerous list. General humane law (ORC ch. 959) applies to all animals.",
-      "governing_law": "ORC ch. 956 (dogs only); ORC 935.01 / OAC 1501:31-19-01.",
+      "why": "Selling or giving away a captive-bred roof rat needs no state dealer or breeder license. ORC 956.21 provides that 'No owner, operator, or manager of a pet store shall negligently display, offer for sale, deliver, barter, auction, broker, give away, transfer, or sell any live dog from a pet store in this state unless a license has been issued for the pet store by the director of agriculture,' and the licensing scheme is confined to dogs: ORC Chapter 956 defines a regulated 'pet store' as a retail store that sells dogs to the public. A breeder or store that deals only roof rats (and no dogs) is not a regulated pet store and is exempt from the ORC Chapter 956 license, fees, and record-keeping. ODNR trade restrictions (OAC 1501:31-19-01) name invasive aquatic species, raccoon dogs, and triploid white amur, not the roof rat, so the species moves freely in commerce. General humane law (ORC Chapter 959) applies to the transaction.",
+      "governing_law": "ORC 956.21 ('any live dog from a pet store') and ORC Chapter 956 ('pet store' = store that sells dogs); OAC 1501:31-19-01 (ODNR trade restrictions, R. rattus absent); ORC Chapter 959 (cruelty).",
       "source_ids": [
+        "oh-956-21",
         "oh-956",
         "oh-1501-31-19-01"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "legal",
+      "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "In-state transport is unregulated. For IMPORT, ODA's general rule (OAC 901:1-17-01) requires a CVI for 'domestic animals' entering Ohio; a captive-bred pet rat plausibly reads as 'domestic,' but rodents aren't named in either the domestic or non-domestic (901:1-17-12) import rule, so confirm the exact paperwork with the State Veterinarian.",
-      "governing_law": "OAC 901:1-17-01 & 901:1-17-02 (import CVI / definitions).",
+      "why": "In-state transport of a lawfully held roof rat is unregulated. Interstate IMPORT is the open point. OAC 901:1-17-01 provides that 'No person shall move or import any animal into the state of Ohio unless that animal meets the rules of this chapter and all applicable federal laws or is otherwise exempt,' and the paperwork then depends on a classification the rules do not resolve for rodents. If the State Veterinarian treats a captive-bred roof rat as a 'domestic animal' (OAC 901:1-17-02(K): 'animals that through long association with humans have been bred to a degree resulting in genetic changes affecting the temperament, color, conformation, or other attributes of the species'), only a Certificate of Veterinary Inspection issued within 30 days before entry is needed. If it is treated as a 'nondomestic animal' (OAC 901:1-17-02(R)), OAC 901:1-17-12(A) requires that the animal be 'accompanied by a permit issued prior to entry and a certificate of veterinary inspection issued within thirty days prior to entry and is identified with official individual identification' and be free of contagious disease. Because OAC 901:1-17-02 uses a genetic/phenotypic test rather than a species list, and the roof rat is less morphologically altered than the fancy rat, the classification is genuinely unresolved. Marked unregulated/unclear (rather than legal_with_permit) because the controlling fact, which rule applies, is unconfirmed; the realistic outcome is legal with a CVI, possibly an import permit. International movement is governed by federal CDC/USDA/USFWS rules.",
+      "governing_law": "OAC 901:1-17-01 (general import rule); OAC 901:1-17-02 (domestic at (K) / nondomestic at (R) definitions, genetic/phenotypic test); OAC 901:1-17-12 (nondomestic import: prior permit + CVI + official individual identification); federal CDC/USDA/USFWS for international.",
       "source_ids": [
-        "oh-901-1-17-01"
+        "oh-901-1-17-01",
+        "oh-901-1-17-02",
+        "oh-901-1-17-12",
+        "oh-usda-rodent-import"
       ],
-      "verified_date": "2026-06-06",
+      "verified_date": "2026-06-15",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "inspection",
+      "type": "health_cert",
       "applies_to": "rat",
       "activity": [
         "transport"
       ],
-      "summary": "Importing a pet rat into Ohio likely needs a Certificate of Veterinary Inspection (OAC 901:1-17-01); rodents aren't named, so confirm with the ODA State Veterinarian. No CVI for in-state movement.",
-      "steps": [],
-      "forms": [],
-      "where_to_file": "Ohio Dept of Agriculture, Division of Animal Health",
-      "fees": "",
+      "summary": "Importing a roof rat into Ohio requires animal-health paperwork; the exact set depends on the domestic-vs-nondomestic classification (OAC 901:1-17-02). At minimum a Certificate of Veterinary Inspection (CVI) issued within 30 days before entry; if the State Veterinarian treats the roof rat as 'nondomestic' (OAC 901:1-17-12), a prior import permit and official individual identification are also required. No CVI applies to in-state movement.",
+      "steps": [
+        "Before moving a roof rat into Ohio, ask the Department of Agriculture, Division of Animal Health, whether a captive-bred R. rattus is classified 'domestic' or 'nondomestic' under OAC 901:1-17-02.",
+        "Obtain a CVI from a USDA-accredited veterinarian in the state of origin within 30 days before entry (a copy is forwarded to the Chief of the Division of Animal Health within 7 days of issuance).",
+        "If the animal is treated as 'nondomestic,' first obtain an import permit from the Division of Animal Health and arrange official individual identification (ask whether a small-rodent exemption or alternative ID applies).",
+        "No CVI or permit is needed for transporting a lawfully held rat within Ohio."
+      ],
+      "forms": [
+        {
+          "name": "Certificate of Veterinary Inspection (CVI) / animal movement requirements",
+          "url": "https://agri.ohio.gov/divisions/animal-health"
+        }
+      ],
+      "where_to_file": "Ohio Department of Agriculture, Division of Animal Health (Office of the State Veterinarian), Reynoldsburg.",
+      "fees": "No state fee stated for the CVI; the issuing veterinarian charges an examination/paperwork fee. Import-permit fee (if applicable) per the Division of Animal Health.",
       "source_ids": [
-        "oh-901-1-17-01"
+        "oh-901-1-17-01",
+        "oh-901-1-17-02",
+        "oh-901-1-17-12"
       ]
     },
     {
@@ -96,7 +119,26 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — it's a non-native species (and a declared nuisance in Ohio). Rehome responsibly.",
+      "summary": "A wild-caught roof rat cannot be kept as a pet. OAC 1501:31-15-03 classifies R. rattus as a 'nuisance wild animal' and makes it unlawful for a non-licensed person to hold a trapped or taken nuisance wild animal longer than 24 hours from capture (a licensed commercial operator may hold it 4 days). A trapped rat may be released or euthanized, but it may not be released within an incorporated city or village and may be released on private land only with the landowner's prior permission. Acquire only from captive-bred sources.",
+      "steps": [
+        "Keep only captive-bred roof rats; do not attempt to keep a feral, wild-caught R. rattus as a pet.",
+        "If you trap a wild rat, do not hold it past 24 hours; release (outside any city/village, with landowner permission) or euthanize."
+      ],
+      "forms": [],
+      "where_to_file": "ODNR Division of Wildlife.",
+      "fees": "",
+      "source_ids": [
+        "oh-1501-31-15-03"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Never release a roof rat into the wild. R. rattus is a non-native species and is named a nuisance wild animal in Ohio (OAC 1501:31-15-03). Rehome responsibly. State law does not preempt local zoning; many municipalities cap the number of animals on a residential property or restrict non-traditional pets, so check your city/county ordinances, especially for breeding.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -109,38 +151,114 @@
   "sources": [
     {
       "id": "oh-935-01",
-      "title": "ORC §935.01 — Dangerous Wild Animal definition (no rodents)",
+      "title": "ORC 935.01 - Dangerous wild animal definitions (exhaustive enumerated list of species; no rodent and no genus Rattus)",
       "url": "https://codes.ohio.gov/ohio-revised-code/section-935.01",
       "authority": "Ohio General Assembly",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-15"
     },
     {
-      "id": "oh-1501-31-19-01",
-      "title": "OAC 1501:31-19-01 — Wild animal importing/possession (Rattus not listed)",
-      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-19-01",
-      "authority": "ODNR Division of Wildlife",
-      "accessed": "2026-06-06"
+      "id": "oh-935-02",
+      "title": "ORC 935.02 - Prohibition on possessing a dangerous wild animal (ban does not reach rodents)",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-935.02",
+      "authority": "Ohio General Assembly",
+      "accessed": "2026-06-15"
     },
     {
-      "id": "oh-1501-31-15-03",
-      "title": "OAC 1501:31-15-03 — Nuisance wild animal control (names 'roof rat (Rattus rattus)')",
-      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-03",
-      "authority": "ODNR Division of Wildlife",
-      "accessed": "2026-06-06"
+      "id": "oh-1531-01",
+      "title": "ORC 1531.01 - Division of Wildlife definitions ('game quadrupeds' and 'fur-bearing animals' lists; neither includes the genus Rattus)",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1531.01",
+      "authority": "Ohio General Assembly",
+      "accessed": "2026-06-15"
     },
     {
-      "id": "oh-901-1-17-01",
-      "title": "OAC 901:1-17-01 — General import requirements (CVI)",
-      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-901:1-17-01",
-      "authority": "Ohio Dept of Agriculture, Division of Animal Health",
-      "accessed": "2026-06-06"
+      "id": "oh-1533-71",
+      "title": "ORC 1533.71 - License to raise or keep game birds and animals (propagation license for game birds, game quadrupeds, reptiles, amphibians, fur-bearing animals; rodents excluded)",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-1533.71",
+      "authority": "Ohio General Assembly",
+      "accessed": "2026-06-15"
     },
     {
       "id": "oh-956",
-      "title": "ORC ch. 956 — Dog Breeding Kennels; Dog Retailers (dogs-only licensing)",
-      "url": "https://codes.ohio.gov/orc/956",
+      "title": "ORC Chapter 956 - Dog Breeding Kennels; Dog Retailers (commercial breeder/pet-store licensing limited to dogs; 'pet store' = store that sells dogs)",
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-956",
       "authority": "Ohio General Assembly",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-956-21",
+      "title": "ORC 956.21 - Pet store license ('any live dog from a pet store in this state unless a license has been issued'; dogs only)",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-956.21",
+      "authority": "Ohio General Assembly",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-1501-31-19-01",
+      "title": "OAC 1501:31-19-01 - Wild animal importing, exporting, selling and possession regulations (prohibited/injurious species; R. rattus absent)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-19-01",
+      "authority": "ODNR Division of Wildlife",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-1501-31-15-03",
+      "title": "OAC 1501:31-15-03 - Nuisance wild animal control (names 'roof rat (Rattus rattus)'; 24-hour possession limit on trapped nuisance animals; trap-marking exemption; release/euthanize rule)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-1501:31-15-03",
+      "authority": "ODNR Division of Wildlife",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-901-1-17-01",
+      "title": "OAC 901:1-17-01 - General requirements ('No person shall move or import any animal into the state of Ohio unless that animal meets the rules of this chapter...'; CVI in possession during movement, copy to the Chief within 7 days, expires 30 days after issuance)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-901:1-17-01",
+      "authority": "Ohio Department of Agriculture, Division of Animal Health",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-901-1-17-02",
+      "title": "OAC 901:1-17-02 - Definitions (paragraph (K) 'domestic animal' uses a genetic/phenotypic test: 'bred to a degree resulting in genetic changes affecting the temperament, color, conformation, or other attributes'; paragraph (R) 'nondomestic animal' = 'any animal that is not domestic'; rats not named)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-901:1-17-02",
+      "authority": "Ohio Department of Agriculture, Division of Animal Health",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-901-1-17-12",
+      "title": "OAC 901:1-17-12 - Non-domestic animals (import: 'accompanied by a permit issued prior to entry and a certificate of veterinary inspection issued within thirty days prior to entry and is identified with official individual identification', disease-free)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-901:1-17-12",
+      "authority": "Ohio Department of Agriculture, Division of Animal Health",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-usda-awa",
+      "title": "USDA APHIS, Animal Welfare Act licensing (Class A breeder license applies to wholesale/sight-unseen dealers; direct-to-consumer and de minimis hobby sales exempt; research rats of genus Rattus excluded from the AWA)",
+      "url": "https://www.aphis.usda.gov/aphis/ourfocus/animalwelfare/sa_awa/awa-licensing-registration",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "oh-usda-rodent-import",
+      "title": "USDA APHIS / CDC, Bring a Pet Rodent into the United States (federal international-import layer; CDC bars rodents of African origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-15"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Ohio Department of Agriculture, Division of Animal Health (Office of the State Veterinarian)",
+      "role": "agriculture",
+      "email": "animal@agri.ohio.gov",
+      "form_url": "https://agri.ohio.gov/divisions/animal-health",
+      "phone": "(614) 728-6220",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Ohio Department of Natural Resources (ODNR), Division of Wildlife",
+      "role": "wildlife",
+      "email": "wildinfo@dnr.ohio.gov",
+      "form_url": "https://wildlife.ohiodnr.gov/about-us/contact-us",
+      "phone": "1-800-945-3543",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }

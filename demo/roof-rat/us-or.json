@@ -12,11 +12,16 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "house rat",
+      "fruit rat",
+      "pocket pet",
+      "exempt domestic animal",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "Oregon is strict on exotic wildlife generally, but it explicitly carves the roof rat out: OAR 635-056-0020 names 'Rat — Rattus norvegicus and R. rattus' as a DOMESTIC animal exempt from the entire nonnative-wildlife scheme, and ORS 609.305's 'exotic animal' permit definition excludes rodents. So no ODFW or exotic-animal permit is needed to keep, breed, or transfer a captive-bred roof rat. The only requirement is a Certificate of Veterinary Inspection when importing one (a 'pocket pet') from out of state. Never release one.",
-  "last_reviewed": "2026-06-06",
+  "summary": "Oregon runs a closed-list nonnative-wildlife scheme (OAR Division 56: Prohibited, Controlled, Noncontrolled), but the roof rat is not caught by it. OAR 635-056-0020 ('Animals Exempt from These Rules') names 'Rat - Rattus norvegicus and R. rattus' in subsection (18) as a domestic animal that is not 'wild,' which removes R. rattus from the entire ODFW import/possession/transport/sale scheme. There is no species trap here: the roof rat is named by binomial on the exact same exempt line as the common fancy rat (R. norvegicus), so the two are treated identically. The other state agency, the Oregon Department of Agriculture (ODA), confirms this by exclusion: its 'exotic animal' permit statute (ORS 609.305) covers only non-native cats, primates, non-wolf canids, bears, and crocodilians, and names no rodents. So keeping and breeding a captive-bred roof rat need no permit. Free rehoming and small private sales are unregulated; only a commercial pet shop, dealer, or animal rescue entity triggers ODA's Division 15 facility, recordkeeping, and licensing rules (OAR 603-015), and those attach to the business, not to the species. The one movement condition is a health document: importing a rat ('pocket pet') from out of state requires a Certificate of Veterinary Inspection within 30 days of entry (no separate import permit for rodents). Intrastate movement is unregulated. Never release a roof rat (ORS 498.052 bars releasing domestically raised or imported wildlife without a permit). A few city ordinances are stricter than the state (Gladstone's animal code lists only an 'albino strain' lab rat among permitted pet rodents), so check local code.",
+  "last_reviewed": "2026-06-15",
   "advocacy": {
     "flag": false
   },
@@ -24,92 +29,250 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "OAR 635-056-0020 ('Animals Exempt from These Rules') names 'Rat — Rattus norvegicus and R. rattus' as a domestic animal, removing R. rattus from ODFW's prohibited/controlled/noncontrolled nonnative-wildlife scheme entirely; ORS 609.305 also excludes rodents from the exotic-animal permit. No permit to keep one.",
-      "governing_law": "OAR 635-056-0020 (ODFW); ORS 609.305 (exotic animal — excludes rodents).",
+      "why": "OAR 635-056-0020 ('Animals Exempt from These Rules') states in subsection (18) 'Rat - Rattus norvegicus and R. rattus.' and provides that the listed species are exempt from the Division 56 nonnative-wildlife rules because they are not 'wild.' That removes R. rattus from ODFW's Prohibited (635-056-0050), Controlled (635-056-0070), and Noncontrolled (635-056-0060) classification scheme entirely, so no ODFW holding or importation permit is needed. Separately, ORS 609.305 defines 'exotic animal' (the only animals needing an ODA captive-exotic permit) as non-native felines, nonhuman primates, non-wolf canids, bears, and crocodilians; rodents are not in that list, so no ODA exotic-animal permit applies either. No registration, testing, fee, or facility inspection attaches to keeping one. General animal-welfare law still applies: a roof rat is a 'domestic animal' under ORS 167.310, so the cruelty/neglect/abandonment statutes (e.g. ORS 167.340) govern minimum care.",
+      "governing_law": "OAR 635-056-0020(18) (domestic-exempt list, 'Rattus norvegicus and R. rattus'); ORS 496.004 (wildlife definition); ORS 609.305 ('exotic animal' defined - excludes rodents); ORS 167.310 / 167.340 (animal welfare).",
       "source_ids": [
         "or-635-056-0020",
-        "or-609-305"
+        "or-635-056-div56",
+        "or-609-305",
+        "or-167-340"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "As a domestic-exempt animal, breeding needs no ODFW permit, and rodents are outside the ORS 609 exotic-animal scheme. Commercial pet-shop operations meet ODA sanitation/recordkeeping standards (OAR 603-015) but face no species prohibition.",
-      "governing_law": "OAR 635-056-0020; ORS 609.305; OAR 603-015 (commercial pet shops).",
+      "why": "Breeding a roof rat is unregulated at the state level. Because possession is domestic-exempt under OAR 635-056-0020(18), breeding needs no ODFW propagation or wildlife permit, and rodents are outside the ORS 609.305 exotic-animal scheme, so no ODA exotic-animal permit applies. Oregon imposes no rodent-breeder license, litter quota, or facility standard on a private hobbyist. A breeder only crosses into regulation by operating commercially: under ODA Division 15 (OAR 603-015), a 'Commercial Kennel' (an establishment for breeding, buying, selling, or bartering pet animals for profit or compensation) or a 'Pet Shop'/'Animal Dealer' must meet facility, husbandry, and recordkeeping standards. Those rules reach 'pet animals' broadly (including rats) but attach to the for-profit operation, not to the species, and there is no species prohibition. Federal USDA/AWA licensing can reach a large wholesale/sight-unseen dealer, but direct-to-consumer pet sales and de minimis hobby breeders are federally exempt, and rats bred for research are excluded from the AWA entirely.",
+      "governing_law": "OAR 635-056-0020(18) (domestic-exempt); ORS 609.305 (no exotic permit for rodents); OAR 603-015-0025 et seq. (ODA Division 15 - commercial pet shops / kennels, if for profit); federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers.",
       "source_ids": [
-        "or-635-056-0020"
+        "or-635-056-0020",
+        "or-609-305",
+        "or-603-015-div15",
+        "or-usda-awa"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "A domestic-exempt animal isn't subject to ODFW sale restrictions; ORS 609.305 excludes rodents. Commercial pet shops keep sale records (OAR 603-015-0060); free rehoming and small sales need no permit.",
-      "governing_law": "OAR 635-056-0020; OAR 603-015 (if commercial).",
-      "source_ids": [
-        "or-635-056-0020"
-      ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
-    },
-    "transport": {
-      "status": "legal",
-      "confidence": "medium",
-      "why": "Intrastate transport is unregulated (domestic-exempt). Importing a roof rat from out of state requires a Certificate of Veterinary Inspection within 30 days (ODA 'pocket pets' import rule). Never release a roof rat (ORS 498.052 bars releasing domestically raised/imported animals).",
-      "governing_law": "OAR 635-056-0020 (intrastate exempt); ODA pocket-pet import (OAR 603-011); ORS 498.052 (no-release).",
+      "why": "There is no statewide license or health certificate to sell or give away a roof rat within Oregon. A roof rat is domestic-exempt under OAR 635-056-0020(18), so ODFW sale restrictions do not apply, and ORS 609.305 excludes rodents from the exotic-animal scheme. A private individual selling or rehoming a pet rat faces no state permit or reporting requirement (Oregon, unlike Kentucky, has no in-state 'offered for sale' CVI rule). The only layer is commercial: a 'Commercial Kennel,' 'Pet Shop,' or 'Animal Dealer' under ODA Division 15 must keep a record of each sale or transfer for at least 12 months (OAR 603-015-0060), recording date, age, breed, sex, the purchaser's name and address, the source, and the original breeder, and an 'Animal Rescue Entity' that keeps 10 or more animals and solicits donations must be licensed by the ODA State Veterinarian (OAR 603-015-0075 et seq.). Those obligations attach to the business; free rehoming and casual private sales are unregulated. General cruelty law (ORS 167.310 et seq.) applies.",
+      "governing_law": "OAR 635-056-0020(18) (domestic-exempt); ORS 609.305 (no exotic permit for rodents); OAR 603-015-0060 (commercial sale records, 12 months); OAR 603-015-0075 et seq. (Animal Rescue Entity licensing, 10+ animals + donations); ORS 167.310 (cruelty).",
       "source_ids": [
         "or-635-056-0020",
-        "or-oda-import"
+        "or-603-015-0060",
+        "or-oda-are",
+        "or-603-015-div15"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Intrastate movement of a roof rat is unregulated: as a domestic-exempt animal (OAR 635-056-0020(18)) it needs no ODFW transport permit, wildlife declaration, or transit corridor to move within Oregon. The attached condition is on IMPORT and is a health document, not a wildlife permit. Oregon's import rules (administered by the ODA Animal Health Program) classify rats and mice as 'pocket pets,' and the ODA import guidance provides that 'A CVI issued by an accredited veterinarian, is required for all rabbits and pocket pets. The CVI must be an official CVI with a unique serial number and be issued within 30 days prior to the animal(s) entering Oregon.' No advance import permit is generated for pocket pets; the CVI alone satisfies entry, and Oregon imposes no quarantine on imported pet rodents. Export is governed by the destination's rules; international movement is governed by federal CDC/USDA/USFWS rules. Never release a roof rat into the wild: ORS 498.052 provides that 'No person shall release within this state any domestically raised wildlife or wildlife brought to this state from any place outside this state unless the person first obtains a permit,' and a released captive rat would also be animal abandonment under ORS 167.340.",
+      "governing_law": "OAR 635-056-0020(18) (intrastate exempt from ODFW); ODA import requirements (pocket-pet CVI within 30 days; OAR 603-011-1100); ORS 498.052 (no release without permit); ORS 167.340 (abandonment); federal CDC/USDA/USFWS for international.",
+      "source_ids": [
+        "or-635-056-0020",
+        "or-oda-import",
+        "or-498-052",
+        "or-167-340"
+      ],
+      "verified_date": "2026-06-15",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "inspection",
+      "type": "health_cert",
       "applies_to": "rat",
       "activity": [
         "transport"
       ],
-      "summary": "Importing a pet rat into Oregon requires a Certificate of Veterinary Inspection (within 30 days; 'pocket pet' rule). No CVI for in-state movement. Never release one.",
-      "steps": [],
-      "forms": [],
-      "where_to_file": "Oregon Dept of Agriculture, Animal Health",
-      "fees": "",
+      "summary": "A Certificate of Veterinary Inspection (CVI) is required to import a roof rat ('pocket pet') into Oregon. Per the ODA import guidance, the CVI must be an official certificate with a unique serial number, issued by a USDA-accredited veterinarian within 30 days before the animal enters Oregon. No separate import permit is required for rodents, and there is no quarantine. No CVI is needed for in-state movement, and free in-state transfer is not a CVI trigger.",
+      "steps": [
+        "Have a USDA-accredited veterinarian in the state of origin examine the rat and issue an official CVI (unique serial number; records species, sex, age, and consignor/consignee details).",
+        "Obtain the CVI within 30 days before the rat crosses into Oregon.",
+        "No advance import permit number is needed for pocket pets; the CVI alone satisfies entry.",
+        "Keep the CVI with the animal during the move; there is no mandatory quarantine on arrival."
+      ],
+      "forms": [
+        {
+          "name": "Oregon Import Requirements - Rabbits and Other Pocket Pets (CVI for rats/mice)",
+          "url": "https://www.oregon.gov/oda/animal-health-feeds-livestock-id/traveling-with-animals/pages/import-requirements.aspx"
+        },
+        {
+          "name": "Oregon Import Requirement lookup tool (ODA)",
+          "url": "https://data.oda.state.or.us/fmi/webd/ImportRequirements"
+        }
+      ],
+      "where_to_file": "Issued by a USDA-accredited veterinarian in the origin state; Oregon Dept of Agriculture, Animal Health Program administers the requirement.",
+      "fees": "No state fee for the CVI; the issuing veterinarian charges an examination/paperwork fee.",
       "source_ids": [
         "or-oda-import"
+      ]
+    },
+    {
+      "type": "facility",
+      "applies_to": "person",
+      "activity": [
+        "breed",
+        "sell_give"
+      ],
+      "summary": "Commercial operations only: if rats are bred, bought, sold, or bartered for profit or compensation, ODA Division 15 (OAR 603-015) classifies the operation as a Commercial Kennel, Pet Shop, or Animal Dealer and imposes facility, husbandry, and recordkeeping standards. Sale/transfer records must be kept at least 12 months (OAR 603-015-0060: date, age, breed, sex, purchaser name/address, source, original breeder). An Animal Rescue Entity that keeps 10 or more animals and solicits donations must be licensed by the ODA State Veterinarian (OAR 603-015-0075 et seq.). None of this applies to a hobbyist or to free private rehoming.",
+      "steps": [
+        "Determine whether the activity is 'for profit or compensation' (Commercial Kennel / Pet Shop / Animal Dealer) - if not, Division 15's commercial standards do not apply.",
+        "If commercial: meet the indoor-facility (OAR 603-015-0040) and health/husbandry (OAR 603-015-0050) standards and keep each sale/transfer record for 12 months (OAR 603-015-0060).",
+        "If sheltering/rescuing 10 or more animals and taking donations: apply for an ODA Animal Rescue Entity license (OAR 603-015-0075 et seq.)."
+      ],
+      "forms": [
+        {
+          "name": "ODA Animal Rescue Entity Program (licensing)",
+          "url": "https://www.oregon.gov/oda/animal-health-feeds-livestock-id/animal-rescue-entities/pages/default.aspx"
+        },
+        {
+          "name": "OAR Division 15 - Care of Pet and Captive Animals (full division text)",
+          "url": "https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=2705"
+        }
+      ],
+      "where_to_file": "Oregon Dept of Agriculture, Office of the State Veterinarian (Animal Health Program).",
+      "fees": "Animal Rescue Entity base license $375 (entity with a primary physical location) or $300 (foster-only); plus volume-based annual intake fees (up to 250 animals: no surcharge; 251-500: $250; scaling to $1,500 for over 2,500). No fee for ordinary commercial-kennel recordkeeping.",
+      "source_ids": [
+        "or-603-015-div15",
+        "or-603-015-0060",
+        "or-oda-are"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Never release a roof rat into the wild. ORS 498.052 bars releasing domestically raised or imported wildlife without a permit, and releasing a captive pet rat is also animal abandonment under ORS 167.340 (a Class B misdemeanor; leaving it near a shelter or clinic without prior arrangements is no defense). Wild R. rattus is an invasive pest and disease vector in Oregon (tracked by the Oregon Invasive Species Council and county vector control). Rehome responsibly and check local city/county ordinances.",
+      "steps": [
+        "Rehome a rat you can no longer keep through a person, rescue, or shelter; never release it outdoors.",
+        "Check your city/county code: some Oregon municipalities (e.g. Gladstone) are stricter than the state on which pet animals may be kept."
+      ],
+      "forms": [],
+      "where_to_file": "",
+      "fees": "",
+      "source_ids": [
+        "or-498-052",
+        "or-167-340"
       ]
     }
   ],
   "sources": [
     {
       "id": "or-635-056-0020",
-      "title": "OAR 635-056-0020 — Animals Exempt from These Rules ('Rat — Rattus norvegicus and R. rattus')",
+      "title": "OAR 635-056-0020, Animals Exempt from These Rules (subsection (18): 'Rat - Rattus norvegicus and R. rattus.'; listed animals are exempt from the Division 56 nonnative-wildlife rules because they are not 'wild')",
       "url": "https://oregon.public.law/rules/oar_635-056-0020",
+      "authority": "Oregon Dept of Fish & Wildlife (via Oregon Secretary of State Administrative Rules)",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-635-056-div56",
+      "title": "OAR Chapter 635 Division 56, Importation, Possession, Confinement, Transportation and Sale of Nonnative Wildlife (the closed-list scheme: Prohibited 635-056-0050, Noncontrolled 635-056-0060, Controlled 635-056-0070; R. rattus is exempt via 635-056-0020 and never enters this scheme)",
+      "url": "https://oregon.public.law/rules/oar_chapter_635_division_56",
       "authority": "Oregon Dept of Fish & Wildlife",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-15"
     },
     {
       "id": "or-609-305",
-      "title": "ORS 609.305 — 'Exotic animal' defined (excludes rodents)",
-      "url": "https://law.justia.com/codes/oregon/volume-15/chapter-609/section-609-305/",
+      "title": "ORS 609.305, 'Exotic animal' defined (limited to non-native Felidae, nonhuman primates, non-wolf Canidae, bears, and Crocodylia; rodents are not included, so no ODA exotic-animal permit applies to rats)",
+      "url": "https://oregon.public.law/statutes/ors_609.305",
       "authority": "Oregon Legislature",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-15"
     },
     {
       "id": "or-oda-import",
-      "title": "Oregon Import Requirements — Rabbits and Pocket Pets (CVI for rats)",
+      "title": "Oregon Import Requirements - Rabbits and Other Pocket Pets ('A CVI... is required for all rabbits and pocket pets... issued within 30 days prior to the animal(s) entering Oregon'; no separate import permit for pocket pets)",
       "url": "https://www.oregon.gov/oda/animal-health-feeds-livestock-id/traveling-with-animals/pages/import-requirements.aspx",
+      "authority": "Oregon Dept of Agriculture, Animal Health Program",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-603-015-div15",
+      "title": "OAR Chapter 603 Division 15, Care of Pet and Captive Animals (Definitions 603-015-0025 incl. 'Commercial Kennel'/'Pet Shop'/'Animal Dealer'; Facilities 603-015-0040; Health/Husbandry 603-015-0050; Transit 603-015-0055; applies to 'pet animals' broadly, including rats, when operated commercially)",
+      "url": "https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=2705",
+      "authority": "Oregon Dept of Agriculture (via Oregon Secretary of State Administrative Rules)",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-603-015-0060",
+      "title": "OAR 603-015-0060, Records (commercial kennel/pet shop/pound/shelter must keep each sale-or-transfer record at least 12 months: date, age, breed, sex, purchaser name/address, source, original breeder)",
+      "url": "https://secure.sos.state.or.us/oard/view.action?ruleNumber=603-015-0060",
       "authority": "Oregon Dept of Agriculture",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-oda-are",
+      "title": "ODA Animal Rescue Entity Program / Licensing (ORS 609.415 + OAR 603-015-0075 et seq.; an entity keeping 10+ animals and soliciting donations must be licensed; base fee $300-$375 plus volume-based intake fees)",
+      "url": "https://www.oregon.gov/oda/animal-health-feeds-livestock-id/animal-rescue-entities/pages/default.aspx",
+      "authority": "Oregon Dept of Agriculture, Office of the State Veterinarian",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-609-305-stat",
+      "title": "ORS Chapter 609 (Dogs; Exotic Animals; Dealers) - full chapter context for the exotic-animal definition and commercial-dealer framework",
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors609.html",
+      "authority": "Oregon Legislature",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-498-052",
+      "title": "ORS 498.052, Releasing domestically raised or imported wildlife without permit prohibited ('No person shall release within this state any domestically raised wildlife or wildlife brought to this state from any place outside this state unless the person first obtains a permit')",
+      "url": "https://oregon.public.law/statutes/ors_498.052",
+      "authority": "Oregon Legislature",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-167-340",
+      "title": "ORS 167.340, Animal abandonment (Class B misdemeanor; ORS 167.310 defines a 'domestic animal' to include a pet rat, subjecting it to the cruelty/neglect/abandonment statutes)",
+      "url": "https://oregon.public.law/statutes/ors_167.340",
+      "authority": "Oregon Legislature",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-usda-awa",
+      "title": "USDA APHIS, Animal Welfare Act licensing (Class A breeder license applies to wholesale/sight-unseen dealers; direct-to-consumer and de minimis hobby sales exempt; rats of genus Rattus bred for research excluded from the AWA)",
+      "url": "https://www.aphis.usda.gov/pet-travel",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-15"
+    },
+    {
+      "id": "or-gladstone",
+      "title": "Gladstone Municipal Code ch. 6.08 (Animals): prohibits keeping wild/dangerous animals (broadly including nonhuman mammals) except an enumerated list; the only rat exception is an 'albino strain' laboratory rat - a local ordinance stricter than the state, illustrating that municipal code can vary",
+      "url": "https://www.codepublishing.com/OR/Gladstone/html/Gladstone06/Gladstone0608.html",
+      "authority": "City of Gladstone (via Code Publishing)",
+      "accessed": "2026-06-15"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Oregon Department of Agriculture, Animal Health Program (Office of the State Veterinarian)",
+      "role": "agriculture",
+      "email": "AnimalHealth@oda.oregon.gov",
+      "form_url": "https://www.oregon.gov/oda/animal-health-feeds-livestock-id/traveling-with-animals/pages/import-requirements.aspx",
+      "phone": "503-986-4680",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Oregon Department of Fish & Wildlife (ODFW), Information & Education Division",
+      "role": "wildlife",
+      "email": "odfw.info@odfw.oregon.gov",
+      "form_url": "https://myodfw.com/contact-us",
+      "phone": "503-947-6000",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }
