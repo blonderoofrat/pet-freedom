@@ -75,8 +75,14 @@ is a lower-depth substitute.
 The agent reads the research and writes/updates `data/jurisdictions/<id>.json`, applying:
 
 - **The assume-a-pathway lens** — choose the *least-restrictive accurate* status. `prohibited` only when
-  there is genuinely no lawful pathway; if a permit exists it's `legal_with_permit`; if the law is silent
-  it's `unregulated_unclear`.
+  there is genuinely no lawful pathway; if a permit exists it's `legal_with_permit`.
+- **"Silent" or "not listed" is NOT automatically `unregulated_unclear` or legal — find the default rule
+  first.** Two regimes exist. In an OPEN regime (anything not prohibited is allowed) an unlisted species is
+  `unregulated_unclear` or `legal`. In a CLOSED positive-list regime (only approved species are allowed) an
+  unlisted species is `prohibited` by default, and often permit-ineligible. Read the statute's default clause;
+  do not assume silence means freedom. And verify BOTH directions: a place can look genus-banned yet still
+  lawfully permit the ordinary pet species (so the niche species may have a pathway), and a place can look
+  permissive yet quietly exclude the niche species while allowing the common one (a species trap).
 - **The 6-term vocabulary** — `legal` / `legal_with_permit` / `restricted` / `prohibited` /
   `unregulated_unclear` / `unknown` (use exactly these), with `confidence` (`high`/`medium`/`low`) kept
   *independent* of status.
@@ -143,7 +149,8 @@ personalize-me templates. **Sending advocacy is always your decision.**
 
 ## 11. The periodic sweep
 
-On a cadence: process any new Deep-Research results; handle flagged/bounced inquiries and incoming replies;
+On a cadence: process any new Deep-Research results (re-scan the results folder and batch all that are ready, so
+several verify in one pass rather than one at a time); handle flagged/bounced inquiries and incoming replies;
 re-verify and rebuild anything that changed; re-run the audit; act on advocacy-flag changes from new
 information; **commit + back up.**
 

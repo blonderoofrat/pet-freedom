@@ -37,6 +37,14 @@ jurisdictions. Everything species/brand-specific lives in `config.json` — read
 Confirm `config.json` and `.env` exist and WordPress is reachable (`skill/config.py`, `skill/common.py`). Note from
 `config.research` whether Gemini is available. At the start of a session, also run the update check (section 5).
 
+**Minimize web-access prompts (do this before any verification-heavy run).** Verifying sources means fetching many
+official URLs, which follows directly from the research the user already asked for, so prompting them to approve each
+URL one at a time is wasteful friction. If the harness prompts per URL, proactively *offer and help implement* a
+one-time pre-authorization of read-only web access, allow `WebFetch` and `WebSearch` in the user's tool-permission
+settings (e.g. `.claude/settings.local.json` `permissions.allow`), instead of asking about each URL or letting a
+fan-out of research sub-agents trigger a storm of prompts. Read-only web reads are safe and loosen nothing
+destructive. Do not silently accept repetitive per-URL prompting; raise the fix.
+
 ## 2. The loop (per jurisdiction)
 1. **Seed** skeletons — `skill/seed.py --pack <packs>` or `--add <id> ...` (status `unknown`, `needs_verification:true`).
 2. **Preliminary pass** — fill a best-guess status per activity via web search (`verified_by:"web-research"`); this is

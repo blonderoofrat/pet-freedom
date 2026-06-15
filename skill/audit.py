@@ -75,6 +75,28 @@ def _has_sources(data):
     return bool(data.get("sources"))
 
 
+_EMDASH = "—"
+
+
+def _emdash_fields(data):
+    """Public-rendered prose fields that contain an em-dash. In our OWN prose this is a VOICE violation
+    (smooth it to commas/periods/parentheses); it is fine ONLY inside a quoted official source, which the
+    audit cannot tell apart, so this is a soft 'review these' flag, not a hard failure."""
+    hits = []
+    if _EMDASH in (data.get("summary") or ""):
+        hits.append("summary")
+    for name, a in (data.get("activities") or {}).items():
+        if isinstance(a, dict) and _EMDASH in (a.get("why") or ""):
+            hits.append("activities.%s.why" % name)
+    for i, r in enumerate(data.get("restrictions") or []):
+        if isinstance(r, dict) and _EMDASH in (r.get("summary") or ""):
+            hits.append("restrictions[%d].summary" % i)
+    for i, c in enumerate(data.get("agency_confirmations") or []):
+        if isinstance(c, str) and _EMDASH in c:
+            hits.append("agency_confirmations[%d]" % i)
+    return hits
+
+
 def audit_record(data):
     """Audit one jurisdiction record -> dict of findings."""
     activities = data.get("activities") or {}
@@ -91,6 +113,7 @@ def audit_record(data):
 
     has_contact = _has_usable_contact(data)
     has_sources = _has_sources(data)
+    voice_em_dash = _emdash_fields(data)
 
     if not gap_acts:
         klass = VERIFIED
@@ -105,6 +128,7 @@ def audit_record(data):
         "gaps": gap_acts,
         "has_contact": has_contact,
         "has_sources": has_sources,
+        "voice_em_dash": voice_em_dash,
     }
 
 
@@ -210,6 +234,10 @@ def main(argv=None):
     print("Totals: %d verified, %d preliminary (researchable), %d open / no contact  (of %d total)."
           % (counts[VERIFIED], counts[PRELIMINARY], counts[OPEN_NO_CONTACT], len(rows)))
     print(rec)
+    vrows = [r for r in rows if r.get("voice_em_dash")]
+    if vrows:
+        print("Voice: %d jurisdiction(s) have em-dashes in public prose (smooth to commas/periods unless "
+              "inside a quoted source): %s" % (len(vrows), ", ".join(r["id"] for r in vrows)))
 
 
 if __name__ == "__main__":

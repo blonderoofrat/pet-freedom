@@ -11,6 +11,22 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.2.2 (2026-06-15)
+
+- RUNBOOK: the assume-a-pathway lens now warns that an unlisted or unaddressed species does NOT automatically
+  mean unregulated or legal. Determine the jurisdiction's default rule first: an open regime (anything not
+  prohibited is allowed) makes an unlisted species unregulated or legal, but a closed positive-list regime
+  (only approved species allowed) makes it prohibited, and often permit-ineligible. Verify both directions,
+  since a place can look banned yet still permit the common pet species, or look permissive yet quietly
+  exclude the niche species (a species trap).
+- audit.py now also flags, as a soft voice warning, any public-rendered prose (the summary, an activity
+  "why", a restriction summary, or an agency confirmation) that contains an em-dash, so it can be smoothed to
+  commas or periods before publishing. Em-dashes inside a quoted official source are fine and should be left.
+- SKILL.md: at session start the skill now proactively offers to pre-authorize read-only web access
+  (`WebFetch`/`WebSearch`) instead of letting you be prompted to approve each research URL, since those fetches
+  follow directly from the research you asked for. Per-URL prompting during verification is wasteful friction;
+  one allow-list entry removes it and loosens nothing destructive.
+
 ## 1.2.1 (2026-06-14)
 
 - Documentation, from a real outage: `docs/EMAIL-DELIVERABILITY.md` now covers **MX records** (so agency
