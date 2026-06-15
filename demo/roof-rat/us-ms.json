@@ -12,64 +12,79 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "house rat",
+      "other exotic animal",
+      "unlisted non-native species",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "Mississippi does not prohibit keeping a roof rat. Its 'inherently dangerous to humans' wildlife list (Miss. Code §49-8-5 / MDWFP Rule 8.3) enumerates primates, big cats, bears, elephants, etc. — no rodents — and MDWFP classifies R. rattus as an unprotected pest. So keeping, breeding, and selling/giving captive-bred roof rats is effectively legal at the state level (no rule names the species, hence 'unregulated/unclear'). The one real hook is IMPORT: the Board of Animal Health's broad 'other exotic animals' rule (Ch. 12) requires a prior entry permit + a Certificate of Veterinary Inspection for non-native, non-livestock species — which likely captures an imported roof rat. We've queued an inquiry to confirm. Never release one.",
-  "last_reviewed": "2026-06-07",
+  "summary": "Mississippi is a clear 'yes' state for keeping a roof rat, by statutory omission rather than by a named exemption. The 'inherently dangerous to humans' wildlife list (Miss. Code Ann. 49-8-5 / 40 Miss. Admin. Code Pt. 2 R. 8.3) enumerates primates, large carnivores (bears, big cats, wolves, hyenas, wolverines), elephants, rhinoceroses, hippopotamuses and African buffalo, and certain venomous reptiles. The order Rodentia is entirely absent, so the Chapter 8 possession permit, insurance, and caging rules never reach a rat. R. rattus is also non-native, so the native-nongame protection chapter (Miss. Code 49-5-101 et seq. / 40 Miss. Code R. 5-2.3) does not apply, and it is not on the statutory 'nuisance animal' list in 49-7-1(c) (wild hogs, nutria, beaver, fox, skunks, coyote). Keeping, breeding, and selling or giving captive-bred roof rats are therefore unregulated at the state level, and the Board of Animal Health states plainly that it 'does not require a permit for ownership of other exotic animals in Mississippi.' The one real state hook is IMPORT: the Board of Animal Health classifies a non-livestock, non-native rodent as an 'other exotic animal,' and a prior entry permit plus a Certificate of Veterinary Inspection (CVI) is required for all exotic animals entering the state. Mississippi makes no legal distinction between R. rattus and the fancy rat (R. norvegicus); both sit in the same unlisted-non-native space. Never release one into the wild: Miss. Code 49-7-80 bars releasing any non-indigenous animal without an MDWFP permit.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "Miss. Code §49-8-5 (and MDWFP Rule 8.3, rev. 2025) lists the species 'inherently dangerous to humans' requiring a permit — order Rodentia is absent. R. rattus is non-native and MDWFP-classified as an unprotected pest, outside the nongame-protection chapter. No statute restricts private possession; effectively legal, though no rule positively exempts the species (hence unclear).",
-      "governing_law": "Miss. Code §49-8-5; 40 Miss. Admin. Code Pt. 2 R. 8.3; Miss. Code §49-5-1 et seq. / 40 Miss. Code R. 5-2.3.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Possession is lawful by statutory omission. Miss. Code Ann. 49-8-5 (and 40 Miss. Admin. Code Pt. 2 R. 8.3) lists the species 'inherently dangerous to humans' that require a Chapter 8 possession permit, $100,000-per-animal liability insurance, and steel-and-masonry caging, and that list is limited to primates, large carnivores, elephants, rhinoceroses, hippopotamuses, African buffalo, and certain venomous reptiles. The order Rodentia is not on it, so a rat is outside Chapter 8 entirely. R. rattus is also non-native, so the native-nongame conservation chapter (Miss. Code 49-5-101 et seq. / 40 Miss. Code R. 5-2.3, which covers indigenous species only) does not apply, and it is omitted from the statutory 'nuisance animal' definition in 49-7-1(c). The Board of Animal Health confirms it 'does not require a permit for ownership of other exotic animals in Mississippi.' No possession permit, registration, fee, or facility inspection applies. General animal-cruelty law still applies.",
+      "governing_law": "Miss. Code Ann. 49-8-5 + 40 Miss. Admin. Code Pt. 2 R. 8.3 (inherently-dangerous list, no rodents); Miss. Code 49-5-101 et seq. / 40 Miss. Code R. 5-2.3 (native nongame only); Miss. Code 49-7-1(c) (nuisance-animal list, no rats); MBAH 'Other Exotic Animals' guidance (no ownership permit).",
       "source_ids": [
         "ms-49-8-5",
-        "ms-mdwfp-83"
+        "ms-mdwfp-83",
+        "ms-49-5-nongame",
+        "ms-49-7-1",
+        "ms-mbah-other-exotic"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "No MDWFP propagation/breeder permit applies to a non-listed, non-native rodent (the Ch. 8 permit covers only inherently-dangerous species; the collection/propagation permit covers native nongame). No state breeder-dealer license for small exotic rodents was found. Hobby breeding is effectively unregulated.",
-      "governing_law": "Miss. Code §49-8-7; §49-1-41; 40 Miss. Code R. 5-2.3.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Breeding is unregulated at the state level. Mississippi's propagation permits are confined to two categories that do not include a non-native pet rodent: native nongame species (40 Miss. Code R. 5-2.3) and commercial captive-wildlife enclosures for deer and exotic ungulates (40 Miss. Admin. Code Pt. 2 R. 8.2). A roof rat is neither native nongame nor a 'commercial wildlife enclosure' animal, so MDWFP requires no propagation permit, and the Board of Animal Health has no framework governing indoor reproduction of non-agricultural exotic rodents. Mississippi also has no statewide pet-dealer or pet-shop license: a 2019 bill to create one (SB 2101) was not enacted. The only limits on breeding are indirect: general animal-cruelty statutes and local zoning/nuisance ordinances. Federal USDA/AWA licensing can reach a large wholesale dealer, but direct-to-consumer retail sales and small hobby operations are federally exempt, and rats bred purely for research are excluded from the AWA.",
+      "governing_law": "40 Miss. Code R. 5-2.3 (native nongame propagation only); 40 Miss. Admin. Code Pt. 2 R. 8.2 (captive-wildlife enclosures, deer/ungulates); no enacted MS pet-dealer license (SB 2101, 2019, failed); federal Animal Welfare Act (USDA APHIS) for wholesale dealers; general cruelty and local ordinances.",
       "source_ids": [
-        "ms-49-8-5"
+        "ms-mdwfp-83",
+        "ms-49-5-nongame",
+        "ms-sb2101",
+        "ms-usda-awa"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "No Mississippi pet-dealer license for captive-bred non-native rodents was found; the nongame sale prohibition covers native species taken from the wild (R. rattus is a non-native pest, outside it), and the Ch. 8 dangerous-animals permit doesn't reach rodents. Free rehoming and sale appear unrestricted at the state level (federal USDA/AWA may apply to commercial dealers).",
-      "governing_law": "Miss. Code §49-8-7; 40 Miss. Code R. 5-2.3.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Selling, gifting, or rehoming a captive-bred roof rat within Mississippi is unregulated at the state level. There is no statewide pet-dealer or pet-shop license (the 2019 SB 2101 attempt failed). The native-nongame sale restrictions (40 Miss. Code R. 5-2.3) reach only native species taken from the wild, and the Chapter 8 transfer-permit rule (Miss. Code 49-8-7) reaches only inherently-dangerous species, neither of which captures a non-native rodent. So a rat may be sold or given away between private parties without notifying MDWFP or the Board of Animal Health. (Unlike Kentucky, Mississippi has no 'CVI required to offer an animal for sale' rule; the CVI hook here attaches only to import, see transport.) Large-scale wholesale to brokers or stores can trigger federal AWA licensing, and local business/zoning rules can apply to a commercial operation; general cruelty law applies.",
+      "governing_law": "No enacted MS pet-dealer license (SB 2101, 2019, failed); Miss. Code 49-8-7 (transfer permit, inherently-dangerous species only); 40 Miss. Code R. 5-2.3 (native nongame only); federal AWA (USDA APHIS) for wholesale dealers; general cruelty/local ordinances.",
       "source_ids": [
-        "ms-49-8-5"
+        "ms-49-8-5",
+        "ms-sb2101",
+        "ms-49-5-nongame",
+        "ms-usda-awa"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Intrastate movement is unregulated. For IMPORT, the Board of Animal Health (2 Miss. Code R. 101-2-12, Ch. 12) requires a prior entry permit + a CVI for 'other exotic animals' (non-domesticated, non-native, non-livestock) — a definition broad enough to capture an imported roof rat. R. rattus is not on the prohibited-entry list. Request the entry permit from the State Veterinarian before importing. Never release.",
-      "governing_law": "2 Miss. Code R. 101-2-12 (MBAH Ch. 12 entry: prior permit + CVI for exotic animals).",
+      "confidence": "high",
+      "why": "Intrastate movement (county to county within Mississippi) is unregulated, because a roof rat is an unlisted non-native animal that triggers no MDWFP transport rule and no MBAH intrastate rule. IMPORT into Mississippi is the one real hook. The Board of Animal Health sorts exotic entries into Exotic Livestock, Nonhuman Primates, and Other Exotic Animals; a non-livestock, non-native rodent defaults to 'Other Exotic Animals.' For that category the MBAH states: 'A prior permit for entry and a certificate of veterinary inspection (CVI) with complete name and address of consignee and consignor are required for all exotic animals entering the state of Mississippi.' So bringing a roof rat into the state requires a CVI from a USDA-accredited veterinarian in the state of origin plus a prior entry permit obtained from the State Veterinarian's office (Exoticanimals@mdac.ms.gov / 601-359-1170). R. rattus is not on any prohibited-entry list. Export is governed by the destination's rules; Mississippi imposes no exit permit. International movement follows federal USFWS rules (R. rattus is not CITES-listed). Never release a roof rat: Miss. Code 49-7-80 bars releasing any non-indigenous animal without an MDWFP permit (a Class I violation).",
+      "governing_law": "MBAH 'Other Exotic Animals' entry rule (prior entry permit + CVI for all exotic animals entering the state); 2 Miss. Admin. Code Pt. 101, Subpt. 2, Ch. 12 (entry requirements); Miss. Code 49-7-80 (no release of non-indigenous animals without MDWFP permit); federal USFWS for international.",
       "source_ids": [
+        "ms-mbah-other-exotic",
+        "ms-mbah-import-app",
         "ms-mbah-ch12",
-        "ms-49-8-5"
+        "ms-49-7-80"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -79,57 +94,141 @@
       "activity": [
         "transport"
       ],
-      "summary": "Importing a roof rat into Mississippi likely needs a prior entry permit + a Certificate of Veterinary Inspection under the Board of Animal Health 'other exotic animals' rule (Ch. 12). Request the entry permit from the State Veterinarian (601-359-1170). Confirm scope for pet rodents. Never release.",
+      "summary": "Importing a roof rat into Mississippi requires a prior entry permit plus a Certificate of Veterinary Inspection (CVI). The Board of Animal Health treats a non-livestock, non-native rodent as an 'other exotic animal,' and 'a prior permit for entry and a certificate of veterinary inspection (CVI)... are required for all exotic animals entering the state of Mississippi.' This attaches to import only, not to keeping, breeding, or intrastate movement.",
       "steps": [
-        "Contact MBAH State Veterinarian for an 'other exotic animals' entry permit + CVI"
+        "Have a USDA-accredited veterinarian in the state of origin examine the rat and issue a CVI certifying it is free of contagious/communicable disease and external parasites and not from a quarantined area.",
+        "Obtain a prior entry permit from the Mississippi State Veterinarian's office before the animal crosses the state line (contact Exoticanimals@mdac.ms.gov or 601-359-1170; submit the CVI).",
+        "Carry the permitted CVI with the animal during the move. Ask the issuing vet how the 'permanent identification' line on the CVI should be satisfied for an animal too small to ear-tag (a photographic log or detailed physical description is the practical option)."
+      ],
+      "forms": [
+        {
+          "name": "Other Exotic Animals Import Permit Application",
+          "url": "https://www.mbah.ms.gov/animals/exotics/other-exotic-animals/other-exotic-animals-import-permit-application/"
+        },
+        {
+          "name": "Certificate of Veterinary Inspection (CVI)",
+          "url": "https://www.mbah.ms.gov/animals/exotics/other-exotic-animals/"
+        }
+      ],
+      "where_to_file": "Mississippi Board of Animal Health, Office of the State Veterinarian (Exoticanimals@mdac.ms.gov; 121 North Jefferson St., Jackson, MS 39201).",
+      "fees": "No published state permit fee; the issuing veterinarian charges for the examination and CVI.",
+      "source_ids": [
+        "ms-mbah-other-exotic",
+        "ms-mbah-import-app",
+        "ms-mbah-ch12"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Never release a roof rat into the wild. Miss. Code 49-7-80 provides that no person shall release, or cause to be released, within the state any animal not indigenous to Mississippi without first obtaining a permit from the MDWFP, and R. rattus is a non-native, invasive species. A violation is a Class I offense carrying significant penalties. If you can no longer keep a rat, rehome it to another private owner or have a veterinarian euthanize it. Check local county/city ordinances on animal numbers and zoning.",
+      "steps": [
+        "Rehome a rat you can no longer keep to another private owner, or have a veterinarian euthanize it humanely.",
+        "Never release it outdoors. Check local ordinances for limits on animal counts on a residential parcel."
       ],
       "forms": [],
-      "where_to_file": "Mississippi Board of Animal Health (State Veterinarian)",
+      "where_to_file": "MS Dept of Wildlife, Fisheries & Parks (for the unrelated case of a permitted non-indigenous release).",
       "fees": "",
       "source_ids": [
-        "ms-mbah-ch12"
+        "ms-49-7-80"
       ]
     }
   ],
-  "inquiry_focus": "(1) Is captive-bred Rattus rattus considered a 'wild animal' requiring a permit under Miss. Code §49-8-7, or does it fall entirely outside Chapter 8 given it's not on the §49-8-5 'inherently dangerous' list — i.e., is it treated like other unregulated pest rodents (R. norvegicus, Mus musculus)? (2) Does the Board of Animal Health 'Other Exotic Animals' prior-permit and CVI requirement (Ch. 12) apply to an individual importing a captive-bred pet R. rattus from another state, and if so, what is the process?",
+  "inquiry_focus": "(1) Does the Board of Animal Health 'Other Exotic Animals' prior-entry-permit + CVI requirement actually apply to an individual importing a single captive-bred pet roof rat (Rattus rattus) from another state, and if so, what is the step-by-step process and how is the 'permanent identification' requirement on the CVI handled for a rodent too small to ear-tag? (2) Does MDWFP confirm that captive-bred R. rattus kept securely indoors as a personal pet is treated identically to R. norvegicus (fancy rats): an unlisted non-native species needing no inherently-dangerous-species permit and no nongame propagation permit to keep or breed in Mississippi?",
   "sources": [
     {
       "id": "ms-49-8-5",
-      "title": "Miss. Code §49-8-5 — Animals Inherently Dangerous to Humans (no rodents)",
-      "url": "https://law.justia.com/codes/mississippi/title-49/chapter-8/section-49-8-5/",
-      "authority": "Mississippi Legislature",
-      "accessed": "2026-06-07"
+      "title": "Miss. Code Ann. 49-8-5 - Animals inherently dangerous to humans (enumerates primates, large carnivores, elephants, rhinoceroses, hippopotamuses, African buffalo, certain venomous reptiles; order Rodentia / Rattus absent), with the Chapter 8 permit/insurance/caging framework",
+      "url": "https://www.animallaw.info/statute/ms-exotic-pet-chapter-8-importation-sale-and-possession-inherently-dangerous-wild-animals",
+      "authority": "Mississippi Legislature (via Animal Legal & Historical Center mirror)",
+      "accessed": "2026-06-14"
     },
     {
       "id": "ms-mdwfp-83",
-      "title": "40 Miss. Admin. Code Pt. 2 R. 8.3 — Animals Inherently Dangerous to Humans (Rev. 04-2025; no rodents)",
-      "url": "https://www.mdwfp.com/wildlife-hunting/exotic-species-program",
-      "authority": "MS Dept of Wildlife, Fisheries & Parks",
-      "accessed": "2026-06-07"
+      "title": "40 Miss. Admin. Code Pt. 2 R. 8.3 - MDWFP rules on animals inherently dangerous in captivity (same no-rodent list as 49-8-5; R. 8.2 governs captive-wildlife enclosures for deer/ungulates)",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000367c.pdf",
+      "authority": "MS Dept of Wildlife, Fisheries & Parks / MS Secretary of State",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ms-49-5-nongame",
+      "title": "Miss. Code 49-5-101 et seq. (Nongame and Endangered Species Conservation Act) + 40 Miss. Code R. 5-2.3 - native nongame propagation/possession rules; scope is indigenous species only (lists native wood rats, not R. rattus)",
+      "url": "https://www.law.cornell.edu/regulations/mississippi/40-Miss-Code-R-SS-5-2-3",
+      "authority": "Cornell Legal Information Institute / MDWFP",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ms-49-7-1",
+      "title": "Miss. Code 49-7-1(c) - definition of 'nuisance animals' limited to 'wild hogs, nutria, beaver, fox, skunks and coyote'; R. rattus is omitted, so it is an unlisted non-native species rather than a statutory nuisance animal",
+      "url": "https://www.law.cornell.edu/regulations/mississippi/40-Miss-Code-R-SS-2-7-1",
+      "authority": "MDWFP nuisance-animal regulation (40 Miss. Code R. 2-7.1) / Cornell Legal Information Institute",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ms-49-7-80",
+      "title": "Miss. Code 49-7-80 - prohibits releasing any animal not indigenous to Mississippi without an MDWFP permit (Class I offense); the no-release rule that applies to a non-native roof rat",
+      "url": "https://law.justia.com/codes/mississippi/title-49/chapter-7/in-general/section-49-7-80/",
+      "authority": "Mississippi Legislature (Justia mirror)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ms-mbah-other-exotic",
+      "title": "MS Board of Animal Health - 'Other Exotic Animals' (states 'The Mississippi Board of Animal health does not require a permit for ownership of other exotic animals in Mississippi'; entry requires 'a prior permit for entry and a certificate of veterinary inspection (CVI)... for all exotic animals entering the state of Mississippi')",
+      "url": "https://www.mbah.ms.gov/animals/exotics/other-exotic-animals/",
+      "authority": "Mississippi Board of Animal Health",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ms-mbah-import-app",
+      "title": "MS Board of Animal Health - Other Exotic Animals Import Permit Application (prior entry permit + CVI required; submit to Exoticanimals@mdac.ms.gov; 601-359-1170)",
+      "url": "https://www.mbah.ms.gov/animals/exotics/other-exotic-animals/other-exotic-animals-import-permit-application/",
+      "authority": "Mississippi Board of Animal Health",
+      "accessed": "2026-06-14"
     },
     {
       "id": "ms-mbah-ch12",
-      "title": "2 Miss. Code R. 101-2-12 — MBAH Entry Requirements ('other exotic animals' prior permit + CVI)",
+      "title": "2 Miss. Admin. Code Pt. 101, Subpt. 2, Ch. 12 - MBAH Entry Requirements (prior entry permit + CVI for exotics entering the state; the named rule 1-2-12-114.02 with the tagging/identification language sits in the Exotic Livestock subsection)",
       "url": "https://www.mbah.ms.gov/regulations/chapter-12/",
       "authority": "Mississippi Board of Animal Health",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ms-sb2101",
+      "title": "MS Senate Bill 2101 (2019 Regular Session) - proposed statewide pet-dealer/kennel/shelter license and permit fee; NOT enacted, so Mississippi has no statewide pet-dealer or pet-shop license",
+      "url": "https://billstatus.ls.state.ms.us/documents/2019/html/SB/2100-2199/SB2101IN.htm",
+      "authority": "Mississippi Legislative Bill Status System",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ms-usda-awa",
+      "title": "USDA APHIS - Animal Welfare Act licensing (wholesale/broker dealers regulated; direct-to-consumer and de minimis hobby breeders exempt; rats of genus Rattus bred for research excluded from the AWA)",
+      "url": "https://www.aphis.usda.gov/sites/default/files/graybook.pdf",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-14"
     }
   ],
   "contacts": [
     {
-      "agency": "Mississippi Dept of Wildlife, Fisheries & Parks — Exotic Species Program",
-      "role": "wildlife",
-      "email": "Colt.Mooney@wfp.ms.gov",
-      "form_url": "",
-      "phone": "(601) 432-2199",
-      "primary": true
+      "agency": "Mississippi Board of Animal Health, Office of the State Veterinarian (Exotic Animal / Entry Permits)",
+      "role": "agriculture",
+      "email": "Exoticanimals@mdac.ms.gov",
+      "form_url": "https://www.mbah.ms.gov/animals/exotics/other-exotic-animals/other-exotic-animals-import-permit-application/",
+      "phone": "(601) 359-1170",
+      "primary": true,
+      "inquiry_language": "en"
     },
     {
-      "agency": "Mississippi Board of Animal Health — State Veterinarian",
-      "role": "agriculture",
-      "email": "",
-      "form_url": "https://www.mbah.ms.gov/animals/exotics/other-exotic-animals/",
-      "phone": "(601) 359-1170"
+      "agency": "Mississippi Dept of Wildlife, Fisheries & Parks - Exotic Species Program / Wildlife Bureau",
+      "role": "wildlife",
+      "email": "Colt.Mooney@wfp.ms.gov",
+      "form_url": "https://www.mdwfp.com/wildlife-hunting/exotic-species-program",
+      "phone": "(601) 432-2199",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }

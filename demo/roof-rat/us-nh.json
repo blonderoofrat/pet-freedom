@@ -12,11 +12,14 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "non-controlled species",
+      "pet vendor",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "New Hampshire is one of the most clearly favorable states: its Fish & Game rule N.H. Admin. Code Fis 804.02(b)(7) names 'Rats, domesticated (Rattus norvegicus and Rattus rattus)' as NON-CONTROLLED wildlife — by binomial — meaning no permit is required to possess, breed, or import a captive-bred roof rat. (The rule was re-adopted effective 2026-04-20 with the listing unchanged.) Selling is unobstructed from the Fish & Game side; the only touchpoint is the Dept of Agriculture's 'pet vendor' license, a threshold-triggered business registration for selling small mammals at volume (free transfers can count toward the threshold). Never release one — that's the single firm prohibition.",
-  "last_reviewed": "2026-06-07",
+  "summary": "New Hampshire is one of the clearest 'yes' states for keeping a roof rat, and the reason is one explicit name on a list. The Fish and Game Department sorts captive wildlife into Prohibited, Controlled, and Non-controlled categories under N.H. Admin. Code Chapter Fis 800, and Fis 804.02(b)(7)(f) names 'Rats, domesticated (Rattus norvegicus and Rattus rattus)' by binomial in the non-controlled list. Fis 804.02(a) provides that 'A permit to possess wildlife shall not be required for any person to possess wildlife designated as non-controlled,' so possessing, breeding, and importing a captive-bred roof rat needs no state wildlife permit. There is no species trap: the roof rat (R. rattus) has identical standing to the fancy rat (R. norvegicus), the two being named together in the same clause. The Fis 806 propagation permit applies only to controlled species, so hobby and personal breeding are entirely unregulated by Fish and Game; Fis 803.03(a) likewise exempts non-controlled species from any wildlife import permit. The one commercial touchpoint is the Department of Agriculture's 'pet vendor' license (RSA 437; N.H. Admin. Code Agr 1701): transferring small mammals 'to the public' at volume requires that business license, and RSA 437:1 counts transfers made 'with or without a fee or donation,' so free adoption can count toward the threshold; rats sold strictly as documented feeders are excluded from the count (Agr 1701.03). For interstate movement, neither the Agr 2100 import rules nor USDA APHIS name pet rodents for a Certificate of Veterinary Inspection, so no CVI is clearly required, though the State Veterinarian retains broad disease authority and the law is silent rather than expressly exemptive. The single firm prohibition is release: R. rattus is not on the non-controlled release-exempt list and is an invasive exotic mammal, so releasing one into the wild without a permit (which would not be granted) is barred, and animal-cruelty law applies as well. Never release a roof rat.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": false
   },
@@ -24,53 +27,61 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "N.H. Admin. Code Fis 804.02(a) requires no permit to possess non-controlled wildlife, and Fis 804.02(b)(7) lists 'Rats, domesticated (Rattus norvegicus and Rattus rattus)' as non-controlled — both species named. RSA 207:1 also defines 'wild animals' as all animals other than domestic, reinforcing that a captive-bred domestic rat needs no permit.",
-      "governing_law": "N.H. Admin. Code Fis 804.02(b)(7); RSA 207:1; RSA 207:14.",
+      "why": "N.H. Admin. Code Fis 804.02(a) provides that 'A permit to possess wildlife shall not be required for any person to possess wildlife designated as non-controlled,' and Fis 804.02(b)(7)(f) lists 'Rats, domesticated (Rattus norvegicus and Rattus rattus)' among the non-controlled mammals. R. rattus is named by species alongside the fancy rat, and it is not on the Fis 804.03 prohibited list or the Fis 804.05 controlled list. So no state wildlife permit, registration, facility inspection, or fee applies to keeping one (the Fis 804.01 cage/enclosure standards bind only controlled/prohibited permit holders). RSA 207:1 defines 'wild animals' as all animals other than domestic, and although 'wildlife' reaches species 'whether raised in captivity or not normally found in a wild state,' the Fis 804.02 listing is the dispositive exemption that removes the regulatory burden from a captive-bred domesticated rat. General animal-cruelty law (RSA 644:8) still applies.",
+      "governing_law": "N.H. Admin. Code Fis 804.02(a) (no possession permit for non-controlled) and Fis 804.02(b)(7)(f) ('Rats, domesticated (Rattus norvegicus and Rattus rattus)'); RSA 207:1 (definitions); RSA 207:14 (import/possession/release); RSA 644:8 (cruelty).",
       "source_ids": [
         "nh-fis-804-02",
+        "nh-fis-800-pdf",
+        "nh-207-1",
         "nh-207-14"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "Non-controlled designation covers breeding (possession encompasses progeny); the propagation permit (Fis 806) applies to controlled/prohibited wildlife, not non-controlled species. Hobby/non-commercial breeding needs no Fish & Game permit. Breeding for sale at volume may bring the Dept of Agriculture pet-vendor license into play (see sell_give).",
-      "governing_law": "N.H. Admin. Code Fis 804.02(b)(7); Fis 806; RSA 437:1.",
+      "why": "Breeding is unregulated by Fish and Game. The Fis 806 propagation-permit regime (annual veterinary inspection, annual Propagation of Wildlife Report) applies only to species 'designated as controlled for these purposes pursuant to Fis 804.05' (Fis 806.01(b)). Because R. rattus is non-controlled under Fis 804.02, it falls entirely outside Fis 806, so a hobbyist or small-scale breeder needs no Fish and Game propagation permit, inspection, or report. The act of breeding is distinct from the commercial act of distributing the offspring: transferring the resulting rats at volume can bring the Department of Agriculture pet-vendor license into play (see sell_give), but the breeding itself is not licensed by the state.",
+      "governing_law": "N.H. Admin. Code Fis 804.02(b)(7)(f) (non-controlled); Fis 806.01(b) (propagation permit only for controlled species); RSA 437:1 (pet-vendor framework reached only on transfer at volume).",
       "source_ids": [
-        "nh-fis-804-02"
+        "nh-fis-804-02",
+        "nh-fis-800-pdf"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "legal",
-      "confidence": "medium",
-      "why": "No Fish & Game sale permit applies to non-controlled mammals (Fis 811 covers indigenous herps only). The Dept of Agriculture 'pet vendor' license (RSA 437; Agr 1701) is required to transfer small mammals 'to the public' above a threshold quantity set by rule — and RSA 437:1 counts transfers 'with or without a fee or donation,' so high-volume free adoption can count. Below the threshold, selling/giving is unregulated.",
-      "governing_law": "RSA 437:1 (pet vendor); Agr 1701.02 (thresholds); Fis 811 (herps only).",
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "No Fish and Game sale permit applies to a non-controlled mammal. The one attached condition is a volume-triggered business license from the Department of Agriculture, not a species restriction. RSA 437:1(IV) defines a 'Pet vendor' to include any entity that transfers 'small mammals customarily used as household pets to the public in quantities set in rules adopted by the department, with or without a fee or donation required, and whether or not a physical facility is owned by the licensee in New Hampshire... between January 1 and December 31 of each year,' and 'Transfer' is the 'transfer of ownership of live animals or birds... to a member of the public.' The quantity is set by N.H. Admin. Code Agr 1701.02 at 'Two hundred small mammals' per year. Rats are small mammals, so transferring 200 or more roof rats to the public in a calendar year (free transfers count) requires a pet-vendor license; below 200, selling or giving is unregulated. Rodents sold strictly as feeders are excluded from the count if the seller keeps a signed buyer statement (Agr 1701.03), but without that documentation they count toward the threshold. General cruelty law (RSA 644:8) applies.",
+      "governing_law": "RSA 437:1 (pet-vendor definition; 'with or without a fee or donation'; calendar-year window) and RSA 437:3 (license requirements, zoning sign-off, records); N.H. Admin. Code Agr 1701.02 (small-mammal threshold = 200); Agr 1701.03 (feeder-rodent exemption + documentation burden); RSA 644:8 (cruelty).",
       "source_ids": [
-        "nh-437",
+        "nh-437-1",
+        "nh-437-3",
+        "nh-agr-1701-02",
+        "nh-agr-1701-03",
         "nh-fis-804-02"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal",
       "confidence": "medium",
-      "why": "No Fish & Game import permit is required for non-controlled species (Fis 803). Imported animals must meet Dept of Agriculture (Agr 2100), USDA-APHIS, and USFWS rules; Agr 2100's CVI list enumerates livestock categories, not pet rodents, and APHIS has no interstate health-cert requirement for pet rodents — so no CVI is clearly required (confirm with the State Vet). Releasing R. rattus into the wild is prohibited (Fis 805 / RSA 207:14).",
-      "governing_law": "N.H. Admin. Code Fis 803; Fis 804.02(b)(7); Agr 2100; Fis 805 / RSA 207:14 (no-release).",
+      "why": "No Fish and Game import permit is required: Fis 803.03(a) provides that 'A permit to import wildlife shall not be required for any person to import wildlife designated as non-controlled,' and R. rattus is non-controlled. Fis 803.01(a) routes imported wildlife through any applicable Department of Agriculture, USDA, and USFWS requirements, but the agriculture import rules (N.H. Admin. Code Chapter Agr 2100) enumerate Certificate of Veterinary Inspection and entry-permit requirements species-by-species (bovines, sheep, goats, swine, dogs/cats/ferrets, equine, poultry, household birds, cervidae, camelidae, ratites, yaks) and do not mention rodents, small mammals, or pocket pets. USDA APHIS states it 'does not have any animal health requirements related to bringing (importing) a pet rodent into the United States' and defers domestic interstate movement to the receiving state (the CDC bars rodents of African origin, which does not reach the Asian-origin R. rattus). So no CVI is clearly required to bring a pet roof rat into New Hampshire. Confidence is medium, not high, because the agriculture rule is silent rather than expressly exemptive, and the State Veterinarian retains broad authority under RSA 436 to quarantine or test domestic animals suspected of carrying reportable disease; high-volume commercial importers should confirm with the Division of Animal Industry. Releasing R. rattus into the wild is prohibited (RSA 207:14; see restrictions).",
+      "governing_law": "N.H. Admin. Code Fis 803.03(a) (no import permit for non-controlled) and Fis 803.01(a) (defer to Agriculture/USDA/USFWS); N.H. Admin. Code Chapter Agr 2100 (species-specific CVI/entry rules; rodents not named); RSA 436 (State Veterinarian disease authority); federal USDA APHIS / CDC for international; RSA 207:14 (no release).",
       "source_ids": [
-        "nh-fis-804-02",
+        "nh-fis-800-pdf",
+        "nh-agr-2100",
+        "nh-usda-rodent-import",
         "nh-207-14"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -80,54 +91,154 @@
       "activity": [
         "sell_give"
       ],
-      "summary": "Transferring small mammals 'to the public' above the Dept of Agriculture's threshold (Agr 1701.02; counts free transfers too) requires a NH pet-vendor license — a routine business registration, not a species restriction. Confirm the small-mammal threshold with the Division of Animal Industry.",
+      "summary": "Pet-vendor license (volume-triggered business registration). Transferring 200 or more small mammals 'to the public' in a calendar year (N.H. Admin. Code Agr 1701.02; rats are small mammals) makes a person a 'pet vendor' under RSA 437:1 and requires a Department of Agriculture pet-vendor license. RSA 437:1 counts transfers 'with or without a fee or donation,' so free adoptions count; documented feeder-rodent sales are excluded (Agr 1701.03). Below 200/year there is no license. This is a business registration, not a species permit, and applies identically to fancy rats and other small mammals.",
       "steps": [
-        "Confirm the Agr 1701.02 small-mammal threshold; register as a pet vendor if you exceed it"
+        "Track total small-mammal transfers to the public per calendar year (Jan 1 to Dec 31); free transfers count, documented feeder sales do not.",
+        "If you reach 200 in a year, file the Pet Vendor License Application with the Division of Animal Industry with the $200 annual fee.",
+        "Provide municipal zoning sign-off (RSA 437:3) certifying the facility conforms to local zoning, a veterinarian-signed disease-control program, and the required transfer records (source, dates, identifying marks).",
+        "If selling rats strictly as feeders, keep a buyer-signed statement that they are for feeding so they are excluded from the threshold (Agr 1701.03)."
       ],
-      "forms": [],
-      "where_to_file": "NH Dept of Agriculture, Markets & Food — Division of Animal Industry",
-      "fees": "",
+      "forms": [
+        {
+          "name": "Pet Vendor License Application (NH Dept of Agriculture, Markets & Food)",
+          "url": "https://www.agriculture.nh.gov/farms-businesses/animal-industry/pet-vending"
+        }
+      ],
+      "where_to_file": "NH Department of Agriculture, Markets & Food, Division of Animal Industry (1 Granite Place South, Suite 211, Concord, NH 03301).",
+      "fees": "$200 non-refundable annual fee; license operates on a fiscal year expiring June 30. No fee applies below the 200-small-mammal threshold.",
       "source_ids": [
-        "nh-437"
+        "nh-437-1",
+        "nh-437-3",
+        "nh-agr-1701-02",
+        "nh-agr-1701-03",
+        "nh-pet-vending"
       ]
     },
     {
       "type": "other",
       "applies_to": "person",
       "activity": [
-        "keep"
+        "keep",
+        "transport"
       ],
-      "summary": "Never release a roof rat into the wild (Fis 805 / RSA 207:14). Check local ordinances.",
-      "steps": [],
+      "summary": "Never release a roof rat into the wild. RSA 207:14 provides that 'No person shall import, possess, sell, exhibit, or release any live marine species or wildlife... without first obtaining a permit from the executive director,' and the director may refuse a permit posing a 'disease, genetic, ecological, environmental, health, safety, or welfare risk.' R. rattus is not on the Fis 805.02 non-controlled release-exempt list and is an invasive exotic mammal, so a release permit would not issue; release is effectively barred. Releasing a domesticated pet would also expose the owner to animal-cruelty/abandonment liability (RSA 644:8). Rehome responsibly and check local county/municipal ordinances.",
+      "steps": [
+        "Do not release a roof rat outdoors under any circumstances; if you can no longer keep it, rehome it to another keeper.",
+        "Check local town ordinances, which may add nuisance-rodent or animal-keeping rules."
+      ],
       "forms": [],
       "where_to_file": "",
       "fees": "",
       "source_ids": [
-        "nh-207-14"
+        "nh-207-14",
+        "nh-fis-805-02"
       ]
     }
   ],
   "sources": [
     {
       "id": "nh-fis-804-02",
-      "title": "N.H. Admin. Code Fis 804.02(b)(7) — Non-controlled species ('Rats, domesticated (Rattus norvegicus and Rattus rattus)')",
+      "title": "N.H. Admin. Code Fis 804.02, Non-controlled Species - Possession (Fis 804.02(a): 'A permit to possess wildlife shall not be required for any person to possess wildlife designated as non-controlled'; Fis 804.02(b)(7)(f): 'Rats, domesticated (Rattus norvegicus and Rattus rattus)')",
       "url": "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Fis-804.02",
-      "authority": "NH Fish & Game (via Cornell LII)",
-      "accessed": "2026-06-07"
+      "authority": "NH Fish and Game (via Cornell Legal Information Institute)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-fis-800-pdf",
+      "title": "N.H. Admin. Code Chapter Fis 800, The Importation, Possession and Use of All Wildlife (adopted rule, eff. 2026-04-20): non-controlled possession Fis 804.02; import-permit exemption Fis 803.03(a); propagation permit limited to controlled species Fis 806.01(b); release rules Fis 805",
+      "url": "https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/inline-documents/sonh/fis-801-815.pdf",
+      "authority": "NH Fish and Game Department",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-fis-805-02",
+      "title": "N.H. Admin. Code Fis 805.02, Permits to Release Wildlife (non-controlled release exemptions are narrow; R. rattus is not release-exempt, so release requires a permit that would not issue for an exotic mammal)",
+      "url": "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Fis-805.02",
+      "authority": "NH Fish and Game (via Cornell Legal Information Institute)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-207-1",
+      "title": "RSA 207:1, Definitions ('Wild animals' = all animals other than domestic; 'Wildlife' reaches species whether or not raised in captivity that are normally found in a wild state)",
+      "url": "https://gc.nh.gov/rsa/html/XVIII/207/207-1.htm",
+      "authority": "NH General Court",
+      "accessed": "2026-06-14"
     },
     {
       "id": "nh-207-14",
-      "title": "RSA 207:14 — Import, Possession, or Release of Wildlife",
-      "url": "https://gc.nh.gov/rsa/html/xviii/207/207-14.htm",
+      "title": "RSA 207:14, Import, Possession, or Release of Wildlife ('No person shall import, possess, sell, exhibit, or release any live marine species or wildlife... without first obtaining a permit from the executive director'; permit may be refused for disease/ecological/health/safety/welfare risk)",
+      "url": "https://gc.nh.gov/rsa/html/XVIII/207/207-14.htm",
       "authority": "NH General Court",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
     },
     {
-      "id": "nh-437",
-      "title": "RSA ch. 437 — Sale of Pets ('pet vendor' incl. small mammals; transfers with or without fee)",
-      "url": "https://gc.nh.gov/rsa/html/XL/437/437-mrg.htm",
-      "authority": "NH General Court / Dept of Agriculture",
-      "accessed": "2026-06-07"
+      "id": "nh-437-1",
+      "title": "RSA 437:1, Definitions ('Pet vendor' includes transfers of 'small mammals customarily used as household pets to the public in quantities set in rules adopted by the department, with or without a fee or donation required, and whether or not a physical facility is owned... between January 1 and December 31 of each year'; 'Transfer' = transfer of ownership to a member of the public)",
+      "url": "https://gc.nh.gov/rsa/html/XL/437/437-1.htm",
+      "authority": "NH General Court",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-437-3",
+      "title": "RSA 437:3, Requirements (pet-vendor application, municipal zoning conformance sign-off, record-keeping of source/date/identifying marks, consent to inspection)",
+      "url": "https://gc.nh.gov/rsa/html/XL/437/437-3.htm",
+      "authority": "NH General Court",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-agr-1701-02",
+      "title": "N.H. Admin. Code Agr 1701.02, License Required (pet-vendor thresholds: 30 dogs/cats/ferrets, 50 birds, 350 fish, 200 reptiles, 200 amphibians, 'Two hundred small mammals')",
+      "url": "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Agr-1701.02",
+      "authority": "NH Dept of Agriculture, Markets & Food (via Cornell Legal Information Institute)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-agr-1701-03",
+      "title": "N.H. Admin. Code Agr 1701.03, License Exemption for Feeder Fish and Rodents (rodents typically sold as feed are excluded from the Agr 1701.02 count; the seller 'may have the buyer sign a statement that the fish or rodents being purchased are solely intended for the purposes of feeding,' and must obtain a license if records are not kept and a threshold is reached)",
+      "url": "https://www.animallaw.info/administrative/nh-pet-shop-part-agr-1702-facilities-and-operating-standards-relative-pet-shops-and",
+      "authority": "NH Dept of Agriculture, Markets & Food (via MSU Animal Legal & Historical Center)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-agr-2100",
+      "title": "N.H. Admin. Code Chapter Agr 2100, Importation of Bovines and Other Domestic Animals into New Hampshire (species-specific CVI/entry-permit rules for bovines, sheep, goats, swine, dogs/cats/ferrets, equine, poultry, household birds, cervidae, camelidae, ratites, yaks; rodents/small mammals/pocket pets not enumerated)",
+      "url": "https://www.law.cornell.edu/regulations/new-hampshire/title-Agr/chapter-Agr-2100",
+      "authority": "NH Dept of Agriculture, Markets & Food (via Cornell Legal Information Institute)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-pet-vending",
+      "title": "Pet Vending, NH Dept of Agriculture, Markets & Food (pet-vendor license overview, application, $200 annual fee, fiscal-year term)",
+      "url": "https://www.agriculture.nh.gov/farms-businesses/animal-industry/pet-vending",
+      "authority": "NH Dept of Agriculture, Markets & Food",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nh-usda-rodent-import",
+      "title": "USDA APHIS, Bring a Pet Rodent into the United States ('Veterinary Services does not have any animal health requirements related to bringing (importing) a pet rodent'; domestic interstate movement set by the receiving state; CDC bars rodents of African origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-14"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "New Hampshire Fish and Game Department (Licensing and Permitting Division)",
+      "role": "wildlife",
+      "email": "licenseandregistration@wildlife.nh.gov",
+      "form_url": "https://www.wildlife.nh.gov/licenses-and-permits",
+      "phone": "(603) 271-3421",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "New Hampshire Department of Agriculture, Markets & Food, Division of Animal Industry (Office of the State Veterinarian)",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.agriculture.nh.gov/contact-us",
+      "phone": "(603) 271-2404",
+      "primary": true,
+      "inquiry_language": "en"
     }
   ]
 }

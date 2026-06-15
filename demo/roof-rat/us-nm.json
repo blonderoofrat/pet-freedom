@@ -12,101 +12,137 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "rata de tejado",
+      "rata negra",
+      "non-domesticated animal",
+      "semi-domesticated animal",
+      "Director's Species Importation List",
+      "Group IV"
     ]
   },
-  "summary": "New Mexico's importation/possession scheme makes the roof rat legally precarious. The Dept of Game & Fish (19.35.7 NMAC, under NMSA §17-3-32) sorts non-domesticated animals into four groups, and the key default rule is that ANY species not on the Director's list 'will be designated Group IV' — prohibited for the general public. The fancy rat (R. norvegicus) is treated as semi-domesticated (Group I, no permit); Rattus rattus is not a domesticated species in that sense and does not appear on the Group I list, so it almost certainly defaults to Group IV (prohibited without a special permit). So keeping/breeding/selling/importing a roof rat is restricted — likely prohibited or permit-at-best — pending an NMDGF determination. We've queued that inquiry. (The Livestock Board's CVI rules don't apply — rodents aren't 'livestock.')",
-  "last_reviewed": "2026-06-07",
+  "summary": "New Mexico is a clear 'no' for the roof rat as the rule reads today, and the reason is one missing name on a list. The Department of Game & Fish (operating as the Department of Wildlife) regulates the importation and possession of live non-domesticated animals under NMSA 1978 Section 17-3-32 and 19.35.7 NMAC, sorting every non-domesticated species into four groups on the Director's Species Importation List. Group I species are 'designated semi-domesticated animals and do not require an importation permit'; Group IV species are 'dangerous, invasive, undesirable' and their importation is 'prohibited for the general public.' The critical default rule (19.35.7.10(A)(5)) is that 'any species of live non-domesticated animal not currently on the species importation list will be designated group IV until such time as another determination is made by the director.' The current list (dated January 3, 2023) names 'Rattus norvegicus / Rat, Common' (the fancy rat) and 'Mus musculus / Mouse, Common' in Group I, with no permit required, but it contains no entry for Rattus rattus anywhere. So the roof rat is not listed, defaults to Group IV, and is prohibited for the general public to keep, breed, sell or give away, or import, while the closely related fancy rat one species over is freely legal. There is a pathway, but it is a list-fix, not a pet permit: the rule's own language ('until such time as another determination is made by the director') and the Director's discretionary power to designate a species 'semi-domesticated' (19.35.7.7) let a keeper petition the Director to add captive-bred Rattus rattus to Group I beside the fancy rat. Group IV permits exist only for science, zoos, recovery programs, temporary events, service animals, or qualified experts, not for personal pets. The Livestock Board's CVI rules do not apply, because rodents are not 'livestock'. Never release a roof rat into the wild (19.35.7.19 bars releasing an imported animal without a release permit).",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": true,
     "kit": {
       "case_type": "agency_species_trap",
-      "problem": "In New Mexico, the domesticated pet roof rat (Rattus rattus) is restricted not because any law names it as dangerous, but because of a listing gap. The Department of Game & Fish rule on importing live non-domesticated animals (19.35.7 NMAC, under NMSA 1978 Sec. 17-3-32) sorts species into four groups. The fancy rat (Rattus norvegicus) and the house mouse are treated as semi-domesticated (Group I), which needs no permit. The roof rat is not written anywhere on the Director's Species Importation List. The rule states that any species not on the list 'will be designated group IV until such time as another determination is made by the director,' and Group IV is prohibited for the general public. A tame, captive-bred roof rat is therefore treated as prohibited by default, even though the closely related fancy rat is freely kept. The remedy the rule itself provides is 'another determination by the director,' which is the lever pet keepers can ask for.",
-      "ask": "Ask the New Mexico Department of Game & Fish, in writing, to make a Director's determination adding captive-bred, domesticated Rattus rattus to Species Importation List Group I (semi-domesticated, no permit), the same treatment already given to the fancy rat (Rattus norvegicus) and the house mouse. As a first step, request the current Director's Species Importation List and a written statement of what group Rattus rattus is in today, and whether captive-bred animals are treated differently from wild ones. This is a species-listing gap, not a domestication question: captive-bred roof rats are tame, raised entirely indoors, and never released, so they meet the rule's own definition of semi-domesticated, a species 'commonly tamed, raised, bred or sold in captivity.' Domestication, not wild ancestry, is what the rule rewards: the dog descends from the wolf and the cat from a wild felid, yet both are domestic, and the Department already extended Group I to the fancy rat and the house mouse despite their wild origins. The fancy rat is itself the wild brown rat, domesticated only in the 19th century (see https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/), so a captive-bred roof rat qualifies on the same basis, one species over.",
-      "branch_note": "This is an agency problem (a species-listing gap), not a law-as-written problem, so the lever is the Department of Game & Fish, and the agency can fix it without legislation. The roof rat is not named on any statutory prohibited list. Its prohibition is a regulatory default: 19.35.7.9 NMAC states any species not on the Director's Species Importation List 'will be designated group IV until such time as another determination is made by the director.' Two facts make this an agency lever: (1) the same rule gives the Director discretionary power to classify a species as semi-domesticated (Group I) 'in those instances where individual members of such species are commonly tamed, raised, bred or sold in captivity,' which captive-bred roof rats are, and which the Department already applied to the fancy rat; (2) because the Director assigns the list groups, the Director can move R. rattus off the default by a written determination, with no statutory change. The agency is the correct target; this is not a case of the agency applying a fixed statutory list correctly. The legislature is a backstop only if the Department refuses; the primary channel is a written petition or inquiry to NMDGF requesting a Director's determination and the current list. The statute (NMSA 17-3-32) only creates the permit requirement and exempts domesticated animals; it does not itself list R. rattus as prohibited, which confirms the gap lives in the agency's list, where the agency holds the cure.",
+      "problem": "New Mexico sorts every non-domesticated animal into four groups on the Department of Game & Fish 'Director's Species Importation List,' under NMSA 1978 Section 17-3-32 and 19.35.7 NMAC. Group I species are 'designated semi-domesticated animals and do not require an importation permit.' Group IV species are 'dangerous, invasive, undesirable' and 'prohibited for the general public.' The current list (dated January 3, 2023) names 'Rattus norvegicus / Rat, Common,' the domestic fancy rat sold in pet shops, and 'Mus musculus / Mouse, Common' in Group I, with no permit needed. It contains no entry for 'Rattus rattus,' the domestic roof rat. Because the roof rat is on no group, the rule's default clause (19.35.7.10(A)(5)) controls: 'any species of live non-domesticated animal not currently on the species importation list will be designated group IV until such time as another determination is made by the director.' So a captive-bred, hand-tame pet roof rat defaults to Group IV (prohibited), and the Group IV exceptions are for science, zoos, recovery programs, temporary events, service animals, or qualified experts, not personal pets, while the fancy rat one species over is freely legal with no permit at all. This is not a behavioral or safety judgment about the roof rat; it is a gap in a list. The fancy rat already on the list is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is the same case one species over.",
+      "ask": "Ask the New Mexico Department of Game & Fish, in writing, to make a Director's determination adding captive-bred, domesticated Rattus rattus to the Director's Species Importation List as a Group I semi-domesticated animal (no permit), the same treatment already given to the fancy rat (Rattus norvegicus) and the house mouse (Mus musculus). As a first step, request the current Director's Species Importation List and a written statement of what group Rattus rattus is in today, and whether captive-bred animals are treated differently from wild ones. This is a species-listing gap, not a domestication question: captive-bred roof rats are tame, raised entirely indoors, and never released, so they meet the rule's own definition of a species the Director may designate semi-domesticated, one 'commonly tamed, raised, bred or sold in captivity' (19.35.7.7). Domestication, not wild ancestry, is what the rule rewards: the dog descends from the wolf and the cat from a wild felid, yet both are domestic, and the Department already extended Group I to the fancy rat and the house mouse despite their wild origins. The fancy rat is itself the wild brown rat, domesticated only in the 19th century (see https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/), so a captive-bred roof rat qualifies on the same basis, one species over. Whether a captive-bred Rattus rattus is domesticated in the same sense as the fancy rat already on the list is a question for the Department to decide; the petitioner is not asking it to assume any particular answer.",
+      "branch_note": "This is an AGENCY problem, a species-listing gap, not a law-as-written problem, so the lever is the Department of Game & Fish, and the agency can fix it without legislation. The roof rat is named on no statutory prohibited list. Its prohibition is a regulatory default: 19.35.7.10(A)(5) provides that any species not on the Director's Species Importation List 'will be designated group IV until such time as another determination is made by the director.' Two facts make this an agency lever: (1) the same rule gives the Director discretionary power to designate a species semi-domesticated (Group I) 'in those instances where individual members of such species are commonly tamed, raised, bred or sold in captivity' (19.35.7.7), which captive-bred roof rats are, and which the Department already applied to the fancy rat and the house mouse; (2) because the Director assigns the list groups, the Director can move R. rattus off the Group IV default by a written determination, with no statutory change, which is exactly the 'another determination is made by the director' the rule contemplates. The statute (NMSA 17-3-32) only creates the import-permit requirement and exempts 'domesticated animals'; it does not itself list R. rattus as prohibited, which confirms the gap lives in the agency's list, where the agency holds the cure. The petitioner should be candid that the outcome is not assured: New Mexico is a high-plague state (Yersinia pestis is endemic in wild rodents) and state pest materials treat the roof rat as an invasive disease vector, so the Director could decline a Group I placement or instead place it in a permitted group (Group II or III). A realistic ask therefore offers the Department two acceptable outcomes: best case, add captive-bred R. rattus to Group I beside the fancy rat; failing that, place it in Group II or III so that at least a permitted pathway exists rather than a flat Group IV prohibition. The Legislature is a backstop only if the Department refuses both; the primary channel is a written petition or inquiry to NMDGF requesting a Director's determination and the current list.",
       "time_sensitive": "",
       "targets": [
         {
-          "name": "New Mexico Department of Game & Fish (Department of Wildlife) — general inquiries / Species Importation",
+          "name": "New Mexico Department of Game & Fish (Department of Wildlife) - Special Use Permits Program / Species Importation",
           "type": "agency",
-          "email": "ispa@dgf.nm.gov",
+          "email": "DGF.Permits@dgf.nm.gov",
           "form_url": "https://wildlife.dgf.nm.gov/home/contact/",
-          "why": "Primary and decisive lever. The Director of this Department maintains the Species Importation List and has explicit regulatory authority (19.35.7 NMAC) to designate a species as semi-domesticated (Group I) by written determination — exactly the change needed for captive-bred R. rattus. This is the verified official inbox (ispa@dgf.nm.gov, shown on the Department's own contact page) and contact page; use it to request the current list, ask what group R. rattus is in, and petition to add it to Group I."
+          "why": "Primary and decisive lever. The Special Use Permits Program (LE Field Operations Division) maintains the Director's Species Importation List and processes importation and special-use permits, and the Director has explicit regulatory authority (19.35.7.7) to designate a species semi-domesticated (Group I) by written determination, exactly the change needed for captive-bred R. rattus. Use the Special Use Permits inbox (DGF.Permits@dgf.nm.gov, shown on the Department's permits materials) to request the current list, ask what group R. rattus is in, and petition to add it to Group I. The general licensing/customer inbox ispa@dgf.nm.gov and the contact page are alternates."
         },
         {
           "name": "Director's Species Importation List (official current PDF)",
           "type": "agency",
           "form_url": "https://wildlife.dgf.nm.gov/download/directors-species-importation-list/",
-          "why": "Verified official download of the current list (last updated Jan 2023). Read it first to confirm R. rattus is absent (and thus defaulting to Group IV) and to cite the exact Group I entries for the fancy rat / house mouse as your precedent when you write to the Department."
+          "why": "Verified official download of the current list (dated January 3, 2023). Read it first to confirm R. rattus is absent (and thus defaulting to Group IV) and to cite the exact Group I entries for the fancy rat ('Rattus norvegicus / Rat, Common') and the house mouse ('Mus musculus / Mouse, Common') as your precedent when you write to the Department."
         },
         {
-          "name": "New Mexico Legislature — Find My Legislator",
+          "name": "New Mexico Legislature - Find My Legislator",
           "type": "legislature",
-          "form_url": "https://www.nmlegis.gov/members/find_my_legislator",
-          "why": "Secondary backstop ONLY. The agency can and should fix this itself, so go here only if the Department declines to make a Director's determination — your legislator can prompt the agency or, if ever needed, pursue a statutory clarification. Official tool to find and contact your own state representative and senator."
+          "form_url": "https://www.nmlegis.gov/Members/Legislator_List",
+          "why": "Secondary backstop ONLY. The agency can and should fix this itself, so go here only if the Department declines to make a Director's determination; your legislator can prompt the agency or, if ever needed, pursue a statutory clarification. Official tool to find and contact your own state representative and senator."
         }
       ],
       "template": {
-        "en": "To the New Mexico Department of Game & Fish, Director's Species Importation List:\n\nI am writing about a gap in the Director's Species Importation List under 19.35.7 NMAC. The domesticated pet roof rat (Rattus rattus) does not appear on the list, so it defaults to Group IV (prohibited), even though the closely related fancy rat (Rattus norvegicus) and the house mouse are treated as semi-domesticated Group I and need no permit.\n\nThe captive-bred roof rats kept by hobbyists are tame, raised entirely indoors, and never released to the wild. They meet the rule's own definition of a semi-domesticated species, one 'commonly tamed, raised, bred or sold in captivity.' This is a listing gap, not a question of domestication. Domestication, not wild ancestry, is what the rule rewards: the dog descends from the wolf and the cat from a wild felid, yet both are domestic, and the Department already placed the fancy rat and the house mouse in Group I despite their wild origins. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat qualifies on the same basis.\n\nI respectfully request: (1) a copy of the current Director's Species Importation List and a written statement of what group Rattus rattus is in today; and (2) that the Director make a determination adding captive-bred, domesticated Rattus rattus to Group I, on the same basis as the fancy rat.\n\nThank you for your consideration.\n\n[Your name]\n[Your city, New Mexico]\n[Your email]",
-        "es": "Al Departamento de Caza y Pesca de Nuevo México, Lista de Importación de Especies del Director:\n\nLes escribo respecto a un vacío en la Lista de Importación de Especies del Director, conforme a 19.35.7 NMAC. La rata de techo domesticada (Rattus rattus) no aparece en la lista, por lo que queda por defecto en el Grupo IV (prohibida), aunque la rata fancy estrechamente emparentada (Rattus norvegicus) y el ratón doméstico se tratan como semidomesticados del Grupo I y no requieren permiso.\n\nLas ratas de techo criadas en cautiverio que mantienen los aficionados son mansas, se crían totalmente en interiores y nunca se liberan a la naturaleza. Cumplen con la propia definición de la norma de especie semidomesticada: aquella \"comúnmente amansada, criada, reproducida o vendida en cautiverio\". Se trata de un vacío en la lista, no de una cuestión de domesticación. Lo que la norma premia es la domesticación, no la ascendencia silvestre: el perro desciende del lobo y el gato de un félido silvestre, y aun así ambos son domésticos, y el Departamento ya colocó a la rata fancy y al ratón doméstico en el Grupo I pese a su origen silvestre. La rata fancy es la propia rata parda silvestre, domesticada apenas en el siglo XIX, de modo que una rata de techo criada en cautiverio califica sobre la misma base.\n\nSolicito respetuosamente: (1) una copia de la Lista de Importación de Especies del Director vigente y una declaración por escrito sobre en qué grupo se encuentra hoy Rattus rattus; y (2) que el Director emita una determinación para añadir a Rattus rattus domesticada y criada en cautiverio al Grupo I, sobre la misma base que la rata fancy.\n\nGracias por su atención.\n\n[Su nombre]\n[Su ciudad, Nuevo México]\n[Su correo electrónico]"
+        "en": "To the New Mexico Department of Game & Fish, Special Use Permits Program (Director's Species Importation List):\n\nI am writing about a gap in the Director's Species Importation List under 19.35.7 NMAC. The domesticated pet roof rat (Rattus rattus) does not appear on the list, so under 19.35.7.10(A)(5) it defaults to Group IV (prohibited for the general public), even though the closely related fancy rat (Rattus norvegicus / 'Rat, Common') and the house mouse (Mus musculus / 'Mouse, Common') are both Group I semi-domesticated and need no permit.\n\nThe captive-bred roof rats kept by hobbyists are tame, raised entirely indoors, and never released to the wild. They meet the rule's own definition of a species the Director may designate semi-domesticated, one 'commonly tamed, raised, bred or sold in captivity' (19.35.7.7). This is a listing gap, not a question of domestication. Domestication, not wild ancestry, is what the rule rewards: the dog descends from the wolf and the cat from a wild felid, yet both are domestic, and the Department already placed the fancy rat and the house mouse in Group I despite their wild origins. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat qualifies on the same basis.\n\nI respectfully request: (1) a copy of the current Director's Species Importation List and a written statement of what group Rattus rattus is in today, and whether captive-bred animals are treated differently from wild ones; and (2) that the Director make a determination adding captive-bred, domesticated Rattus rattus to Group I, on the same basis as the fancy rat. If the Department concludes some oversight is warranted, I would ask in the alternative that it place captive-bred Rattus rattus in Group II or III, so that at least a permitted pathway exists rather than a flat Group IV prohibition.\n\nThank you for your consideration.\n\n[Your name]\n[Your city, New Mexico]\n[Your email]",
+        "es": "Al Departamento de Caza y Pesca de Nuevo Mexico, Programa de Permisos de Uso Especial (Lista de Importacion de Especies del Director):\n\nLes escribo respecto a un vacio en la Lista de Importacion de Especies del Director, conforme a 19.35.7 NMAC. La rata de techo domesticada (Rattus rattus) no aparece en la lista, por lo que, segun 19.35.7.10(A)(5), queda por defecto en el Grupo IV (prohibida para el publico en general), aunque la rata fancy estrechamente emparentada (Rattus norvegicus / 'Rat, Common') y el raton domestico (Mus musculus / 'Mouse, Common') son ambos del Grupo I semidomesticados y no requieren permiso.\n\nLas ratas de techo criadas en cautiverio que mantienen los aficionados son mansas, se crian totalmente en interiores y nunca se liberan a la naturaleza. Cumplen con la propia definicion de la norma de una especie que el director puede designar semidomesticada: aquella 'comunmente amansada, criada, reproducida o vendida en cautiverio' (19.35.7.7). Se trata de un vacio en la lista, no de una cuestion de domesticacion. Lo que la norma premia es la domesticacion, no la ascendencia silvestre: el perro desciende del lobo y el gato de un felido silvestre, y aun asi ambos son domesticos, y el Departamento ya coloco a la rata fancy y al raton domestico en el Grupo I pese a su origen silvestre. La rata fancy es la propia rata parda silvestre, domesticada apenas en el siglo XIX, de modo que una rata de techo criada en cautiverio califica sobre la misma base.\n\nSolicito respetuosamente: (1) una copia de la Lista de Importacion de Especies del Director vigente y una declaracion por escrito sobre en que grupo se encuentra hoy Rattus rattus y si los animales criados en cautiverio reciben un trato distinto al de los silvestres; y (2) que el Director emita una determinacion para anadir a Rattus rattus domesticada y criada en cautiverio al Grupo I, sobre la misma base que la rata fancy. Si el Departamento concluye que se justifica alguna supervision, solicitaria en su lugar que coloque a la Rattus rattus criada en cautiverio en el Grupo II o III, de modo que al menos exista una via con permiso en lugar de una prohibicion absoluta del Grupo IV.\n\nGracias por su atencion.\n\n[Su nombre]\n[Su ciudad, Nuevo Mexico]\n[Su correo electronico]"
       },
-      "confidence_notes": "VERIFIED (June 2026): (1) 19.35.7 NMAC's default rule, quoted directly from the official rule text on srca.nm.gov: any non-domesticated species not on the list \"will be designated group IV until such time as another determination is made by the director,\" and Group IV is \"prohibited for the general public.\" (2) The Director's discretionary power to designate semi-domesticated (Group I) species \"commonly tamed, raised, bred or sold in captivity\" — quoted from the same rule. (3) Group I requires no importation permit. (4) NMSA 1978 Sec. 17-3-32 creates the permit requirement and exempts domesticated animals but does NOT itself list R. rattus — so the prohibition is a regulatory default, confirming this is an agency lever. (5) Official contacts: ispa@dgf.nm.gov and the contact page https://wildlife.dgf.nm.gov/home/contact/ both verified live on the Department's own site; the current Director's Species Importation List download (last updated Jan 6, 2023) verified at https://wildlife.dgf.nm.gov/download/directors-species-importation-list/; the legislature's Find My Legislator page verified at nmlegis.gov. UNCERTAIN / NOT INDEPENDENTLY CONFIRMED: I could not parse the list PDF itself in this session (the file redirected/404'd through the fetch tool), so the specific assertion that R. rattus is ABSENT while R. norvegicus and Mus musculus appear in Group I is from prior research plus the rule's structure, not from reading the current PDF line-by-line — the reader should download and confirm the exact entries. There is no separate small-rodent permit category, and the Livestock Board's rules do not apply to rodents. This is a research aid, not legal advice; classifications can change, so confirm the live list and current group with the Department before acquiring or importing any animal. No live bill or open comment window was found, so time_sensitive is left blank — this is a standing petition opportunity, not a deadline.",
+      "confidence_notes": "VERIFIED (15 June 2026) against primary sources, including direct extraction of the official list PDF. CONFIRMED: (1) 19.35.7.10(A)(5) default rule, quoted verbatim from the official rule text on srca.nm.gov and from the list PDF's own legend: 'any species of live non-domesticated animal not currently on the species importation list will be designated group IV until such time as another determination is made by the director.' (2) Group I definition verbatim: 'designated semi-domesticated animals and do not require an importation permit'; Group IV verbatim: 'dangerous, invasive, undesirable... prohibited for the general public but may be allowed for, scientific study, department approved restoration and recovery plans, zoological display, temporary events/entertainment, use as service animal or by a qualified expert.' (3) The Director's discretionary power to designate semi-domesticated species 'commonly tamed, raised, bred or sold in captivity' quoted from 19.35.7.7 (confirmed on srca.nm.gov and Cornell LII). (4) DIRECT PDF VERIFICATION: I downloaded the current Director's Species Importation List PDF (27 pages, dated January 3, 2023, 'Updated 2023') and extracted its full text. It lists 'Mammal Rodent Muridae Rattus norvegicus Rat, Common I' and 'Mammal Rodent Muridae Mus musculus Mouse, Common I' in Group I, and contains NO 'Rattus rattus' / 'roof rat' / 'black rat' / 'ship rat' entry anywhere, and no genus- or family-level catch-all that would sweep it in; so R. rattus defaults to Group IV by 19.35.7.10(A)(5). (5) NMSA 1978 Section 17-3-32 makes it a misdemeanor to import live animals without a Game & Fish permit, excepts 'domesticated animals or domesticated fowl or fish from government hatcheries,' and the annotation places 'the burden on importer to prove' animals were domesticated; confirmed via web search and the Justia mirror (the live Justia page returned 403 to the fetch tool but the statute text is corroborated by the rule structure and search results). (6) 19.35.7.8 (unlawful to import a non-domesticated animal without a permit except Group I) and 19.35.7.19 (no release of an imported animal without a release permit) verified verbatim. DR OVERREACH / CORRECTIONS: the DR cited the default rule as '19.35.7.10(B)(5)' (table) and '19.35.7.9' (kit); the correct citation is 19.35.7.10(A)(5). The DR asserted the list shows 'White rat - Rattus norvegicus Var. albinus' and 'Mice: white, waltzing, singing - Mus musculus Var. shaker, piebald'; those exact strings come from a third-party site (the DR's footnote 14, faithfulfoxes.com), NOT the current official list, which uses the plain binomials 'Rattus norvegicus / Rat, Common' and 'Mus musculus / Mouse, Common.' The DR's core legal conclusion (R. rattus defaults to Group IV; fancy rat freely legal; keep/breed/sell/transport prohibited for the general public) is CORRECT and now primary-source verified. UNCERTAIN: whether the Department in practice enforces the Group IV prohibition against a small caged pet rodent, or would entertain a Group I petition, is unconfirmed and routed to the Department as an open question. This is a research aid, not legal advice; classifications can change, so confirm the live list and current group with the Department before acquiring or importing any animal. No live bill or open comment window was found, so time_sensitive is left blank; this is a standing petition opportunity, not a deadline.",
       "local_lang": "en"
     }
   },
   "activities": {
     "keep": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "Under 19.35.7 NMAC, possessing a non-domesticated animal without an importation permit is unlawful, and the default rule designates any species not on the Director's Importation List as Group IV (prohibited for the general public; allowed only for science/zoo/etc.). R. rattus is not a selectively domesticated species like R. norvegicus and isn't on the Group I (semi-domesticated, no-permit) list — so it almost certainly defaults to Group IV. Keeping is therefore restricted/likely prohibited pending an NMDGF determination.",
-      "governing_law": "NMSA §17-3-32; 19.35.7 NMAC (Group I-IV; default = Group IV); Director's Species Importation List.",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "The roof rat is a non-domesticated species not on the Director's Species Importation List, so under 19.35.7.10(A)(5) it 'will be designated group IV until such time as another determination is made by the director,' and Group IV species are 'prohibited for the general public.' The current list (Jan 3, 2023) names 'Rattus norvegicus / Rat, Common' and 'Mus musculus / Mouse, Common' in Group I (no permit) but contains no Rattus rattus entry, confirmed by direct extraction of the official PDF. The Group IV exceptions are for scientific study, department-approved restoration/recovery, zoological display, temporary events/entertainment, service animal, or qualified expert; personal pet ownership is not among them, and the Department does not issue a Group IV pet-keeping permit. The 'domesticated animals' exemption in NMSA 17-3-32 does not reach R. rattus, because the Department has not designated it domesticated/semi-domesticated; the burden is on the importer to prove an animal is domesticated. The only lawful route to possession is first to obtain a Director's determination (19.35.7.7) adding captive-bred R. rattus to Group I (or to a permitted group). General animal-cruelty law applies. Never release (19.35.7.19).",
+      "governing_law": "NMSA 1978 Section 17-3-32 (import-permit misdemeanor; 'domesticated animals' exempt; burden on importer to prove domestication); 19.35.7.7 (non-domesticated / semi-domesticated definitions; Director's discretion); 19.35.7.10(A) (Group I-IV) and 19.35.7.10(A)(5) (unlisted = Group IV); Director's Species Importation List (Jan 3, 2023; R. norvegicus and Mus musculus Group I, R. rattus absent).",
       "source_ids": [
         "nm-19-35-7",
+        "nm-19-35-7-cornell",
+        "nm-dgf-list",
         "nm-17-3-32"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "Breeding presupposes lawful possession; for a non-Group-I species that requires an importation/possession permit (with containment + health conditions), and if R. rattus is Group IV, breeding is prohibited for the general public. No separate NM small-rodent breeder license exists.",
-      "governing_law": "19.35.7 NMAC; NMSA §17-3-32.",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Breeding presupposes lawful possession, and the general public cannot lawfully possess a Group IV species. Because R. rattus is unlisted and defaults to Group IV (19.35.7.10(A)(5)), a private or commercial breeding program for the pet trade is prohibited. New Mexico offers no small-breeder, hobbyist, or residential exemption for Group IV wildlife, and its dedicated propagation framework is for game birds, not non-domesticated rodents. If an accredited zoo or research institution qualified for a Group IV permit, breeding might be allowed under the facility's approved containment and veterinary plans (19.35.7.12 requires a containment/confinement plan and an accredited-veterinarian health certificate), but that institutional route is not a pet-breeder pathway. Federal USDA/AWA licensing can reach a large-scale dealer who ships wholesale/sight-unseen, but cannot make a state-prohibited species lawful to breed in New Mexico.",
+      "governing_law": "19.35.7.10(A)(5) (unlisted = Group IV, prohibited for the public); 19.35.7.8 (unlawful import without permit except Group I); 19.35.7.12 (permit-holder containment + veterinary health requirements); NMSA 1978 Section 17-3-32; federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers only.",
       "source_ids": [
-        "nm-19-35-7"
+        "nm-19-35-7",
+        "nm-dgf-list",
+        "nm-usda-awa"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "19.35.7 NMAC lists 'purchase, barter, transfer, sell' as unlawful for Group II-IV species without a department permit/license. If R. rattus is Group IV, sale and transfer (including free gifting) are prohibited for the general public; if Group II/III, possible under permit.",
-      "governing_law": "19.35.7 NMAC (unlawful acts); NMSA §17-3-32.",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Transferring ownership of a Group IV species is among the most restricted activities. 19.31.10.10(C) makes it 'unlawful to purchase, possess, barter, transfer, transport, sell, or offer to sell any live animal listed as group II, III or IV on the directors species importation list or any protected species without a department issued permit or license.' Because R. rattus defaults to Group IV, both sale and free gifting are prohibited for the general public: even a free transfer is barred, because the recipient cannot lawfully possess a Group IV animal. No commercial pet store, wholesaler, or dealer can lawfully traffic in roof rats in New Mexico. (By contrast, for Group I species like the fancy rat, a pet store can hold a single annual commercial-importation permit covering multiple animals and the retail buyer needs no permit, the streamlined channel that is closed to R. rattus until it is moved to Group I.)",
+      "governing_law": "19.31.10.10(C) (unlawful to purchase/possess/barter/transfer/transport/sell/offer Group II-IV without a department permit/license); 19.35.7.10(A)(5) (unlisted = Group IV); 19.35.7.8; NMSA 1978 Section 17-3-32.",
       "source_ids": [
-        "nm-19-35-7"
+        "nm-19-31-10",
+        "nm-19-35-7",
+        "nm-dgf-list"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "NMSA §17-3-32 makes it a misdemeanor to import any live non-domesticated animal without an NMDGF permit (only domesticated animals are exempt) — so crossing the state line with a roof rat without a permit is unlawful if it's non-domesticated/Group IV. The Livestock Board (21.32 NMAC) does NOT apply (rodents aren't 'livestock'), so no CVI route there. No-release rule applies.",
-      "governing_law": "NMSA §17-3-32; 19.35.7 NMAC; 21.32 NMAC (inapplicable to rodents).",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Importing or transporting a roof rat into or within New Mexico is prohibited while the species defaults to Group IV. NMSA 1978 Section 17-3-32 makes it a misdemeanor to import any live animal without a Game & Fish permit (only 'domesticated animals' are exempt, which R. rattus is not), and 19.35.7.8 provides it is 'unlawful to import any live non-domesticated animal into New Mexico without first obtaining appropriate permit(s) issued by the director except those animals identified within the species importation list group I.' R. rattus is not Group I, so bringing one across the state line, even as a personal pet in a private vehicle, is unlawful; that Group IV import permit is not available to the general public. Internal transport is separately barred by 19.31.10.10(C) (unlawful to 'transport' a Group IV animal without a permit). The Livestock Board's CVI/import rules do not apply, because rodents are not 'livestock' (a standard CVI is legally insufficient here). Common carriers acting in their regular duties are exempt from the 'importer' definition (19.35.7.7), but that shields only the carrier; the sender and the receiver remain liable. Never release an imported animal without a release permit (19.35.7.19).",
+      "governing_law": "NMSA 1978 Section 17-3-32 (import-permit misdemeanor; 'domesticated animals' exempt); 19.35.7.8 (unlawful to import non-domesticated without permit except Group I); 19.31.10.10(C) (unlawful to transport Group II-IV without permit); 19.35.7.7 (common-carrier exemption from 'importer'); 19.35.7.19 (no release); Livestock Board CVI rules inapplicable to rodents.",
       "source_ids": [
         "nm-17-3-32",
-        "nm-19-35-7"
+        "nm-19-35-7",
+        "nm-19-31-10",
+        "nm-usda-rodent-import"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "sell_give",
+        "transport"
+      ],
+      "summary": "Default Group IV prohibition. Because Rattus rattus is on no group of the Director's Species Importation List, 19.35.7.10(A)(5) designates it Group IV, 'prohibited for the general public.' There is no pet-keeping, breeding, or transfer permit a member of the public can obtain for it; Group IV permits are only for science, zoos, recovery programs, temporary events, service animals, or qualified experts. Do NOT acquire, import, or transfer a roof rat in New Mexico while it defaults to Group IV. Unlawful possession of a Group IV animal can lead to seizure and a misdemeanor charge.",
+      "steps": [
+        "Understand that no public pet-keeping or transfer permit exists for a Group IV species in New Mexico.",
+        "Do not acquire or import a roof rat into New Mexico until the species is reclassified by the Director; doing so is unlawful and the animal can be confiscated.",
+        "Check local county/city ordinances as well; municipalities may further restrict rodent keeping even if the species is later reclassified."
+      ],
+      "forms": [],
+      "where_to_file": "New Mexico Dept of Game & Fish - Special Use Permits Program",
+      "source_ids": [
+        "nm-19-35-7",
+        "nm-19-31-10"
+      ]
+    },
     {
       "type": "permit",
       "applies_to": "person",
@@ -116,51 +152,123 @@
         "sell_give",
         "transport"
       ],
-      "summary": "Because R. rattus is not on NMDGF's semi-domesticated (Group I) list, it likely defaults to Group IV (prohibited for the general public). Do NOT acquire or import one before confirming its group with NMDGF; request the current Director's Species Importation List and consider petitioning to add captive-bred R. rattus to Group I. Never release.",
+      "summary": "Director's determination (the only pathway). The Group IV default holds only 'until such time as another determination is made by the director' (19.35.7.10(A)(5)), and 19.35.7.7 gives the Director discretion to designate a species 'semi-domesticated' (Group I) where its members are 'commonly tamed, raised, bred or sold in captivity.' A keeper or breeder can petition the Director to add captive-bred Rattus rattus to Group I beside the fancy rat (best outcome), or, failing that, to a permitted group (Group II or III) so a permit pathway at least exists. Only after such a determination can keeping/breeding/transfer become lawful. The Department already lists 'Rattus norvegicus / Rat, Common' and 'Mus musculus / Mouse, Common' in Group I as the direct precedent.",
       "steps": [
-        "Request the Director's Species Importation List + R. rattus's group from NMDGF (ispa@dgf.nm.gov)",
-        "If pursuing reform: petition to add captive-bred R. rattus to Group I"
+        "Request the current Director's Species Importation List and a written statement of R. rattus's current group from the Special Use Permits Program (DGF.Permits@dgf.nm.gov).",
+        "Petition the Director, in writing, to make a determination adding captive-bred domesticated Rattus rattus to Group I, citing the Group I precedent for the fancy rat and house mouse and the 19.35.7.7 semi-domesticated definition.",
+        "If Group I is declined, ask in the alternative for placement in Group II or III so a permitted pathway exists.",
+        "If informal email fails, an Inspection of Public Records Act (IPRA) request can obtain internal NMDGF memos on the regulation of pet rodents."
       ],
       "forms": [],
-      "where_to_file": "New Mexico Dept of Game & Fish — Special Use Permits",
+      "where_to_file": "New Mexico Dept of Game & Fish - Special Use Permits Program, 1 Wildlife Way, Santa Fe, NM 87507",
+      "fees": "No fee to petition for a determination. (For the separate Group IV institutional importation permits that are NOT available to pet keepers, the fee tier under 19.30.9 NMAC is $15 for 1-5 animals, $75 for 6-99, $300 for 100+, plus an optional $25 expedite fee.)",
+      "source_ids": [
+        "nm-19-35-7",
+        "nm-dgf-list",
+        "nm-19-30-9"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Never release a roof rat into the wild. 19.35.7.19 provides that no person shall release from captivity an imported animal into New Mexico without a release permit from the director, and R. rattus is treated as an invasive species and disease vector (New Mexico is a high-plague state). Rehome responsibly. Check local county/city ordinances.",
+      "steps": [],
+      "forms": [],
+      "where_to_file": "",
       "fees": "",
       "source_ids": [
         "nm-19-35-7"
       ]
     }
   ],
-  "inquiry_focus": "Under 19.35.7 NMAC and NMSA §17-3-32, what is the importation-list GROUP for Rattus rattus (roof/black rat)? Specifically: (1) Is it on the Director's Species Importation List at all, or does it default to Group IV (prohibited for the general public) as an unlisted non-domesticated species? (2) Does NMDGF treat captive-bred, multi-generation domesticated R. rattus any differently from wild/feral R. rattus, or extend the 'domesticated animals' exemption (as for R. norvegicus) to it? (3) Would the Department consider adding 'captive-bred domesticated races of Rattus rattus' to Group I, as the house mouse and fancy rat are treated? Please also provide the current Director's Species Importation List.",
+  "inquiry_focus": "Under 19.35.7 NMAC and NMSA 1978 Section 17-3-32, the current Director's Species Importation List (Jan 3, 2023) names 'Rattus norvegicus / Rat, Common' and 'Mus musculus / Mouse, Common' in Group I but contains no Rattus rattus entry, so R. rattus defaults to Group IV (prohibited) under 19.35.7.10(A)(5). (1) Does the Department confirm that captive-bred, domesticated Rattus rattus kept as an indoor pet is currently Group IV (prohibited for the general public to keep, breed, sell, or transport), or does the Department treat it differently? (2) Does the Department treat captive-bred, multi-generation domesticated R. rattus any differently from wild/feral R. rattus, or extend the 'domesticated animals' exemption (as for R. norvegicus) to it? (3) Will the Director make a determination adding captive-bred domesticated Rattus rattus to Group I, as the fancy rat and house mouse are treated, or in the alternative place it in Group II or III so a permit pathway exists? What is the procedure to petition for that determination?",
   "sources": [
     {
       "id": "nm-19-35-7",
-      "title": "19.35.7 NMAC — Importation of Live Non-Domesticated Animals (Group I-IV; unlisted defaults to Group IV)",
+      "title": "19.35.7 NMAC - Importation of Live Non-Domesticated Animals, Birds and Fish (19.35.7.7 definitions of non-domesticated/semi-domesticated and Director's discretion; 19.35.7.8 unlawful to import without permit except Group I; 19.35.7.10(A) Group I-IV definitions; 19.35.7.10(A)(5) unlisted species default to Group IV; 19.35.7.12 containment + veterinary requirements for permit holders; 19.35.7.19 no release without permit)",
       "url": "https://www.srca.nm.gov/parts/title19/19.035.0007.html",
-      "authority": "New Mexico Dept of Game & Fish",
-      "accessed": "2026-06-07"
+      "authority": "New Mexico Dept of Game & Fish / State Records Center and Archives",
+      "accessed": "2026-06-14"
     },
     {
-      "id": "nm-17-3-32",
-      "title": "NMSA 1978 §17-3-32 — Importing live animals; permits (misdemeanor without NMDGF permit; domesticated exempt)",
-      "url": "https://law.justia.com/codes/new-mexico/2018/chapter-17/article-3/section-17-3-32/",
-      "authority": "New Mexico Legislature",
-      "accessed": "2026-06-07"
+      "id": "nm-19-35-7-cornell",
+      "title": "N.M. Admin. Code 19.35.7.7 (Cornell LII mirror): 'Non-domesticated animal' = 'any animal species that is wild by nature not listed as semi-domesticated or protected under chapter 17 NMSA, 1978'; 'Semi-domesticated animal' = the director may designate a species as such 'in those instances where individual members of such species are commonly tamed, raised, bred or sold in captivity'",
+      "url": "https://www.law.cornell.edu/regulations/new-mexico/N-M-Admin-Code-SS-19.35.7.7",
+      "authority": "Cornell Legal Information Institute",
+      "accessed": "2026-06-14"
     },
     {
       "id": "nm-dgf-list",
-      "title": "Director's Species Importation List — NMDGF",
+      "title": "Director's Species Importation List (official PDF, dated January 3, 2023, 'Updated 2023') - Group I lists 'Mammal Rodent Muridae Rattus norvegicus Rat, Common I' and 'Mammal Rodent Muridae Mus musculus Mouse, Common I'; contains NO Rattus rattus / roof rat / black rat / ship rat entry and no genus/family catch-all (verified by direct PDF text extraction of all 27 pages); legend repeats the 19.35.7.10(A)(5) default-to-Group-IV rule",
       "url": "https://wildlife.dgf.nm.gov/download/directors-species-importation-list/",
-      "authority": "New Mexico Dept of Game & Fish",
-      "accessed": "2026-06-07"
+      "authority": "New Mexico Dept of Game & Fish, LE Field Operations Division / Special Use Permits Program",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nm-17-3-32",
+      "title": "NMSA 1978 Section 17-3-32 - Importing game animals [live animals]; permits (misdemeanor to import any live animals/birds/fish without a Game & Fish permit, 'except domesticated animals or domesticated fowl or fish from government hatcheries'; annotation: 'the burden is on importer to prove' the animals were domesticated)",
+      "url": "https://law.justia.com/codes/new-mexico/2018/chapter-17/article-3/section-17-3-32/",
+      "authority": "New Mexico Legislature (via Justia)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nm-19-31-10",
+      "title": "19.31.10 NMAC Section 19.31.10.10(C) - Hunting and Fishing, Manner and Method ('It shall be unlawful to purchase, possess, barter, transfer, transport, sell, or offer to sell any live animal listed as group II, III or IV on the directors species importation list or any protected species without a department issued permit or license')",
+      "url": "https://www.srca.nm.gov/parts/title19/19.031.0010.html",
+      "authority": "New Mexico Dept of Game & Fish / State Records Center and Archives",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nm-19-30-9",
+      "title": "19.30.9 NMAC - Game and Fish Licenses and Permits (importation/special-use permit fee tiers: $15 for 1-5 animals, $75 for 6-99, $300 for 100+, optional $25 expedite; applies to the institutional Group IV permits, not to a public pet permit, which does not exist)",
+      "url": "https://www.srca.nm.gov/parts/title19/19.030.0009.html",
+      "authority": "New Mexico Dept of Game & Fish / State Records Center and Archives",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nm-19-35-7-animallaw",
+      "title": "19.35.7 NMAC (full-text mirror) - Importation of Live Non-Domestic Animals, Birds and Fish (confirms the Group I-IV definitions, the 19.35.7.10(A)(5) unlisted-to-Group-IV default, 19.35.7.8 unlawful-import rule, and 19.35.7.19 no-release rule)",
+      "url": "https://www.animallaw.info/administrative/nm-exotic-pets-19357-importation-live-non-domestic-animals-birds-and-fish",
+      "authority": "New Mexico Dept of Game & Fish (via MSU Animal Legal & Historical Center)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nm-usda-awa",
+      "title": "USDA APHIS, Animal Welfare Act licensing (Class A breeder license applies to wholesale/sight-unseen dealers; direct-to-consumer and de minimis hobby sales exempt; research rats of genus Rattus excluded from the AWA)",
+      "url": "https://www.aphis.usda.gov/sites/default/files/license-app-pack-with-dogs-cats-and-other-animals.pdf",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nm-usda-rodent-import",
+      "title": "USDA APHIS / CDC, Bring a Pet Rodent into the United States (federal international-import layer; CDC bars rodents of African origin under 42 CFR 71.56; R. rattus is Asian in origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-14"
     }
   ],
   "contacts": [
     {
-      "agency": "New Mexico Dept of Game & Fish — Law Enforcement / Special Use Permits",
+      "agency": "New Mexico Dept of Game & Fish (Department of Wildlife) - Special Use Permits Program (LE Field Operations Division)",
       "role": "wildlife",
-      "email": "ispa@dgf.nm.gov",
-      "form_url": "",
+      "email": "DGF.Permits@dgf.nm.gov",
+      "form_url": "https://wildlife.dgf.nm.gov/home/contact/",
       "phone": "(505) 476-8064",
-      "primary": true
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "New Mexico Livestock Board",
+      "role": "agriculture",
+      "email": "",
+      "form_url": "https://www.nmlbonline.com/",
+      "phone": "(505) 841-6161",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }

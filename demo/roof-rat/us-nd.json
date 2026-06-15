@@ -12,63 +12,74 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "nontraditional livestock",
+      "certificate of veterinary inspection (CVI)"
     ]
   },
-  "summary": "North Dakota is permissive for the roof rat. Its Board of Animal Health rule (NDAC 48.1-09-02) explicitly names 'rats' — alongside gerbils, guinea pigs, hamsters, mice, and sugar gliders — as EXEMPT from both nontraditional-livestock licensing AND importation/CVI requirements (unless the State Veterinarian invokes a disease-based override). Game & Fish jurisdiction excludes animals held in private ownership, and no prohibited-species list names R. rattus. So keeping, breeding, selling/giving, and importing a captive-bred roof rat is effectively unregulated. The only loose end is that the exemption says 'rats' generically — a one-email confirmation to the State Vet would lock species coverage. Never release one.",
-  "last_reviewed": "2026-06-07",
+  "summary": "North Dakota is one of the most permissive states for keeping a roof rat, and is even more open than most because rats are not merely unlisted, they are named exempt. North Dakota splits animal regulation between Game and Fish (wildlife) and the Department of Agriculture's State Board of Animal Health (livestock and nontraditional livestock). A captive-bred roof rat is outside Game and Fish jurisdiction because NDCC 20.1-01-02(59) provides that 'Wildlife does not include domestic animals as defined by section 36-01-00.1 or birds or animals held in private ownership.' It then falls to the Board of Animal Health, whose nontraditional-livestock rule, NDAC 48.1-09-01-02, sorts species into three licensed categories and a separate exempt list. Rats are not in Category 1, 2, or 3; they are on the exempt list at 48.1-09-01-02(4)(h), which states that, unless the state veterinarian determines otherwise on disease or human-health grounds, 'Rats' are 'exempt from the importation permit and certificate of veterinary inspection requirement' that NDAC 48.1-09-02-01 otherwise imposes on nontraditional livestock. So no nontraditional-livestock license applies (those attach only to Category 2 and 3 under 48.1-09-01-03), and importing a pet rat needs neither a CVI nor an import permit. The rule says 'Rats' generically, with no binomial, so it covers Rattus rattus on the same footing as the fancy rat (Rattus norvegicus). North Dakota also has no dog/cat-style commercial pet-breeder or pet-dealer license that reaches rodents, so breeding and selling or giving a roof rat are unregulated at the state level. The only firm legal lines are the general animal-cruelty and abandonment statutes (NDCC ch. 36-21.2): never release or abandon a roof rat. Local city or county ordinances can still add limits.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "NDAC 48.1-09-02 names 'rats' as exempt from nontraditional-livestock requirements, and NDCC 20.1-01-02 excludes animals 'held in private ownership' from 'wildlife' (so Game & Fish jurisdiction doesn't apply to a captive pet). No North Dakota statute or rule lists R. rattus as prohibited/restricted. No permit to keep one. (Exemption text says 'rats' generically; State-Vet override exists but isn't invoked.)",
-      "governing_law": "NDAC 48.1-09-02 (rats exempt); NDCC 20.1-01-02 (wildlife excludes privately-owned); NDAC 48.1-09-01-01.",
+      "confidence": "high",
+      "why": "Keeping a captive-bred roof rat needs no state license or permit. Game and Fish has no jurisdiction because NDCC 20.1-01-02(59) provides that 'Wildlife does not include domestic animals as defined by section 36-01-00.1 or birds or animals held in private ownership,' and a pet rat is held in private ownership. The Board of Animal Health then governs it as nontraditional livestock, but rats are not placed in any of the licensed categories: NDAC 48.1-09-01-02 lists Category 1 (turkeys, ducks, rabbits, ratites, chinchilla, hedgehog, degus, and the like), Category 2, and Category 3, and separately at 48.1-09-01-02(4) provides that, 'Unless the state veterinarian determines it is necessary based on disease incidence information or human health or safety concerns, the following are exempt from the importation permit and certificate of veterinary inspection requirement,' listing 'Rats' at (4)(h). Nontraditional-livestock licenses, facility inspections, and fencing attach only to Category 2 and Category 3 (48.1-09-01-03), so none apply to a rat. R. rattus is also absent from the only prohibited-import provision, 48.1-09-01-02(5)(a) ('Skunks and raccoons may not be imported into the state for any purpose'). General animal-cruelty law (NDCC ch. 36-21.2; cruelty is a class C felony under 36-21.2-03) still applies.",
+      "governing_law": "NDCC 20.1-01-02(59) (wildlife excludes domestic animals and animals held in private ownership); NDAC 48.1-09-01-02 (nontraditional-livestock categories; rats exempt at (4)(h); prohibited imports at (5)(a)); NDAC 48.1-09-01-03 (license requirements apply to Category 2/3 only); NDCC 36-01-08.4 / 36-01-08 (Board of Animal Health authority); NDCC ch. 36-21.2 (treatment of animals).",
       "source_ids": [
-        "nd-48-1-09-02",
-        "nd-2011-0102"
+        "nd-48-1-09-01",
+        "nd-20-1-01-02",
+        "nd-ndda-ntl",
+        "nd-cruelty"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "Because rats are exempt from nontraditional-livestock licensing (NDAC 48.1-09-02), the Category 2/3 breeder-license requirements don't apply, and no separate ND breeder permit for exempt rodents exists. Hobby breeding is unregulated (federal USDA/AWA may apply at commercial volume).",
-      "governing_law": "NDAC 48.1-09-02; NDAC 48.1-09-01-03 (Cat 2/3 license — N/A to exempt species).",
+      "confidence": "high",
+      "why": "Breeding is unregulated at the state level. Because rats are exempt from the nontraditional-livestock framework (NDAC 48.1-09-01-02(4)(h)), the Category 2/3 license, facility-inspection, fencing, identification, and annual-inventory duties (NDAC 48.1-09-01-03 and following) do not apply, and North Dakota has no separate state breeder permit for small companion rodents. North Dakota's commercial framework regulates 'domestic animals' as defined by NDCC 36-01-00.1 (dog, cat, horse, bovine animal, sheep, goat, bison, farmed elk, llama, alpaca, swine) and licensed nontraditional livestock; rats fall in neither set, so hobby and larger-scale rat breeding are not licensed by the state. Federal USDA Animal Welfare Act licensing can reach a breeder who ships wholesale or sells sight-unseen, but direct-to-consumer pet sales and de minimis hobby breeders are federally exempt, and rats of the genus Rattus bred for research are excluded from the AWA entirely.",
+      "governing_law": "NDAC 48.1-09-01-02(4)(h) (rats exempt); NDAC 48.1-09-01-03 (Category 2/3 license, inventory, identification - not applicable to exempt species); NDCC 36-01-00.1 (narrow 'domestic animal' definition; rats excluded); federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers.",
       "source_ids": [
-        "nd-48-1-09-02"
+        "nd-48-1-09-01",
+        "nd-36-01-00-1",
+        "nd-usda-awa"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "No ND pet-dealer licensing regime for exempt rodents was found; conventional livestock-dealer licensing covers regulated livestock, not exempt pet rats. No rule prohibits transfer/sale of R. rattus. Free rehoming and sale are unregulated at the state level.",
-      "governing_law": "NDAC 48.1-09-02; NDDA Livestock Licensing (doesn't cover exempt rodents).",
+      "confidence": "high",
+      "why": "Selling or giving away a captive-bred roof rat is unregulated at the state level. North Dakota's livestock-dealer licensing and bonding rules cover commercial agricultural livestock, not exempt pet rodents, and the state has no dog/cat-style retail pet-shop or commercial-pet-breeder license that reaches rats. The nontraditional-livestock transfer paperwork (itemized bill of sale, manifest, or CVI at transfer, and the auction permit) applies to Category 2 and Category 3 animals under NDAC 48.1-09-01-03(7); rats are exempt and have no such requirement. Unlike Kentucky, North Dakota does not impose a Certificate of Veterinary Inspection to offer an animal for sale in state: the CVI/import-permit duty sits in NDAC 48.1-09-02-01 and is keyed to importation, and rats are expressly exempt from it (48.1-09-01-02(4)(h)). So both sale and free rehoming are lawful with no state permit. General cruelty law (NDCC ch. 36-21.2) applies.",
+      "governing_law": "NDAC 48.1-09-01-02(4)(h) (rats exempt); NDAC 48.1-09-01-03(7) (transfer/manifest/auction rules apply to Category 2/3 only); NDCC 36-01-00.1 (rats not a 'domestic animal' subject to livestock-dealer rules); NDDA livestock-dealer licensing (commercial agricultural livestock, not pet rodents); NDCC ch. 36-21.2 (cruelty).",
       "source_ids": [
-        "nd-48-1-09-02"
+        "nd-48-1-09-01",
+        "nd-36-01-00-1",
+        "nd-ndda-livestock-licensing"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "NDAC 48.1-09-02's exemption explicitly covers IMPORTATION requirements for rats — so no CVI or import permit is required to bring a pet rat into North Dakota by default (the State Veterinarian can impose requirements only if disease conditions warrant). In-state transport is likewise unregulated. Never release a roof rat.",
-      "governing_law": "NDAC 48.1-09-02 (importation exemption for rats); NDCC Title 36 / NDAC 48.1-13 (general CVI — not triggered for exempt species).",
+      "confidence": "high",
+      "why": "Importing, exporting, and moving a pet roof rat within North Dakota needs no state CVI or permit. The general rule, NDAC 48.1-09-02-01, provides that 'Nontraditional livestock may be imported into North Dakota only after the owner... obtains a certificate of veterinary inspection... [and] obtains an importation permit number from the office of the state veterinarian.' But NDAC 48.1-09-01-02(4) carves rats out of exactly that requirement: 'Unless the state veterinarian determines it is necessary based on disease incidence information or human health or safety concerns, the following are exempt from the importation permit and certificate of veterinary inspection requirement,' naming 'Rats' at (4)(h). Game and Fish has no transport authority over a privately owned rat because it is not 'wildlife' (NDCC 20.1-01-02(59)). So a move-in or an out-of-state purchase can cross the border with no pre-arrival paperwork, and intrastate movement is likewise unregulated. Export is governed by the destination state's rules (some states prohibit or restrict R. rattus); international movement is governed by federal CDC/USDA/USFWS rules (the CDC bars rodents of African origin). Never release a roof rat into the wild.",
+      "governing_law": "NDAC 48.1-09-02-01 (CVI + import-permit requirement for nontraditional livestock) read with NDAC 48.1-09-01-02(4)(h) (rats exempt from that requirement); NDCC 20.1-01-02(59) (not 'wildlife'); NDCC 36-21.2-04 (no abandonment/release); federal CDC/USDA/USFWS for international import.",
       "source_ids": [
-        "nd-48-1-09-02"
+        "nd-48-1-09-01",
+        "nd-48-1-09-02",
+        "nd-20-1-01-02",
+        "nd-usda-rodent-import"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
@@ -76,32 +87,146 @@
       "type": "other",
       "applies_to": "person",
       "activity": [
-        "keep"
+        "keep",
+        "transport"
       ],
-      "summary": "Never release a roof rat — it's a non-native species. Local ordinances may add limits — check your city/county. (The State Vet retains discretion to add requirements if a disease concern arises.)",
+      "summary": "Never release or abandon a roof rat. NDCC 36-21.2-04(1) provides that 'Any person that willfully engages in the abandonment of an animal is guilty of a class A misdemeanor,' and 'abandonment' is defined as relinquishing custody or control with no intent to reclaim and without placing the animal with another person able and willing to care for it. R. rattus is a non-native, invasive species, so releasing one is both unlawful and ecologically harmful. Rehome responsibly to a person who accepts the animal. Check your city/county ordinances, which can add local limits.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
       "fees": "",
       "source_ids": [
-        "nd-48-1-09-02"
+        "nd-cruelty"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "keep",
+        "transport"
+      ],
+      "summary": "Latent state-veterinarian override. The rats exemption at NDAC 48.1-09-01-02(4) opens with 'Unless the state veterinarian determines it is necessary based on disease incidence information or human health or safety concerns.' This means the State Veterinarian / Board of Animal Health could, by order or policy, impose a CVI, import permit, quarantine, or other condition on rats if a disease or human-health concern arose. The override has not been invoked against rats. Separately, NDAC 48.1-09-01-03(11) lets the board quarantine, at the owner's expense, any animal it determines poses a significant threat to wildlife, domestic animals, or human health.",
+      "steps": [
+        "No action is required while the exemption stands.",
+        "For certainty before importing or breeding at scale, ask the Office of the State Veterinarian in writing to confirm that the 'Rats' exemption (48.1-09-01-02(4)(h)) covers Rattus rattus and that no disease-based override is currently in effect."
+      ],
+      "forms": [],
+      "where_to_file": "North Dakota State Board of Animal Health / Office of the State Veterinarian.",
+      "fees": "",
+      "source_ids": [
+        "nd-48-1-09-01"
+      ]
+    },
+    {
+      "type": "registration",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Optional commercial layer for packaged feed only. Selling the live rat triggers no state registration, but if you manufacture and distribute your own packaged rat food, treats, or seed mix, that product must be registered as a 'specialty pet food' with the North Dakota Department of Agriculture before distribution (NDCC ch. 4.1-41). This regulates the feed product, not the animal.",
+      "steps": [
+        "If selling your own packaged rat diet, register each product as specialty pet food with the NDDA before distributing it in state.",
+        "Submit product labels for truth-in-labeling review (the NDDA uses an online License Application and Renewal Services portal)."
+      ],
+      "forms": [],
+      "where_to_file": "North Dakota Department of Agriculture, Pet Food Program.",
+      "fees": "Roughly $50 per in-state product and $100 per out-of-state product per two-year cycle (verify current fees with NDDA).",
+      "source_ids": [
+        "nd-ndda-petfood"
       ]
     }
   ],
   "sources": [
     {
-      "id": "nd-48-1-09-02",
-      "title": "NDAC 48.1-09-02 — Importation Requirements ('rats' exempt from NTL + import requirements)",
-      "url": "https://ndlegis.gov/information/acdata/pdf/48.1-09-02.pdf",
-      "authority": "North Dakota State Board of Animal Health",
-      "accessed": "2026-06-07"
+      "id": "nd-48-1-09-01",
+      "title": "NDAC ch. 48.1-09-01 (Nontraditional Livestock - Definitions and General Requirements): 48.1-09-01-01(15) wildlife-excludes-private-ownership definition; 48.1-09-01-02 categories (Category 1/2/3) and the exempt list at (4) naming 'h. Rats' as 'exempt from the importation permit and certificate of veterinary inspection requirement' unless the state veterinarian determines otherwise; prohibited imports at (5)(a) (skunks and raccoons; R. rattus absent); 48.1-09-01-03 Category 2/3 license/inventory/quarantine requirements",
+      "url": "https://ndlegis.gov/information/acdata/pdf/48.1-09-01.pdf",
+      "authority": "North Dakota State Board of Animal Health / ND Legislative Assembly (NDAC)",
+      "accessed": "2026-06-14"
     },
     {
-      "id": "nd-2011-0102",
-      "title": "NDCC 20.1-01-02 — 'Wildlife' definition (excludes animals held in private ownership)",
-      "url": "https://www.law.cornell.edu/regulations/north-dakota/N-D-A-C-48.1-09-01-01",
-      "authority": "North Dakota Legislature / Game & Fish",
-      "accessed": "2026-06-07"
+      "id": "nd-48-1-09-02",
+      "title": "NDAC ch. 48.1-09-02 (Nontraditional Livestock - Importation Requirements): 48.1-09-02-01 requires a certificate of veterinary inspection and an importation permit number from the Office of the State Veterinarian before nontraditional livestock may be imported (this is the requirement that rats are exempted from by 48.1-09-01-02(4)(h))",
+      "url": "https://ndlegis.gov/information/acdata/pdf/48.1-09-02.pdf",
+      "authority": "North Dakota State Board of Animal Health / ND Legislative Assembly (NDAC)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-20-1-01-02",
+      "title": "NDCC 20.1-01-02 (Title 20.1 Game, Fish, Predators, and Boating - Definitions): subsection 59 'Wildlife means any member of the animal kingdom... Wildlife does not include domestic animals as defined by section 36-01-00.1 or birds or animals held in private ownership.'",
+      "url": "https://ndlegis.gov/cencode/t20-1c01.pdf",
+      "authority": "North Dakota Legislative Assembly (NDCC)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-36-01-00-1",
+      "title": "NDCC 36-01-00.1 (Title 36 Livestock - State Board of Animal Health, definitions): defines 'domestic animal' as dog, cat, horse, bovine animal, sheep, goat, bison, farmed elk, llama, alpaca, or swine (rats excluded), and defines nontraditional livestock",
+      "url": "https://ndlegis.gov/cencode/t36c01.pdf",
+      "authority": "North Dakota Legislative Assembly (NDCC)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-cruelty",
+      "title": "NDCC ch. 36-21.2 (Treatment of Animals): 36-21.2-03 animal cruelty (class C felony); 36-21.2-04 animal abandonment ('Any person that willfully engages in the abandonment of an animal is guilty of a class A misdemeanor') with the definition of 'abandonment'; pest/vermin/animal-damage-control exemptions in each section",
+      "url": "https://ndlegis.gov/cencode/t36c21-2.pdf",
+      "authority": "North Dakota Legislative Assembly (NDCC)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-ndda-ntl",
+      "title": "NDDA Non-Traditional Livestock page: lists Arachnids, Invertebrates, Tropical freshwater and saltwater fish, Gerbils, Guinea pigs, Hamsters, Mice, Rats, Sugar gliders as exempt from non-traditional-livestock and importation requirements; summarizes Category 1 (no license), Category 2, Category 3 (license)",
+      "url": "https://www.ndda.nd.gov/divisions/animal-health/non-traditional-livestock",
+      "authority": "North Dakota Department of Agriculture",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-ndda-livestock-licensing",
+      "title": "NDDA Livestock Licensing page (livestock-dealer licensing and bonding for commercial agricultural livestock; does not reach exempt pet rodents)",
+      "url": "https://www.ndda.nd.gov/divisions/grain-livestock/livestock-licensing",
+      "authority": "North Dakota Department of Agriculture",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-ndda-petfood",
+      "title": "NDDA Commercial Feed and Pet Food Registration guidelines (specialty pet food product registration under NDCC ch. 4.1-41; only relevant if a seller distributes their own packaged rat food)",
+      "url": "https://www.ndda.nd.gov/divisions/grain-livestock/pet-food-program",
+      "authority": "North Dakota Department of Agriculture",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-usda-awa",
+      "title": "USDA APHIS, Animal Welfare Act licensing (Class A breeder license applies to wholesale/sight-unseen dealers; direct-to-consumer and de minimis hobby sales exempt; research rats of genus Rattus excluded from AWA)",
+      "url": "https://www.aphis.usda.gov/sites/default/files/license-app-pack-with-dogs-cats-and-other-animals.pdf",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "nd-usda-rodent-import",
+      "title": "USDA APHIS, Bring a Pet Rodent into the United States (federal international-import rules; CDC bars rodents of African origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-14"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "North Dakota State Board of Animal Health / Office of the State Veterinarian (Animal Health Division, North Dakota Department of Agriculture)",
+      "role": "agriculture",
+      "email": "doa-bah@nd.gov",
+      "form_url": "https://www.ndda.nd.gov/divisions/animal-health/north-dakota-state-board-animal-health",
+      "phone": "(701) 328-2655",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "North Dakota Game and Fish Department",
+      "role": "wildlife",
+      "email": "ndgf@nd.gov",
+      "form_url": "https://gf.nd.gov/contact",
+      "phone": "(701) 328-6300",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }

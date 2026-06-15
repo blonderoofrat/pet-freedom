@@ -12,11 +12,12 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "Keeping, breeding, and selling a roof rat is legal in Missouri with no state permit. The Wildlife Code expressly lets non-native mammals be 'bought, sold, possessed, transported, and exhibited without permit' (3 CSR 10-9.110), and the prohibited-species list (3 CSR 10-4.117) names other rodents (genus Mastomys) but NOT Rattus. It's not a 'dangerous wild animal' (RSMo 578.023 = large carnivores/reptiles), and the Animal Care Facilities Act licensing applies only to dogs/cats. The one requirement: importing a pet rodent needs a Certificate of Veterinary Inspection (rodents = 'miscellaneous animals'). Check your city/county ordinance, and never release one.",
-  "last_reviewed": "2026-06-06",
+  "summary": "Keeping, selling, giving away, and moving a roof rat within Missouri is legal with no state permit. The Wildlife Code reaches all mammals (the general prohibition in 3 CSR 10-4.110 bars taking, selling, possessing, propagating, or releasing any wildlife unless a rule allows it), but 3 CSR 10-9.110(2) carves out 'mammals not native to Missouri,' which may be 'bought, sold, possessed, transported, and exhibited without permit.' R. rattus is non-native, is not federally endangered, is not on the Class II dangerous-wildlife list (3 CSR 10-9.240), and is not on the prohibited-species list (3 CSR 10-4.117 names the multimammate rat/mouse, genus Mastomys, but NOT genus Rattus). The Animal Care Facilities Act (RSMo 273.325) defines a regulated 'animal' as a dog or cat only, so no state breeder or pet-shop license reaches rats. Two real conditions attach to movement, not to ownership: bringing a rat INTO Missouri requires a Certificate of Veterinary Inspection (CVI) within 30 days because the Dept of Agriculture treats it as an exotic/miscellaneous animal (2 CSR 30-2.010), and the Wildlife Code's general prohibition bars ever releasing one to the wild. One narrow textual quirk: the 3 CSR 10-9.110(2) carve-out lists buy/sell/possess/transport/exhibit but omits 'propagate' (which the very next subsection uses for fish), so breeding is best read as bundled with the unconditional right to possess and sell but is not spelled out; this is an open question for the MDC, not a known restriction. Check your city or county ordinance.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": false
   },
@@ -24,124 +25,225 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "Under 3 CSR 10-9.110, non-native mammals may be possessed without a Wildlife Code permit, except federally endangered species or those on the prohibited-species (3 CSR 10-4.117) / Class II (3 CSR 10-9.240) lists. R. rattus is non-native and on none of those (the prohibited list names genus Mastomys, not Rattus), and it's not a 'dangerous wild animal' under RSMo 578.023. No permit to keep one.",
-      "governing_law": "3 CSR 10-9.110; 3 CSR 10-4.117; RSMo 578.023.",
+      "why": "The Wildlife Code's general prohibition (3 CSR 10-4.110) bars possessing any wildlife, 'including wildlife raised or held in captivity,' unless a rule allows it, but 3 CSR 10-9.110(2) provides that, except for federally endangered species and species on the prohibited (3 CSR 10-4.117) or Class II (3 CSR 10-9.240) lists, 'mammals not native to Missouri' may be 'bought, sold, possessed, transported, and exhibited without permit.' R. rattus is a non-native mammal, is not federally endangered, is not a Class II dangerous wild animal, and is not on the prohibited-species list (3 CSR 10-4.117 names genus Mastomys, not genus Rattus). No state wildlife permit, facility inspection, or fee applies to keeping one. General animal-cruelty law (RSMo Chapter 578) still applies.",
+      "governing_law": "3 CSR 10-9.110(2) (non-native mammal carve-out); 3 CSR 10-4.110 (general prohibition reaching captive wildlife); 3 CSR 10-4.117 (prohibited species: Mastomys not Rattus); 3 CSR 10-9.240 (Class II list, no rodents); RSMo Chapter 578 (cruelty).",
       "source_ids": [
         "mo-9-110",
+        "mo-4-110",
         "mo-4-117",
-        "mo-578-023"
+        "mo-9-240",
+        "mo-578"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "The 3 CSR 10-9.110 non-native exemption covers propagation too, and the Animal Care Facilities Act (RSMo 273.325) defines 'animal' as dogs/cats only — so no state breeder license reaches pet rats. General cruelty/care law still applies.",
-      "governing_law": "3 CSR 10-9.110; RSMo 273.325 (ACFA = dogs/cats).",
+      "why": "No state license reaches breeding pet rats. The Animal Care Facilities Act defines a regulated 'animal' as 'any dog or cat' (RSMo 273.325(1)), so the Dept of Agriculture has no jurisdiction to license, inspect, or set facility standards for rat breeders regardless of scale, and there is no rodent-breeder license, hobbyist threshold, or quota in Missouri. On the conservation side, the right to breed is best read as bundled with the unconditional right to 'possess' and 'sell' a permit-exempt non-native pet under 3 CSR 10-9.110(2). One textual quirk: the 9.110(2) verb list (bought, sold, possessed, transported, exhibited) omits 'propagated,' a word the very next subsection (9.110(3)) does use for fish and crayfish, while the baseline 3 CSR 10-4.110 prohibits propagating any wildlife unless allowed. Read strictly that leaves captive breeding textually unaddressed rather than affirmatively authorized, so this is routed to the MDC as an open clarification (see contacts), not treated as a ban. General cruelty/care law (RSMo Chapter 578) applies. Federal USDA/AWA licensing can reach only a large-scale wholesale/sight-unseen dealer; direct-to-consumer and de minimis hobby sales are exempt and rats of genus Rattus bred for research are excluded from the AWA.",
+      "governing_law": "RSMo 273.325(1) (ACFA 'animal' = dog or cat, no rodent breeder license); 3 CSR 10-9.110(2) (possess/sell exemption, 'propagate' omitted) read with 3 CSR 10-4.110 (baseline propagation prohibition); RSMo Chapter 578 (cruelty); federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers.",
       "source_ids": [
+        "mo-273-325",
         "mo-9-110",
-        "mo-273-325"
+        "mo-4-110",
+        "mo-578",
+        "mo-usda-awa"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "3 CSR 10-9.110 expressly allows non-native mammals to be 'bought, sold... without permit,' and the ACFA pet-shop/dealer licensing turns on the dog/cat definition (RSMo 273.325), so selling or giving away pet rats triggers no state license.",
-      "governing_law": "3 CSR 10-9.110; RSMo 273.325.",
+      "why": "3 CSR 10-9.110(2) expressly authorizes non-native mammals to be 'bought, sold... without permit,' so no Class I/II/III Wildlife Breeder Permit or Commercial Wildlife Dealer Permit is needed to sell or give away R. rattus, provided the animal was lawfully sourced and not taken from the wild. On the agricultural side, the Animal Care Facilities Act's pet-shop and dealer licensing turns on the 'animal' = dog or cat definition (RSMo 273.325), so a vendor, hobbyist, or storefront dealing only in rats is not a regulated 'pet shop' and needs no state dealer/animal-business license. Sale or free transfer of a roof rat within Missouri is treated as an ordinary transfer of personal property, subject only to general consumer-protection and tax law plus animal-cruelty law (RSMo Chapter 578).",
+      "governing_law": "3 CSR 10-9.110(2) (non-native mammals may be bought/sold without permit); RSMo 273.325 (ACFA pet-shop/dealer licensing = dogs/cats only); RSMo Chapter 578 (cruelty).",
       "source_ids": [
         "mo-9-110",
-        "mo-273-325"
+        "mo-273-325",
+        "mo-578"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "legal",
+      "status": "legal_with_permit",
       "confidence": "high",
-      "why": "Within Missouri, no Wildlife Code permit is needed (3 CSR 10-9.110). For IMPORT, the Dept of Agriculture (2 CSR 30-2.010) requires a Certificate of Veterinary Inspection within 30 days for animals entering Missouri; rodents are 'miscellaneous animals,' so a pet rat should travel with a CVI. The Wildlife Code's no-release rule (3 CSR 10-4.110) bars ever liberating one.",
-      "governing_law": "3 CSR 10-9.110; 2 CSR 30-2.010 (import CVI); 3 CSR 10-4.110 (no-release).",
+      "why": "Intrastate transport within Missouri needs no permit: 3 CSR 10-9.110(2) expressly authorizes transporting non-native mammals without a Wildlife Code permit, so an owner may carry a roof rat for veterinary care, exhibition, or relocation inside the state with no documentation. Importation across the state line is the attached condition. The Dept of Agriculture governs animals entering Missouri under 2 CSR 30-2.010 and classifies a non-native rodent as an exotic/miscellaneous animal; 2 CSR 30-2.010(14)-(15) require that all miscellaneous and all exotic animals entering Missouri be accompanied by an official Certificate of Veterinary Inspection (CVI) issued within 30 days prior to movement, showing an individual listing of the scientific and common name and a description (sex, age, weight, coloration). No advance entry permit applies to a pet rodent. Export is governed by the destination state's rules; international movement is governed by federal CDC/USDA/USFWS rules (the CDC bars rodents of African origin). Never release a roof rat to the wild (3 CSR 10-4.110 bars liberating captive wildlife without the director's written authorization).",
+      "governing_law": "3 CSR 10-9.110(2) (no wildlife permit for intrastate transport); 2 CSR 30-2.010(14)-(15) (import CVI for miscellaneous/exotic animals, issued within 30 days); 3 CSR 10-4.110 (no release to the wild); federal CDC/USDA/USFWS for international.",
       "source_ids": [
         "mo-9-110",
-        "mo-2-30-2-010"
+        "mo-2-30-2-010",
+        "mo-4-110",
+        "mo-usda-rodent-import"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "inspection",
+      "type": "health_cert",
       "applies_to": "rat",
       "activity": [
         "transport"
       ],
-      "summary": "Importing a pet rodent into Missouri requires a Certificate of Veterinary Inspection (2 CSR 30-2.010; rodents = 'miscellaneous animals'). No CVI for in-state movement.",
-      "steps": [],
-      "forms": [],
-      "where_to_file": "Missouri Dept of Agriculture, Animal Health Division",
-      "fees": "",
+      "summary": "A Certificate of Veterinary Inspection (CVI) is required to import a roof rat INTO Missouri (2 CSR 30-2.010). The Dept of Agriculture treats a non-native rodent as an exotic/miscellaneous animal, and all such animals entering the state must be accompanied by an official CVI issued within 30 days before movement, individually listing the scientific (Rattus rattus) and common name plus a description (sex, age, weight, coloration). No CVI applies to movement entirely within Missouri, and no advance entry permit applies to a pet rodent.",
+      "steps": [
+        "Have a USDA-accredited veterinarian in the state of origin examine the rat and issue a CVI listing its scientific and common name and a physical description.",
+        "Obtain the CVI within 30 days before crossing into Missouri.",
+        "Carry the CVI with the animal during the move; the consignor and consignee physical addresses must appear on it.",
+        "No telephonic entry permit is needed for pet rodents (advance entry permits are reserved for listed livestock)."
+      ],
+      "forms": [
+        {
+          "name": "Certificate of Veterinary Inspection (CVI)",
+          "url": "https://agriculture.mo.gov/cvi/"
+        }
+      ],
+      "where_to_file": "Issued by a USDA-accredited veterinarian in the state of origin; Missouri Dept of Agriculture, Animal Health Division, oversees entry.",
+      "fees": "No state fee for the CVI; the issuing veterinarian charges an examination/paperwork fee.",
       "source_ids": [
-        "mo-2-30-2-010"
+        "mo-2-30-2-010",
+        "mo-ag-cvi"
       ]
     },
     {
       "type": "other",
       "applies_to": "person",
       "activity": [
-        "keep"
+        "keep",
+        "transport"
       ],
-      "summary": "Never release a roof rat (3 CSR 10-4.110). Local city/county ordinances (e.g., Kansas City, St. Louis) may add limits — check yours.",
+      "summary": "Never release a roof rat to the wild. 3 CSR 10-4.110 bars liberating any wildlife, including 'wildlife raised or held in captivity,' without the written authorization of the director of the Dept of Conservation, and R. rattus is an invasive species. Releasing one (including an escape or a misguided attempt to 'free' a pet) violates the Wildlife Code, an offense punishable as a misdemeanor. Use secure caging and rehome responsibly. Check local city/county nuisance-animal ordinances.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
       "fees": "",
       "source_ids": [
-        "mo-9-110"
+        "mo-4-110"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "rat",
+      "activity": [
+        "breed"
+      ],
+      "summary": "Textual ambiguity in the propagation right: 3 CSR 10-9.110(2) authorizes non-native mammals to be bought, sold, possessed, transported, and exhibited without permit but omits the word 'propagated,' which the next subsection (9.110(3)) does use for fish and crayfish, while the baseline 3 CSR 10-4.110 prohibits propagating any wildlife unless allowed. Read strictly, captive breeding of non-native pet mammals is textually unaddressed rather than affirmatively authorized. In practice the MDC almost certainly treats breeding as bundled with the right to possess and sell an unregulated house pet, but the code text does not say so. This is a clarification to seek, not a known restriction (no rat-breeder license exists under either the Wildlife Code or the ACFA).",
+      "steps": [
+        "Breed under the standard non-native-mammal possession exemption; no state breeder license exists for rats.",
+        "If certainty is needed, ask the MDC in writing whether the omission of 'propagated' in 3 CSR 10-9.110(2) restricts captive breeding of permit-exempt non-native mammals, or whether it is implicit in the right to possess and sell."
+      ],
+      "forms": [],
+      "where_to_file": "Missouri Dept of Conservation (Wildlife Code interpretation).",
+      "fees": "",
+      "source_ids": [
+        "mo-9-110",
+        "mo-4-110"
       ]
     }
   ],
   "sources": [
     {
       "id": "mo-9-110",
-      "title": "3 CSR 10-9.110 — General Prohibition; Applications (non-native mammals: buy/sell/possess/transport without permit)",
-      "url": "https://mdc.mo.gov/about-us/about-regulations/wildlife-code-missouri/3-csr-10-9110-general-prohibition-applications",
-      "authority": "Missouri Dept of Conservation",
-      "accessed": "2026-06-06"
+      "title": "3 CSR 10-9.110, General Prohibition; Applications (Section (2): 'mammals not native to Missouri' may be 'bought, sold, possessed, transported, and exhibited without permit,' except federally endangered species and those on 3 CSR 10-4.117 / 3 CSR 10-9.240; Section (3) authorizes fish and crayfish to be 'bought, sold, transported, propagated, taken, and possessed,' showing 'propagated' is omitted for mammals)",
+      "url": "https://www.law.cornell.edu/regulations/missouri/3-CSR-10-9-110",
+      "authority": "Missouri Dept of Conservation (via Cornell LII)",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mo-9-110-sos",
+      "title": "3 CSR 10-9.110 (official Missouri Secretary of State PDF of the current 3 CSR Chapter 10-9 rules)",
+      "url": "https://www.sos.mo.gov/cmsimages/adrules/csr/current/3csr/3c10-9.pdf",
+      "authority": "Missouri Secretary of State / Dept of Conservation",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mo-4-110",
+      "title": "3 CSR 10-4.110, General Prohibition; Applications (Section (1): no wildlife, 'including wildlife raised or held in captivity,' may be molested, taken, transported, bought, sold, possessed, propagated, imported, exported, or liberated to the wild except as the rules permit)",
+      "url": "https://www.law.cornell.edu/regulations/missouri/3-CSR-10-4-110",
+      "authority": "Missouri Dept of Conservation (via Cornell LII)",
+      "accessed": "2026-06-14"
     },
     {
       "id": "mo-4-117",
-      "title": "3 CSR 10-4.117 — Prohibited Species (names genus Mastomys, NOT Rattus)",
-      "url": "https://mdc.mo.gov/about-us/about-regulations/wildlife-code-missouri/3-csr-10-4117-prohibited-species",
-      "authority": "Missouri Dept of Conservation",
-      "accessed": "2026-06-06"
+      "title": "3 CSR 10-4.117, Prohibited Species (Section (1): prohibited species may not be imported, exported, transported, sold, purchased, or possessed alive without the director's written approval; Section (2)(A) Mammals names the multimammate rat/mouse genus Mastomys, flying foxes, mongooses, raccoon dogs, brushtail possums; genus Rattus is NOT listed)",
+      "url": "https://www.law.cornell.edu/regulations/missouri/3-CSR-10-4-117",
+      "authority": "Missouri Dept of Conservation (via Cornell LII)",
+      "accessed": "2026-06-14"
     },
     {
-      "id": "mo-578-023",
-      "title": "RSMo 578.023 — Keeping a dangerous wild animal (large carnivores/reptiles; no rodents)",
-      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=578.023",
-      "authority": "Missouri Revisor of Statutes",
-      "accessed": "2026-06-06"
+      "id": "mo-9-240",
+      "title": "3 CSR 10-9.240, Class II Wildlife (inherently dangerous animals: large carnivores, bears, venomous reptiles, etc.; no rodents listed, so R. rattus is not a Class II 'dangerous wild animal')",
+      "url": "https://mdc.mo.gov/about-us/about-regulations/wildlife-code-missouri/3-csr-10-9240-class-ii-wildlife",
+      "authority": "Missouri Dept of Conservation",
+      "accessed": "2026-06-14"
     },
     {
       "id": "mo-2-30-2-010",
-      "title": "2 CSR 30-2.010 — Admission of animals entering Missouri (import CVI; rodents = miscellaneous animals)",
+      "title": "2 CSR 30-2.010, Health Requirements Governing the Admission of Livestock, Poultry, Miscellaneous, and Exotic Animals Entering Missouri (Section (14)(A) miscellaneous animals and Section (15)(A) exotic animals must be accompanied by an official CVI, individually listing scientific/common name and description; all animals entering Missouri need a CVI issued within 30 days prior to movement)",
       "url": "https://www.law.cornell.edu/regulations/missouri/2-CSR-30-2-010",
       "authority": "Missouri Dept of Agriculture (via Cornell LII)",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mo-ag-cvi",
+      "title": "Missouri Dept of Agriculture, Certificates of Veterinary Inspection / Livestock Movement Requirements (practical CVI guidance: 30-day validity, accepted electronic CVI formats, physical-address requirement)",
+      "url": "https://agriculture.mo.gov/cvi/",
+      "authority": "Missouri Dept of Agriculture, Animal Health Division",
+      "accessed": "2026-06-14"
     },
     {
       "id": "mo-273-325",
-      "title": "RSMo 273.325 — Animal Care Facilities Act ('animal' = dog or cat)",
+      "title": "RSMo 273.325, Animal Care Facilities Act, Definitions ('animal' means 'any dog or cat' used or intended for research, teaching, testing, breeding, exhibition, or as a pet; 'pet shop' definition references that dog/cat-limited 'animal,' so rodent breeders/dealers are unregulated by the ACFA)",
       "url": "https://revisor.mo.gov/main/OneSection.aspx?section=273.325",
       "authority": "Missouri Revisor of Statutes",
-      "accessed": "2026-06-06"
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mo-578",
+      "title": "RSMo Chapter 578, Miscellaneous Offenses (animal-cruelty/neglect/abandonment statutes apply to any living vertebrate, the only clear legal parameters governing how kept/bred rats must be treated)",
+      "url": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=578",
+      "authority": "Missouri Revisor of Statutes",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mo-usda-awa",
+      "title": "USDA APHIS, Animal Welfare Act licensing (Class A breeder license applies to wholesale/sight-unseen dealers; direct-to-consumer and de minimis hobby sales exempt; rats of genus Rattus bred for research are excluded from the AWA)",
+      "url": "https://www.aphis.usda.gov/aphis/ourfocus/animalwelfare/sa_awa/awa-licensing-registration",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "mo-usda-rodent-import",
+      "title": "USDA APHIS / CDC, Bring a Pet Rodent into the United States (federal international-import rules; the CDC bars rodents of African origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-14"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Missouri Department of Conservation (MDC), Conservation Commission Headquarters / Wildlife Code Enforcement",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://mdc.mo.gov/contact-us",
+      "phone": "(573) 751-4115",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Missouri Department of Agriculture (MDA), Animal Health Division / State Veterinarian's Office",
+      "role": "agriculture",
+      "email": "Animal.Health@mda.mo.gov",
+      "form_url": "https://agriculture.mo.gov/animals/rules.php",
+      "phone": "(573) 751-3377",
+      "primary": true,
+      "inquiry_language": "en"
     }
   ]
 }

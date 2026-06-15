@@ -12,11 +12,13 @@
       "Rattus rattus",
       "roof rat",
       "black rat",
-      "ship rat"
+      "ship rat",
+      "Norway rat",
+      "Certificate of Veterinary Inspection (CVI)"
     ]
   },
-  "summary": "Nebraska is unusually clear: its statute defining 'wild mammals' (Neb. Rev. Stat. 37-246) EXCLUDES 'the black rat' by name (alongside the house mouse, Norway rat, fallow deer, and feral dogs/cats). 'Black rat' is the common name for Rattus rattus. Because the Captive Wildlife Permit system and the prohibited-species list (wolf/skunk/cats/bears) are scoped to 'wild mammals,' the roof rat falls entirely outside them — so keeping, breeding, and selling/giving is legal at the state level with no permit. The one procedural requirement is interstate IMPORT: the Dept of Agriculture lists rats among pet rodents needing a Certificate of Veterinary Inspection + an import permit. (Statute uses the common name, so a written Game & Parks confirmation is the only loose end.)",
-  "last_reviewed": "2026-06-07",
+  "summary": "Nebraska is one of the clearest 'yes' states for keeping a roof rat. Its statute defining 'wild mammals' (Neb. Rev. Stat. 37-246) EXCLUDES 'the black rat' by name, alongside the house mouse, the Norway rat, the fallow deer, and feral domestic dogs and cats. 'The black rat' is the common name for Rattus rattus, so the species is identically situated to the fancy rat (R. norvegicus, 'the Norway rat'), which is excluded in the same clause. Because the Captive Wildlife Permit requirement (37-477(1)) and the prohibited inherently-dangerous list (37-477(2): wolf, skunk, Felidae, Ursidae) are both scoped to 'wild mammals,' the roof rat falls entirely outside the Nebraska Game and Parks Commission's wildlife permitting system, so keeping and breeding are unregulated at the state level. Two conditions attach to commerce and movement, not to ownership. First, selling rats through a retail storefront makes the seller a 'pet shop' (rodents are listed in the 54-626 definition of 'pet animal'), which needs a Department of Agriculture pet shop license (54-627; $125, premises inspection, written veterinary-care plan); casual sales and free gifting are outside that license. Second, importing an animal into Nebraska requires a Certificate of Veterinary Inspection (23 NAC 21-004), and a pet roof rat is handled under the Department's generic 'Exotics (not bovid or cervidae)' import line, which calls for a CVI plus a pre-entry import permit number unless an approved electronic CVI (eCVI) is used. Intrastate movement and export are unregulated by the state. Never release a roof rat into the wild.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
     "flag": false
   },
@@ -24,84 +26,132 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "Neb. Rev. Stat. 37-246 defines 'wild mammals' but EXCLUDES 'the black rat' (= Rattus rattus) by name. The Captive Wildlife Permit requirement (37-477) applies only to wild mammals/birds/nongame wildlife, and the prohibited list (37-479: wolf, skunk, Felidae, Ursidae) doesn't include rats — so no state permit is required to keep one.",
-      "governing_law": "Neb. Rev. Stat. 37-246 (excludes 'the black rat'); 37-477 (permit trigger); 37-479 (prohibited species).",
+      "why": "Neb. Rev. Stat. 37-246 defines 'wild mammals' but excludes by name 'the fallow deer, the house mouse, the Norway rat, the black rat, the feral domestic dog, and the feral domestic cat.' 'The black rat' is the common name for Rattus rattus. The Captive Wildlife Permit requirement at 37-477(1) reaches only 'any wild birds, any wild mammals, any nongame wildlife in need of conservation... or any wildlife determined to be an endangered or threatened species,' and the prohibited inherently-dangerous list at 37-477(2) is 'any wolf, any skunk, or any member of the families Felidae and Ursidae.' Because R. rattus is statutorily not a wild mammal, neither the permit nor the prohibited list applies, so no state permit, registration, fee, or facility inspection is required to keep one. General animal-cruelty law still applies.",
+      "governing_law": "Neb. Rev. Stat. 37-246 (excludes 'the black rat' from 'wild mammals'); 37-477(1) (permit trigger, scoped to wild mammals/birds/nongame/endangered); 37-477(2) (prohibited list: wolf, skunk, Felidae, Ursidae).",
       "source_ids": [
         "ne-37-246",
         "ne-37-477",
-        "ne-37-479"
+        "ne-animallaw"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "The captive-wildlife propagation permits (37-477/37-480) reach only 'wild mammals' as defined; R. rattus is excluded, so breeding needs no permit. The Commercial Dog and Cat Act covers only dogs/cats. Hobby breeding is unregulated by the state.",
-      "governing_law": "Neb. Rev. Stat. 37-246; 37-477, 37-480; 54-625 et seq. (dogs/cats only).",
+      "why": "Breeding is unregulated at the state level. Because R. rattus is excluded from 'wild mammals' (37-246), the captive-wildlife system (37-477) imposes no propagation permit on it. Nebraska's commercial-breeder framework, the Commercial Dog and Cat Operator Inspection Act (Neb. Rev. Stat. 54-625 et seq.), defines 'Commercial dog breeder,' 'Commercial cat breeder,' and 'Casual breeder' exclusively in terms of dogs and cats, so there is no 'commercial rodent breeder' license category and no state rodent-breeding quota, fee, or facility standard. Hobby or large-scale rat breeding triggers no Nebraska license. Federal USDA/AWA licensing can reach a large wholesale/sight-unseen dealer, but rats of the genus Rattus bred for use as pets sold direct-to-consumer fall outside that federal layer (and research rats are excluded from the AWA entirely).",
+      "governing_law": "Neb. Rev. Stat. 37-246 (R. rattus not a wild mammal); 37-477 (captive-wildlife permits do not reach it); 54-625 et seq. / 54-626 (Commercial Dog and Cat Operator Inspection Act, breeder definitions are dogs/cats only); federal Animal Welfare Act (USDA APHIS) for wholesale/sight-unseen dealers.",
       "source_ids": [
         "ne-37-246",
-        "ne-37-477"
+        "ne-54-626",
+        "ne-usda-awa"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "sell_give": {
-      "status": "legal",
-      "confidence": "medium",
-      "why": "The captive-wildlife sale/barter rules (37-480) apply only to 'wild mammals'; R. rattus is excluded, and no Nebraska pet-dealer license covers non-livestock rodents (the Commercial Dog and Cat Act is dogs/cats). Within-state gifting and small sales are unregulated; commercial scale may trigger federal USDA/AWA licensing.",
-      "governing_law": "Neb. Rev. Stat. 37-246; 37-480; 54-625 et seq.",
+      "status": "legal_with_permit",
+      "confidence": "high",
+      "why": "Giving a roof rat away or selling a few casually (direct from a private home, no storefront) is unregulated: the 'Dealer' license under the Commercial Dog and Cat Operator Inspection Act is defined only for 'buying for resale or selling or exchanging dogs or cats,' so a person trading rodents is not a 'dealer.' The one attached condition is the pet shop license. Neb. Rev. Stat. 54-626 defines 'Pet animal' to include 'rodents' and defines 'Pet shop' as 'a retail establishment which sells pet animals and related supplies,' and 54-627 provides that 'A person shall not operate as a... pet shop unless the person obtains the appropriate license,' carrying a one-time $125 license fee, a premises inspection, and (under 23 NAC 18-007) a written veterinary-care plan. So selling roof rats through a retail establishment requires a Department of Agriculture pet shop license, while casual private sales and free gifting do not. (Roof rats are also outside the Dog and Cat Purchase Protection Act 'lemon law,' which covers only dogs and cats.) General cruelty law still applies.",
+      "governing_law": "Neb. Rev. Stat. 54-626 ('Pet animal' includes 'rodents'; 'Pet shop' = retail establishment; 'Dealer'/breeder defs are dogs/cats only); 54-627 (pet shop license, $125, inspection); 23 NAC 18-007 (written veterinary-care plan for licensed facilities); 37-246 (R. rattus not wild-mammal-regulated).",
       "source_ids": [
+        "ne-54-626",
+        "ne-54-627",
+        "ne-23-18-007",
         "ne-37-246"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "legal",
+      "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "Within-state transport of a lawfully-owned pet is unregulated. For IMPORT, the Dept of Agriculture (Neb. Admin. Code Title 23 ch. 21) requires a Certificate of Veterinary Inspection (within 30 days) + an import permit, and explicitly lists rats among the pet rodents covered. Confirm the single-pet process with the State Veterinarian. Never release a roof rat.",
-      "governing_law": "Neb. Admin. Code Title 23 ch. 21 §004 (import CVI + permit; rats listed); NDA Summary of Import Requirements.",
+      "why": "Intrastate movement of a lawfully held pet roof rat is entirely unregulated, and Nebraska imposes no exit permit on export (the destination jurisdiction's rules govern). The attached condition is on IMPORT. 23 NAC 21-004.01 provides that 'Animals must comply with all applicable requirements to enter the state. Animals entering the state which are not in compliance are subject to enforcement actions and may be quarantined at the expense of the owner... or immediately returned to the state of origin.' Because 'the black rat' is excluded from 'wild mammals' (37-246), import is governed by the Department of Agriculture's animal-health rules, not by a Game and Parks wildlife embargo. The Department's published Summary of Import Requirements does not list rodents by name; a pet roof rat falls under the generic 'Exotics (not bovid or cervidae)' line, which requires a Certificate of Veterinary Inspection (CVI) plus a 'Pre-Entry Import Permit number... unless using an approved eCVI.' A CVI is generally valid for 30 days before entry. International import is governed by federal CDC/USDA/USFWS rules (the CDC bars rodents of African origin). Never release a roof rat into the wild.",
+      "governing_law": "23 NAC 21-004.01 (all animals must comply to enter; quarantine/return for noncompliance); NDA Summary of Import Requirements ('Exotics (not bovid or cervidae)' = CVI + pre-entry import permit unless approved eCVI); Neb. Rev. Stat. 37-246 (import handled as domestic, not wildlife); federal CDC/USDA/USFWS for international.",
       "source_ids": [
+        "ne-23-21-004",
         "ne-nda-import",
-        "ne-37-246"
+        "ne-nda-import-summary",
+        "ne-37-246",
+        "ne-usda-rodent-import"
       ],
-      "verified_date": "2026-06-07",
+      "verified_date": "2026-06-14",
       "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
-      "type": "inspection",
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "Operating a retail establishment that sells roof rats makes you a 'pet shop' (rodents are 'pet animals' under Neb. Rev. Stat. 54-626), which requires a Department of Agriculture pet shop license under 54-627: a one-time $125 fee, a premises pre-inspection, and a written veterinary-care plan (23 NAC 18-007). Casual private sales and giving rats away free are outside this license.",
+      "steps": [
+        "Determine whether you are operating a 'retail establishment' (storefront/commercial) selling pet animals; casual/private sales and free gifting are not pet shops.",
+        "If a pet shop: submit the Pet Shop/Dealer application to the Nebraska Department of Agriculture with the one-time $125 license fee.",
+        "Arrange a pre-licensing facility inspection by the Department.",
+        "Establish a written veterinary-care plan with a Nebraska-licensed attending veterinarian (23 NAC 18-007) and keep escape-proof, sanitary enclosures."
+      ],
+      "forms": [
+        {
+          "name": "Nebraska Pet Shop/Dealer License Application",
+          "url": "https://nda.nebraska.gov/animal/dog_cat"
+        }
+      ],
+      "where_to_file": "Nebraska Department of Agriculture, Animal Health (Commercial Dog and Cat Inspection Program).",
+      "fees": "One-time $125 license fee, plus annual fees based on the number and nature of animals harbored.",
+      "source_ids": [
+        "ne-54-626",
+        "ne-54-627",
+        "ne-23-18-007"
+      ]
+    },
+    {
+      "type": "health_cert",
       "applies_to": "rat",
       "activity": [
         "transport"
       ],
-      "summary": "Importing a pet rat into Nebraska requires a Certificate of Veterinary Inspection (within 30 days) + an import permit from the State Veterinarian (NDA lists rats among covered pet rodents). No CVI for in-state movement; never release.",
-      "steps": [],
-      "forms": [],
-      "where_to_file": "Nebraska Dept of Agriculture, State Veterinarian",
-      "fees": "",
+      "summary": "Importing a roof rat into Nebraska requires a Certificate of Veterinary Inspection (CVI) and, under the Department of Agriculture's generic 'Exotics (not bovid or cervidae)' import line, a pre-entry import permit number unless an approved electronic CVI (eCVI) is used. The CVI is a vet-issued health document valid about 30 days. There is no CVI requirement for in-state movement and no exit permit for export.",
+      "steps": [
+        "Have a USDA-accredited veterinarian in the state of origin examine the rat and issue a CVI within 30 days before entering Nebraska.",
+        "Obtain a pre-entry import permit number from the Nebraska Department of Agriculture (or use a veterinarian on an approved eCVI system, which routes the data and can satisfy the permit step).",
+        "Confirm with the State Veterinarian whether a single relocating pet rodent's pre-entry permit is required or whether the CVI alone suffices, and whether any disease attestation must appear on the CVI.",
+        "No CVI is needed for moving a lawfully held rat within Nebraska."
+      ],
+      "forms": [
+        {
+          "name": "Certificate of Veterinary Inspection (CVI)",
+          "url": "https://nda.nebraska.gov/animal/imports"
+        }
+      ],
+      "where_to_file": "Issued by a USDA-accredited veterinarian in the state of origin; pre-entry import permit issued by the Nebraska Department of Agriculture, Bureau of Animal Industry.",
+      "fees": "No state fee for the CVI; the issuing veterinarian charges an examination/paperwork fee.",
       "source_ids": [
-        "ne-nda-import"
+        "ne-23-21-004",
+        "ne-nda-import",
+        "ne-nda-import-summary"
       ]
     },
     {
       "type": "other",
       "applies_to": "person",
       "activity": [
-        "keep"
+        "keep",
+        "transport"
       ],
-      "summary": "Local (Lincoln/Omaha/county) ordinances may separately regulate rats — check your city. Never release a roof rat.",
+      "summary": "Never release a roof rat into the wild. R. rattus is an invasive commensal pest in Nebraska, and Animal Damage Control statutes (Neb. Rev. Stat. 81-2,236) authorize cooperative eradication of 'injurious commensal and field rodents.' Releasing a captive rat is an illegal introduction of an invasive pest. Rehome responsibly. Local (Lincoln/Omaha/county) ordinances may separately address rats; check your city.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
       "fees": "",
       "source_ids": [
+        "ne-81-2236",
         "ne-37-246"
       ]
     }
@@ -109,31 +159,114 @@
   "sources": [
     {
       "id": "ne-37-246",
-      "title": "Neb. Rev. Stat. 37-246 — Wild mammals defined (EXCLUDES 'the black rat')",
+      "title": "Neb. Rev. Stat. 37-246 - Wild mammals, defined (excludes 'the fallow deer, the house mouse, the Norway rat, the black rat, the feral domestic dog, and the feral domestic cat')",
       "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-246",
       "authority": "Nebraska Legislature",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
     },
     {
       "id": "ne-37-477",
-      "title": "Neb. Rev. Stat. 37-477 — Captive Wildlife Permit (scope = wild mammals/birds/nongame)",
+      "title": "Neb. Rev. Stat. 37-477 - Certain animals kept in captivity; permit required; exceptions (subsec. (1) permit trigger for wild birds/wild mammals/nongame/endangered; subsec. (2) prohibited list: 'any wolf, any skunk, or any member of the families Felidae and Ursidae')",
       "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-477",
       "authority": "Nebraska Legislature",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
     },
     {
       "id": "ne-37-479",
-      "title": "Neb. Rev. Stat. 37-479 — Prohibited species (wolf/skunk/Felidae/Ursidae; rats absent)",
+      "title": "Neb. Rev. Stat. 37-479 - Captive wildlife permit; fee (not more than $30/year) and prohibited-act penalties (NOT the species list; that is in 37-477(2))",
       "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-479",
       "authority": "Nebraska Legislature",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-animallaw",
+      "title": "NE Wildlife - Article 2, Game Law General Provisions (Animal Legal & Historical Center mirror of Chapter 37 definitions, incl. 37-246 wild-mammal exclusions)",
+      "url": "https://www.animallaw.info/statute/ne-wildlife-article-2-game-law-general-provisions",
+      "authority": "Michigan State Animal Legal & Historical Center",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-54-626",
+      "title": "Neb. Rev. Stat. 54-626 - Commercial Dog and Cat Operator Inspection Act; terms defined ('Pet animal' includes 'rodents'; 'Pet shop' = 'a retail establishment which sells pet animals and related supplies'; commercial breeder/dealer defined only for dogs and cats)",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=54-626",
+      "authority": "Nebraska Legislature",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-54-627",
+      "title": "Neb. Rev. Stat. 54-627 - License requirements; fees; premises available for inspection (pet shop license, one-time $125 fee, premises inspection)",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=54-627",
+      "authority": "Nebraska Legislature",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-23-18-007",
+      "title": "23 Neb. Admin. Code ch. 18 sec. 007 - Humane handling, care, treatment of dogs and cats (licensed facilities must keep a written veterinary-care plan and effective pest control)",
+      "url": "https://www.law.cornell.edu/regulations/nebraska/23-Neb-Admin-Code-ch-18-SS-007",
+      "authority": "Nebraska Dept of Agriculture / Cornell Legal Information Institute",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-23-21-004",
+      "title": "23 Neb. Admin. Code ch. 21 sec. 004 - Importation of Animals ('Animals must comply with all applicable requirements to enter the state'; noncompliant animals quarantined or returned)",
+      "url": "https://www.law.cornell.edu/regulations/nebraska/23-Neb-Admin-Code-ch-21-SS-004",
+      "authority": "Nebraska Dept of Agriculture / Cornell Legal Information Institute",
+      "accessed": "2026-06-14"
     },
     {
       "id": "ne-nda-import",
-      "title": "Nebraska Dept of Agriculture — Summary of Import Requirements (rats: CVI + import permit)",
-      "url": "https://nda.nebraska.gov/animal/imports/index.html",
+      "title": "Nebraska Dept of Agriculture - Animal Imports portal (CVI/import-permit framework, Bureau of Animal Industry)",
+      "url": "https://nda.nebraska.gov/animal/imports",
       "authority": "Nebraska Dept of Agriculture (State Veterinarian)",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-nda-import-summary",
+      "title": "Nebraska Dept of Agriculture - Summary of Import Requirements (PDF). Rodents are NOT listed by name; a pet rat falls under 'Exotics (not bovid or cervidae)': CVI + 'Pre-Entry Import Permit number... unless using an approved eCVI'",
+      "url": "https://nda.nebraska.gov/sites/default/files/animal/imports/SummaryOfImportRequirements.pdf",
+      "authority": "Nebraska Dept of Agriculture",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-81-2236",
+      "title": "Neb. Rev. Stat. 81-2,236 - Director; cooperate with USDA APHIS in management and control of 'injurious commensal and field rodents' (basis for invasive-pest eradication and the no-release rationale)",
+      "url": "https://nda.nebraska.gov/sites/default/files/regulations/admin/AnimalDamageControlStatutes.pdf",
+      "authority": "Nebraska Dept of Agriculture",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-usda-awa",
+      "title": "USDA APHIS, Animal Welfare Act licensing (Class A breeder license for wholesale/sight-unseen dealers; direct-to-consumer and de minimis hobby sales exempt; research rats of genus Rattus excluded from the AWA)",
+      "url": "https://www.aphis.usda.gov/sites/default/files/license-app-pack-with-dogs-cats-and-other-animals.pdf",
+      "authority": "USDA APHIS",
+      "accessed": "2026-06-14"
+    },
+    {
+      "id": "ne-usda-rodent-import",
+      "title": "USDA APHIS, Bring a Pet Rodent into the United States (federal international-import rules; CDC bars rodents of African origin)",
+      "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
+      "authority": "USDA APHIS / CDC",
+      "accessed": "2026-06-14"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Nebraska Department of Agriculture, Bureau of Animal Industry (Office of the State Veterinarian)",
+      "role": "agriculture",
+      "email": "agr.animalimports@nebraska.gov",
+      "form_url": "https://nda.nebraska.gov/animal/imports",
+      "phone": "(402) 471-2351",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "Nebraska Game and Parks Commission, Law Enforcement Division",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://outdoornebraska.gov/about-us/contact/",
+      "phone": "(402) 471-0641",
+      "primary": false,
+      "inquiry_language": "en"
     }
   ]
 }

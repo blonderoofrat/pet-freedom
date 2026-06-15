@@ -13,142 +13,247 @@
       "roof rat",
       "black rat",
       "ship rat",
+      "chaka",
       "CNMI"
     ]
   },
-  "summary": "The Northern Mariana Islands (CNMI) is NOT a closed-list ban on pet rats - it's a permit pathway. Its Animal Quarantine rules (NMIAC T85-20.1) require a written entry permit for ALL animal imports from the Chief of Animal Health & Industry, but the only prohibited pet/guard mammals are a NAMED list (skunks, bats, raccoons, foxes, coyotes, wolves, wild/feral canids and felids and crosses) - NEITHER Rattus rattus NOR R. norvegicus appears on it. DLNR's own import page treats non-cat/dog animals as case-by-case ('email us, regulations vary by species'), and Customs classifies all animals as 'permits-required,' not prohibited. So a rat can be imported under an entry permit + a vet health certificate (rodents need no rabies vaccine), plus a DFW wildlife import permit ($10/species); once lawfully imported, keeping isn't separately restricted. Federal overlay: R. rattus (unlike the exempt R. norvegicus) needs a USFWS Form 3-177 wildlife declaration and must route through a designated port (Honolulu) or get a Designated Port Exception Permit. Breeding/intra-island transfer are simply unaddressed by CNMI law.",
-  "last_reviewed": "2026-06-07",
+  "summary": "The Commonwealth of the Northern Mariana Islands (CNMI) runs a closed positive import list, the opposite of an open market, so there is no lawful way to bring in a pet roof rat. The binding layer is importation. NMIAC 85-30.1-501(d)(5) names exactly eleven admissible mammals (water buffalo, carabao, dog, cat, gerbil, guinea pig, swine, cattle, horse, donkey/mule, goat), and 85-30.1-501(e) provides that 'Only the animals listed in subsection (d) of this section may be lawfully imported into the CNMI' and that animals not on the list 'shall be refused entry.' Neither Rattus rattus nor the fancy rat Rattus norvegicus is on the list, so both are refused entry equally, with no fancy-rat advantage. A second layer reinforces this: the Animal Quarantine rules (NMIAC 85-20.1-101) issue an entry permit 'only for those animals which offer no pest or disease risk to the CNMI in the judgment of the Chief for Animal Health & Industry,' and 85-20.1-115 treats any unlisted wild or feral animal as importable only on the Chief's written permit subject to USDA APHIS and USFWS rules. For an animal already on island, keeping and breeding turn on a discretionary captive/domesticated-wildlife permit from the Division of Fish and Wildlife (NMIAC 85-30.1-340(b),(d)), which is practically unavailable for a recognized invasive pest, and sale or transfer is barred outright: 85-30.1-340(d) states 'The sale of captive wildlife and domesticated wildlife is strictly prohibited except by permit and as allowed in subsection (f) below,' where (f) is a narrow Sambar deer carve-out. Releasing a non-native species is unlawful and the person responsible is liable for the full cost of eradication (85-30.1-505). The federal layer adds USFWS Form 3-177 for the wildlife species R. rattus on international movement (R. norvegicus is treated as domesticated and exempt), USDA APHIS oversight, and the CDC bar on rodents of African origin; R. rattus is NOT on the federal injurious-wildlife list (50 CFR 16). There is a real lever: 85-30.1-501(h) lets a person petition the Division to add a species to the admissible list. Never release a roof rat.",
+  "last_reviewed": "2026-06-14",
   "advocacy": {
-    "flag": false
+    "flag": true,
+    "kit": {
+      "case_type": "positive_list",
+      "problem": "In the Northern Mariana Islands (CNMI) you cannot legally obtain a captive-bred pet roof rat (Rattus rattus). The block is the import layer. The CNMI Division of Fish and Wildlife runs a closed, positive list of animals that may be imported (NMIAC 85-30.1-501(d)). It names exactly eleven mammals, including the gerbil and the guinea pig, but no rat. NMIAC 85-30.1-501(e) provides that 'Only the animals listed in subsection (d) of this section may be lawfully imported into the CNMI,' and that animals not on the list 'shall be refused entry.' Every animal entering the CNMI also needs an animal-quarantine entry permit from the Chief of Animal Health and Industry, which by NMIAC 85-20.1-101 issues 'only for those animals which offer no pest or disease risk.' The common fancy rat (Rattus norvegicus) is not on the admissible list either, so there is no fancy-rat advantage and no lawful way to bring in, breed, sell, or give away a pet roof rat. The CNMI also has a serious island-biosecurity and invasive-rodent history, so any change faces a high bar. Never release any animal.",
+      "ask": "Ask the Division of Fish and Wildlife, in writing, to (1) confirm whether a single captive-bred, altered (non-breeding), microchipped or tagged, health-certified domestic rat kept solely as an indoor pet is refused entry under NMIAC 85-30.1-501(e), and (2) consider a petition under NMIAC 85-30.1-501(h) to add such an animal to the admissible-import list, or grant an individual import permit, under strict conditions (sterilized so it cannot breed, permanently indoors, escape-proof caging, microchipped/tagged, with a no-release and biosecurity agreement). The regulation already builds in this petition route and asks for the species' native range, source, captivity history, and a literature search, which a domesticated line can supply. This is a cost-benefit question for the CNMI to decide, not a result to demand: whether the limited additional risk of a few sterile, tame, indoor-only pets is outweighed by the companionship they would bring. The relevant facts: a sterilized animal cannot found a wild population; the black rat is already established in the Marianas, so a permitted pet introduces no new species; and the CNMI already admits dogs and cats, which are also non-native and documented to harm island wildlife, because their companionship is judged worth the trade-off. The Division is asked only to evaluate this specific, narrowly conditioned question, which may not yet have been formally considered, not to disregard the CNMI's invasive-species concerns.",
+      "branch_note": "This is branch (b) as a regulation, not a misread. The prohibition is not a bureaucrat misapplying an unclear rule: DFW is correctly applying its own closed positive import list, which admits eleven named mammals and refuses entry to everything else (NMIAC 85-30.1-501(d),(e)). A complaint that the agency got the law wrong will go nowhere, because the agency is reading it as written. Unlike a legislative statute naming the species, this ban lives in an administrative list that DFW itself owns, adopts, and can amend (NMIAC Title 85, promulgated under the Secretary of Lands and Natural Resources). The realistic lever is therefore the regulation's own addition mechanism: NMIAC 85-30.1-501(h) expressly provides that 'The Division will accept applications for additions to list of admissible animals,' requiring a literature search on native range, source, captivity history, and feral-population history in similar island ecosystems, plus evidence of an escape-proof cage. A petition or an individual import permit, directed at DFW (with the Director of Animal Health and Industry consulted under 501(i)), is the right channel, asking the agency to amend its own list, not to reinterpret a statute. The primary target is DFW; a secondary target is a CNMI legislator, because the legislature has already shown it will create species-specific carve-outs by statute (Public Law 17-23, the Sambar deer law) when it judges the trade-off worthwhile. The CNMI is among the hardest jurisdictions for this ask because R. rattus is an established invasive pest there with a long eradication history, so the strongest realistic version of the request is a narrowly conditioned individual import permit (sterilized, indoor-only, escape-proof caging, microchipped/tagged, no-release) rather than a broad list amendment.",
+      "time_sensitive": "",
+      "targets": [
+        {
+          "name": "CNMI DLNR - Division of Fish and Wildlife (Director)",
+          "type": "agency",
+          "email": "cnmianimalhealth@gmail.com",
+          "form_url": "https://dlnr.cnmi.gov/wildlife-conservation-and-management.html",
+          "why": "DFW owns and can amend the admissible-import list (NMIAC 85-30.1-501) and accepts 501(h) addition petitions and import permits; the Director consults the Director of Animal Health and Industry under 501(i). This is the only office that can change the list or grant a conditioned import permit, so it is the correct primary target for a positive-list ask. Phone (670) 664-6000; mailing P.O. Box 10007, Saipan, MP 96950. No clean public DFW email was verified; route the written petition through the DLNR Division of Agriculture / Animal Health inbox (cnmianimalhealth@gmail.com) and the DFW phone, and ask them to direct it to the DFW Director."
+        },
+        {
+          "name": "CNMI DLNR - Division of Agriculture, Animal Health and Industry",
+          "type": "agency",
+          "email": "cnmianimalhealth@gmail.com",
+          "form_url": "https://dlnr.cnmi.gov/animal-import.html",
+          "why": "Issues the animal-quarantine entry permit that every imported animal needs (NMIAC 85-20.1-101) and is consulted by DFW on list-addition petitions (85-30.1-501(i)). Even if DFW were to admit the species, Animal Health must still find it offers 'no pest or disease risk,' so the petition should address that standard. Phone (670) 256-3318/19/20."
+        }
+      ],
+      "template": {
+        "en": "Subject: Status and possible conditioned pathway for a single captive-bred pet domestic rat\n\nDear CNMI Division of Fish and Wildlife,\n\nI am writing about the admissible-import list in NMIAC 85-30.1-501(d), which names eleven mammals (including the gerbil and guinea pig) but no rat, and subsection (e), which refuses entry to any mammal not on the list. I would like to keep one captive-bred, tame domestic rat solely as an indoor companion animal, not for breeding and not for sale or any commercial purpose.\n\nThese animals are bred in captivity over many generations, are hand-tame, live their whole lives indoors in a cage, and are never released. I understand the CNMI's invasive-species and island-biosecurity concerns and am not asking the Division to set them aside. I am asking it to weigh one narrow question: whether the limited additional risk of a single sterile, tame, indoor-only pet is outweighed by the companionship it offers. A sterilized animal cannot found a wild population, the black rat is already established in the Marianas, and the CNMI already admits cats and dogs, which are also non-native and documented to harm island wildlife, because their companionship is judged worth the trade-off. Whether the same trade-off is acceptable for one sterilized pet rat is a judgment for the CNMI to make.\n\nNMIAC 85-30.1-501(h) provides that the Division will accept applications to add a species to the admissible list, with a literature search on native range, source, and captivity history, and evidence of an escape-proof cage. I am willing to supply all of that.\n\nPlease confirm in writing (1) whether such a single pet animal is refused entry under 85-30.1-501(e), and (2) whether the Division would consider a 501(h) petition to add it, or an individual import permit, for one altered (non-breeding), microchipped or tagged, health-certified pet kept permanently indoors in escape-proof caging under a no-release agreement, with the Director of Animal Health and Industry consulted under 501(i).\n\nI respect the CNMI's invasive-species concerns and am asking only about one tame, captive-bred companion that cannot breed. I would welcome any conditions that would make such a pathway possible.\n\nThank you for your time.\n\nSincerely,\n[Your name]\n[Your village/contact]"
+      },
+      "confidence_notes": "Verified 2026-06-14 against primary sources downloaded and read in full from cnmilaw.org. NMIAC 85-30.1-501(d)(5) admissible mammals confirmed verbatim (Asiatic Water Buffalo, Carabao, Domestic dog, Domestic cat, Gerbil, Guinea pig, Domestic swine, Domestic cattle, Domestic horse, Domestic donkey/mule, Domestic goat; no Rattus); 501(e) 'Only the animals listed... may be lawfully imported... shall be refused entry' confirmed verbatim; 501(h) addition-petition route and 501(i) Animal Health consultation confirmed verbatim. Sale ban 85-30.1-340(d) ('The sale of captive wildlife and domesticated wildlife is strictly prohibited except by permit and as allowed in subsection (f) below') and the Sambar deer carve-out 340(f) confirmed verbatim. Entry-permit standard 85-20.1-101 ('only for those animals which offer no pest or disease risk... in the judgment of the Chief for Animal Health & Industry') confirmed verbatim. No clean public DFW email was verified (the DR's address was malformed); contacts route through the Animal Health inbox + DFW phone. NOT independently confirmed: whether DFW has ever granted a 501(h) addition or an individual import permit for a pet rodent, which is exactly what the petition asks. This is a research aid, not legal advice.",
+      "local_lang": "en"
+    }
   },
   "activities": {
     "keep": {
-      "status": "legal_with_permit",
+      "status": "restricted",
       "confidence": "medium",
-      "why": "Once a rat is lawfully imported under an entry permit, no CNMI statute prohibits keeping it - the T85-20.1 prohibited-pet-mammal list names only skunks/bats/raccoons/foxes/coyotes/wolves/wild canids+felids, not Rattus. CNMI PL 21-31 (cruelty/theft) doesn't restrict rat ownership.",
-      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
+      "why": "For an animal already on island, possession turns on a discretionary captive/domesticated-wildlife permit, and for a prospective keeper there is no lawful supply because import is closed. NMIAC 85-30.1-340(b) provides 'The possession of captive local wildlife or domesticated wildlife without a specific permit issued by the Division is prohibited,' and 340(d) makes permits annual, issued 'only for species that can be easily and successfully kept in captivity,' subject to enclosure evaluation and conservation-officer inspection. R. rattus is 'Wildlife' under 85-30.1-020(ww) ('all species of (terrestrial) mammals... that occur in the wild in the CNMI') because it has an established feral population in the Marianas, so the captive-wildlife permit regime applies. The permit is theoretically available but practically unavailable for a recognized invasive pest, and because a captive-bred pet cannot be lawfully imported (85-30.1-501(e)), there is no lawful source. General cruelty law applies.",
+      "governing_law": "NMIAC 85-30.1-340(b),(d) (captive/domesticated-wildlife possession permit; discretionary, annual, inspected); NMIAC 85-30.1-020(ww) (definition of 'Wildlife'); NMIAC 85-30.1-501(e) (no lawful import of a captive-bred pet rat); 50 CFR 14 (USFWS Form 3-177 on international movement of the wildlife species R. rattus).",
       "source_ids": [
-        "mp-t85-20-1",
-        "mp-dlnr-import"
-      ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
-    },
-    "breed": {
-      "status": "unregulated_unclear",
-      "confidence": "low",
-      "why": "No CNMI law addresses private captive breeding of pet rodents; the permit scheme governs import, not domestic breeding. The DFW non-native-release prohibition is an indirect constraint if stock escaped. Closed-colony breeding from lawfully-imported animals appears outside any specific prohibition but isn't affirmatively authorized - confirm with DLNR.",
-      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
-      "source_ids": [
-        "mp-dfw",
-        "mp-t85-20-1"
-      ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
-    },
-    "sell_give": {
-      "status": "unregulated_unclear",
-      "confidence": "low",
-      "why": "No CNMI statute specifically prohibits or permits intra-island sale/transfer of captive-born pet rats; the DFW permit regime is for import/export, and the cruelty law governs treatment, not sale. No commercial-pet licensing framework identified - confirm with DLNR.",
-      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
-      "source_ids": [
-        "mp-dfw"
-      ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
-    },
-    "transport": {
-      "status": "legal_with_permit",
-      "confidence": "high",
-      "why": "Import requires an entry permit from the Chief of Animal Health & Industry (advance inquiry; permit fee; USDA-accredited vet health certificate within 10 days; rodents need no rabies vaccine) + a DFW wildlife import permit ($10/species). Federal: R. rattus needs a USFWS Form 3-177 + a USFWS-designated port (Honolulu) or a Designated Port Exception Permit (R. norvegicus is exempt). CNMI is outside US customs territory but USFWS/APHIS/CDC apply. Never release.",
-      "governing_law": "NMIAC T85-20.1 (Animal Quarantine; entry permit; named-prohibited list excludes Rattus); NMIAC T85-30.1 (DFW import permit); CNMI PL 21-31; 50 CFR Part 14 (USFWS Form 3-177).",
-      "source_ids": [
-        "mp-t85-20-1",
+        "mp-t85-30-1",
         "mp-dlnr-import",
         "mp-usfws"
       ],
-      "verified_date": "2026-06-07",
-      "needs_verification": true,
-      "verified_by": "claude-websearch"
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Breeding is an extension of the discretionary captive-wildlife permit, not a separately authorized activity. NMIAC 85-30.1-340(d) provides that 'Permits to keep captive wildlife or domesticated wildlife and all progeny from captive wildlife must be applied for annually,' that the Division 'is authorized to inspect all domesticated and captive wildlife and all progeny at any time,' and that it may tag the animals and all progeny. So progeny are regulated under the same permit, with annual reporting of the number, sex, and tag number of each animal (85-30.1-340(e)). The Division is exceedingly unlikely to permit progeny of a recognized invasive pest, and the no-release / eradication-liability rule (85-30.1-505) overhangs any colony. There is no rodent-breeder license or hobbyist exemption; the only commercial-breeding carve-out in the chapter is for Sambar deer.",
+      "governing_law": "NMIAC 85-30.1-340(d),(e) (captive-wildlife permit extends to all progeny; annual application, inspection, tagging, reporting); NMIAC 85-30.1-505 (no release; person responsible for an introduction liable for eradication cost); NMIAC 85-30.1-340(f) + 2 CMC 5801-5804 / PL 17-23 (Sambar deer is the only breeding/commercial carve-out).",
+      "source_ids": [
+        "mp-t85-30-1",
+        "mp-pl17-23"
+      ],
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Sale or transfer of captive or domesticated wildlife is barred outright by black-letter rule. NMIAC 85-30.1-340(d) provides 'The sale of captive wildlife and domesticated wildlife is strictly prohibited except by permit and as allowed in subsection (f) below,' and subsection (f) is a narrow Sambar deer carve-out (tagging plus reporting of tag number, sex, buyer name/address, and date within ten days). NMIAC 85-30.1-335(b) separately makes it 'illegal to sell or barter wildlife which is alive or dead or parts thereof,' with the only exception being feral goats and feral pigs. There is no rodent or small-mammal carve-out, no hobbyist threshold, and no commercial dealer license for the small-pet trade, so transferring a roof rat, even as a free gift, runs into the strict sale/barter prohibition (a recipient would also need the improbable captive-wildlife permit to possess it lawfully). No lawful supply chain can exist because import of stock is barred (85-30.1-501(e)).",
+      "governing_law": "NMIAC 85-30.1-340(d) (sale of captive/domesticated wildlife strictly prohibited except by permit and the Sambar deer carve-out); NMIAC 85-30.1-340(f) + PL 17-23 / 2 CMC 5801-5804 (Sambar deer sale/transfer exemption); NMIAC 85-30.1-335(b) (illegal to sell or barter wildlife, except feral goats and pigs); NMIAC 85-30.1-501(e) (no lawful import of stock).",
+      "source_ids": [
+        "mp-t85-30-1",
+        "mp-pl17-23"
+      ],
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Import, the binding cross-border layer, is closed. NMIAC 85-30.1-501(d)(5) lists exactly eleven admissible mammals (water buffalo, carabao, dog, cat, gerbil, guinea pig, swine, cattle, horse, donkey/mule, goat), and 85-30.1-501(e) provides 'Only the animals listed in subsection (d) of this section may be lawfully imported into the CNMI. It shall be unlawful to import any species of amphibian, reptile, bird, or mammal not on the list in subsection (d) of this section. All animals presented for importing into the CNMI that are not on this list shall be refused entry.' Neither R. rattus nor R. norvegicus is listed, so both are refused entry equally. A second, independent layer: every animal needs an animal-quarantine entry permit, and NMIAC 85-20.1-101 issues it 'only for those animals which offer no pest or disease risk to the CNMI in the judgment of the Chief for Animal Health & Industry'; 85-20.1-115 treats an unlisted wild or feral animal as importable only on the Chief's written permit subject to USDA APHIS and USFWS rules. Federal: the wildlife species R. rattus needs a USFWS Form 3-177 declaration on international movement and routes through a designated port (R. norvegicus is treated as domesticated and exempt); R. rattus is NOT on the federal injurious-wildlife list (50 CFR 16), so there is no federal Lacey Act import permit bar, but the CDC bars rodents of African origin. There is a regulatory lever to open the door: 85-30.1-501(h) lets a person petition the Division to add a species to the admissible list. Never release a roof rat: 85-30.1-505 makes release of a non-native species unlawful and the person responsible liable for the full cost of eradication.",
+      "governing_law": "NMIAC 85-30.1-501(d),(e) (closed positive import list; unlisted mammals refused entry) + 501(h) (petition to add a species) + 501(b) ($10/species/shipment permit fee); NMIAC 85-20.1-101 (entry permit only for animals offering no pest or disease risk) + 85-20.1-115 (unlisted wild/feral animals importable only on the Chief's written permit, subject to USDA/USFWS); NMIAC 85-30.1-505 (no release; eradication-cost liability); 50 CFR 14 (USFWS Form 3-177) and 50 CFR 16 (R. rattus not injurious); CDC African-rodent bar.",
+      "source_ids": [
+        "mp-t85-30-1",
+        "mp-t85-20-1",
+        "mp-dlnr-import",
+        "mp-usfws",
+        "mp-usfws-injurious"
+      ],
+      "verified_date": "2026-06-14",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
     }
   },
   "restrictions": [
     {
       "type": "permit",
-      "applies_to": "person",
+      "applies_to": "rat",
       "activity": [
-        "keep",
-        "transport"
+        "transport",
+        "keep"
       ],
-      "summary": "To bring a rat into CNMI: email DLNR Animal Health in advance, obtain an entry permit from the Chief of Animal Health & Industry + a USDA-accredited vet health certificate (within 10 days; no rabies vaccine for rodents), and a DFW wildlife import permit ($10/species). For R. rattus add a USFWS Form 3-177 + route via a designated port (Honolulu) or a Designated Port Exception Permit. Never release.",
+      "summary": "Import is governed by a closed positive list. NMIAC 85-30.1-501(d)(5) admits only eleven named mammals and 501(e) refuses entry to any unlisted mammal; neither R. rattus nor R. norvegicus is listed, so a pet roof rat is refused entry. Every animal also needs an animal-quarantine entry permit from the Chief of Animal Health and Industry, issued only for animals offering 'no pest or disease risk' (85-20.1-101). The DFW import permit fee is ten dollars per species/shipment (85-30.1-501(b)). The only opening is a 501(h) petition to add the species to the admissible list. Do not attempt to import one; never release any animal.",
       "steps": [
-        "Email CNMI DLNR Animal Health (cnmianimalhealth@gmail.com) with species/number/purpose",
-        "Obtain the entry permit + DFW import permit + USDA health certificate",
-        "For R. rattus: file USFWS Form 3-177 + designated-port/DPEP"
+        "Treat import as effectively closed: a pet roof rat is a mammal not on the 85-30.1-501(d) admissible list, so 501(e) refuses it entry; the same applies to the fancy rat (R. norvegicus)",
+        "If you want to test the door, petition DFW under 85-30.1-501(h) to add the species, supplying scientific name, native range, source, a captivity/feral-population literature search, and evidence of an escape-proof cage; the Director of Animal Health and Industry is consulted under 501(i) and must find no pest or disease risk under 85-20.1-101",
+        "For any international movement of the wildlife species R. rattus, file USFWS Form 3-177 and route through a designated port; observe the CDC bar on rodents of African origin",
+        "Never release a roof rat: 85-30.1-505 makes you liable for the full cost of eradication"
       ],
       "forms": [
         {
-          "name": "USFWS Form 3-177 (wildlife declaration - R. rattus)",
+          "name": "DFW Import / Scientific / Fishing / Harvesting / Hunting License Application (Saipan DFW Form Rev. 03/2024; covers Import permits)",
+          "url": "https://dlnr.cnmi.gov/assets/docs/dfw/isfhh-license-application.pdf"
+        },
+        {
+          "name": "USFWS Form 3-177 (wildlife declaration for R. rattus on international movement)",
           "url": "https://www.fws.gov/media/wildlife-shipments-declaration-form-3-177"
         }
       ],
-      "where_to_file": "CNMI DLNR - Division of Agriculture, Animal Health Section",
-      "fees": "CNMI entry permit fee + DFW $10/species",
+      "where_to_file": "CNMI DLNR - Division of Fish and Wildlife (import permit / 501(h) petition); CNMI DLNR - Division of Agriculture, Animal Health and Industry (animal-quarantine entry permit)",
+      "fees": "DFW import permit ten dollars per species/shipment (85-30.1-501(b)); animal-quarantine entry permit fees set by Animal Health; wild/feral-animal entry triggers additional handling per 85-20.1.",
       "source_ids": [
-        "mp-dlnr-import",
+        "mp-t85-30-1",
+        "mp-t85-20-1",
         "mp-usfws"
+      ]
+    },
+    {
+      "type": "permit",
+      "applies_to": "both",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "Possession and breeding of captive or domesticated wildlife require a specific, discretionary DFW permit (85-30.1-340(b)), applied for annually, issued only for species that can be 'easily and successfully kept in captivity,' and covering 'all progeny' (340(d)). The Division may inspect the animals and enclosures at any time and may tag the animals and progeny; permit holders report the number, sex, and tag number of each animal at renewal (340(e)). For a recognized invasive pest like R. rattus this permit is practically unavailable, and there is no lawful captive-bred source because import is closed.",
+      "steps": [
+        "Understand that keeping or breeding a roof rat requires a discretionary captive/domesticated-wildlife permit from DFW (85-30.1-340(b),(d)); there is no rodent hobbyist exemption",
+        "Expect enclosure evaluation, at-will inspection, tagging, and annual reporting (85-30.1-340(d),(e)); the permit is very unlikely to be granted for an invasive pest",
+        "Note there is no lawful captive-bred supply, since import is refused under 85-30.1-501(e)"
+      ],
+      "forms": [],
+      "where_to_file": "CNMI DLNR - Division of Fish and Wildlife",
+      "fees": "Set by DFW at permit issuance/renewal.",
+      "source_ids": [
+        "mp-t85-30-1"
+      ]
+    },
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed",
+        "transport"
+      ],
+      "summary": "Never release a non-native animal. NMIAC 85-30.1-505(a) provides 'It shall be unlawful to release any fish, game, or wildlife species not native (found historically) to the CNMI,' and 505(b) provides that 'Persons responsible for illegal or accidental introductions are liable for the cost of eradication, including but not limited to, personnel salaries, transportation, and equipment.' R. rattus is an established invasive pest in the Marianas, and eradicating rodents from an island can be enormously costly, so an escape or release exposes the owner to sweeping strict liability. Quarantine-rule violations carry up to six months imprisonment or a fine up to $2,000 (85-20.1-1401(a)).",
+      "steps": [
+        "Keep any rat strictly contained in escape-proof caging; never release it",
+        "Report escapes immediately and recapture; you are liable for eradication costs under 85-30.1-505(b)"
+      ],
+      "forms": [],
+      "where_to_file": "CNMI DLNR - Division of Fish and Wildlife; Division of Agriculture, Animal Health and Industry",
+      "fees": "",
+      "source_ids": [
+        "mp-t85-30-1",
+        "mp-t85-20-1"
       ]
     }
   ],
-  "inquiry_focus": "(1) Are domestically-bred pet rats (Rattus norvegicus and Rattus rattus) eligible for an animal entry permit under NMIAC T85-20.1, and what documentation/health-certificate/quarantine requirements apply specifically to pet rats? (2) Does the Chief of Animal Health & Industry have discretion to permit pet rodent species not named in the prohibited-animal list (which covers only skunks/bats/raccoons/foxes/coyotes/wolves/wild canids+felids)? (3) Are separate permits required from BOTH the Animal Health Section and the Division of Fish & Wildlife ($10/species), or does one entry permit suffice?",
+  "inquiry_focus": "(1) DFW: under the closed admissible-import list (NMIAC 85-30.1-501(d),(e)), is a single captive-bred, altered (non-breeding), microchipped or tagged, health-certified domestic roof rat (R. rattus) kept solely as an indoor pet refused entry, and will the Division entertain a 85-30.1-501(h) petition to add such an animal to the list, or grant an individual import permit, under strict conditions (sterilized, indoor-only, escape-proof caging, no-release)? (2) DFW: for an animal lawfully on island, what does it take to obtain a captive/domesticated-wildlife possession permit under 85-30.1-340(b),(d) for R. rattus, and what proof of domesticated (multi-generation captive) provenance is required? (3) Animal Health: does the Division treat a veterinary-certified, indoor-housed R. rattus as inherently a 'pest or disease risk' under 85-20.1-101, precluding any quarantine entry permit regardless of DFW admissibility?",
   "sources": [
     {
+      "id": "mp-t85-30-1",
+      "title": "NMIAC Title 85-30.1, Non-Commercial Fish and Wildlife Regulations: 85-30.1-501(d)(5) eleven admissible mammals (no Rattus) + 501(e) 'Only the animals listed... may be lawfully imported... shall be refused entry' + 501(h) addition-petition route + 501(b) $10/species fee; 85-30.1-340(b),(d),(e),(f) captive/domesticated-wildlife permit and 'The sale of captive wildlife and domesticated wildlife is strictly prohibited except by permit'; 85-30.1-335(b) sale/barter of wildlife illegal except feral goats/pigs; 85-30.1-020(ww) 'Wildlife' definition; 85-30.1-505 no-release and eradication-cost liability",
+      "url": "https://cnmilaw.org/pdf/admincode/T85/T85-30.1.pdf",
+      "authority": "CNMI Law Revision Commission (DLNR / Division of Fish and Wildlife)",
+      "accessed": "2026-06-14"
+    },
+    {
       "id": "mp-t85-20-1",
-      "title": "NMIAC Title 85-20.1 - Animal Quarantine Rules (entry permit for all imports; named prohibited-mammal list excludes Rattus)",
+      "title": "NMIAC Title 85-20.1, Animal Quarantine Rules and Regulations: 85-20.1-101 entry permit required for all animals, 'shall only be issued for those animals which offer no pest or disease risk to the CNMI in the judgment of the Chief for Animal Health & Industry'; 85-20.1-115 unlisted wild/feral animals importable only on the Chief's written permit subject to USDA/USFWS; 85-20.1-010 'Domestic animals or livestock' and 'Wild or feral animals' definitions; 85-20.1-1401(a) penalty up to six months or $2,000",
       "url": "https://cnmilaw.org/pdf/admincode/T85/T85-20.1.pdf",
-      "authority": "CNMI Law Revision Commission",
-      "accessed": "2026-06-07"
+      "authority": "CNMI Law Revision Commission (DLNR / Division of Agriculture, Animal Health and Industry)",
+      "accessed": "2026-06-14"
     },
     {
       "id": "mp-dlnr-import",
-      "title": "CNMI DLNR - Importing a Pet into the CNMI (case-by-case for non-cat/dog; Animal Health contact)",
+      "title": "CNMI DLNR - Importing a Pet into the CNMI (cat/dog rabies requirements detailed; for other species 'Please email us, as regulations vary by species of animal'; Animal Health contact)",
       "url": "https://dlnr.cnmi.gov/animal-import.html",
-      "authority": "CNMI Dept of Lands & Natural Resources",
-      "accessed": "2026-06-07"
+      "authority": "CNMI Department of Lands and Natural Resources",
+      "accessed": "2026-06-14"
     },
     {
-      "id": "mp-dfw",
-      "title": "NMIAC Title 85-30.1 - Non-Commercial Fish & Wildlife Regulations (DFW import permit $10/species; no-release rule)",
-      "url": "https://cnmilaw.org/pdf/admincode/T85/T85-30.1.pdf",
-      "authority": "CNMI Law Revision Commission",
-      "accessed": "2026-06-07"
+      "id": "mp-pl17-23",
+      "title": "CNMI Public Law 17-23, 'The Raising of Sambar Deer in Captivity Act of 2010' (codified at 2 CMC 5801-5804; the only species-specific captive-breeding/sale carve-out, referenced by NMIAC 85-30.1-340(f); shows the legislature creates species carve-outs by statute)",
+      "url": "https://cnmilaw.org/pdf/public_laws/17/pl17-23.pdf",
+      "authority": "Northern Marianas Commonwealth Legislature / CNMI Law Revision Commission",
+      "accessed": "2026-06-14"
     },
     {
       "id": "mp-usfws",
-      "title": "USFWS - Importers & Exporters (R. norvegicus exempt from Form 3-177; R. rattus NOT exempt -> declaration + designated port)",
+      "title": "USFWS - Information for Importers and Exporters (the wildlife species R. rattus needs a Form 3-177 declaration + designated port on international movement; R. norvegicus treated as domesticated and exempt)",
       "url": "https://www.fws.gov/program/office-of-law-enforcement/information-importers-exporters",
       "authority": "US Fish & Wildlife Service",
-      "accessed": "2026-06-07"
+      "accessed": "2026-06-14"
     },
     {
-      "id": "mp-customs",
-      "title": "CNMI Customs - Import Requirements (animals = permits-required, not prohibited)",
-      "url": "https://www.finance.gov.mp/cus-import-requirements.php",
-      "authority": "CNMI Department of Finance / Customs",
-      "accessed": "2026-06-07"
+      "id": "mp-usfws-injurious",
+      "title": "USFWS - Summary of Species Currently Listed as Injurious Wildlife (18 U.S.C. 42 / 50 CFR 16): Rattus rattus is NOT listed (only Mastomys spp. among rats/mice), so no federal Lacey Act import permit applies to a roof rat",
+      "url": "https://www.fws.gov/page/summary-of-species-currently-listed-as-injurious-wildlife",
+      "authority": "US Fish & Wildlife Service",
+      "accessed": "2026-06-14"
     }
   ],
   "contacts": [
     {
-      "agency": "CNMI DLNR - Division of Agriculture, Animal Health Section",
+      "agency": "CNMI DLNR - Division of Fish and Wildlife (DFW)",
+      "role": "wildlife",
+      "email": "cnmianimalhealth@gmail.com",
+      "form_url": "https://dlnr.cnmi.gov/wildlife-conservation-and-management.html",
+      "phone": "+1 670-664-6000",
+      "primary": true,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "CNMI DLNR - Division of Agriculture, Animal Health and Industry",
       "role": "agriculture",
       "email": "cnmianimalhealth@gmail.com",
       "form_url": "https://dlnr.cnmi.gov/animal-import.html",
-      "phone": "+1 670-256-3319",
-      "primary": true,
+      "phone": "+1 670-256-3318",
+      "primary": false,
+      "inquiry_language": "en"
+    },
+    {
+      "agency": "US Fish & Wildlife Service - Office of Law Enforcement (Import/Export)",
+      "role": "wildlife",
+      "email": "",
+      "form_url": "https://www.fws.gov/program/office-of-law-enforcement/information-importers-exporters",
+      "phone": "+1 800-344-9453",
+      "primary": false,
       "inquiry_language": "en"
     }
   ]

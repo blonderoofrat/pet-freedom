@@ -16,65 +16,42 @@
       "ratto nero"
     ]
   },
-  "summary": "Switzerland is legal for the roof rat in practice, with mandatory welfare conditions and one genuine grey area. Swiss law technically classifies rats as 'Wildtiere' (the Animal Welfare Ordinance / TSchV Art. 2 lists only dogs, cats, domestic rabbits, pigeons and poultry as 'domestic'), but it then carves small rodents out of the permit-and-training tier, so ordinary private rat-keeping needs NO cantonal permit. The official BLV fact sheet 'Ratten im Recht' confirms private rat keeping is permit-free, with welfare rules: keep rats in groups (min. 2 — a legal requirement), with minimum enclosure dimensions. A cantonal permit + proof of competence is needed only for commercial trade, or when giving away more than 300 rodents/year. R. rattus is not on any CITES appendix. The grey area: BLV guidance says 'Ratten' generically (built around the fancy rat R. norvegicus); whether a canton treats the synanthropic R. rattus as the same permit-free small rodent — or as a Wildtier needing a cantonal Bewilligung — is the one point worth confirming.",
-  "last_reviewed": "2026-06-11",
+  "summary": "Switzerland is legal for the roof rat, confirmed in writing by the federal veterinary office (BLV) on 15 June 2026. Keeping and breeding house rats (Rattus rattus) are permitted, and keeping small rodents needs no permit and no proof of competence (Art. 89 let. a of the Animal Welfare Ordinance, TSchV). The same welfare rules as for the fancy rat (Rattus norvegicus) apply: rats are social, so at least two must be kept, and the enclosure must meet the Annex 2 minimum dimensions (the BLV points to the German Säugetiergutachten 2014, about 2 square metres for two house rats). A cantonal permit plus recognised training is required only to breed and give away more than 300 rats per year to third parties (Art. 94 para. 2, Art. 101 let. c para. 4 TSchV), so an ordinary private keeper or hobby breeder needs nothing. R. rattus is on no CITES appendix and no Swiss invasive-species list. Import and transport depend on the country of origin (EU or non-EU) and whether the owner travels with the animals, so check the BLV travel guidance. Never release a roof rat.",
+  "last_reviewed": "2026-06-15",
+  "agency_confirmations": [
+    "The BLV (Swiss Federal Food Safety and Veterinary Office), Katrin Nydegger of Customer Communication, confirmed in writing on 15 June 2026 that keeping and breeding house rats (Rattus rattus) are permitted in Switzerland.",
+    "Keeping small rodents needs no permit (Art. 89 let. a of the Animal Welfare Ordinance, TSchV). A cantonal permit is required only to breed and give away more than 300 rats per year to third parties (Art. 94 para. 2 and Art. 101 let. c para. 4 TSchV).",
+    "Husbandry follows the minimum requirements in Annex 2 of the TSchV. Because the Ordinance sets no species-specific minimums for Rattus rattus, the BLV advises meeting at least the same requirements as for the fancy rat (Rattus norvegicus), including keeping them in pairs or groups, and points to the German Säugetiergutachten 2014 (about 2 square metres for two house rats) as a guide.",
+    "Import and transport requirements depend on the country of origin (EU or non-EU) and whether the owner travels with the animals; the BLV refers to its 'travelling with pets' page for the conditions."
+  ],
   "advocacy": {
-    "flag": true,
-    "kit": {
-      "case_type": "agency_species_trap",
-      "problem": "In Switzerland, keeping pet rats is legal and, for ordinary private households, permit-free. The federal animal-welfare rules (TSchG/TSchV) carve small rodents out of the permit-and-training tier, and the BLV (Federal Food Safety and Veterinary Office) fact sheet \"Ratten im Recht\" confirms private rat keeping needs no cantonal permit and no proof of competence. Welfare conditions apply: rats are social, so at least two must be kept (a single rat is unlawful), and the enclosure must meet minimum dimensions (roughly 0.5 m²/0.5 m³ for up to five rats, plus space per extra animal). A cantonal permit and recognised training are required only for commercial trade or for giving away more than 300 rodents per year.\n\nThe one grey area is a classification trap, not a ban. Under TSchV Art. 2 the \"domestic animal\" list (dogs, cats, domestic rabbits, pigeons, poultry) excludes all rats, including the fancy rat (Rattus norvegicus), so rats are technically \"Wildtiere\" (wild animals). In practice the small-rodent carve-out covers private keeping, but every official text says \"Ratten\" or \"Farbratten\" generically and is built around the fancy rat. The BLV rats web page and fact sheet do not name the roof rat (Rattus rattus / Hausratte). A cantonal veterinary office reading the Wildtier rule strictly could in theory demand a Bewilligung (permit) for R. rattus specifically, though it is the same kind of tame, captive-bred small rodent as the fancy rat. The already-permitted fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over. This is a gap in agency guidance, not anything the law forbids.",
-      "ask": "Ask the BLV for written confirmation that captive-bred Rattus rattus (Hausratte) is treated exactly like the fancy rat (R. norvegicus): a permit-free \"kleines Nagetier\" for private hobby keeping, with the same 300-per-year threshold for the commercial/permit tier, not a \"Wildtier\" that needs a cantonal Bewilligung. The Wildtier/Heimtier line turns on domestication, not wild ancestry. The dog descends from the wolf and the cat from a wild felid, yet Swiss law lists both as domestic; what matters is generations bred in captivity for tameness. The already-permitted fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over, and BLV's own technical registries already record the Hausratte as a 'domestizierte Form' (see https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/). This is a question for the BLV to confirm, not a conclusion to assert. Because the actual permit, if any, is issued at canton level, also ask your own cantonal veterinary office (Kantonstierarztamt) to confirm in writing that it applies the permit-free small-rodent rule to R. rattus. A one-paragraph written reply on file is sufficient; it removes the uncertainty for Swiss roof-rat keepers and lets the BLV close the gap by naming the species in future guidance.",
-      "branch_note": "This is branch (a): the bureaucracy under-specifying or potentially misreading the law, not the law as written. The lever is the agency (BLV) via a written clarification or declaratory confirmation, plus the cantonal veterinary office that issues permits, not the legislature. Nothing in Swiss law bans the roof rat or names it on any prohibited or restricted list, and R. rattus is on no CITES appendix. The federal scheme already exempts ordinary private small-rodent keeping from permits, and BLV's \"Ratten im Recht\" fact sheet states private rat keeping is permit-free. The only problem is that the TSchV Art. 2 \"Heimtier\" list technically leaves all rats as \"Wildtiere,\" and BLV's published guidance speaks of \"Ratten/Farbratten\" generically while never naming Rattus rattus, so a strict canton could misapply the Wildtier rule to one species the guidance does not mention. That is fixable with a written agency clarification or a canton's confirmation that R. rattus is a permit-free small rodent; it does not require changing any statute. There is no bill to support and no statutory list to add or remove the species from, so do not petition Parliament here. Equally, do not frame this as the agency wrongly applying a valid ban, because there is no ban. The correct framing is a request to confirm that an existing exemption applies to a species the guidance overlooked.",
-      "time_sensitive": "",
-      "targets": [
-        {
-          "name": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV / FSVO) — official contact form",
-          "type": "agency",
-          "form_url": "https://www.blv.admin.ch/blv/de/home/das-blv/organisation/kontakt.html",
-          "email": "info@blv.admin.ch",
-          "why": "The federal animal-welfare authority that publishes the 'Ratten im Recht' guidance. It is the right body to confirm in writing that captive-bred Rattus rattus is a permit-free small rodent like the fancy rat (not a Wildtier), and to close the species gap in its own guidance. Use the official web form as the primary channel; info@blv.admin.ch is the verified general office inbox."
-        },
-        {
-          "name": "Your cantonal veterinary office (Kantonstierarztamt / kantonales Veterinäramt)",
-          "type": "agency",
-          "why": "The canton — not the federal BLV — issues any actual keeping/breeding permit, and Wildtier rules are applied at canton level. A one-line written confirmation from your own canton that it treats R. rattus as a permit-free small rodent removes the only real uncertainty for you specifically. Find it by searching '[your canton] Kantonstierarztamt' or '[your canton] Veterinäramt'."
-        }
-      ],
-      "template": {
-        "en": "Subject: Classification of the roof rat (Rattus rattus) as a permit-free small rodent\n\nDear Sir or Madam,\n\nI keep pet rats privately and indoors and would like to clarify one point about the law. Your fact sheet 'Ratten im Recht' confirms that private rat keeping needs no cantonal permit and no proof of competence. However, the guidance speaks of 'Ratten/Farbratten' generally and does not name the species Rattus rattus (Hausratte, roof rat).\n\nMy animals are captive-bred, tame, kept indoors in a group, and never released into the wild. They are the same kind of small rodent as the fancy rat (Rattus norvegicus), only a different species.\n\nWhether an animal is a 'Wildtier' turns on domestication rather than wild ancestry. The dog descends from the wolf and the cat from a wild felid, yet both appear on the domestic-animal list; what matters is generations bred in captivity for tameness. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over, and your own technical registries already list the Hausratte as a 'domestizierte Form'. I raise this as context for the classification, not as a conclusion of my own.\n\nCould you please confirm in writing that captive-bred Rattus rattus is treated exactly like the fancy rat: a permit-free 'kleines Nagetier' for private hobby keeping, with the same 300-animals-per-year threshold, and not as a 'Wildtier' requiring a cantonal Bewilligung? It would also help future keepers if the species were named in your guidance.\n\nThank you for your help.\n\nYours faithfully,\n[Your name]\n[Your canton / postcode]\n[Your email]",
-        "de": "Betreff: Einstufung der Hausratte (Rattus rattus) als bewilligungsfreies kleines Nagetier\n\nSehr geehrte Damen und Herren\n\nIch halte privat und in der Wohnung Ratten als Heimtiere und möchte einen rechtlichen Punkt klären. Ihr Merkblatt «Ratten im Recht» bestätigt, dass die private Rattenhaltung keine kantonale Bewilligung und keinen Sachkundenachweis erfordert. Die Unterlagen sprechen jedoch allgemein von «Ratten/Farbratten» und nennen die Art Rattus rattus (Hausratte) nicht.\n\nMeine Tiere stammen aus Nachzucht, sind zahm, werden in der Wohnung in der Gruppe gehalten und niemals in die Natur entlassen. Es handelt sich um dasselbe kleine Nagetier wie die Farbratte (Rattus norvegicus), nur um eine andere Art.\n\nOb ein Tier ein «Wildtier» ist, hängt von der Domestizierung ab und nicht von der wilden Abstammung. Der Hund stammt vom Wolf und die Katze von einer wilden Katzenart ab, und dennoch stehen beide auf der Liste der Haustiere; entscheidend sind die über Generationen auf Zahmheit gezüchteten Tiere. Die Farbratte ist selbst die wilde Wanderratte, erst im 19. Jahrhundert domestiziert, sodass eine in Gefangenschaft gezüchtete Hausratte derselbe Fall ist, nur eine Art weiter, und Ihre eigenen technischen Verzeichnisse führen die Hausratte bereits als «domestizierte Form». Ich bringe dies als Hintergrund zur Einstufung vor, nicht als eigene Schlussfolgerung.\n\nKönnten Sie mir bitte schriftlich bestätigen, dass die in Gefangenschaft gezüchtete Rattus rattus gleich behandelt wird wie die Farbratte, als bewilligungsfreies «kleines Nagetier» für die private Hobbyhaltung, mit derselben Schwelle von 300 Tieren pro Jahr, und nicht als «Wildtier», das eine kantonale Bewilligung erfordert? Für künftige Halterinnen und Halter wäre es zudem hilfreich, wenn die Art in Ihren Unterlagen ausdrücklich genannt würde.\n\nVielen Dank für Ihre Hilfe.\n\nFreundliche Grüsse\n[Ihr Name]\n[Ihr Kanton / PLZ]\n[Ihre E-Mail]",
-        "fr": "Objet: Classification du rat noir (Rattus rattus) comme petit rongeur dispensé d'autorisation\n\nMadame, Monsieur,\n\nJe détiens des rats de compagnie à titre privé et en intérieur, et je souhaiterais clarifier un point juridique. Votre fiche « Ratten im Recht » confirme que la détention privée de rats ne requiert ni autorisation cantonale ni attestation de compétences. Toutefois, le document parle de « rats » de manière générale et ne nomme pas l'espèce Rattus rattus (rat noir).\n\nMes animaux sont nés en captivité, apprivoisés, gardés en groupe à l'intérieur et ne sont jamais relâchés dans la nature. Il s'agit du même petit rongeur que le rat domestique (Rattus norvegicus), simplement d'une espèce différente.\n\nLa question de savoir si un animal est « sauvage » tient à la domestication et non à l'ascendance sauvage. Le chien descend du loup et le chat d'un félin sauvage, et pourtant tous deux figurent sur la liste des animaux domestiques; ce qui compte, ce sont les générations élevées en captivité pour la docilité. Le rat domestique est lui-même le rat brun sauvage, domestiqué seulement au XIXe siècle, de sorte qu'un rat noir né en captivité est le même cas, à une espèce près, et vos propres registres techniques inscrivent déjà le rat noir comme « forme domestiquée ». Je soulève ce point comme contexte de la classification, et non comme une conclusion de ma part.\n\nPourriez-vous me confirmer par écrit que le Rattus rattus né en captivité est traité exactement comme le rat domestique, un « petit rongeur » dispensé d'autorisation pour la détention privée de loisir, avec le même seuil de 300 animaux par an, et non comme un « animal sauvage » nécessitant une autorisation cantonale ? Il serait également utile, pour les futurs détenteurs, que l'espèce soit nommée dans vos documents.\n\nAvec mes remerciements.\n\nVeuillez agréer, Madame, Monsieur, mes salutations distinguées.\n[Votre nom]\n[Votre canton / NPA]\n[Votre adresse e-mail]",
-        "it": "Oggetto: Classificazione del ratto nero (Rattus rattus) come piccolo roditore esente da autorizzazione\n\nGentili Signore e Signori,\n\nDetengo ratti da compagnia a titolo privato e in appartamento e vorrei chiarire un punto giuridico. La vostra scheda «Ratten im Recht» conferma che la detenzione privata di ratti non richiede alcuna autorizzazione cantonale né un attestato di competenza. Tuttavia, il documento parla di «ratti» in generale e non nomina la specie Rattus rattus (ratto nero).\n\nI miei animali sono nati in cattività, sono mansueti, vengono tenuti in gruppo in casa e non vengono mai liberati in natura. Si tratta dello stesso piccolo roditore del ratto domestico (Rattus norvegicus), semplicemente di una specie diversa.\n\nSe un animale sia un «animale selvatico» dipende dalla domesticazione e non dall'ascendenza selvatica. Il cane discende dal lupo e il gatto da un felino selvatico, eppure entrambi figurano nell'elenco degli animali domestici; ciò che conta sono le generazioni allevate in cattività per la mansuetudine. Il ratto domestico è esso stesso il ratto delle chiaviche selvatico, domesticato solo nel XIX secolo, cosicché un ratto nero nato in cattività è lo stesso caso, a una specie di distanza, e i vostri stessi registri tecnici riportano già il ratto nero come «forma domesticata». Sollevo questo punto come contesto per la classificazione, e non come una mia conclusione.\n\nPotreste confermarmi per iscritto che il Rattus rattus nato in cattività è trattato esattamente come il ratto domestico, un «piccolo roditore» esente da autorizzazione per la detenzione privata a scopo hobbistico, con la stessa soglia di 300 animali all'anno, e non come un «animale selvatico» che richiede un'autorizzazione cantonale? Sarebbe inoltre utile, per i futuri detentori, se la specie fosse menzionata nei vostri documenti.\n\nVi ringrazio molto per il vostro aiuto.\n\nCordiali saluti,\n[Il vostro nome]\n[Il vostro cantone / CAP]\n[Il vostro indirizzo e-mail]"
-      },
-      "confidence_notes": "Verified June 2026 via the official BLV site: (1) BLV is the correct federal agency; its public rats page (blv.admin.ch/.../heim-und-wildtierhaltung/ratten.html) and the \"Ratten im Recht\" fact sheet confirm private rat keeping is permit-free, with cantonal permit + training only for commercial keeping/breeding — and both speak only of \"Farbratten\"/\"Ratten\" generically, never naming Rattus rattus (this confirms the species-guidance gap is real). (2) Official contact form verified live at blv.admin.ch/blv/de/home/das-blv/organisation/kontakt.html (phone +41 58 463 30 33; address Schwarzenburgstrasse 155, 3003 Bern). (3) The general official inbox info@blv.admin.ch is described by BLV's own customer-communications text as handling questions on pet keeping, trade and travel rules — I include it as a verified general office inbox, not an individual's address; the web contact FORM is the more reliable primary channel. Uncertain / not independently re-verified here: the exact ~0.5 m²/0.5 m³ enclosure figures and the precise \"300/year\" wording (these come from the prior research and the fact sheet summary and should be checked against the current PDF before relying on them); and whether any specific canton has actually demanded a permit for R. rattus (no such case found — the risk is theoretical). Actual permits are issued by the cantonal veterinary office (Kantonstierarztamt), so the canton is the right second touchpoint; there is no single federal page listing all cantonal offices, so the kit points keepers to search for their own canton's Veterinäramt/Kantonstierarztamt. This is a research aid, not legal advice.",
-      "local_lang": "de"
-    }
+    "flag": false
   },
   "activities": {
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "Although rats are technically Wildtiere under TSchV Art. 2, the BLV fact sheet 'Ratten im Recht' states private rat keeping needs no training and no cantonal permit. Mandatory welfare conditions apply: rats are social — keep ≥2 (TSchV Art. 13 / Anhang 2 Tab. 1 item 47); minimum enclosure ~0.5 m²/0.5 m³ for up to 5 rats (+0.05 m²/animal). Medium confidence because the guidance addresses 'Ratten' generically and at least one canton (Zürich) requires permits for wild mammals except 'native insectivores and small rodents' — R. rattus's classification isn't explicitly resolved.",
-      "governing_law": "TSchG (SR 455) Art. 3, 6; TSchV (SR 455.1) Art. 2, 13, Anhang 2 Tab. 1 (item 47); BLV Merkblatt 'Ratten im Recht'.",
+      "why": "The BLV confirmed in writing (2026-06-15) that keeping house rats (Rattus rattus) is permitted in Switzerland and that keeping small rodents needs no permit (Art. 89 let. a TSchV). Mandatory welfare conditions apply: rats are social, so keep at least two (TSchV Art. 13 and Annex 2), and meet the Annex 2 minimum husbandry requirements, at least the same as for the fancy rat R. norvegicus (the BLV points to the German Säugetiergutachten 2014, about 2 square metres for two house rats). No cantonal permit and no proof of competence are needed for private keeping.",
+      "governing_law": "TSchG (SR 455) Art. 3, 6; TSchV (SR 455.1) Art. 89 let. a (keeping small rodents not subject to permit), Art. 13 and Annex 2 (social housing and minimum husbandry); BLV written confirmation 2026-06-15.",
       "source_ids": [
         "ch-tschv",
         "ch-blv-ratten",
         "ch-tschg"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-15",
       "needs_verification": false,
       "verified_by": "gemini-dr"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "Private breeding for personal use or occasional rehoming is permit-free. A cantonal Bewilligung + recognised training (Sachkundenachweis/FBA) is required only above the commercial threshold — 300 rats given away (or used as feeder animals) per year — or for any 'gewerbsmässiger' (commercial) pet dealing. A normal hobby rattery stays well under 300/yr. (Same Wildtier-classification caveat as keeping.)",
-      "governing_law": "TSchV (SR 455.1) Art. 101 (Bewilligungspflicht), Art. 102 (training); BLV 'Ratten im Recht' (300/yr threshold).",
+      "why": "Private breeding for personal use or occasional rehoming is permit-free. A cantonal Bewilligung + recognised training (Sachkundenachweis/FBA) is required only above the commercial threshold, 300 rats given away (or used as feeder animals) per year, or for any 'gewerbsmässiger' (commercial) pet dealing. A normal hobby rattery stays well under 300/yr. (Same Wildtier-classification caveat as keeping.)",
+      "governing_law": "TSchV (SR 455.1) Art. 94 para. 2 and Art. 101 let. c para. 4 (cantonal permit to breed and give away more than 300 rats per year to third parties); private and hobby breeding below that threshold is permit-free; BLV written confirmation 2026-06-15.",
       "source_ids": [
         "ch-tschv",
         "ch-blv-ratten"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-15",
       "needs_verification": false,
       "verified_by": "gemini-dr"
     },
@@ -82,12 +59,12 @@
       "status": "legal",
       "confidence": "high",
       "why": "Gratuitous transfer (giving away) of captive-bred rats with no commercial element is lawful without a permit below 300 animals/year. Commercial trade ('gewerbsmässiger Handel') at any scale needs a cantonal Bewilligung + BLV-recognised training; organised animal swaps (Tierbörsen) have their own permit/training rule. No price cap; the test is whether the activity is commercial.",
-      "governing_law": "TSchV (SR 455.1) Art. 101–102; BLV Fachinformation (gewerbsmässiger Handel / Tierbörsen).",
+      "governing_law": "TSchV (SR 455.1) Art. 94 para. 2 and Art. 101 let. c para. 4 (cantonal permit above 300 rats per year given or sold to third parties); below that, gratuitous transfer and occasional sale are permit-free; BLV written confirmation 2026-06-15.",
       "source_ids": [
         "ch-tschv",
         "ch-blv-handel"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-15",
       "needs_verification": false,
       "verified_by": "gemini-dr"
     },
@@ -100,7 +77,7 @@
         "ch-blv-travel",
         "ch-tschg"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-15",
       "needs_verification": false,
       "verified_by": "gemini-dr"
     }
@@ -112,7 +89,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Switzerland legally requires rats to be kept in groups — keeping a single rat is an offence (TSchV social-species rule). Meet the minimum enclosure dimensions (~0.5 m²/0.5 m³ for up to 5 rats). Private keeping/breeding is permit-free; a cantonal permit + training is needed only for commercial trade or giving away 300+ rodents/year. ⚠️ Confirm with your cantonal veterinary office that R. rattus is treated as a permit-free small rodent (not a Wildtier). Never release.",
+      "summary": "Switzerland legally requires rats to be kept in groups, keeping a single rat is an offence (TSchV social-species rule). Meet the minimum enclosure dimensions (~0.5 m²/0.5 m³ for up to 5 rats). Private keeping/breeding is permit-free; a cantonal permit + training is needed only for commercial trade or giving away 300+ rodents/year. ⚠️ Confirm with your cantonal veterinary office that R. rattus is treated as a permit-free small rodent (not a Wildtier). Never release.",
       "steps": [
         "Confirm R. rattus's small-rodent (permit-free) status with your Kantonstierarztamt before acquiring"
       ],
@@ -129,56 +106,56 @@
   "sources": [
     {
       "id": "ch-tschg",
-      "title": "Tierschutzgesetz (TSchG, SR 455) — Federal Animal Welfare Act",
+      "title": "Tierschutzgesetz (TSchG, SR 455), Federal Animal Welfare Act",
       "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/de",
       "authority": "Swiss Confederation / Fedlex",
       "accessed": "2026-06-07"
     },
     {
       "id": "ch-tschv",
-      "title": "Tierschutzverordnung (TSchV, SR 455.1) — Art. 2 (Wildtier/Heimtier), Art. 13 (social), Anhang 2 Tab.1 (rats), Art. 101–102 (permits)",
+      "title": "Tierschutzverordnung (TSchV, SR 455.1), Art. 2 (Wildtier/Heimtier), Art. 13 (social), Anhang 2 Tab.1 (rats), Art. 101–102 (permits)",
       "url": "https://www.fedlex.admin.ch/eli/cc/2008/416/de",
       "authority": "Swiss Confederation / Fedlex",
       "accessed": "2026-06-07"
     },
     {
       "id": "ch-blv-ratten",
-      "title": "BLV Merkblatt 'Ratten im Recht' — private keeping permit-free; group rule; enclosure minimums; 300/yr threshold",
+      "title": "BLV Merkblatt 'Ratten im Recht', private keeping permit-free; group rule; enclosure minimums; 300/yr threshold",
       "url": "https://www.blv.admin.ch/dam/blv/de/dokumente/tiere/heim-und-wildtierhaltung/ratten-im-recht.pdf.download.pdf/Merkblatt%20-%20Ratten%20im%20Recht.pdf",
       "authority": "BLV (Federal Food Safety & Veterinary Office)",
       "accessed": "2026-06-07"
     },
     {
       "id": "ch-blv-handel",
-      "title": "BLV Fachinformation — Bewilligungs- und Ausbildungspflicht für den gewerbsmässigen Handel mit Heimtieren",
+      "title": "BLV Fachinformation, Bewilligungs- und Ausbildungspflicht für den gewerbsmässigen Handel mit Heimtieren",
       "url": "https://www.blv.admin.ch/dam/blv/de/dokumente/tiere/heim-und-wildtierhaltung/fi-bew-ausb-gewerb-handel-heimtiere-db.pdf.download.pdf/fi-de-bew-ausb-gewerb-handel-heimtiere-db.pdf",
       "authority": "BLV",
       "accessed": "2026-06-07"
     },
     {
       "id": "ch-blv-travel",
-      "title": "BLV — Travelling with pets / import of rodents (≤5 personal, no permit/health cert)",
+      "title": "BLV, Travelling with pets / import of rodents (≤5 personal, no permit/health cert)",
       "url": "https://www.blv.admin.ch/blv/en/home/tiere/reisen-mit-heimtieren.html",
       "authority": "BLV",
       "accessed": "2026-06-07"
     },
     {
       "id": "ch-blv-einrichtungen",
-      "title": "BLV — EU-zugelassene Einrichtungen (lists Hausratte / R. rattus as a 'Domestizierte Form')",
+      "title": "BLV, EU-zugelassene Einrichtungen (lists Hausratte / R. rattus as a 'Domestizierte Form')",
       "url": "https://www.blv.admin.ch/dam/blv/fr/dokumente/import-export/rechts-und-vollzugsgrundlagen/listen-bew-ch-betriebe/anerkannte-wiss-einrichtungen.pdf.download.pdf/EU-Zugelassene-Einrichtungen-Institute-und-Zentren.pdf",
       "authority": "BLV (Switzerland)",
       "accessed": "2026-06-11"
     },
     {
       "id": "ch-edav-ht-erl",
-      "title": "BLV — Erläuterungen zur EDAV-Ht (companion-animal import; ≤5 rodents non-commercial)",
+      "title": "BLV, Erläuterungen zur EDAV-Ht (companion-animal import; ≤5 rodents non-commercial)",
       "url": "https://www.blv.admin.ch/dam/blv/de/dokumente/import-export/rechts-und-vollzugsgrundlagen/erlaeuterungen-edav-ht.pdf.download.pdf/Erl%C3%A4uterungen%20zur%20EDAV-Ht_d.pdf",
       "authority": "BLV (Switzerland)",
       "accessed": "2026-06-11"
     },
     {
       "id": "ch-frsv",
-      "title": "Freisetzungsverordnung (FrSV, SR 814.911) — R. rattus NOT on the invasive-organism annexes",
+      "title": "Freisetzungsverordnung (FrSV, SR 814.911), R. rattus NOT on the invasive-organism annexes",
       "url": "https://www.fedlex.admin.ch/eli/cc/2008/614/de",
       "authority": "Fedlex (Switzerland)",
       "accessed": "2026-06-11"
