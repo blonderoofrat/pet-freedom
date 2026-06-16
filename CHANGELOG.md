@@ -11,6 +11,18 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.2.4 (2026-06-16)
+
+- **Safety guardrail in RUNBOOK §9 (Inquiries): never misrepresent yourself to a government agency.** When you
+  email agencies to confirm a species' legal status, do not claim to be a resident of, or to keep/breed/import
+  the animal in, a jurisdiction where you do not live (and especially not one where it is restricted). A false
+  residency claim, or implying you possess a regulated animal in their territory, can expose YOU to legal
+  jeopardy. Write as what you are: someone compiling a guide for the benefit of that jurisdiction's residents,
+  explicitly "not a resident there, not seeking to keep or import there." This matters most for shared templates
+  sent to many jurisdictions. Also added: verify you are emailing the right office/role (use only verified
+  contacts, not an address copied from another thread), and honor any request to stop or switch inboxes. Learned
+  the hard way; published so adopters never repeat it.
+
 ## 1.2.3 (2026-06-15)
 
 - New `docs/SOURCES.md`: a species-agnostic directory of WHERE the authoritative primary law lives (primary-law

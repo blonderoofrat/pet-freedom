@@ -130,6 +130,24 @@ Guardrails: **never invent an agency email** (verified `contacts[]` only; otherw
 bounce, find a verified replacement or flag it honestly — never guess. Requires the mailbox + SPF/DKIM/DMARC
 **and MX** setup in [`EMAIL-DELIVERABILITY.md`](EMAIL-DELIVERABILITY.md); verify both directions first.
 
+> **⚠️ Safety — never misrepresent yourself to a government agency.** Write as what you are: someone compiling
+> a guide **for the benefit of residents of that jurisdiction** who might wish to keep the animal. **Never claim
+> to be a resident of, or to keep/breed/import the animal in, a jurisdiction where you do not live** — and
+> especially not one where the animal is restricted or prohibited. A false residency claim, or implying you
+> possess a regulated animal in their territory, can expose **you** to legal jeopardy if an official concludes
+> you are holding a prohibited animal in their jurisdiction. Say plainly that you are **not** a resident there
+> and are **not** seeking to keep or import the animal there; you only need the official rule in order to
+> describe it. A safe frame: *"I am a writer based in [your home place] compiling a free guide for the benefit
+> of residents of [jurisdiction] who might wish to keep one; I am not a resident of [jurisdiction] and am not
+> seeking to keep or import the animal there."* This matters most when you contact many jurisdictions from one
+> template: a single shared template must never assert residency in each place it is sent.
+>
+> **Verify you are emailing the right office.** Confirm the contact's role and inbox actually handle the
+> topic before you send, and use only verified `contacts[]` addresses — never one copied from a different
+> thread or batch. Emailing the wrong specialist (for example, a microorganism desk about a mammal) wastes
+> their time and can alienate a contact you may later need. If a contact asks you to stop or to use a
+> different inbox, honor it immediately.
+
 **Multiple addresses + form fallback.** If a jurisdiction lists several plausible contacts, send to all of
 them (one good delivery is enough). Where a web form also exists, try email first; if there is no reply or a
 confirmed bounce after about a week, reopen the inquiry as a web-form submission instead.
