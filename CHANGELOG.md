@@ -11,6 +11,17 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.2.5 (2026-06-18)
+
+- **RUNBOOK §9 safety guardrail, remediation half: if a flawed inquiry template already went out, audit your
+  ENTIRE sent archive in EVERY language.** The 1.2.4 guardrail covers prevention; this adds what to do once a
+  bad send is discovered. A defect in a shared template (a wrong residency line, an over-claim of possession)
+  rides every *translated* copy, so an English-only spot-check misses the rest. When you find one, re-scan all
+  sent inquiries across all languages before concluding you have caught them, then correct each affected thread
+  in that thread's language, reviewing every correction before it sends. Learned the hard way: a first
+  correction pass caught the English misrepresentations but missed the French and Vietnamese copies of the same
+  template bug; a full multi-language re-sweep found them.
+
 ## 1.2.4 (2026-06-16)
 
 - **Safety guardrail in RUNBOOK §9 (Inquiries): never misrepresent yourself to a government agency.** When you

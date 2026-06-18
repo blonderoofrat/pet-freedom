@@ -147,6 +147,13 @@ bounce, find a verified replacement or flag it honestly — never guess. Require
 > thread or batch. Emailing the wrong specialist (for example, a microorganism desk about a mammal) wastes
 > their time and can alienate a contact you may later need. If a contact asks you to stop or to use a
 > different inbox, honor it immediately.
+>
+> **If a flawed template already went out, audit your *entire* sent archive — in every language.** A defect in
+> a shared template (a wrong residency line, an over-claim of possession) rides every *translated* copy, so an
+> English-only spot-check will miss the rest. When you find one bad send, re-scan *all* sent inquiries across
+> *all* languages before you conclude you have caught them; the same bug will be hiding in the French, Spanish,
+> Vietnamese, and other versions too. Then send a correction in each affected thread, in that thread's language.
+> Review every correction before it goes out; never auto-send corrective mail to an agency.
 
 **Multiple addresses + form fallback.** If a jurisdiction lists several plausible contacts, send to all of
 them (one good delivery is enough). Where a web form also exists, try email first; if there is no reply or a
