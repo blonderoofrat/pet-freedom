@@ -1,0 +1,97 @@
+{
+  "jurisdiction": {
+    "id": "us-co-colorado-springs",
+    "level": "municipality",
+    "name": "Colorado Springs",
+    "parent": "us-co",
+    "country": "US",
+    "iso": "US-CO",
+    "language": "en",
+    "slug": "colorado-springs",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "exotic animal",
+      "rodent"
+    ]
+  },
+  "summary": "Good news if you live in Colorado Springs: we checked, and Colorado Springs is no stricter than Colorado. The city requires an exotic-animal permit for unusual or wild animals (City Code 6.7.111), but that requirement expressly does not apply to 'birds, small rodents or small nonpoisonous reptiles... for pets.' A pet rat is a small rodent kept as a pet, so no permit is needed, and there is no Denver-style 'albino only' limit. A pet roof rat is allowed, the same as Colorado.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Colorado Springs City Code 6.7.111 requires an exotic-animal permit, but subsection (B) states the requirement 'shall not apply to the owning or keeping of birds, small rodents or small nonpoisonous reptiles... commonly used for educational or experimental purposes or for pets.' A domesticated pet rat is a small rodent kept as a pet, so it is exempt and needs no permit; there is no albino-only restriction. This matches Colorado, which exempts domesticated rats statewide. Not stricter than Colorado.",
+      "governing_law": "Colorado Springs City Code 6.7.110-6.7.111 (exotic-animal permit with a small-rodent pet exemption); Colorado 2 CCR 406-11 Section 1103.",
+      "source_ids": [
+        "cos-6-7-111",
+        "co-domestic-list"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction; the state's permissive rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "cos-6-7-111",
+        "co-domestic-list"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "cos-6-7-111",
+        "co-domestic-list"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "cos-6-7-111",
+        "co-domestic-list"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "cos-6-7-111",
+      "title": "Colorado Springs City Code 6.7.111 (Exotic animals; permit required), subsection (B) exempts 'small rodents... for pets'",
+      "url": "https://codelibrary.amlegal.com/codes/coloradospringsco/latest/coloradosprings_co/0-0-0-7088",
+      "authority": "City of Colorado Springs, Colorado",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "co-domestic-list",
+      "title": "Colorado Parks & Wildlife Domestic Animal List, 2 CCR 406-11 Section 1103 ('Domesticated races of rats (Rattus norvegicus and Rattus)')",
+      "url": "https://cpw.state.co.us/Documents/RulesRegs/Regulations/Ch11.pdf",
+      "authority": "Colorado Parks & Wildlife",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

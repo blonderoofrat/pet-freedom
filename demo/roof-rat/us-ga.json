@@ -38,7 +38,7 @@
     "breed": {
       "status": "legal_with_permit",
       "confidence": "high",
-      "why": "There is no separate breeding permit for an exempt rodent — if keeping is unlicensed, hobby breeding is likewise unregulated by DNR (R. rattus is off the regulated wild-animal list). The only breeding-adjacent touchpoint is the Dept of Agriculture pet-dealer threshold, which governs commercial selling, not breeding itself. Gemini DR-verified: hobby breeding is free only up to the GDA Pet Dealer threshold - selling/exchanging/adopting-out >1 litter OR >30 adults per 12 months requires a GDA Pet Dealer License (40-13-13-.07); 'giving away' counts as 'offers for adoption.'",
+      "why": "There is no separate breeding permit for an exempt rodent, if keeping is unlicensed, hobby breeding is likewise unregulated by DNR (R. rattus is off the regulated wild-animal list). The only breeding-adjacent touchpoint is the Dept of Agriculture pet-dealer threshold, which governs commercial selling, not breeding itself. Gemini DR-verified: hobby breeding is free only up to the GDA Pet Dealer threshold - selling/exchanging/adopting-out >1 litter OR >30 adults per 12 months requires a GDA Pet Dealer License (40-13-13-.07); 'giving away' counts as 'offers for adoption.'",
       "governing_law": "Ga. Comp. R. & Regs. r. 391-4-8-.05; (commercial overlay) O.C.G.A. §4-11-2 & §4-11-3.",
       "source_ids": [
         "ga-391-4-8-05",
@@ -64,7 +64,7 @@
     "transport": {
       "status": "legal",
       "confidence": "high",
-      "why": "Georgia's import Certificate of Veterinary Inspection (CVI) requirement covers 'all pets except fish and rodents,' so rodents — including R. rattus — are exempt from the import CVI. No state import permit or health certificate is required for a pet roof rat. (Federal USFWS Form 3-177 still applies to international movement — see United States.) Gemini DR-verified: rodents are exempt from the CVI requirement for pets entering Georgia (40-13-2-.19(4)); intrastate unrestricted. (Federal: international import = USFWS Form 3-177 + CDC African-rodent embargo.)",
+      "why": "Georgia's import Certificate of Veterinary Inspection (CVI) requirement covers 'all pets except fish and rodents,' so rodents, including R. rattus, are exempt from the import CVI. No state import permit or health certificate is required for a pet roof rat. (Federal USFWS Form 3-177 still applies to international movement, see United States.) Gemini DR-verified: rodents are exempt from the CVI requirement for pets entering Georgia (40-13-2-.19(4)); intrastate unrestricted. (Federal: international import = USFWS Form 3-177 + CDC African-rodent embargo.)",
       "governing_law": "Ga. Comp. R. & Regs. ch. 40-13-2 (interstate movement / CVI); GA Dept of Agriculture 'Bringing Animals into Georgia.'",
       "source_ids": [
         "ga-import"
@@ -104,7 +104,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — it is a non-native species; rehome responsibly.",
+      "summary": "Never release a roof rat, it is a non-native species; rehome responsibly.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -118,28 +118,28 @@
   "sources": [
     {
       "id": "ga-391-4-8-05",
-      "title": "Ga. Comp. R. & Regs. r. 391-4-8-.05 — Wild Animals, License Required (Order Rodentia exemption naming Rattus rattus)",
+      "title": "Ga. Comp. R. & Regs. r. 391-4-8-.05, Wild Animals, License Required (Order Rodentia exemption naming Rattus rattus)",
       "url": "https://rules.sos.ga.gov/gac/391-4-8-.05",
       "authority": "Georgia DNR / Secretary of State",
       "accessed": "2026-06-06"
     },
     {
       "id": "ga-27-5-5",
-      "title": "O.C.G.A. §27-5-5 — Wild animals for which a license or permit is required",
+      "title": "O.C.G.A. §27-5-5, Wild animals for which a license or permit is required",
       "url": "https://law.justia.com/codes/georgia/title-27/chapter-5/section-27-5-5/",
       "authority": "Georgia General Assembly",
       "accessed": "2026-06-06"
     },
     {
       "id": "ga-import",
-      "title": "Bringing Animals into Georgia — import CVI rule ('all pets except fish and rodents')",
+      "title": "Bringing Animals into Georgia, import CVI rule ('all pets except fish and rodents')",
       "url": "https://www.agr.georgia.gov/bringing-animals-georgia",
       "authority": "Georgia Dept of Agriculture (State Veterinarian)",
       "accessed": "2026-06-06"
     },
     {
       "id": "ga-4-11-2",
-      "title": "O.C.G.A. §4-11-2 — Definitions ('pet dealer,' 30-animal exemption, 'pet' includes rodent)",
+      "title": "O.C.G.A. §4-11-2, Definitions ('pet dealer,' 30-animal exemption, 'pet' includes rodent)",
       "url": "https://law.justia.com/codes/georgia/2020/title-4/chapter-11/article-1/section-4-11-2/",
       "authority": "Georgia General Assembly (Animal Protection Act)",
       "accessed": "2026-06-06"

@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Utah classifies birds and mammals species-by-species, and the roof rat falls through a gap created by a 2023 rule rewrite. The Division of Wildlife Resources' Bird and Mammal Classification Table 3b-1 (May 1, 2023, incorporated by Utah Admin. Code R657-3b) lists the Norway rat (Rattus norvegicus — the common pet 'fancy rat') as a domestic animal 'not covered under this rule,' but Rattus rattus appears nowhere on it. The table's default makes every unlisted species 'presumed prohibited' and requires a DWR assessment before collection, importation, or possession is authorized. Critically, this is NOT an absolute ban: a lawful pathway exists — a Certificate of Registration (COR) obtained through a case-by-case variance (R657-3a-9) or a species reclassification petition (R657-3a-8) — so keeping, breeding, selling, or importing a captive-bred roof rat is restricted rather than flatly prohibited. Before 2023, the old rule R657-3(32) jointly exempted 'Rats, Norway and Black (Rattus norvegicus and Rattus rattus)' as non-COR pets; the May 2023 simplification kept only the Norway rat, making this a textbook agency-fixable species/enumeration trap.",
+  "summary": "Utah classifies birds and mammals species-by-species, and the roof rat falls through a gap created by a 2023 rule rewrite. The Division of Wildlife Resources' Bird and Mammal Classification Table 3b-1 (May 1, 2023, incorporated by Utah Admin. Code R657-3b) lists the Norway rat (Rattus norvegicus, the common pet 'fancy rat') as a domestic animal 'not covered under this rule,' but Rattus rattus appears nowhere on it. The table's default makes every unlisted species 'presumed prohibited' and requires a DWR assessment before collection, importation, or possession is authorized. Critically, this is NOT an absolute ban: a lawful pathway exists, a Certificate of Registration (COR) obtained through a case-by-case variance (R657-3a-9) or a species reclassification petition (R657-3a-8), so keeping, breeding, selling, or importing a captive-bred roof rat is restricted rather than flatly prohibited. Before 2023, the old rule R657-3(32) jointly exempted 'Rats, Norway and Black (Rattus norvegicus and Rattus rattus)' as non-COR pets; the May 2023 simplification kept only the Norway rat, making this a textbook agency-fixable species/enumeration trap.",
   "last_reviewed": "2026-06-10",
   "advocacy": {
     "flag": true,
@@ -28,24 +28,24 @@
       "local_lang": "en",
       "targets": [
         {
-          "name": "Utah Division of Wildlife Resources — Wildlife Registration / Certificate of Registration (COR) office",
+          "name": "Utah Division of Wildlife Resources, Wildlife Registration / Certificate of Registration (COR) office",
           "type": "agency",
           "email": "dwrregistration@utah.gov",
           "form_url": "https://wildlife.utah.gov/cor",
-          "why": "The COR office administers Rule R657-3b and Table 3b-1 — the exact instrument that lists the Norway rat as domestic-exempt and omits the roof rat — and processes both variance requests (R657-3a-9) and species reclassification petitions (R657-3a-8). Ask in writing whether the post-2023 omission of R. rattus was intentional and whether captive-bred R. rattus can be grouped with R. norvegicus or restored to the noncontrolled list. Verified contact (DR): dwrregistration@utah.gov; phone 801-538-4701 / 385-332-6154; mail to 1594 W. North Temple, Suite 2110, Box 146301, Salt Lake City, UT 84114-6301."
+          "why": "The COR office administers Rule R657-3b and Table 3b-1, the exact instrument that lists the Norway rat as domestic-exempt and omits the roof rat, and processes both variance requests (R657-3a-9) and species reclassification petitions (R657-3a-8). Ask in writing whether the post-2023 omission of R. rattus was intentional and whether captive-bred R. rattus can be grouped with R. norvegicus or restored to the noncontrolled list. Verified contact (DR): dwrregistration@utah.gov; phone 801-538-4701 / 385-332-6154; mail to 1594 W. North Temple, Suite 2110, Box 146301, Salt Lake City, UT 84114-6301."
         },
         {
-          "name": "Utah DWR — Request for Species Reclassification (Utah Admin. Code R657-3a-8)",
+          "name": "Utah DWR, Request for Species Reclassification (Utah Admin. Code R657-3a-8)",
           "type": "agency",
           "email": "dwrregistration@utah.gov",
           "form_url": "https://wildlife.utah.gov/cor",
-          "why": "The formal channel to restore captive-bred R. rattus to Table 3b-1's noncontrolled/domestic-exempt list — the same list it shared with R. norvegicus before May 2023. A reclassification petition ($200 fee) compels an interagency review (DWR + Dept. of Agriculture & Food + Dept. of Health & Human Services) and a formal Wildlife Board recommendation on the record, rather than an informal staff answer. If granted it legalizes the species statewide; if denied, the applicant may request agency action before the Wildlife Board within 30 days (R657-2)."
+          "why": "The formal channel to restore captive-bred R. rattus to Table 3b-1's noncontrolled/domestic-exempt list, the same list it shared with R. norvegicus before May 2023. A reclassification petition ($200 fee) compels an interagency review (DWR + Dept. of Agriculture & Food + Dept. of Health & Human Services) and a formal Wildlife Board recommendation on the record, rather than an informal staff answer. If granted it legalizes the species statewide; if denied, the applicant may request agency action before the Wildlife Board within 30 days (R657-2)."
         },
         {
-          "name": "Utah Office of Administrative Rules — Petition for Rulemaking (Utah Code 63G-3-601) / Public Notice Website",
+          "name": "Utah Office of Administrative Rules, Petition for Rulemaking (Utah Code 63G-3-601) / Public Notice Website",
           "type": "public_comment",
           "form_url": "https://www.utah.gov/pmn/",
-          "why": "Any person may petition a state agency to amend an existing rule under Utah Code 63G-3-601 (Office of Administrative Rules, rules.utah.gov, phone 801-957-7110). If DWR opens any rulemaking touching R657-3b or Table 3b-1, the proposed-rule notice, comment-period dates (typically 30+ days), and agency contact are posted on the Utah Public Notice Website (utah.gov/pmn) and in the twice-monthly Utah State Bulletin — the place a well-supported species-addition comment lands on the formal record. No roof-rat-specific window is open now; watch this portal."
+          "why": "Any person may petition a state agency to amend an existing rule under Utah Code 63G-3-601 (Office of Administrative Rules, rules.utah.gov, phone 801-957-7110). If DWR opens any rulemaking touching R657-3b or Table 3b-1, the proposed-rule notice, comment-period dates (typically 30+ days), and agency contact are posted on the Utah Public Notice Website (utah.gov/pmn) and in the twice-monthly Utah State Bulletin, the place a well-supported species-addition comment lands on the formal record. No roof-rat-specific window is open now; watch this portal."
         }
       ],
       "template": {
@@ -58,7 +58,7 @@
     "keep": {
       "status": "restricted",
       "confidence": "high",
-      "why": "Bird and Mammal Classification Table 3b-1 (incorporated by Utah Admin. Code R657-3b) lists 'Rat, Norway / Rattus norvegicus' as a domestic animal not covered by the rule, but does NOT list Rattus rattus. The table's header makes every unlisted species 'presumed prohibited... require an assessment before... possession will be authorized,' and R657-3b-8 requires a Certificate of Registration before collecting/possessing any prohibited or controlled species. So possessing a captive-bred roof rat is not automatically illegal — a lawful COR pathway exists via a species assessment / variance — but it cannot proceed without prior DWR authorization, and unauthorized possession is a violation of Utah Code 23A-5-309. Restricted, not prohibited.",
+      "why": "Bird and Mammal Classification Table 3b-1 (incorporated by Utah Admin. Code R657-3b) lists 'Rat, Norway / Rattus norvegicus' as a domestic animal not covered by the rule, but does NOT list Rattus rattus. The table's header makes every unlisted species 'presumed prohibited... require an assessment before... possession will be authorized,' and R657-3b-8 requires a Certificate of Registration before collecting/possessing any prohibited or controlled species. So possessing a captive-bred roof rat is not automatically illegal, a lawful COR pathway exists via a species assessment / variance, but it cannot proceed without prior DWR authorization, and unauthorized possession is a violation of Utah Code 23A-5-309. Restricted, not prohibited.",
       "governing_law": "Utah Admin. Code R657-3b-8 + Bird and Mammal Classification Table 3b-1 (May 1, 2023); pathways R657-3a-8 (reclassification) / R657-3a-9 (variance); Utah Code 23A-5-309.",
       "source_ids": [
         "ut-r657-3b",
@@ -73,7 +73,7 @@
     "breed": {
       "status": "restricted",
       "confidence": "high",
-      "why": "R657-3b-13 requires a Certificate of Registration before propagating any species classified as prohibited or controlled. Because R. rattus is unlisted on Table 3b-1 (presumed prohibited pending assessment), breeding can't proceed without a favorable DWR assessment and a COR that affirmatively authorizes propagation — which 'may contain stipulations to prevent detrimental impacts to wild populations, the environment, or human health or safety.' No exemption applies (the table names R. norvegicus, not R. rattus). A lawful pathway exists, so this is restricted; the DR notes the propagation burden is higher than mere possession given the species' pest-manual classification.",
+      "why": "R657-3b-13 requires a Certificate of Registration before propagating any species classified as prohibited or controlled. Because R. rattus is unlisted on Table 3b-1 (presumed prohibited pending assessment), breeding can't proceed without a favorable DWR assessment and a COR that affirmatively authorizes propagation, which 'may contain stipulations to prevent detrimental impacts to wild populations, the environment, or human health or safety.' No exemption applies (the table names R. norvegicus, not R. rattus). A lawful pathway exists, so this is restricted; the DR notes the propagation burden is higher than mere possession given the species' pest-manual classification.",
       "governing_law": "Utah Admin. Code R657-3b-13; Bird and Mammal Classification Table 3b-1 (default = presumed prohibited); pathway R657-3a-9 (variance) / R657-3a-8 (reclassification).",
       "source_ids": [
         "ut-r657-3b",
@@ -87,7 +87,7 @@
     "sell_give": {
       "status": "restricted",
       "confidence": "high",
-      "why": "Utah Code 23A-5-309 bars collecting, possessing, transporting, donating, transferring, or exporting protected wildlife except as authorized by a rule, proclamation, or Wildlife Board order. Because R. rattus is unlisted / presumed prohibited, any sale or gift is lawful only to a recipient who already holds the necessary DWR COR for the species — transferring to an unregistered Utah resident implicates both parties. A commercial storefront additionally needs local municipal pet-shop/dealer licensing and zoning approval, which the COR application requires be resolved first. A pathway exists (transfer between COR holders), so restricted, not prohibited.",
+      "why": "Utah Code 23A-5-309 bars collecting, possessing, transporting, donating, transferring, or exporting protected wildlife except as authorized by a rule, proclamation, or Wildlife Board order. Because R. rattus is unlisted / presumed prohibited, any sale or gift is lawful only to a recipient who already holds the necessary DWR COR for the species, transferring to an unregistered Utah resident implicates both parties. A commercial storefront additionally needs local municipal pet-shop/dealer licensing and zoning approval, which the COR application requires be resolved first. A pathway exists (transfer between COR holders), so restricted, not prohibited.",
       "governing_law": "Utah Code 23A-5-309; Utah Admin. Code R657-3b + Table 3b-1; local municipal pet-shop/dealer ordinances.",
       "source_ids": [
         "ut-23a-5-309",
@@ -146,7 +146,7 @@
           "url": "https://wildlife.utah.gov/fees"
         }
       ],
-      "where_to_file": "Utah Division of Wildlife Resources — Wildlife Registration / COR office, 1594 W. North Temple, Suite 2110, Box 146301, Salt Lake City, UT 84114-6301 (import permit: Utah Dept of Agriculture & Food, Animal Industry)",
+      "where_to_file": "Utah Division of Wildlife Resources, Wildlife Registration / COR office, 1594 W. North Temple, Suite 2110, Box 146301, Salt Lake City, UT 84114-6301 (import permit: Utah Dept of Agriculture & Food, Animal Industry)",
       "fees": "Species reclassification or variance request $200 each; COR $10 handling + $75 personal / $150 commercial issuance, $30 renewal, $10 amendment; UDAF CVI + entry permit fees for import.",
       "source_ids": [
         "ut-r657-3b",
@@ -177,53 +177,53 @@
       ]
     }
   ],
-  "inquiry_focus": "Table 3b-1 (May 1, 2023) lists 'Rat, Norway (Rattus norvegicus)' as a domestic animal not covered by R657-3b but omits Rattus rattus, leaving it 'presumed prohibited, requires assessment' — even though pre-2023 rule R657-3(32) jointly exempted both rat species. (1) Was the 2023 omission of R. rattus intentional biosecurity policy or a clerical assumption that 'Norway rat' covered all pet rats? (2) Are pre-2023 captive-bred roof rats grandfathered, or do their owners now need a COR? (3) Would DWR group captive-bred, domestic-lineage R. rattus with R. norvegicus, or require an R657-3a-9 variance / R657-3a-8 reclassification? (4) What evidentiary threshold would the interagency panel (DWR + UDAF + DHHS) require to restore captive-bred R. rattus to the noncontrolled/domestic-exempt list?",
+  "inquiry_focus": "Table 3b-1 (May 1, 2023) lists 'Rat, Norway (Rattus norvegicus)' as a domestic animal not covered by R657-3b but omits Rattus rattus, leaving it 'presumed prohibited, requires assessment', even though pre-2023 rule R657-3(32) jointly exempted both rat species. (1) Was the 2023 omission of R. rattus intentional biosecurity policy or a clerical assumption that 'Norway rat' covered all pet rats? (2) Are pre-2023 captive-bred roof rats grandfathered, or do their owners now need a COR? (3) Would DWR group captive-bred, domestic-lineage R. rattus with R. norvegicus, or require an R657-3a-9 variance / R657-3a-8 reclassification? (4) What evidentiary threshold would the interagency panel (DWR + UDAF + DHHS) require to restore captive-bred R. rattus to the noncontrolled/domestic-exempt list?",
   "sources": [
     {
       "id": "ut-r657-3b",
-      "title": "Utah Admin. Code R657-3b — Certification of Registration: Birds and Mammals (COR before collecting/possessing/propagating/transporting prohibited-or-controlled species; unlisted = presumed prohibited)",
+      "title": "Utah Admin. Code R657-3b, Certification of Registration: Birds and Mammals (COR before collecting/possessing/propagating/transporting prohibited-or-controlled species; unlisted = presumed prohibited)",
       "url": "https://wildlife.utah.gov/rules/r657-03b",
       "authority": "Utah Division of Wildlife Resources",
       "accessed": "2026-06-10"
     },
     {
       "id": "ut-table-3b1",
-      "title": "Bird & Mammal Classification Table 3b-1 (May 1, 2023) — lists Rattus norvegicus as domestic-exempt; Rattus rattus absent (default presumed prohibited)",
+      "title": "Bird & Mammal Classification Table 3b-1 (May 1, 2023), lists Rattus norvegicus as domestic-exempt; Rattus rattus absent (default presumed prohibited)",
       "url": "https://wildlife.utah.gov/pdf/cor/bird_and_mammal_classification_table_3b-1.pdf",
       "authority": "Utah Division of Wildlife Resources",
       "accessed": "2026-06-10"
     },
     {
       "id": "ut-r657-3a",
-      "title": "Utah Admin. Code R657-3a — Collection, Importation, Transportation, and Possession of Animals (species reclassification R657-3a-8; variance R657-3a-9)",
+      "title": "Utah Admin. Code R657-3a, Collection, Importation, Transportation, and Possession of Animals (species reclassification R657-3a-8; variance R657-3a-9)",
       "url": "https://wildlife.utah.gov/rules/r657-03a",
       "authority": "Utah Division of Wildlife Resources",
       "accessed": "2026-06-10"
     },
     {
       "id": "ut-23a-5-309",
-      "title": "Utah Code 23A-5-309 — Taking, transporting, selling, transferring protected wildlife illegal except as authorized",
+      "title": "Utah Code 23A-5-309, Taking, transporting, selling, transferring protected wildlife illegal except as authorized",
       "url": "https://le.utah.gov/xcode/Title23A/Chapter5/23A-5-S309.html",
       "authority": "Utah State Legislature",
       "accessed": "2026-06-10"
     },
     {
       "id": "ut-r58-1-13",
-      "title": "Utah Admin. Code R58-1-13 — Exotic Animals and Wildlife (UDAF: import barred for R657-3 prohibited species; CVI + entry permit required for COR animals)",
+      "title": "Utah Admin. Code R58-1-13, Exotic Animals and Wildlife (UDAF: import barred for R657-3 prohibited species; CVI + entry permit required for COR animals)",
       "url": "https://adminrules.utah.gov/public/rule/R58-1/Current%20Rules",
       "authority": "Utah Dept of Agriculture & Food",
       "accessed": "2026-06-10"
     },
     {
       "id": "ut-fees",
-      "title": "Utah DWR Fees — licenses, permits & miscellaneous (reclassification/variance $200; COR issuance/renewal fees)",
+      "title": "Utah DWR Fees, licenses, permits & miscellaneous (reclassification/variance $200; COR issuance/renewal fees)",
       "url": "https://wildlife.utah.gov/fees",
       "authority": "Utah Division of Wildlife Resources",
       "accessed": "2026-06-10"
     },
     {
       "id": "ut-r657-3-historic",
-      "title": "Utah State Bulletin (2012/2015) — former rule R657-3(32) jointly exempted 'Rats, Norway and Black (Rattus norvegicus and Rattus rattus)' as non-COR pets (severed in May 2023 rewrite)",
+      "title": "Utah State Bulletin (2012/2015), former rule R657-3(32) jointly exempted 'Rats, Norway and Black (Rattus norvegicus and Rattus rattus)' as non-COR pets (severed in May 2023 rewrite)",
       "url": "https://rules.utah.gov/wp-content/uploads/b20120801.pdf",
       "authority": "Utah Office of Administrative Rules",
       "accessed": "2026-06-10"
@@ -231,7 +231,7 @@
   ],
   "contacts": [
     {
-      "agency": "Utah Division of Wildlife Resources — Wildlife Registration / Certificate of Registration (COR) office",
+      "agency": "Utah Division of Wildlife Resources, Wildlife Registration / Certificate of Registration (COR) office",
       "role": "wildlife",
       "email": "dwrregistration@utah.gov",
       "form_url": "https://wildlife.utah.gov/cor",
@@ -239,7 +239,7 @@
       "primary": true
     },
     {
-      "agency": "Utah Dept of Agriculture & Food (UDAF) — Division of Animal Industry / State Veterinarian",
+      "agency": "Utah Dept of Agriculture & Food (UDAF), Division of Animal Industry / State Veterinarian",
       "role": "agriculture",
       "email": "",
       "form_url": "https://ag.utah.gov/contact/",

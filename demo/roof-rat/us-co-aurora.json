@@ -1,0 +1,111 @@
+{
+  "jurisdiction": {
+    "id": "us-co-aurora",
+    "level": "municipality",
+    "name": "Aurora",
+    "parent": "us-co",
+    "country": "US",
+    "iso": "US-CO",
+    "language": "en",
+    "slug": "aurora",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "household pet",
+      "similar rodents",
+      "pet animal"
+    ]
+  },
+  "summary": "Good news if you live in Aurora: we checked the city code, and Aurora is no stricter than Colorado. Unlike neighboring Denver (which limits pet rats to an 'albino strain'), Aurora uses a permissive approach: the Aurora Municipal Code lists 'hamsters, guinea pigs and similar rodents' as allowed household pets (AMC 14-1), and its wild/exotic animal ban (AMC 14-8) names squirrels and porcupines but not rats. There is no albino-only limit, no rodent number cap, and no permit for pet rats. A domesticated roof rat is treated the same as the ordinary fancy rat. The two counties that contain Aurora, Adams and Arapahoe, are the same: both defer to Colorado's 'pet animal' definition and add no rat restriction. So in Aurora the Colorado state rules are all that apply (see Colorado). We list Aurora here so anyone who wonders can see it has been checked and confirmed pet-rat friendly.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "The Aurora Municipal Code defines a 'Household pet' to include 'dogs, domestic cats, domestic caged birds, canaries, parrots, rabbits, hamsters, guinea pigs and similar rodents, fish, and reptiles' kept in the home and not for food or commercial purposes (AMC 14-1). A domesticated roof rat is a 'similar rodent,' so it is an allowed household pet. Aurora's wild/exotic/dangerous animal ban (AMC 14-8) lists squirrels and porcupines but does not list rats, mice, or other pet-trade rodents, and Aurora does not use Denver's 'all nonhuman mammals except...' white-list. This is the same as Colorado, which exempts domesticated rats of the genus Rattus statewide.",
+      "governing_law": "Aurora Municipal Code 14-1 (Household pet definition) and 14-8 (Keeping wild, exotic or dangerous animals); cf. Colorado 2 CCR 406-11 Section 1103 (state domestic-rat exemption).",
+      "source_ids": [
+        "aurora-14-1",
+        "aurora-14-8",
+        "co-domestic-list"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Aurora has no local rodent-breeding restriction and no numeric cap on rats (it caps dogs, cats, ferrets, and rabbits, but not rodents). Hobby breeding of a domesticated household pet follows Colorado's permissive state rule; Aurora adds nothing. See the Colorado page for the state-level position.",
+      "governing_law": "Aurora Municipal Code ch. 14 (no rodent breeding restriction or cap); Colorado state rules apply.",
+      "source_ids": [
+        "aurora-14-1",
+        "co-domestic-list"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Aurora imposes no local restriction on giving away or selling a pet rat. The city code regulates dangerous animals and nuisances, not the transfer of household-pet rodents. Colorado's state rules apply (see Colorado).",
+      "governing_law": "Aurora Municipal Code ch. 14 (no transfer restriction for pet rodents).",
+      "source_ids": [
+        "aurora-14-1"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Aurora adds no local transport restriction for a pet rat. Colorado's state-level import rule (a Certificate of Veterinary Inspection for a pet rat entering the state) still applies; see the Colorado page. Within Aurora there is no additional barrier.",
+      "governing_law": "Aurora Municipal Code ch. 14 (no transport restriction for pet rodents); Colorado state import rule applies.",
+      "source_ids": [
+        "aurora-14-1"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "aurora-14-1",
+      "title": "Aurora Municipal Code 14-1 (Definitions: 'Household pet' includes hamsters, guinea pigs and similar rodents)",
+      "url": "https://aurora.municipal.codes/Code/14-1",
+      "authority": "City of Aurora, Colorado",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "aurora-14-8",
+      "title": "Aurora Municipal Code 14-8 (Keeping wild, exotic or dangerous animals; lists squirrels/porcupines, not rats)",
+      "url": "https://aurora.municipal.codes/Code/14-8",
+      "authority": "City of Aurora, Colorado",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "co-domestic-list",
+      "title": "Colorado Parks & Wildlife Domestic Animal List, 2 CCR 406-11 Section 1103 ('Domesticated races of rats (Rattus norvegicus and Rattus)')",
+      "url": "https://cpw.state.co.us/Documents/RulesRegs/Regulations/Ch11.pdf",
+      "authority": "Colorado Parks & Wildlife",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Aurora Animal Services",
+      "role": "health",
+      "email": "",
+      "form_url": "https://www.auroragov.org/residents/animal_services",
+      "phone": "303-326-8288"
+    }
+  ]
+}

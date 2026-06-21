@@ -1,0 +1,96 @@
+{
+  "jurisdiction": {
+    "id": "us-nv-las-vegas",
+    "level": "municipality",
+    "name": "Las Vegas",
+    "parent": "us-nv",
+    "country": "US",
+    "iso": "US-NV",
+    "language": "en",
+    "slug": "las-vegas",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "exotic animal"
+    ]
+  },
+  "summary": "Good news if you live in Las Vegas: we checked, and Las Vegas (and Clark County) do not restrict keeping a pet rat. Nevada is broadly permissive about pets (its short list of banned pets is animals like foxes and skunks, not rats), and the local exotic-animal permit (Clark County ch. 10.18; Las Vegas Title 7) targets genuinely exotic or dangerous animals. The county treats wild, non-domestic rats as a pest-control matter, separate from a domesticated pet rat. A pet roof rat is allowed.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Nevada does not restrict keeping a domesticated pet rat; the state's commonly-cited illegal pets are species such as foxes and skunks, not rats. Clark County ch. 10.18 (Exotic or Wild Animals) and Las Vegas Title 7 require permits for genuinely exotic or dangerous animals, which a domesticated pet rat is not; the county directs wild, non-domestic rat issues to pest control, distinguishing them from pet rats. Not stricter than Nevada. Medium confidence: the exact Clark County exotic-animal definition is on a code host that blocked a direct read, so this rests on Nevada's permissive pet framework plus the county's wild-versus-pet rat distinction.",
+      "governing_law": "Clark County Code ch. 10.18 (Exotic or Wild Animals); Las Vegas Municipal Code Title 7 (Animals); Nevada pet law generally.",
+      "source_ids": [
+        "clark-10-18",
+        "lv-title7"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction; the state's permissive rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "clark-10-18",
+        "lv-title7"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "clark-10-18",
+        "lv-title7"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "clark-10-18",
+        "lv-title7"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "clark-10-18",
+      "title": "Clark County Code ch. 10.18 (Exotic or Wild Animals; permit for exotic/dangerous animals)",
+      "url": "https://library.municode.com/nv/clark_county/codes/code_of_ordinances?nodeId=TIT10AN_CH10.18EXWIAN",
+      "authority": "Clark County, Nevada",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "lv-title7",
+      "title": "Las Vegas Municipal Code Title 7 (Animals)",
+      "url": "https://library.municode.com/nv/las_vegas/codes/code_of_ordinances?nodeId=TIT7AN",
+      "authority": "City of Las Vegas, Nevada",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

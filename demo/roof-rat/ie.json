@@ -17,10 +17,10 @@
       "francach dubh"
     ]
   },
-  "summary": "Ireland is now DR-verified, and it is favourable for mainland keepers. S.I. 374/2024 lists the roof rat (Rattus rattus) as an invasive alien species of national concern, but its First Schedule restricts that designation to 'Offshore islands only' — so on the Irish MAINLAND keeping and breeding pet roof rats is fully legal and unregulated by possession bans, while on the offshore islands (critical seabird breeding grounds) keeping/breeding/transport are prohibited. Commercial supply on the mainland triggers DAFM rules: you must register as a seller/supplier if you transfer six or more pet animals in a year (sale OR free), and rats may not be transferred under 4 weeks of age. Importing rodents follows national 'non-harmonised species' rules (advance DAFM notice/permit + a government-vet health certificate). The earlier S.I. 477/2011 grey area is superseded.",
+  "summary": "Ireland is now DR-verified, and it is favourable for mainland keepers. S.I. 374/2024 lists the roof rat (Rattus rattus) as an invasive alien species of national concern, but its First Schedule restricts that designation to 'Offshore islands only', so on the Irish MAINLAND keeping and breeding pet roof rats is fully legal and unregulated by possession bans, while on the offshore islands (critical seabird breeding grounds) keeping/breeding/transport are prohibited. Commercial supply on the mainland triggers DAFM rules: you must register as a seller/supplier if you transfer six or more pet animals in a year (sale OR free), and rats may not be transferred under 4 weeks of age. Importing rodents follows national 'non-harmonised species' rules (advance DAFM notice/permit + a government-vet health certificate). The earlier S.I. 477/2011 grey area is superseded.",
   "last_reviewed": "2026-06-11",
   "agency_confirmations": [
-    "National Parks & Wildlife Service (NPWS) Wildlife Licensing Unit, Department of Housing, Local Government and Heritage, written reply June 2026: NPWS 'does not licence for such species' (roof rats, Rattus rattus) — i.e. it is not a species for which NPWS issues a keeping/wildlife licence — and indicated that animal-welfare questions fall to the Department of Agriculture (DAFM). This supports that keeping a pet roof rat on the Irish mainland is not gated by an NPWS wildlife permit; welfare, pet-sale registration, and import sit with DAFM. (The offshore-islands prohibition under S.I. 374/2024 is unaffected.)"
+    "National Parks & Wildlife Service (NPWS) Wildlife Licensing Unit, Department of Housing, Local Government and Heritage, written reply June 2026: NPWS 'does not licence for such species' (roof rats, Rattus rattus), i.e. it is not a species for which NPWS issues a keeping/wildlife licence, and indicated that animal-welfare questions fall to the Department of Agriculture (DAFM). This supports that keeping a pet roof rat on the Irish mainland is not gated by an NPWS wildlife permit; welfare, pet-sale registration, and import sit with DAFM. (The offshore-islands prohibition under S.I. 374/2024 is unaffected.)"
   ],
   "advocacy": {
     "flag": false
@@ -89,7 +89,7 @@
         "breed",
         "sell_give"
       ],
-      "summary": "MAINLAND: NPWS confirmed (June 2026) it does NOT licence roof rats, so keeping and breeding pet roof rats on the Irish mainland are legal and not gated by any NPWS wildlife licence. The only commercial layer is DAFM: supplying SIX or more pet animals in a calendar year (sale OR free) requires registration on the DAFM Register of Sellers and Suppliers of Pet Animals (S.I. 681/2019), with a private-vet premises inspection; rats may not be transferred under 4 weeks of age. OFFSHORE ISLANDS: keeping/breeding/transport of R. rattus are prohibited (S.I. 374/2024, 'Offshore islands only'). Never release — an escape is itself an offence.",
+      "summary": "MAINLAND: NPWS confirmed (June 2026) it does NOT licence roof rats, so keeping and breeding pet roof rats on the Irish mainland are legal and not gated by any NPWS wildlife licence. The only commercial layer is DAFM: supplying SIX or more pet animals in a calendar year (sale OR free) requires registration on the DAFM Register of Sellers and Suppliers of Pet Animals (S.I. 681/2019), with a private-vet premises inspection; rats may not be transferred under 4 weeks of age. OFFSHORE ISLANDS: keeping/breeding/transport of R. rattus are prohibited (S.I. 374/2024, 'Offshore islands only'). Never release, an escape is itself an offence.",
       "steps": [
         "Mainland: no NPWS licence needed to keep or breed (NPWS confirmed it does not licence the species)",
         "If supplying >=6 pet animals per year (sale or free): register with DAFM (S.I. 681/2019) and meet the 4-week minimum transfer age",
@@ -110,7 +110,7 @@
       "activity": [
         "transport"
       ],
-      "summary": "Bringing a rat into Ireland from another EU state (including Northern Ireland) needs a DAFM import permit + a vet health certificate (within 48h) + TRACES notification. Non-EU import needs a DAFM permit applied for 1–2 months ahead. Never release a roof rat — an escape from confinement is itself an offence under S.I. 477/2011 Reg. 49.",
+      "summary": "Bringing a rat into Ireland from another EU state (including Northern Ireland) needs a DAFM import permit + a vet health certificate (within 48h) + TRACES notification. Non-EU import needs a DAFM permit applied for 1–2 months ahead. Never release a roof rat, an escape from confinement is itself an offence under S.I. 477/2011 Reg. 49.",
       "steps": [],
       "forms": [],
       "where_to_file": "Department of Agriculture, Food and the Marine (DAFM)",
@@ -120,60 +120,60 @@
       ]
     }
   ],
-  "inquiry_focus": "(1) Is Rattus rattus specifically in Part 2A or Part 2B of the Third Schedule to S.I. 477/2011, and does NPWS issue Regulation 49(7) licences to private hobbyists for captive-bred specimens kept in secure escape-proof enclosures, or is licensing limited to research/eradication? (2) What is the current commencement status of Regulation 50 (which would prohibit keeping/dealing in Third Schedule animals), and is a commencement order anticipated — would it apply to captive-bred pet R. rattus? (3) Does R. rattus appear on the Schedule to S.I. 374/2024, triggering the market-offence provisions, or is it regulated solely via the Third Schedule of S.I. 477/2011?",
+  "inquiry_focus": "(1) Is Rattus rattus specifically in Part 2A or Part 2B of the Third Schedule to S.I. 477/2011, and does NPWS issue Regulation 49(7) licences to private hobbyists for captive-bred specimens kept in secure escape-proof enclosures, or is licensing limited to research/eradication? (2) What is the current commencement status of Regulation 50 (which would prohibit keeping/dealing in Third Schedule animals), and is a commencement order anticipated, would it apply to captive-bred pet R. rattus? (3) Does R. rattus appear on the Schedule to S.I. 374/2024, triggering the market-offence provisions, or is it regulated solely via the Third Schedule of S.I. 477/2011?",
   "sources": [
     {
       "id": "ie-si-477",
-      "title": "European Communities (Birds and Natural Habitats) Regulations 2011 (S.I. 477/2011) — Third Schedule + Regs 49–50 (R. rattus listed)",
+      "title": "European Communities (Birds and Natural Habitats) Regulations 2011 (S.I. 477/2011), Third Schedule + Regs 49–50 (R. rattus listed)",
       "url": "https://www.irishstatutebook.ie/eli/2011/si/477",
       "authority": "Irish Statute Book",
       "accessed": "2026-06-07"
     },
     {
       "id": "ie-isi-blackrat",
-      "title": "Black rat (Rattus rattus) species account — Third Schedule listing under Regs 49 & 50; notes Reg 50 not yet enacted",
+      "title": "Black rat (Rattus rattus) species account, Third Schedule listing under Regs 49 & 50; notes Reg 50 not yet enacted",
       "url": "https://invasivespeciesireland.com/species-accounts/established/terrestrial/black-rat",
       "authority": "Invasive Species Ireland (NPWS / NBDC)",
       "accessed": "2026-06-07"
     },
     {
       "id": "ie-si-374-2024",
-      "title": "European Union (Invasive Alien Species) Regulations 2024 (S.I. 374/2024) — national-concern schedule + market offence",
+      "title": "European Union (Invasive Alien Species) Regulations 2024 (S.I. 374/2024), national-concern schedule + market offence",
       "url": "https://www.irishstatutebook.ie/eli/2024/si/374/made/en/print",
       "authority": "Irish Statute Book",
       "accessed": "2026-06-07"
     },
     {
       "id": "ie-ahwa-2013",
-      "title": "Animal Health and Welfare Act 2013 — general welfare duties",
+      "title": "Animal Health and Welfare Act 2013, general welfare duties",
       "url": "https://www.irishstatutebook.ie/eli/2013/act/15/enacted/en/html",
       "authority": "Irish Statute Book",
       "accessed": "2026-06-07"
     },
     {
       "id": "ie-si-681-2019",
-      "title": "Animal Health and Welfare (Sale or Supply of Pet Animals) Regulations 2019 (S.I. 681/2019) — DAFM registration ≥6/yr",
+      "title": "Animal Health and Welfare (Sale or Supply of Pet Animals) Regulations 2019 (S.I. 681/2019), DAFM registration ≥6/yr",
       "url": "https://www.irishstatutebook.ie/eli/2019/si/681",
       "authority": "Irish Statute Book",
       "accessed": "2026-06-07"
     },
     {
       "id": "ie-npws-licences",
-      "title": "NPWS — Licences and Consents (Wildlife Licensing Unit)",
+      "title": "NPWS, Licences and Consents (Wildlife Licensing Unit)",
       "url": "https://www.npws.ie/licencesandconsents",
       "authority": "National Parks & Wildlife Service",
       "accessed": "2026-06-07"
     },
     {
       "id": "ie-dafm-pettravel",
-      "title": "DAFM Pet Travel — rodent intra-EU / non-EU import (permit, health cert, TRACES)",
+      "title": "DAFM Pet Travel, rodent intra-EU / non-EU import (permit, health cert, TRACES)",
       "url": "https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/pet-travel/",
       "authority": "Department of Agriculture, Food and the Marine",
       "accessed": "2026-06-07"
     },
     {
       "id": "ie-eu-1143",
-      "title": "Regulation (EU) 1143/2014 — Union list (coypu is the only listed rodent; R. rattus NOT listed)",
+      "title": "Regulation (EU) 1143/2014, Union list (coypu is the only listed rodent; R. rattus NOT listed)",
       "url": "https://eur-lex.europa.eu/eli/reg/2014/1143/oj/eng",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-07"
@@ -181,7 +181,7 @@
   ],
   "contacts": [
     {
-      "agency": "National Parks & Wildlife Service (NPWS) — Wildlife Licensing Unit",
+      "agency": "National Parks & Wildlife Service (NPWS), Wildlife Licensing Unit",
       "role": "wildlife",
       "email": "WildlifeLicence@npws.gov.ie",
       "form_url": "https://www.npws.ie/licencesandconsents",
@@ -190,7 +190,7 @@
       "inquiry_language": "en"
     },
     {
-      "agency": "Department of Agriculture, Food and the Marine (DAFM) — Pet Sales / Live Trade",
+      "agency": "Department of Agriculture, Food and the Marine (DAFM), Pet Sales / Live Trade",
       "role": "agriculture",
       "email": "PetSalesRegister@agriculture.gov.ie",
       "form_url": "https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/pet-travel/",

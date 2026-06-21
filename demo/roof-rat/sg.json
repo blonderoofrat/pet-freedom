@@ -16,8 +16,11 @@
       "ship rat"
     ]
   },
-  "summary": "Singapore prohibits the roof rat as a pet, completely. It runs a closed 'positive list': only species the Animal & Veterinary Service (AVS, a cluster under the National Parks Board) has approved may be kept. The approved small-mammal list includes the domestic mouse (Mus musculus) alongside rabbits, hamsters, guinea pigs, gerbils and chinchillas — but NO species of the genus Rattus, so neither the roof rat (R. rattus) nor the ordinary fancy rat (R. norvegicus) may be kept. Because it is not a listed pet, R. rattus defaults to 'wildlife' under the Wildlife Act 1965, and s.5C(1) makes it a strict-liability offence to keep any wildlife without the Director-General's written approval (no such approval is available to the public). Breeding is separately barred by the Control of Vectors and Pesticides Act 1998 (CVPA), which defines any rodent 'capable of carrying' disease as a public-health vector and, under s.16, prohibits breeding vectors without permission; sale/transfer is blocked by the Wildlife Act (s.8) and the AVS pet-shop licensing rules (the hobbyist breeding exemption applies only to approved 'relevant pet animals'). The ONLY lawful pathway for any Rattus is institutional: an accredited Animal Research Facility (ARF) may import and keep lab rats — never a private pet keeper. One statutory quirk: the Wildlife (Exemption) Order 2020 cull-list names R. norvegicus and R. tanezumi (and Mus musculus castaneus, Suncus murinus) as exempt from the s.5C culling ban, but R. rattus is omitted, so a strict reading paradoxically gives the wild roof rat unpermitted-culling protection denied its cousins — an anomaly that offers a pet keeper nothing. Not CITES-listed; the closed positive list, not CITES, is the operative bar.",
-  "last_reviewed": "2026-06-12",
+  "summary": "Singapore prohibits the roof rat as a pet, completely. It runs a closed 'positive list': only species the Animal & Veterinary Service (AVS, a cluster under the National Parks Board) has approved may be kept. The approved small-mammal list includes the domestic mouse (Mus musculus) alongside rabbits, hamsters, guinea pigs, gerbils and chinchillas, but NO species of the genus Rattus, so neither the roof rat (R. rattus) nor the ordinary fancy rat (R. norvegicus) may be kept. Because it is not a listed pet, R. rattus defaults to 'wildlife' under the Wildlife Act 1965, and s.5C(1) makes it a strict-liability offence to keep any wildlife without the Director-General's written approval (no such approval is available to the public). Breeding is separately barred by the Control of Vectors and Pesticides Act 1998 (CVPA), which defines any rodent 'capable of carrying' disease as a public-health vector and, under s.16, prohibits breeding vectors without permission; sale/transfer is blocked by the Wildlife Act (s.8) and the AVS pet-shop licensing rules (the hobbyist breeding exemption applies only to approved 'relevant pet animals'). The ONLY lawful pathway for any Rattus is institutional: an accredited Animal Research Facility (ARF) may import and keep lab rats, never a private pet keeper. One statutory quirk: the Wildlife (Exemption) Order 2020 cull-list names R. norvegicus and R. tanezumi (and Mus musculus castaneus, Suncus murinus) as exempt from the s.5C culling ban, but R. rattus is omitted, so a strict reading paradoxically gives the wild roof rat unpermitted-culling protection denied its cousins, an anomaly that offers a pet keeper nothing. Not CITES-listed; the closed positive list, not CITES, is the operative bar.",
+  "last_reviewed": "2026-06-18",
+  "agency_confirmations": [
+    "Singapore's National Parks Board (NParks / Animal & Veterinary Service) confirmed in writing (June 2026) that the roof rat (Rattus rattus) is classified as a wildlife species under the Wildlife Act and is not approved to be kept or sold as a pet, and that the import of any wildlife species requires prior written approval from the Director-General, Wildlife Management."
+  ],
   "advocacy": {
     "flag": false
   },
@@ -25,21 +28,21 @@
     "keep": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "R. rattus is not on the AVS approved-pet positive list (which permits mice, rabbits, hamsters, guinea pigs, gerbils, chinchillas — no Rattus), so it defaults to 'wildlife' under the Wildlife Act 1965. Section 5C(1) provides that 'a person must not intentionally kill, trap, take or keep any wildlife in any place unless the person has the Director-General's written approval to do so' — a strict-liability offence (belief that the animal is a domesticated pet is no defence), carrying up to S$20,000 fine and/or 12 months' imprisonment for a first offence. The Wildlife Act's domestic-animal carve-outs (dogs, cats, livestock, poultry) do not include any rat, and no public permit/registration pathway exists to keep a roof rat. AVS guidance also treats rats as vermin that will not be allowed.",
+      "why": "R. rattus is not on the AVS approved-pet positive list (which permits mice, rabbits, hamsters, guinea pigs, gerbils, chinchillas, no Rattus), so it defaults to 'wildlife' under the Wildlife Act 1965. Section 5C(1) provides that 'a person must not intentionally kill, trap, take or keep any wildlife in any place unless the person has the Director-General's written approval to do so', a strict-liability offence (belief that the animal is a domesticated pet is no defence), carrying up to S$20,000 fine and/or 12 months' imprisonment for a first offence. The Wildlife Act's domestic-animal carve-outs (dogs, cats, livestock, poultry) do not include any rat, and no public permit/registration pathway exists to keep a roof rat. AVS guidance also treats rats as vermin that will not be allowed.",
       "governing_law": "Wildlife Act 1965, s.5C(1) (keeping wildlife without Director-General approval); s.2 'wildlife' definition (no rat carve-out); AVS approved-pet positive list; Animals and Birds Act 1965.",
       "source_ids": [
         "sg-wildlife-act",
         "sg-avs-pets",
         "sg-aba"
       ],
-      "verified_date": "2026-06-12",
+      "verified_date": "2026-06-18",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency"
     },
     "breed": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "Breeding is interdicted by public-health law independent of the keeping ban. The Control of Vectors and Pesticides Act 1998 (CVPA) s.2 defines a 'vector' to include 'any rodent, including its young, which is carrying or causing, or capable of carrying or causing, any disease to human beings' — the test is the species' biological capacity, so a captive-bred, pathogen-free R. rattus is still a vector. CVPA s.16 ('Prohibition on breeding, etc., of vectors without Director-General's permission') makes it a strict criminal offence to intentionally breed vectors; no private hobbyist permit is ever issued (penalties under s.23 run to large fines and imprisonment). The only entities permitted to breed Rattus are licensed Animal Research Facilities. Keeping the animal to breed it is independently barred under the Wildlife Act s.5C, so a hobbyist breeding programme is doubly unlawful.",
+      "why": "Breeding is interdicted by public-health law independent of the keeping ban. The Control of Vectors and Pesticides Act 1998 (CVPA) s.2 defines a 'vector' to include 'any rodent, including its young, which is carrying or causing, or capable of carrying or causing, any disease to human beings', the test is the species' biological capacity, so a captive-bred, pathogen-free R. rattus is still a vector. CVPA s.16 ('Prohibition on breeding, etc., of vectors without Director-General's permission') makes it a strict criminal offence to intentionally breed vectors; no private hobbyist permit is ever issued (penalties under s.23 run to large fines and imprisonment). The only entities permitted to breed Rattus are licensed Animal Research Facilities. Keeping the animal to breed it is independently barred under the Wildlife Act s.5C, so a hobbyist breeding programme is doubly unlawful.",
       "governing_law": "Control of Vectors and Pesticides Act 1998, s.16 (breeding vectors without Director-General permission) + s.2 ('vector' = rodent capable of carrying disease); penalties s.23. Wildlife Act 1965 s.5C (keeping). Administered by NEA (vectors) / NParks-AVS (wildlife).",
       "source_ids": [
         "sg-cvpa",
@@ -52,21 +55,21 @@
     "sell_give": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "Sale or transfer (including giving away free) is blocked on two layers. (1) Wildlife Act 1965 s.8 prohibits selling, offering for sale, or exporting any wildlife without the Director-General's written approval; doing so in the course of an animal-related business is aggravated (s.5C(3)(b)(i): up to S$20,000 / 12 months even on a first offence). (2) The Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules require an AVS pet-shop/breeding licence to distribute, breed, exhibit or sell pet animals (Rule 4), and AVS will not licence the sale of a non-positive-listed species. The Schedule 1 hobbyist 'breed-and-give-away-for-adoption' exemption applies only to a 'relevant pet animal or bird' — which excludes all Rattus — so it is legally void for the roof rat. Therefore one cannot lawfully sell, trade, or give away a roof rat in Singapore.",
+      "why": "Sale or transfer (including giving away free) is blocked on two layers. (1) Wildlife Act 1965 s.8 prohibits selling, offering for sale, or exporting any wildlife without the Director-General's written approval; doing so in the course of an animal-related business is aggravated (s.5C(3)(b)(i): up to S$20,000 / 12 months even on a first offence). (2) The Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules require an AVS pet-shop/breeding licence to distribute, breed, exhibit or sell pet animals (Rule 4), and AVS will not licence the sale of a non-positive-listed species. The Schedule 1 hobbyist 'breed-and-give-away-for-adoption' exemption applies only to a 'relevant pet animal or bird', which excludes all Rattus, so it is legally void for the roof rat. Therefore one cannot lawfully sell, trade, or give away a roof rat in Singapore.",
       "governing_law": "Wildlife Act 1965, s.8 (sale/offer/export of wildlife) + s.5C(3)(b)(i) (animal-related business aggravation); Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules, Rule 4 + Schedule 1 (hobbyist exemption limited to 'relevant pet animal').",
       "source_ids": [
         "sg-wildlife-act",
         "sg-aba-pet-shop-rules",
         "sg-avs-pets"
       ],
-      "verified_date": "2026-06-12",
+      "verified_date": "2026-06-18",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency"
     },
     "transport": {
       "status": "restricted",
       "confidence": "high",
-      "why": "Import/export of animals requires an AVS import licence under the Animals and Birds Act 1965 s.7 (no person may import any animal without the Director-General's licence). The framework bifurcates rodents into two mutually exclusive paths. PERSONAL PET import is allowed only for positive-listed small mammals — the AVS pet-import page lists rabbits, mice, hamsters, gerbils, guinea pigs and chinchillas, and the GoBusiness licensing system summarily rejects a personal pet application for any Rattus species; so personal import/transport of a roof rat is effectively PROHIBITED. The ONLY lawful pathway is institutional: an accredited Animal Research Facility (ARF) licensed under the Animals and Birds (Care and Use of Animals for Scientific Purposes) Rules may import lab 'rats' from an AVS-approved overseas facility, with a commercial veterinary health certificate, pre-arrival border inspection (≥5 days' notice) and quarantine (import licence ~S$174 express). That route is closed to private citizens. Not CITES-listed. Never release.",
+      "why": "Import/export of animals requires an AVS import licence under the Animals and Birds Act 1965 s.7 (no person may import any animal without the Director-General's licence). The framework bifurcates rodents into two mutually exclusive paths. PERSONAL PET import is allowed only for positive-listed small mammals, the AVS pet-import page lists rabbits, mice, hamsters, gerbils, guinea pigs and chinchillas, and the GoBusiness licensing system summarily rejects a personal pet application for any Rattus species; so personal import/transport of a roof rat is effectively PROHIBITED. The ONLY lawful pathway is institutional: an accredited Animal Research Facility (ARF) licensed under the Animals and Birds (Care and Use of Animals for Scientific Purposes) Rules may import lab 'rats' from an AVS-approved overseas facility, with a commercial veterinary health certificate, pre-arrival border inspection (≥5 days' notice) and quarantine (import licence ~S$174 express). That route is closed to private citizens. Not CITES-listed. Never release.",
       "governing_law": "Animals and Birds Act 1965, s.7 (import licence); AVS personal pet-import requirements (positive-list species only); Animals and Birds (Care and Use of Animals for Scientific Purposes) Rules (ARF lab-animal import). GoBusiness licensing framework.",
       "source_ids": [
         "sg-aba",
@@ -88,9 +91,9 @@
         "sell_give",
         "transport"
       ],
-      "summary": "The roof rat cannot lawfully be kept, bred, sold, given away, or imported as a pet in Singapore. No Rattus species is on the AVS approved-pet positive list (only the mouse, Mus musculus, among small rodents), so the roof rat is 'wildlife' under the Wildlife Act 1965 — keeping it without the Director-General's written approval is a strict-liability offence under s.5C (up to S$20,000 / 12 months), breeding it is barred as a public-health 'vector' under CVPA 1998 s.16, and selling/transferring it is barred under Wildlife Act s.8 and the AVS pet-shop licensing rules. The ban is genus-wide (the ordinary fancy rat R. norvegicus is barred too). There is no private permit, licence, or hobbyist exemption. Never release.",
+      "summary": "The roof rat cannot lawfully be kept, bred, sold, given away, or imported as a pet in Singapore. No Rattus species is on the AVS approved-pet positive list (only the mouse, Mus musculus, among small rodents), so the roof rat is 'wildlife' under the Wildlife Act 1965, keeping it without the Director-General's written approval is a strict-liability offence under s.5C (up to S$20,000 / 12 months), breeding it is barred as a public-health 'vector' under CVPA 1998 s.16, and selling/transferring it is barred under Wildlife Act s.8 and the AVS pet-shop licensing rules. The ban is genus-wide (the ordinary fancy rat R. norvegicus is barred too). There is no private permit, licence, or hobbyist exemption. Never release.",
       "steps": [
-        "Do not keep, breed, sell, give away, or import a roof rat in Singapore — no private permit pathway exists (Wildlife Act s.5C; CVPA s.16; Animals and Birds Act / pet-shop rules)",
+        "Do not keep, breed, sell, give away, or import a roof rat in Singapore, no private permit pathway exists (Wildlife Act s.5C; CVPA s.16; Animals and Birds Act / pet-shop rules)",
         "Never release a roof rat (it is a documented public-health vector and pest)"
       ],
       "forms": [],
@@ -111,7 +114,7 @@
         "keep",
         "breed"
       ],
-      "summary": "The only lawful route by which any Rattus may be imported, bred or kept in Singapore is institutional research. An accredited Animal Research Facility (ARF) licensed under the Animals and Birds (Care and Use of Animals for Scientific Purposes) Rules — with an Institutional Animal Care and Use Committee (IACUC), an attending veterinarian and AVS oversight — may import lab rats from an AVS-approved overseas facility under a commercial veterinary health certificate, with pre-arrival border inspection (≥5 days' notice) and quarantine. This pathway is closed to private individuals and confers no private pet-keeping right.",
+      "summary": "The only lawful route by which any Rattus may be imported, bred or kept in Singapore is institutional research. An accredited Animal Research Facility (ARF) licensed under the Animals and Birds (Care and Use of Animals for Scientific Purposes) Rules, with an Institutional Animal Care and Use Committee (IACUC), an attending veterinarian and AVS oversight, may import lab rats from an AVS-approved overseas facility under a commercial veterinary health certificate, with pre-arrival border inspection (≥5 days' notice) and quarantine. This pathway is closed to private individuals and confers no private pet-keeping right.",
       "steps": [
         "(Institutions only) Hold a valid AVS Animal Research Facility (ARF) licence with an IACUC and attending veterinarian",
         "Import lab rats only from an AVS-accredited overseas facility, with a commercial veterinary health certificate",
@@ -119,11 +122,11 @@
       ],
       "forms": [
         {
-          "name": "AVS — Importing and exporting laboratory animals",
+          "name": "AVS, Importing and exporting laboratory animals",
           "url": "https://avs.nparks.gov.sg/businesses/other-businesses/animal-researchers/import-export-laboratory-animals/"
         },
         {
-          "name": "GoBusiness — Licence for Animal Research Facility",
+          "name": "GoBusiness, Licence for Animal Research Facility",
           "url": "https://licensing.gobusiness.gov.sg/licence-directory/avs/licence-for-animal-research-facility"
         }
       ],
@@ -135,67 +138,67 @@
       ]
     }
   ],
-  "inquiry_focus": "(1) AVS positive-list petition pathway: under the Animals and Birds Act and current AVS policy, is there any formal administrative petition or scientific-review process by which a private individual or organisation can submit health, genetic and biosecurity data to request adding captive-bred, disease-free Rattus rattus (or R. norvegicus) to the AVS approved small-mammal pet list, given that Mus musculus is already approved — and, if the list is permanently closed to the genus Rattus, is there any special-permit pathway for non-laboratory educational possession under the Wildlife Act? (2) The R. rattus cull-exemption anomaly: because the Wildlife (Exemption) Order 2020 exempts R. norvegicus and R. tanezumi from the Wildlife Act s.5C culling ban but omits R. rattus, does NEA's classification of R. rattus as a disease vector under the Control of Vectors and Pesticides Act 1998 automatically authorise licensed Vector Control Operators to eradicate wild R. rattus without a specific NParks wildlife management permit, or does the omission require reliance on the Wildlife Act s.6 'defence of property' clause?",
+  "inquiry_focus": "(1) AVS positive-list petition pathway: under the Animals and Birds Act and current AVS policy, is there any formal administrative petition or scientific-review process by which a private individual or organisation can submit health, genetic and biosecurity data to request adding captive-bred, disease-free Rattus rattus (or R. norvegicus) to the AVS approved small-mammal pet list, given that Mus musculus is already approved, and, if the list is permanently closed to the genus Rattus, is there any special-permit pathway for non-laboratory educational possession under the Wildlife Act? (2) The R. rattus cull-exemption anomaly: because the Wildlife (Exemption) Order 2020 exempts R. norvegicus and R. tanezumi from the Wildlife Act s.5C culling ban but omits R. rattus, does NEA's classification of R. rattus as a disease vector under the Control of Vectors and Pesticides Act 1998 automatically authorise licensed Vector Control Operators to eradicate wild R. rattus without a specific NParks wildlife management permit, or does the omission require reliance on the Wildlife Act s.6 'defence of property' clause?",
   "sources": [
     {
       "id": "sg-wildlife-act",
-      "title": "Wildlife Act 1965 (2020 Revised Edition) — s.5C (no keeping/killing/trapping/taking wildlife without Director-General approval), s.8 (sale/export of wildlife), s.2 'wildlife' definition, s.6 'defence of property'",
+      "title": "Wildlife Act 1965 (2020 Revised Edition), s.5C (no keeping/killing/trapping/taking wildlife without Director-General approval), s.8 (sale/export of wildlife), s.2 'wildlife' definition, s.6 'defence of property'",
       "url": "https://sso.agc.gov.sg/Act/WA1965",
       "authority": "Singapore Statutes Online / Attorney-General's Chambers; administered by NParks",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-aba",
-      "title": "Animals and Birds Act 1965 — prevention of epizootic disease; s.7 import licence; premises licensing power",
+      "title": "Animals and Birds Act 1965, prevention of epizootic disease; s.7 import licence; premises licensing power",
       "url": "https://sso.agc.gov.sg/Act/ABA1965",
       "authority": "Singapore Statutes Online / AGC; administered by AVS (NParks)",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-cvpa",
-      "title": "Control of Vectors and Pesticides Act 1998 — s.2 'vector' (rodent capable of carrying disease), s.16 (prohibition on breeding vectors without Director-General permission), s.23 (penalties)",
+      "title": "Control of Vectors and Pesticides Act 1998, s.2 'vector' (rodent capable of carrying disease), s.16 (prohibition on breeding vectors without Director-General permission), s.23 (penalties)",
       "url": "https://sso.agc.gov.sg/Act/CVPA1998",
       "authority": "Singapore Statutes Online / AGC; administered by NEA",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-wildlife-exemption-order",
-      "title": "Wildlife (Exemption) Order 2020 — Schedule exempts R. norvegicus, R. tanezumi, Mus musculus castaneus, Suncus murinus from the s.5C culling ban; R. rattus omitted",
+      "title": "Wildlife (Exemption) Order 2020, Schedule exempts R. norvegicus, R. tanezumi, Mus musculus castaneus, Suncus murinus from the s.5C culling ban; R. rattus omitted",
       "url": "https://sso.agc.gov.sg/SL-Rev/WA1965-OR1",
       "authority": "Singapore Statutes Online / AGC; made under Wildlife Act 1965",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-aba-pet-shop-rules",
-      "title": "Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules — Rule 4 (pet-shop/breeding licence to distribute/breed/exhibit/sell) + Schedule 1 (hobbyist exemption limited to a 'relevant pet animal or bird')",
+      "title": "Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules, Rule 4 (pet-shop/breeding licence to distribute/breed/exhibit/sell) + Schedule 1 (hobbyist exemption limited to a 'relevant pet animal or bird')",
       "url": "https://sso.agc.gov.sg/SL/ABA1965-R2",
       "authority": "Singapore Statutes Online / AGC; administered by AVS",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-aba-scientific-rules",
-      "title": "Animals and Birds (Care and Use of Animals for Scientific Purposes) Rules — Animal Research Facility (ARF) licensing for laboratory animals",
+      "title": "Animals and Birds (Care and Use of Animals for Scientific Purposes) Rules, Animal Research Facility (ARF) licensing for laboratory animals",
       "url": "https://sso.agc.gov.sg/SL/ABA1965-R10",
       "authority": "Singapore Statutes Online / AGC; administered by AVS",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-avs-pets",
-      "title": "AVS — Animals that can be kept as pets (approved positive list: rabbits, mice, hamsters, guinea pigs, gerbils, chinchillas; no Rattus)",
+      "title": "AVS, Animals that can be kept as pets (approved positive list: rabbits, mice, hamsters, guinea pigs, gerbils, chinchillas; no Rattus)",
       "url": "https://avs.nparks.gov.sg/pets/getting-a-pet/animals-that-can-be-kept-as-pets/",
       "authority": "Animal & Veterinary Service (AVS), NParks",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-avs-import",
-      "title": "AVS — Importing small mammals (personal pet import allowed only for approved species: rabbits, mice, hamsters, gerbils, guinea pigs, chinchillas; AVS import licence + quarantine)",
+      "title": "AVS, Importing small mammals (personal pet import allowed only for approved species: rabbits, mice, hamsters, gerbils, guinea pigs, chinchillas; AVS import licence + quarantine)",
       "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/small-mammals/",
       "authority": "Animal & Veterinary Service (AVS), NParks",
       "accessed": "2026-06-12"
     },
     {
       "id": "sg-avs-lab",
-      "title": "AVS — Importing and exporting laboratory animals (lab 'rats' permitted only for accredited Animal Research Facilities; commercial health certificate, border inspection, quarantine)",
+      "title": "AVS, Importing and exporting laboratory animals (lab 'rats' permitted only for accredited Animal Research Facilities; commercial health certificate, border inspection, quarantine)",
       "url": "https://avs.nparks.gov.sg/businesses/other-businesses/animal-researchers/import-export-laboratory-animals/",
       "authority": "Animal & Veterinary Service (AVS), NParks",
       "accessed": "2026-06-12"
@@ -212,7 +215,7 @@
       "inquiry_language": "en"
     },
     {
-      "agency": "National Environment Agency (NEA) — Vector Control Division",
+      "agency": "National Environment Agency (NEA), Vector Control Division",
       "role": "other",
       "email": "",
       "form_url": "https://www.nea.gov.sg/corporate-functions/feedback",

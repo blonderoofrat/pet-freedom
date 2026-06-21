@@ -1,0 +1,86 @@
+{
+  "jurisdiction": {
+    "id": "us-tx-san-antonio",
+    "level": "municipality",
+    "name": "San Antonio",
+    "parent": "us-tx",
+    "country": "US",
+    "iso": "US-TX",
+    "language": "en",
+    "slug": "san-antonio",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "wild animal",
+      "prohibited animal"
+    ]
+  },
+  "summary": "Good news if you live in San Antonio: we checked, and San Antonio is no stricter than Texas. San Antonio's animal code (ch. 5) prohibits a specific list of wild and dangerous species, such as monkeys and other primates, wolf hybrids, coyotes, foxes, exotic cats, bears, skunks, raccoons, pot-bellied pigs, and poisonous animals. Rats are not on that list, and the code sets no restriction on keeping a pet rat. A pet roof rat is allowed, the same as Texas.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "San Antonio City Code ch. 5 prohibits keeping a defined list of wild/dangerous species (primates, wolf hybrids, foxes, exotic cats, bears, skunks, raccoons, pot-bellied pigs, poisonous animals). Rats are not on that list, and no separate rule restricts pet rodents. Not stricter than Texas. Confidence medium pending a full read of the prohibited-species section, but rats are absent from the published list.",
+      "governing_law": "San Antonio City Code ch. 5 (Animals; prohibited wild/dangerous species list, rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "sa-ch5"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction or pet-rat cap; Texas imposes no state restriction.",
+      "governing_law": "San Antonio City Code ch. 5 (Animals; prohibited wild/dangerous species list, rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "sa-ch5"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; Texas state rules apply.",
+      "governing_law": "San Antonio City Code ch. 5 (Animals; prohibited wild/dangerous species list, rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "sa-ch5"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; Texas state rules apply.",
+      "governing_law": "San Antonio City Code ch. 5 (Animals; prohibited wild/dangerous species list, rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "sa-ch5"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "sa-ch5",
+      "title": "San Antonio City Code ch. 5 (Animals; prohibited wild/dangerous species, rats not listed)",
+      "url": "https://library.municode.com/tx/san_antonio/codes/code_of_ordinances?nodeId=PTIICO_CH5AN",
+      "authority": "City of San Antonio, Texas",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

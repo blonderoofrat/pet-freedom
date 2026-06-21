@@ -30,7 +30,7 @@
       "status": "legal",
       "confidence": "high",
       "why": "Texas regulates exotic-pet possession by banning specific hazardous species, not by a permit list. Rattus rattus is a non-native rodent, so it is outside TPWD's 'nongame' wildlife rules (which cover only species INDIGENOUS to Texas, TPWC §67.001) and is not a listed 'dangerous wild animal' (Health & Safety Code ch. 822). No state possession permit is required. (Local ordinances may cap how many pets a household may keep.)",
-      "governing_law": "Tex. Parks & Wildlife Code §67.001 (nongame = indigenous); Tex. Health & Safety Code ch. 822 (dangerous wild animals — not rats).",
+      "governing_law": "Tex. Parks & Wildlife Code §67.001 (nongame = indigenous); Tex. Health & Safety Code ch. 822 (dangerous wild animals, not rats).",
       "source_ids": [
         "tpwc-67",
         "tx-dangerous"
@@ -42,8 +42,8 @@
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "There is no Texas breeder license for rodents — the Dog or Cat Breeders Act (Occupations Code ch. 802) covers only dogs and cats. Hobby and commercial rat breeding are unregulated by the state. (Federal USDA licensing still applies to WHOLESALE or sight-unseen sales — see United States.)",
-      "governing_law": "Tex. Occupations Code ch. 802 (Dog or Cat Breeders Act — dogs/cats only).",
+      "why": "There is no Texas breeder license for rodents, the Dog or Cat Breeders Act (Occupations Code ch. 802) covers only dogs and cats. Hobby and commercial rat breeding are unregulated by the state. (Federal USDA licensing still applies to WHOLESALE or sight-unseen sales, see United States.)",
+      "governing_law": "Tex. Occupations Code ch. 802 (Dog or Cat Breeders Act, dogs/cats only).",
       "source_ids": [
         "tx-breeders"
       ],
@@ -67,8 +67,8 @@
     "transport": {
       "status": "legal",
       "confidence": "medium",
-      "why": "Within Texas and across state lines, no state permit or health certificate is required for pet rats: rodents are exempt from TAHC's 'exotic livestock' entry rules (those cover hooved animals) and from the DSHS rabies transport ban (rodents are low-risk). Airlines typically require a vet health certificate to fly. International import/export is restricted at the FEDERAL level (USFWS Form 3-177; CDC African-rodent ban) — see United States.",
-      "governing_law": "Tex. Agric. Code §142.001 / 4 TAC ch. 51 (exotic livestock = ungulates, excludes rodents); 25 TAC §169 (rabies transport ban — not rodents).",
+      "why": "Within Texas and across state lines, no state permit or health certificate is required for pet rats: rodents are exempt from TAHC's 'exotic livestock' entry rules (those cover hooved animals) and from the DSHS rabies transport ban (rodents are low-risk). Airlines typically require a vet health certificate to fly. International import/export is restricted at the FEDERAL level (USFWS Form 3-177; CDC African-rodent ban), see United States.",
+      "governing_law": "Tex. Agric. Code §142.001 / 4 TAC ch. 51 (exotic livestock = ungulates, excludes rodents); 25 TAC §169 (rabies transport ban, not rodents).",
       "source_ids": [
         "tahc-entry",
         "tx-rabies"
@@ -102,7 +102,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Releasing or abandoning a roof rat is illegal in Texas — it is criminal abandonment under the animal-cruelty law (Penal Code §42.092), and they are an invasive non-native species. Rehome responsibly (shelter, rescue, or new owner); never release.",
+      "summary": "Releasing or abandoning a roof rat is illegal in Texas, it is criminal abandonment under the animal-cruelty law (Penal Code §42.092), and they are an invasive non-native species. Rehome responsibly (shelter, rescue, or new owner); never release.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -112,53 +112,53 @@
       ]
     }
   ],
-  "inquiry_focus": "We want to confirm that Texas requires no state permit, license, or health certificate to keep, breed, or sell captive-bred roof rats (Rattus rattus) — and whether any CVI/entry requirement applies to bringing them into Texas (TAHC appears to exempt rodents from its 'exotic livestock' entry rules).",
+  "inquiry_focus": "We want to confirm that Texas requires no state permit, license, or health certificate to keep, breed, or sell captive-bred roof rats (Rattus rattus), and whether any CVI/entry requirement applies to bringing them into Texas (TAHC appears to exempt rodents from its 'exotic livestock' entry rules).",
   "sources": [
     {
       "id": "tpwc-67",
-      "title": "Tex. Parks & Wildlife Code §67.001 — 'nongame' = species INDIGENOUS to Texas (excludes R. rattus)",
+      "title": "Tex. Parks & Wildlife Code §67.001, 'nongame' = species INDIGENOUS to Texas (excludes R. rattus)",
       "url": "https://statutes.capitol.texas.gov/docs/PW/htm/PW.67.htm",
       "authority": "Texas Statutes",
       "accessed": "2026-06-06"
     },
     {
       "id": "tx-dangerous",
-      "title": "Tex. Health & Safety Code ch. 822 — Dangerous Wild Animals (rats not listed)",
+      "title": "Tex. Health & Safety Code ch. 822, Dangerous Wild Animals (rats not listed)",
       "url": "https://statutes.capitol.texas.gov/docs/HS/htm/HS.822.htm",
       "authority": "Texas Statutes",
       "accessed": "2026-06-06"
     },
     {
       "id": "tx-breeders",
-      "title": "Tex. Occupations Code ch. 802 — Dog or Cat Breeders Act (dogs/cats only)",
+      "title": "Tex. Occupations Code ch. 802, Dog or Cat Breeders Act (dogs/cats only)",
       "url": "https://statutes.capitol.texas.gov/docs/OC/htm/OC.802.htm",
       "authority": "Texas Statutes",
       "accessed": "2026-06-06"
     },
     {
       "id": "tx-nongame",
-      "title": "31 TAC §65.325 / TPWD Commercial Nongame — applies only to indigenous wildlife",
+      "title": "31 TAC §65.325 / TPWD Commercial Nongame, applies only to indigenous wildlife",
       "url": "https://tpwd.texas.gov/business/permits/land/wildlife/commercial/CommercialNongamePermitFAQs.phtml",
       "authority": "Texas Parks & Wildlife",
       "accessed": "2026-06-06"
     },
     {
       "id": "tahc-entry",
-      "title": "Texas Animal Health Commission — Entry Requirements (rodents/pocket pets exempt from CVI)",
+      "title": "Texas Animal Health Commission, Entry Requirements (rodents/pocket pets exempt from CVI)",
       "url": "https://www.tahc.texas.gov/regs/entry.html",
       "authority": "TAHC",
       "accessed": "2026-06-06"
     },
     {
       "id": "tx-rabies",
-      "title": "25 TAC §169 / DSHS — rabies transport ban (foxes/skunks/coyotes/raccoons only; rodents low-risk)",
+      "title": "25 TAC §169 / DSHS, rabies transport ban (foxes/skunks/coyotes/raccoons only; rodents low-risk)",
       "url": "https://www.dshs.texas.gov/notifiable-conditions/zoonosis-control/laws/transport",
       "authority": "Texas DSHS",
       "accessed": "2026-06-06"
     },
     {
       "id": "tx-penal",
-      "title": "Tex. Penal Code §42.092 — Cruelty to Nonlivestock Animals (abandonment)",
+      "title": "Tex. Penal Code §42.092, Cruelty to Nonlivestock Animals (abandonment)",
       "url": "https://statutes.capitol.texas.gov/GetStatute.aspx?Code=PE&Value=42.092",
       "authority": "Texas Statutes",
       "accessed": "2026-06-06"

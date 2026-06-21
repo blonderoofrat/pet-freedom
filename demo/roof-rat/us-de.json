@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Delaware regulates non-native 'exotic' mammals through the Department of Agriculture / State Veterinarian (3 Del. C. §§7201–7203; 3 Del. Admin. Code 903), not DNREC. Here's the catch that matters for roof rats: the exempt-mammal list (903-6.1.1) names 'Norway rats' (Rattus norvegicus) specifically — NOT Rattus rattus. The default rule is that a non-listed non-native mammal REQUIRES an Individual Exotic Animal Permit. So the textual reading is that keeping a roof rat needs a permit, unlike the fancy rat. There's a real counter-argument (R. rattus is an established, 'generally found' species in Delaware, which could put it outside the statute) — only the State Veterinarian can resolve it, so we've queued that question.",
+  "summary": "Delaware regulates non-native 'exotic' mammals through the Department of Agriculture / State Veterinarian (3 Del. C. §§7201–7203; 3 Del. Admin. Code 903), not DNREC. Here's the catch that matters for roof rats: the exempt-mammal list (903-6.1.1) names 'Norway rats' (Rattus norvegicus) specifically, NOT Rattus rattus. The default rule is that a non-listed non-native mammal REQUIRES an Individual Exotic Animal Permit. So the textual reading is that keeping a roof rat needs a permit, unlike the fancy rat. There's a real counter-argument (R. rattus is an established, 'generally found' species in Delaware, which could put it outside the statute), only the State Veterinarian can resolve it, so we've queued that question.",
   "last_reviewed": "2026-06-07",
   "advocacy": {
     "flag": true,
@@ -27,14 +27,14 @@
       "time_sensitive": "",
       "targets": [
         {
-          "name": "Delaware Department of Agriculture — Poultry & Animal Health Section (State Veterinarian's office)",
+          "name": "Delaware Department of Agriculture, Poultry & Animal Health Section (State Veterinarian's office)",
           "type": "agency",
           "form_url": "https://agriculture.delaware.gov/poultry-animal-health/contact-us/",
           "email": "deanimalhealth@delaware.gov",
-          "why": "This is the office that administers the exotic-animal permit program and maintains the exempt list. It is the right place to ask for a written clarification that captive-bred Rattus rattus is covered by the exempt 'Rats' entry, and it is the office that processes a 903-4.3 petition to add the species. Use the official contact-us page or the general section inbox — do not address an individual staff member by name."
+          "why": "This is the office that administers the exotic-animal permit program and maintains the exempt list. It is the right place to ask for a written clarification that captive-bred Rattus rattus is covered by the exempt 'Rats' entry, and it is the office that processes a 903-4.3 petition to add the species. Use the official contact-us page or the general section inbox, do not address an individual staff member by name."
         },
         {
-          "name": "Delaware Department of Agriculture — Exotic Animals program page (permit guidance & exempt-list reference)",
+          "name": "Delaware Department of Agriculture, Exotic Animals program page (permit guidance & exempt-list reference)",
           "type": "agency",
           "form_url": "https://agriculture.delaware.gov/poultry-animal-health/exotic-animals/",
           "why": "This is the Department's own public exotic-animals page; it lists 'Rats' as exempt and explains the permit/exemption framework. Cite it in your letter as the basis for asking the State Veterinarian to confirm in writing that pet roof rats fall under that exempt entry."
@@ -43,7 +43,7 @@
       "template": {
         "en": "To the Delaware State Veterinarian, Poultry & Animal Health Section:\n\nI am writing about how Delaware's exotic-animal exemption applies to the domestic roof rat (Rattus rattus). Your Department's exotic-animals webpage lists \"Rats\" among the exempt small pet rodents, but the regulation's exempt list (3 Del. Admin. Code 903-6.1.1) names only \"Norway rats\" (Rattus norvegicus). I am asking the Department to confirm in writing that a captive-bred, tame Rattus rattus kept as a pet is covered by that \"Rats\" exemption, the same as the listed Norway rat and other small pet rodents such as hamsters and gerbils.\n\nThis is a species-naming gap, not a difference in the animal. These rats are captive-bred for generations, hand-tame, kept indoors in escape-proof enclosures, and never released. They are pets, kept no differently from the fancy rat. The relevant question is domestication, not wild origin: the dog descends from the wolf and the house cat from a wild felid, yet both are recognized as domestic animals because of generations bred for tameness. The listed Norway rat is itself the wild brown rat, domesticated in the 19th century, and a captive-bred roof rat is domesticated in that same sense.\n\nIf the current exemption cannot be read to cover them, I respectfully ask the Department to add \"Rattus rattus\" to the exempt mammal list through the rulemaking process provided at 903-4.3. I am glad to supply documentation in support.\n\nThank you for your consideration.\n\n[Your name]\n[Your Delaware town/county]\n[Your email]"
       },
-      "confidence_notes": "Verified on 2026-06-09 against current sources. CONFIRMED: (1) the binding regulation 3 Del. Admin. Code 903-6.1.1 exempt mammals list names \"Norway rats\" specifically — verbatim via animallaw.info's reproduction of Chapter 903 (\"Chinchillas, Degus, Ferrets, Gerbils, Guinea pigs, Hamsters, Hedgehogs, Mice, Norway rats, Possums, Rabbits and Sugar gliders\"); it does NOT name Rattus rattus. (2) Section 903-4.3 lets the public petition the State Veterinarian to add/delete species \"through the rule making process\" with documentation — confirmed verbatim. (3) The Department's public exotic-animals webpage currently lists \"Rats\" generically as exempt and states permits are $25 / 3 years with a home inspection — confirmed live. This website-vs-regulation discrepancy (generic \"Rats\" on the site vs. \"Norway rats\" in the rule) is the heart of the clarification ask and is the single most useful lever. VERIFIED CONTACTS: DDA Poultry & Animal Health Section phone (302) 698-4561 (general) and (302) 698-4562 (exotic-animals inquiries); official contact-us and exotic-animals pages are live. The general section inbox deanimalhealth@delaware.gov is carried from prior research; I did NOT independently re-confirm it on the live page (the contact page surfaced individual staff emails, which are deliberately omitted per OPSEC — no individual civil-servant names). If unsure, use the contact-us page form/phone rather than the email. UNCERTAIN / not resolved by me: how the Department would actually rule — i.e., whether it treats the website's \"Rats\" as legally covering R. rattus, or whether it requires a permit / a 903-4.3 addition. Only the State Veterinarian can resolve that; this kit is a research aid, not legal advice. County/town codes (New Castle, Kent, Sussex) can add separate restrictions and are out of scope here.",
+      "confidence_notes": "Verified on 2026-06-09 against current sources. CONFIRMED: (1) the binding regulation 3 Del. Admin. Code 903-6.1.1 exempt mammals list names \"Norway rats\" specifically, verbatim via animallaw.info's reproduction of Chapter 903 (\"Chinchillas, Degus, Ferrets, Gerbils, Guinea pigs, Hamsters, Hedgehogs, Mice, Norway rats, Possums, Rabbits and Sugar gliders\"); it does NOT name Rattus rattus. (2) Section 903-4.3 lets the public petition the State Veterinarian to add/delete species \"through the rule making process\" with documentation, confirmed verbatim. (3) The Department's public exotic-animals webpage currently lists \"Rats\" generically as exempt and states permits are $25 / 3 years with a home inspection, confirmed live. This website-vs-regulation discrepancy (generic \"Rats\" on the site vs. \"Norway rats\" in the rule) is the heart of the clarification ask and is the single most useful lever. VERIFIED CONTACTS: DDA Poultry & Animal Health Section phone (302) 698-4561 (general) and (302) 698-4562 (exotic-animals inquiries); official contact-us and exotic-animals pages are live. The general section inbox deanimalhealth@delaware.gov is carried from prior research; I did NOT independently re-confirm it on the live page (the contact page surfaced individual staff emails, which are deliberately omitted per OPSEC, no individual civil-servant names). If unsure, use the contact-us page form/phone rather than the email. UNCERTAIN / not resolved by me: how the Department would actually rule, i.e., whether it treats the website's \"Rats\" as legally covering R. rattus, or whether it requires a permit / a 903-4.3 addition. Only the State Veterinarian can resolve that; this kit is a research aid, not legal advice. County/town codes (New Castle, Kent, Sussex) can add separate restrictions and are out of scope here.",
       "local_lang": "en"
     }
   },
@@ -51,7 +51,7 @@
     "keep": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "3 Del. C. §7201 bars possessing any live wild mammal 'not native to or generally found in Delaware' without a DDA permit. R. rattus is a non-native species and is not among the exempt mammals in 3 Del. Admin. Code 903-6.1.1 (which names 'Norway rats' but not the roof rat); under 903-6.5 a non-listed exotic requires a permit. So the textual reading is that keeping one needs an Individual Exotic Animal Permit ($25, 3-year, home inspection, escape-proof double-enclosure). The genuine counter-argument: a captive-bred R. rattus may be a species 'generally found in Delaware' (an established commensal), which could pull it outside §7201 — only the State Veterinarian can decide. Gemini DR-verified: Delaware exempts 'Norway rats' but NOT R. rattus from exotic-animal permits (3 Del. C. sec.7201; 3 Del. Admin. Code 903-6.1.1) -> R. rattus needs an Individual Exotic Animal Permit (non-transferable, 3-yr, obtained BEFORE acquiring/importing). county zoning (esp. New Castle County) can prohibit outright.",
+      "why": "3 Del. C. §7201 bars possessing any live wild mammal 'not native to or generally found in Delaware' without a DDA permit. R. rattus is a non-native species and is not among the exempt mammals in 3 Del. Admin. Code 903-6.1.1 (which names 'Norway rats' but not the roof rat); under 903-6.5 a non-listed exotic requires a permit. So the textual reading is that keeping one needs an Individual Exotic Animal Permit ($25, 3-year, home inspection, escape-proof double-enclosure). The genuine counter-argument: a captive-bred R. rattus may be a species 'generally found in Delaware' (an established commensal), which could pull it outside §7201, only the State Veterinarian can decide. Gemini DR-verified: Delaware exempts 'Norway rats' but NOT R. rattus from exotic-animal permits (3 Del. C. sec.7201; 3 Del. Admin. Code 903-6.1.1) -> R. rattus needs an Individual Exotic Animal Permit (non-transferable, 3-yr, obtained BEFORE acquiring/importing). county zoning (esp. New Castle County) can prohibit outright.",
       "governing_law": "3 Del. C. §7201; 3 Del. Admin. Code 903-3.0, 903-6.1.1, 903-6.5, 903-7.1.",
       "source_ids": [
         "de-7201",
@@ -77,7 +77,7 @@
     "sell_give": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "If permit-required, a seller of exotics must hold a Sales Permit per class and verify the buyer holds the appropriate permit (903-7.5). Importantly, GIFTING/ADOPTION by an Individual Permit holder is NOT a 'sale' and needs no Sales Permit (903-7.1.3) — a free-adoption-with-vetting model fits cleanly: a permit holder gives a rat to a recipient who has their own Individual Permit, reporting the transfer within 10 days (903-11.3.2). If DDA treats R. rattus as exempt, none of this applies. Gemini DR-verified: gifting/adopting out is exempt from a Sales Permit IF the recipient first holds an Individual Permit; selling needs an annual DDA Sales Permit + a DE business license.",
+      "why": "If permit-required, a seller of exotics must hold a Sales Permit per class and verify the buyer holds the appropriate permit (903-7.5). Importantly, GIFTING/ADOPTION by an Individual Permit holder is NOT a 'sale' and needs no Sales Permit (903-7.1.3), a free-adoption-with-vetting model fits cleanly: a permit holder gives a rat to a recipient who has their own Individual Permit, reporting the transfer within 10 days (903-11.3.2). If DDA treats R. rattus as exempt, none of this applies. Gemini DR-verified: gifting/adopting out is exempt from a Sales Permit IF the recipient first holds an Individual Permit; selling needs an annual DDA Sales Permit + a DE business license.",
       "governing_law": "3 Del. Admin. Code 903-7.5, 903-7.1.3, 903-11.3.2; 3 Del. C. §7201.",
       "source_ids": [
         "de-903",
@@ -90,7 +90,7 @@
     "transport": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "In-state movement of a permitted exotic must use an escape-proof container; release is unlawful and escape must be reported within 3 days (903-13.0). IMPORTING a roof rat triggers §7201's 'bring into this State' clause, so if non-exempt the permit must be obtained before importing/moving in. Separately, a Certificate of Veterinary Inspection within 30 days is required for small animals admitted to Delaware (3 Del. Admin. Code 904) — a distinct requirement from the exotic permit. Gemini DR-verified: import needs a CVI (3 Del. Admin. Code 904-20.1) + the Individual Permit secured BEFORE crossing state lines; animals lacking a CVI are quarantined at the owner's expense.",
+      "why": "In-state movement of a permitted exotic must use an escape-proof container; release is unlawful and escape must be reported within 3 days (903-13.0). IMPORTING a roof rat triggers §7201's 'bring into this State' clause, so if non-exempt the permit must be obtained before importing/moving in. Separately, a Certificate of Veterinary Inspection within 30 days is required for small animals admitted to Delaware (3 Del. Admin. Code 904), a distinct requirement from the exotic permit. Gemini DR-verified: import needs a CVI (3 Del. Admin. Code 904-20.1) + the Individual Permit secured BEFORE crossing state lines; animals lacking a CVI are quarantined at the owner's expense.",
       "governing_law": "3 Del. C. §7201 ('bring into this State'); 3 Del. Admin. Code 903-8.1, 903-13.0; 3 Del. Admin. Code 904 (import CVI).",
       "source_ids": [
         "de-7201",
@@ -121,7 +121,7 @@
           "url": "https://agriculture.delaware.gov/poultry-animal-health/exotic-animals/"
         }
       ],
-      "where_to_file": "Delaware Dept of Agriculture — Poultry & Animal Health (State Veterinarian)",
+      "where_to_file": "Delaware Dept of Agriculture, Poultry & Animal Health (State Veterinarian)",
       "fees": "~$25 / 3 years (Individual Permit)",
       "source_ids": [
         "de-903",
@@ -151,7 +151,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "County codes add a layer (Kent and Sussex ordinances reach 'nondomesticated mammals'; New Castle County via its Dept of Land Use). Check your county/town. And never release a roof rat — it is itself an established invasive.",
+      "summary": "County codes add a layer (Kent and Sussex ordinances reach 'nondomesticated mammals'; New Castle County via its Dept of Land Use). Check your county/town. And never release a roof rat, it is itself an established invasive.",
       "steps": [],
       "forms": [],
       "where_to_file": "Your county",
@@ -161,32 +161,32 @@
       ]
     }
   ],
-  "inquiry_focus": "The exotic-animal exemption list at 3 Del. Admin. Code 903-6.1.1 names 'Norway rats' (Rattus norvegicus). Does the Department interpret this exemption to also cover captive-bred Rattus rattus (roof/black rat) kept as a pet — either because R. rattus is 'generally found in Delaware' under 3 Del. C. §7201 (it is an established commensal here) or as an equivalent domestic rodent — or does R. rattus fall outside the exempt list and therefore require an Individual Exotic Animal Permit to keep, breed, give/adopt, and import? If a permit is required, please confirm the applicable permit class(es) and the import/CVI requirements under 3 Del. Admin. Code 904. Would the Department also entertain a rule-making petition under 903-4.3 to add R. rattus to the exempt list?",
+  "inquiry_focus": "The exotic-animal exemption list at 3 Del. Admin. Code 903-6.1.1 names 'Norway rats' (Rattus norvegicus). Does the Department interpret this exemption to also cover captive-bred Rattus rattus (roof/black rat) kept as a pet, either because R. rattus is 'generally found in Delaware' under 3 Del. C. §7201 (it is an established commensal here) or as an equivalent domestic rodent, or does R. rattus fall outside the exempt list and therefore require an Individual Exotic Animal Permit to keep, breed, give/adopt, and import? If a permit is required, please confirm the applicable permit class(es) and the import/CVI requirements under 3 Del. Admin. Code 904. Would the Department also entertain a rule-making petition under 903-4.3 to add R. rattus to the exempt list?",
   "sources": [
     {
       "id": "de-7201",
-      "title": "Del. Code Title 3, ch. 72 §§7201–7203 — Possession of Mammals or Reptiles Exotic to Delaware",
+      "title": "Del. Code Title 3, ch. 72 §§7201–7203, Possession of Mammals or Reptiles Exotic to Delaware",
       "url": "https://delcode.delaware.gov/title3/c072/index.html",
       "authority": "Delaware General Assembly",
       "accessed": "2026-06-06"
     },
     {
       "id": "de-903",
-      "title": "3 Del. Admin. Code 903 — Exotic Animal Regulations (6.1.1 exempt list names 'Norway rats'; 6.5 non-listed = permit)",
+      "title": "3 Del. Admin. Code 903, Exotic Animal Regulations (6.1.1 exempt list names 'Norway rats'; 6.5 non-listed = permit)",
       "url": "https://regulations.delaware.gov/api/AdminCode/title3/903/2476bd33-f815-4845-8481-07980303bd35",
       "authority": "Delaware Dept of Agriculture (State Veterinarian)",
       "accessed": "2026-06-06"
     },
     {
       "id": "de-dda-exotic",
-      "title": "Delaware Dept of Agriculture — Exotic Animals (permit guidance: 'if the animal is not on the list, it requires a permit')",
+      "title": "Delaware Dept of Agriculture, Exotic Animals (permit guidance: 'if the animal is not on the list, it requires a permit')",
       "url": "https://agriculture.delaware.gov/poultry-animal-health/exotic-animals/",
       "authority": "Delaware Dept of Agriculture",
       "accessed": "2026-06-06"
     },
     {
       "id": "de-904",
-      "title": "3 Del. Admin. Code 904 — Health Requirements Governing the Admission of Animals (import CVI within 30 days)",
+      "title": "3 Del. Admin. Code 904, Health Requirements Governing the Admission of Animals (import CVI within 30 days)",
       "url": "https://regulations.delaware.gov/AdminCode/title3/900/904.shtml",
       "authority": "Delaware Dept of Agriculture",
       "accessed": "2026-06-06"
@@ -194,7 +194,7 @@
   ],
   "contacts": [
     {
-      "agency": "Delaware Dept of Agriculture — Poultry & Animal Health (State Veterinarian)",
+      "agency": "Delaware Dept of Agriculture, Poultry & Animal Health (State Veterinarian)",
       "role": "agriculture",
       "email": "deanimalhealth@delaware.gov",
       "form_url": "https://agriculture.delaware.gov/poultry-animal-health/contact-us/",

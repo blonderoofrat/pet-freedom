@@ -381,6 +381,30 @@ def advocacy_block(d):
 
 
 # ---------- jurisdiction page ----------
+def child_links_block(d, by_id):
+    """List sub-jurisdictions that have their own page (e.g. cities under a state), so a parent page never orphans
+    its children. Auto-derived from the JSON tree: any jurisdiction whose parent is this one. Renders a small
+    labelled list with each child's keep-status badge."""
+    jid = d["jurisdiction"]["id"]
+    kids = sorted([c for c in by_id.values() if c["jurisdiction"].get("parent") == jid],
+                  key=lambda c: c["jurisdiction"]["name"])
+    if not kids:
+        return []
+    label = _child_label(kids)
+    nm = d["jurisdiction"]["name"]
+    intro = ("<strong>Local rules in some %s.</strong> These %s have their own ordinance that differs from the %s rule "
+             "above, usually stricter. If your area is not listed, the %s rule applies, but always check your local code."
+             % (label, label, nm, nm))
+    rows = "".join(
+        '<div class="pf-row"><a class="pf-c" href="%s%s" title="%s laws in %s">%s</a> %s</div>'
+        % (cfg.site_url, path_for(k["jurisdiction"]["id"], by_id), _species_common().capitalize(),
+           k["jurisdiction"]["name"], k["jurisdiction"]["name"],
+           badge((k["activities"].get("keep") or {}).get("status", "unknown"))) for k in kids)
+    return [("h2", "Local city &amp; county rules"),
+            ("raw", callout(intro, bg="#eef2ff", border="#3949ab")),
+            ("raw", html_block('<div class="pf-hub">%s</div>' % rows))]
+
+
 def jurisdiction_blocks(d, by_id):
     j = d["jurisdiction"]
     name = j["name"]
@@ -405,6 +429,7 @@ def jurisdiction_blocks(d, by_id):
             bg="#eef2ff", border="#3949ab")))
     if d.get("agency_confirmations"):
         blocks.append(("raw", confirmations_callout(d["agency_confirmations"])))
+    blocks += child_links_block(d, by_id)
     blocks.append(("h2", "Status by activity"))
     acts = d.get("activities", {})
     for key in cfg.activities:
@@ -520,11 +545,22 @@ def _country_row(c, juris, by_id):
     kids = sorted([d for d in juris if d["jurisdiction"].get("parent") == c["jurisdiction"]["id"]],
                   key=lambda d: d["jurisdiction"]["name"])
     if kids:
-        sub = "".join(
-            '<div class="pf-row"><a class="pf-c" href="%s%s" title="%s laws in %s">%s</a> %s</div>'
-            % (cfg.site_url, path_for(k["jurisdiction"]["id"], by_id), _species_common().capitalize(),
-               k["jurisdiction"]["name"], k["jurisdiction"]["name"],
-               badge((k["activities"].get("keep") or {}).get("status", "unknown"))) for k in kids)
+        def _sub_row(k):
+            r = ('<div class="pf-row"><a class="pf-c" href="%s%s" title="%s laws in %s">%s</a> %s</div>'
+                 % (cfg.site_url, path_for(k["jurisdiction"]["id"], by_id), _species_common().capitalize(),
+                    k["jurisdiction"]["name"], k["jurisdiction"]["name"],
+                    badge((k["activities"].get("keep") or {}).get("status", "unknown"))))
+            # Nest a level deeper (e.g. cities under a state) so municipality pages are never hidden.
+            gk = sorted([g for g in juris if g["jurisdiction"].get("parent") == k["jurisdiction"]["id"]],
+                        key=lambda g: g["jurisdiction"]["name"])
+            if gk:
+                r += '<div class="pf-sub">' + "".join(
+                    '<div class="pf-row"><a class="pf-c" href="%s%s" title="%s laws in %s">%s</a> %s</div>'
+                    % (cfg.site_url, path_for(g["jurisdiction"]["id"], by_id), _species_common().capitalize(),
+                       g["jurisdiction"]["name"], g["jurisdiction"]["name"],
+                       badge((g["activities"].get("keep") or {}).get("status", "unknown"))) for g in gk) + '</div>'
+            return r
+        sub = "".join(_sub_row(k) for k in kids)
         row += ('<details class="pf-st"><summary title="Click to show or hide">'
                 '<span class="pf-tog"><span class="pf-show">Show</span><span class="pf-hide">Hide</span> '
                 '%d %s <span class="pf-caret" aria-hidden="true">&#9656;</span></span>'

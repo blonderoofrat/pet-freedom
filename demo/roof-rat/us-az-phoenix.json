@@ -1,0 +1,103 @@
+{
+  "jurisdiction": {
+    "id": "us-az-phoenix",
+    "level": "municipality",
+    "name": "Phoenix",
+    "parent": "us-az",
+    "country": "US",
+    "iso": "US-AZ",
+    "language": "en",
+    "slug": "phoenix",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "rodent",
+      "pet",
+      "Animal"
+    ]
+  },
+  "summary": "Good news if you live in Phoenix, with one wrinkle worth understanding. Arizona does not restrict keeping a pet rat, and Phoenix treats a rat kept as a pet as an ordinary 'animal,' not a regulated 'rodent,' so a domesticated pet roof rat is allowed, the same as Arizona. The wrinkle: Phoenix City Code 8-7 does declare it a nuisance to 'keep rodents' within the city, with a 20-foot setback from neighbors and limits like '25 head of rodents per half-acre.' Read in context, that rule targets outdoor rodent husbandry (it counts 'head' of rodents by the half-acre and requires enclosures to keep them off neighbors' land), not a pet rat in a cage indoors. Phoenix's animal code (8-1) makes this clear: a rodent 'known to be kept as a pet,' or 'clearly marked and denominated as being a pet, such as rodents wearing collars or harnesses,' is treated as an 'Animal' (a normal pet), not as a controlled 'rodent.' So a pet roof rat is allowed in Phoenix. If you want certainty in writing, you can ask Phoenix directly, and we can help.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Arizona does not restrict keeping a pet rat. Phoenix City Code 8-7 ('Poultry and rodents') declares it a nuisance to keep 'rodents' within the city with a 20-foot property-line setback and head-count limits (no more than 25 head of rodents per half-acre), but the provision is structured for outdoor rodent husbandry, not an indoor caged pet. Phoenix City Code 8-1 expressly carves pets out of the 'rodent' category: the code's exclusion of rodents 'does not apply to... any rodent known... to be kept as a pet or any rodent clearly marked and denominated as being a pet, such as rodents wearing collars or harnesses,' so a pet rodent is an 'Animal' (an ordinary pet), not a regulated 'rodent.' On that reading a pet roof rat is allowed, the same as Arizona. Confidence is medium only because the keeping nuisance clause is worded broadly; written confirmation from the City would remove all doubt.",
+      "governing_law": "Phoenix City Code 8-7 (Poultry and rodents) and 8-1 (Definitions, pet-rodent carve-out from 'Animal'); Arizona imposes no state restriction on keeping pet rats.",
+      "source_ids": [
+        "phoenix-8-7",
+        "phoenix-8-1"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Phoenix has no pet-rodent breeding restriction; the only rodent-specific rule (8-7) is an outdoor-husbandry nuisance provision with head-count and setback limits, not a ban on keeping or raising pet rats indoors. Arizona's permissive state rule applies.",
+      "governing_law": "Phoenix City Code 8-7 (outdoor rodent husbandry only); no Arizona state restriction.",
+      "source_ids": [
+        "phoenix-8-7",
+        "phoenix-8-1"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Phoenix imposes no restriction on giving away or selling a pet rat. Arizona's permissive state rule applies.",
+      "governing_law": "No Phoenix or Arizona restriction on transferring pet rats.",
+      "source_ids": [
+        "phoenix-8-1"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Phoenix adds no local transport restriction for a pet rat; Arizona's permissive state rule applies.",
+      "governing_law": "No Phoenix or Arizona transport restriction on pet rats.",
+      "source_ids": [
+        "phoenix-8-1"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "Optional: a written City confirmation that City Code 8-7 ('keep rodents' nuisance, 20-ft setback, head-count) does not apply to an indoor caged pet rat, which Code 8-1 defines as an 'Animal' (pet) rather than a controlled 'rodent.'",
+  "sources": [
+    {
+      "id": "phoenix-8-7",
+      "title": "Phoenix City Code 8-7 (Poultry and rodents): nuisance to keep rodents, 20-ft setback, 25 head per half-acre (outdoor husbandry)",
+      "url": "https://phoenix.municipal.codes/CC/8-7",
+      "authority": "City of Phoenix, Arizona",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "phoenix-8-1",
+      "title": "Phoenix City Code 8-1 (Definitions): a rodent 'known to be kept as a pet' or 'wearing collars or harnesses' is an 'Animal,' not a controlled 'rodent'",
+      "url": "https://phoenix.municipal.codes/CC/8-1",
+      "authority": "City of Phoenix, Arizona",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "City of Phoenix (Code Enforcement / City Clerk)",
+      "role": "other",
+      "email": "",
+      "form_url": "https://www.phoenix.gov/cityclerk",
+      "phone": "602-262-6431"
+    }
+  ]
+}

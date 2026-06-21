@@ -15,10 +15,10 @@
       "ship rat"
     ]
   },
-  "summary": "In British Columbia, keeping a tame, captive-bred roof rat is legal. BC's Wildlife Act protects native and some designated non-native 'wildlife', but the Designation and Exemption Regulation (B.C. Reg. 168/90), section 8(h), exempts a non-native animal that 'is tame and kept in captivity for the use of man'. Rattus rattus is not a Controlled Alien Species (that list is for dangerous exotics like big cats and venomous snakes), so a captive-bred pet roof rat qualifies for the exemption and needs no provincial permit to keep, breed, or sell. Feral roof rats (e.g., on Haida Gwaii) are managed as invasive wildlife — never release one.",
+  "summary": "In British Columbia, keeping a tame, captive-bred roof rat is legal. BC's Wildlife Act protects native and some designated non-native 'wildlife', but the Designation and Exemption Regulation (B.C. Reg. 168/90), section 8(h), exempts a non-native animal that 'is tame and kept in captivity for the use of man'. Rattus rattus is not a Controlled Alien Species (that list is for dangerous exotics like big cats and venomous snakes), so a captive-bred pet roof rat qualifies for the exemption and needs no provincial permit to keep, breed, or sell. Feral roof rats (e.g., on Haida Gwaii) are managed as invasive wildlife, never release one.",
   "last_reviewed": "2026-06-10",
   "agency_confirmations": [
-    "FrontCounter BC, Provincial Contact Centre, B.C. Ministry of Water, Land and Resource Stewardship (written reply June 2026): 'Rattus rattus is not designated as wildlife under the Wildlife Act. A provincial wildlife permit would not be required.' Keeping a roof rat therefore needs no provincial wildlife permit in British Columbia. (Releasing one remains prohibited — feral roof rats are managed as invasive wildlife; never release.)"
+    "FrontCounter BC, Provincial Contact Centre, B.C. Ministry of Water, Land and Resource Stewardship (written reply June 2026): 'Rattus rattus is not designated as wildlife under the Wildlife Act. A provincial wildlife permit would not be required.' Keeping a roof rat therefore needs no provincial wildlife permit in British Columbia. (Releasing one remains prohibited, feral roof rats are managed as invasive wildlife; never release.)"
   ],
   "advocacy": {
     "flag": false
@@ -27,8 +27,8 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "FrontCounter BC (B.C. Ministry of Water, Land & Resource Stewardship) confirmed in writing (June 2026) that Rattus rattus is not designated as wildlife under the Wildlife Act, so no provincial wildlife permit is required to keep one. This matches the regulation: section 8(h) of the Designation and Exemption Regulation (B.C. Reg. 168/90) exempts a non-native animal that is tame and kept in captivity for human use, and R. rattus is not a Controlled Alien Species — so a captive-bred, tame roof rat needs no provincial captive-wildlife permit.",
-      "governing_law": "Wildlife Act (R. rattus not designated wildlife — FrontCounter BC, June 2026); Designation and Exemption Regulation (B.C. Reg. 168/90), s. 8(h); Controlled Alien Species Regulation (R. rattus not listed).",
+      "why": "FrontCounter BC (B.C. Ministry of Water, Land & Resource Stewardship) confirmed in writing (June 2026) that Rattus rattus is not designated as wildlife under the Wildlife Act, so no provincial wildlife permit is required to keep one. This matches the regulation: section 8(h) of the Designation and Exemption Regulation (B.C. Reg. 168/90) exempts a non-native animal that is tame and kept in captivity for human use, and R. rattus is not a Controlled Alien Species, so a captive-bred, tame roof rat needs no provincial captive-wildlife permit.",
+      "governing_law": "Wildlife Act (R. rattus not designated wildlife, FrontCounter BC, June 2026); Designation and Exemption Regulation (B.C. Reg. 168/90), s. 8(h); Controlled Alien Species Regulation (R. rattus not listed).",
       "source_ids": [
         "bc-exempt-reg",
         "bc-wildlife"
@@ -40,7 +40,7 @@
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "As an exempt tame species not listed as a Controlled Alien Species, breeding is legal without a provincial permit — subject to municipal bylaws, business licensing, and BC's animal-welfare law.",
+      "why": "As an exempt tame species not listed as a Controlled Alien Species, breeding is legal without a provincial permit, subject to municipal bylaws, business licensing, and BC's animal-welfare law.",
       "governing_law": "Wildlife Act; B.C. Reg. 168/90; Prevention of Cruelty to Animals Act; municipal bylaws.",
       "source_ids": [
         "bc-exempt-reg"
@@ -81,7 +81,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Releasing a roof rat into the wild is strictly prohibited under BC's ecological-protection rules — feral R. rattus are managed and eradicated as invasive wildlife (e.g., on the Haida Gwaii archipelago). Keep pets securely contained and rehome responsibly; never release.",
+      "summary": "Releasing a roof rat into the wild is strictly prohibited under BC's ecological-protection rules, feral R. rattus are managed and eradicated as invasive wildlife (e.g., on the Haida Gwaii archipelago). Keep pets securely contained and rehome responsibly; never release.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -97,7 +97,7 @@
         "breed",
         "sell_give"
       ],
-      "summary": "Commercial breeding or selling is governed by municipal business licensing and zoning plus BC's Prevention of Cruelty to Animals Act care standards — check your municipality.",
+      "summary": "Commercial breeding or selling is governed by municipal business licensing and zoning plus BC's Prevention of Cruelty to Animals Act care standards, check your municipality.",
       "steps": [
         "Check municipal business-licensing/zoning if breeding or selling commercially"
       ],
@@ -109,18 +109,18 @@
       ]
     }
   ],
-  "inquiry_focus": "Specifically: can the Ministry confirm that a captive-bred, tame Rattus rattus (roof rat) kept strictly as a domestic pet qualifies for the exemption under section 8(h) of the Designation and Exemption Regulation (B.C. Reg. 168/90) — and therefore needs no captive-wildlife permit to keep, breed, or sell in BC — even though feral Rattus rattus populations are managed as invasive wildlife in places such as Haida Gwaii?",
+  "inquiry_focus": "Specifically: can the Ministry confirm that a captive-bred, tame Rattus rattus (roof rat) kept strictly as a domestic pet qualifies for the exemption under section 8(h) of the Designation and Exemption Regulation (B.C. Reg. 168/90), and therefore needs no captive-wildlife permit to keep, breed, or sell in BC, even though feral Rattus rattus populations are managed as invasive wildlife in places such as Haida Gwaii?",
   "sources": [
     {
       "id": "bc-exempt-reg",
-      "title": "Wildlife Act — Designation and Exemption Regulation (B.C. Reg. 168/90), s. 8(h) tame-captive exemption",
+      "title": "Wildlife Act, Designation and Exemption Regulation (B.C. Reg. 168/90), s. 8(h) tame-captive exemption",
       "url": "https://free.bcpublications.ca/civix/document/id/crbc/crbc/13_168_90_pit_2020_07_01",
       "authority": "Province of British Columbia",
       "accessed": "2026-06-06"
     },
     {
       "id": "bc-wildlife",
-      "title": "Wildlife — Province of British Columbia (Controlled Alien Species; invasive management)",
+      "title": "Wildlife, Province of British Columbia (Controlled Alien Species; invasive management)",
       "url": "https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/wildlife",
       "authority": "Province of British Columbia",
       "accessed": "2026-06-06"
@@ -128,7 +128,7 @@
   ],
   "contacts": [
     {
-      "agency": "FrontCounter BC — Fish & Wildlife Permits (B.C. Ministry of Water, Land & Resource Stewardship)",
+      "agency": "FrontCounter BC, Fish & Wildlife Permits (B.C. Ministry of Water, Land & Resource Stewardship)",
       "role": "wildlife",
       "email": "FrontCounterBC@gov.bc.ca",
       "form_url": "https://portal.nrs.gov.bc.ca/web/client/locations",

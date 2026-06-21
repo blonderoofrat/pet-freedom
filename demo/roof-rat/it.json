@@ -32,13 +32,13 @@
       "time_sensitive": "The \"lista negativa\" of banned species under D.Lgs 135/2022 has been overdue since 27 March 2023 and remains unpublished as of mid-2026; the government's correttivo (D.Lgs 220/2025, in force 6 February 2025) keeps the framework live and the decree could be issued at any time. The related \"lista positiva\" (the wild-capture list) was published in 2022 and updated to 71 species in February 2026, which shows the rulemaking is active. There is no formally announced public-comment window for the banning list, but the rule is actively being drafted now, so the window to influence its content is open and could close without notice. Write before the decree is published.",
       "targets": [
         {
-          "name": "Ministero della Salute — Direzione Generale della Sanità Animale e dei Farmaci Veterinari (DGSAF) (co-author of the D.Lgs 135/2022 implementing decrees, incl. the lista negativa)",
+          "name": "Ministero della Salute, Direzione Generale della Sanità Animale e dei Farmaci Veterinari (DGSAF) (co-author of the D.Lgs 135/2022 implementing decrees, incl. the lista negativa)",
           "type": "agency",
           "form_url": "https://www.salute.gov.it/new/it/tema/prevenzione-e-controllo-malattie-degli-animali/contatti/",
           "why": "One of the two ministries that jointly draft and sign the lista negativa decree under D.Lgs 135/2022. The right body to ask that captive-bred small companion rodents (R. rattus) be kept off the ban list. Use the official contacts page; for a formal submission send to the institutional certified inbox (PEC) dgsa@postacert.sanita.it. Do not write to a named individual officer."
         },
         {
-          "name": "Ministero dell'Ambiente e della Sicurezza Energetica (MASE) — Ufficio Relazioni con il Pubblico (URP)",
+          "name": "Ministero dell'Ambiente e della Sicurezza Energetica (MASE), Ufficio Relazioni con il Pubblico (URP)",
           "type": "agency",
           "form_url": "https://www.mase.gov.it/portale/web/guest/contatti",
           "email": "urp@mase.gov.it",
@@ -161,56 +161,56 @@
   "sources": [
     {
       "id": "it-dm-1996",
-      "title": "DM 19 aprile 1996 — elenco specie pericolose di cui è proibita la detenzione (Allegato A, Rodentia: Hystricidae, Erethizontidae, Hydrochoeridae, Dinomyidae, Dasyproctidae; Muridae NON elencata)",
+      "title": "DM 19 aprile 1996, elenco specie pericolose di cui è proibita la detenzione (Allegato A, Rodentia: Hystricidae, Erethizontidae, Hydrochoeridae, Dinomyidae, Dasyproctidae; Muridae NON elencata)",
       "url": "https://www.mimit.gov.it/images/stories/commercio_internazionale/cites/dm19_04_1996.pdf",
       "authority": "Ministero dell'Ambiente / MIMIT (G.U. 3 ottobre 1996, n. 232)",
       "accessed": "2026-06-13"
     },
     {
       "id": "it-dlgs-135-2022",
-      "title": "D.Lgs 5 agosto 2022 n. 135 — animali di specie selvatiche ed esotiche; Art. 3 (detenzione consentita per le specie dell'Allegato I del Reg. (UE) 2016/429 in attesa della 'lista negativa') + correttivo D.Lgs 220/2025",
+      "title": "D.Lgs 5 agosto 2022 n. 135, animali di specie selvatiche ed esotiche; Art. 3 (detenzione consentita per le specie dell'Allegato I del Reg. (UE) 2016/429 in attesa della 'lista negativa') + correttivo D.Lgs 220/2025",
       "url": "https://www.gazzettaufficiale.it/eli/id/2022/09/12/22G00143/sg",
       "authority": "Gazzetta Ufficiale",
       "accessed": "2026-06-13"
     },
     {
       "id": "it-fnovi-listanegativa",
-      "title": "FNOVI — 'Pubblicato decreto su specie selvatiche esotiche' (lista positiva pubblicata 11 ottobre 2022; 'lista negativa' non ancora pubblicata)",
+      "title": "FNOVI, 'Pubblicato decreto su specie selvatiche esotiche' (lista positiva pubblicata 11 ottobre 2022; 'lista negativa' non ancora pubblicata)",
       "url": "https://fnovi.it/node/50033",
       "authority": "FNOVI (Federazione Nazionale Ordini Veterinari Italiani)",
       "accessed": "2026-06-13"
     },
     {
       "id": "it-dlgs-134-2022",
-      "title": "D.Lgs 5 agosto 2022 n. 134 — identificazione e registrazione (SINAC); microchip/registrazione obbligatori per cani, gatti e furetti (NON per i roditori da compagnia); Reg. (UE) 2016/429",
+      "title": "D.Lgs 5 agosto 2022 n. 134, identificazione e registrazione (SINAC); microchip/registrazione obbligatori per cani, gatti e furetti (NON per i roditori da compagnia); Reg. (UE) 2016/429",
       "url": "https://www.gazzettaufficiale.it/eli/id/2022/09/12/22G00142/sg",
       "authority": "Gazzetta Ufficiale",
       "accessed": "2026-06-13"
     },
     {
       "id": "it-asl-allevamento",
-      "title": "ASL (es. ULSS 9 Scaligera, Veneto) — allevamento di animali da compagnia amatoriale e commerciale (soglie regionali; registrazione ASL; SUAP per il commerciale)",
+      "title": "ASL (es. ULSS 9 Scaligera, Veneto), allevamento di animali da compagnia amatoriale e commerciale (soglie regionali; registrazione ASL; SUAP per il commerciale)",
       "url": "https://veterinari.aulss9.veneto.it/Allevamento-animali-da-compagnia-amatoriale-e-commerciale",
       "authority": "ASL / Servizio Veterinario regionale",
       "accessed": "2026-06-13"
     },
     {
       "id": "it-eu-576",
-      "title": "Regolamento (UE) 576/2013 — movimenti non commerciali di animali da compagnia (Allegato I Parte B: roditori)",
+      "title": "Regolamento (UE) 576/2013, movimenti non commerciali di animali da compagnia (Allegato I Parte B: roditori)",
       "url": "https://eur-lex.europa.eu/eli/reg/2013/576/2024-03-26/eng",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-13"
     },
     {
       "id": "it-eu-429",
-      "title": "Regolamento (UE) 2016/429 — Animal Health Law (Allegato I Parte B: roditori e conigli da compagnia)",
+      "title": "Regolamento (UE) 2016/429, Animal Health Law (Allegato I Parte B: roditori e conigli da compagnia)",
       "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0429",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-13"
     },
     {
       "id": "it-ispra",
-      "title": "ISPRA / MASE — implementazione EU IAS Reg. 1143/2014 (R. rattus NON sull'elenco dell'Unione)",
+      "title": "ISPRA / MASE, implementazione EU IAS Reg. 1143/2014 (R. rattus NON sull'elenco dell'Unione)",
       "url": "https://www.specieinvasive.isprambiente.it/specie-di-rilevanza-unionale",
       "authority": "ISPRA",
       "accessed": "2026-06-13"
@@ -218,7 +218,7 @@
   ],
   "contacts": [
     {
-      "agency": "Ministero della Salute — DGSAF (Direzione Generale della Sanità Animale e dei Farmaci Veterinari)",
+      "agency": "Ministero della Salute, DGSAF (Direzione Generale della Sanità Animale e dei Farmaci Veterinari)",
       "role": "agriculture",
       "email": "",
       "form_url": "https://www.salute.gov.it/new/it/tema/prevenzione-e-controllo-malattie-degli-animali/contatti/",

@@ -1,0 +1,86 @@
+{
+  "jurisdiction": {
+    "id": "us-ny-new-york-city",
+    "level": "municipality",
+    "name": "New York City",
+    "parent": "us-ny",
+    "country": "US",
+    "iso": "US-NY",
+    "language": "en",
+    "slug": "new-york-city",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "exotic animal",
+      "rodent"
+    ]
+  },
+  "summary": "Good news if you live in New York City: we checked, and a pet rat is allowed. NYC's famously strict Health Code (Article 161, Section 161.01) bans a long list of wild animals, including 'all large rodents' such as gopher, muskrat, beaver, prairie dog, and capybara, plus squirrels and bats. But that list targets large and wild rodents, not small domesticated ones. A pet rat (like the common fancy rat that New Yorkers already keep) is a small domesticated rodent and is not on the prohibited list. A pet roof rat is allowed, the same as New York State.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "NYC Health Code Section 161.01 ('Wild and other animals prohibited') lists prohibited species including, at item (14), 'all large rodents (Rodentia), including, but not limited to, gopher, muskrat, nutria, paca, woodchuck, marmot, beaver, prairie dog, capybara, sewellel, viscacha, porcupine and hutia,' plus all squirrels and all bats. Small domesticated rodents (the common pet rat, mouse, hamster, gerbil, guinea pig) are not on that list and are kept as pets throughout the city. A domesticated roof rat is a small rodent, not a 'large rodent' or wild animal, so it is not prohibited. Not stricter than New York State.",
+      "governing_law": "NYC Health Code Article 161, Section 161.01 (Wild and Other Animals Prohibited; item 14 bans large rodents, not small domesticated rodents).",
+      "source_ids": [
+        "nyc-161-01"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction; the state's permissive rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "nyc-161-01"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "nyc-161-01"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "nyc-161-01"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "nyc-161-01",
+      "title": "NYC Health Code Section 161.01 (Wild and Other Animals Prohibited; item (14) 'all large rodents', not small pet rodents)",
+      "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-46988",
+      "authority": "New York City Department of Health and Mental Hygiene",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

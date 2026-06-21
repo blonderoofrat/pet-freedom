@@ -50,7 +50,7 @@
     "sell_give": {
       "status": "legal_with_permit",
       "confidence": "high",
-      "why": "A USDA Class B dealer license is required only for WHOLESALE sales (to resellers/pet stores) or SIGHT-UNSEEN shipped sales. Selling face-to-face to the final owner (a 'retail pet store' transaction, which includes a home breeder selling directly), and giving rats away, are exempt — with NO limit on the number of breeding females (9 C.F.R. 1.1, 2.1(a)(3)). Only a wholesale or sight-unseen seller keeping 5 or more breeding females must be licensed.",
+      "why": "A USDA Class B dealer license is required only for WHOLESALE sales (to resellers/pet stores) or SIGHT-UNSEEN shipped sales. Selling face-to-face to the final owner (a 'retail pet store' transaction, which includes a home breeder selling directly), and giving rats away, are exempt, with NO limit on the number of breeding females (9 C.F.R. 1.1, 2.1(a)(3)). Only a wholesale or sight-unseen seller keeping 5 or more breeding females must be licensed.",
       "governing_law": "AWA dealer licensing, 9 C.F.R. 1.1 & 2.1.",
       "source_ids": [
         "awa-def",
@@ -134,7 +134,7 @@
       "activity": [
         "transport"
       ],
-      "summary": "Lacey Act: do not move a roof rat into (or out of) a state where keeping or importing it is illegal — interstate movement that violates a state's law is itself a federal crime.",
+      "summary": "Lacey Act: do not move a roof rat into (or out of) a state where keeping or importing it is illegal, interstate movement that violates a state's law is itself a federal crime.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -147,63 +147,63 @@
   "sources": [
     {
       "id": "awa-def",
-      "title": "9 CFR 1.1 / 7 U.S.C. 2132(g) — AWA definition of 'animal' (Rattus excluded only if bred for research)",
+      "title": "9 CFR 1.1 / 7 U.S.C. 2132(g), AWA definition of 'animal' (Rattus excluded only if bred for research)",
       "url": "https://www.ecfr.gov/current/title-9/part-1/section-1.1",
       "authority": "USDA-APHIS / U.S. Code",
       "accessed": "2026-06-06"
     },
     {
       "id": "awa-license",
-      "title": "9 CFR 2.1 — AWA licensing requirements & exemptions (≤4 females, <$500, retail/face-to-face)",
+      "title": "9 CFR 2.1, AWA licensing requirements & exemptions (≤4 females, <$500, retail/face-to-face)",
       "url": "https://www.ecfr.gov/current/title-9/part-2/section-2.1",
       "authority": "USDA-APHIS",
       "accessed": "2026-06-06"
     },
     {
       "id": "fws-14-4",
-      "title": "50 CFR 14.4 — domesticated-animal list (R. norvegicus listed; R. rattus NOT → 'wildlife')",
+      "title": "50 CFR 14.4, domesticated-animal list (R. norvegicus listed; R. rattus NOT → 'wildlife')",
       "url": "https://www.law.cornell.edu/cfr/text/50/14.4",
       "authority": "U.S. Fish & Wildlife Service",
       "accessed": "2026-06-06"
     },
     {
       "id": "fws-14-61",
-      "title": "50 CFR 14.61 — wildlife import/export declaration (Form 3-177)",
+      "title": "50 CFR 14.61, wildlife import/export declaration (Form 3-177)",
       "url": "https://www.ecfr.gov/current/title-50/part-14/section-14.61",
       "authority": "USFWS",
       "accessed": "2026-06-06"
     },
     {
       "id": "cfr-16-11",
-      "title": "50 CFR 16.11 — injurious live mammals (only Mastomys among rodents; R. rattus not listed)",
+      "title": "50 CFR 16.11, injurious live mammals (only Mastomys among rodents; R. rattus not listed)",
       "url": "https://www.law.cornell.edu/cfr/text/50/16.11",
       "authority": "USFWS",
       "accessed": "2026-06-06"
     },
     {
       "id": "lacey-3372",
-      "title": "16 U.S.C. 3372 — Lacey Act trafficking (federalizes state law)",
+      "title": "16 U.S.C. 3372, Lacey Act trafficking (federalizes state law)",
       "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3372&num=0&edition=prelim",
       "authority": "U.S. Code",
       "accessed": "2026-06-06"
     },
     {
       "id": "cdc-71-56",
-      "title": "42 CFR 71.56 — CDC African-rodent import ban (N/A to non-African roof rats)",
+      "title": "42 CFR 71.56, CDC African-rodent import ban (N/A to non-African roof rats)",
       "url": "https://www.ecfr.gov/current/title-42/part-71/section-71.56",
       "authority": "CDC",
       "accessed": "2026-06-06"
     },
     {
       "id": "aphis-import",
-      "title": "Bring a Pet Rodent into the U.S. — USDA APHIS (no VS health requirements)",
+      "title": "Bring a Pet Rodent into the U.S., USDA APHIS (no VS health requirements)",
       "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/rodents",
       "authority": "USDA-APHIS",
       "accessed": "2026-06-06"
     },
     {
       "id": "aphis-export",
-      "title": "Exporting a pet (rodent health certificate) — USDA APHIS",
+      "title": "Exporting a pet (rodent health certificate), USDA APHIS",
       "url": "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export",
       "authority": "USDA-APHIS",
       "accessed": "2026-06-06"

@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Washington is now DR-verified and is cleanly legal at the state level. The wildlife statute excludes \"old world rats and mice of the family Muridae\" from the definition of \"wildlife\" (RCW 77.08.010(74)), so the roof rat (Rattus rattus) is outside WDFW jurisdiction with no species trap (R. rattus and R. norvegicus are treated identically), and it is on neither the dangerous-wild-animal list (RCW 16.30.010) nor the deleterious-exotic-wildlife list (WAC 220-640-200). Keeping, breeding, and selling are unregulated by the state (WSDA licenses no breeders; a rat sale is treated as personal property) — commercial breeding/retail defer to LOCAL zoning and animal-business codes. Importing one requires a Certificate of Veterinary Inspection as a \"pocket pet\" (WAC 16-54-170 / WSDA), but no exotic entry permit. Never release a roof rat (it is a recognized invasive species; WAC 220-450-010).",
+  "summary": "Washington is now DR-verified and is cleanly legal at the state level. The wildlife statute excludes \"old world rats and mice of the family Muridae\" from the definition of \"wildlife\" (RCW 77.08.010(74)), so the roof rat (Rattus rattus) is outside WDFW jurisdiction with no species trap (R. rattus and R. norvegicus are treated identically), and it is on neither the dangerous-wild-animal list (RCW 16.30.010) nor the deleterious-exotic-wildlife list (WAC 220-640-200). Keeping, breeding, and selling are unregulated by the state (WSDA licenses no breeders; a rat sale is treated as personal property), commercial breeding/retail defer to LOCAL zoning and animal-business codes. Importing one requires a Certificate of Veterinary Inspection as a \"pocket pet\" (WAC 16-54-170 / WSDA), but no exotic entry permit. Never release a roof rat (it is a recognized invasive species; WAC 220-450-010).",
   "last_reviewed": "2026-06-10",
   "advocacy": {
     "flag": false
@@ -24,8 +24,8 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "The roof rat is excluded from the statutory definition of \"wildlife\" — RCW 77.08.010(74) excludes \"old world rats and mice of the family Muridae\" — so WDFW has no jurisdiction. It is also absent from the dangerous-wild-animal list (RCW 16.30.010) and the deleterious-exotic-wildlife list (WAC 220-640-200). No state permit, caging, or inspection (only general anti-cruelty, RCW 16.52). Local exotic-pet ordinances may still apply.",
-      "governing_law": "RCW 77.08.010(74) (Muridae excluded from wildlife); RCW 16.30.010 (dangerous list — no rodents); WAC 220-640-200 (deleterious list — no rodents).",
+      "why": "The roof rat is excluded from the statutory definition of \"wildlife\", RCW 77.08.010(74) excludes \"old world rats and mice of the family Muridae\", so WDFW has no jurisdiction. It is also absent from the dangerous-wild-animal list (RCW 16.30.010) and the deleterious-exotic-wildlife list (WAC 220-640-200). No state permit, caging, or inspection (only general anti-cruelty, RCW 16.52). Local exotic-pet ordinances may still apply.",
+      "governing_law": "RCW 77.08.010(74) (Muridae excluded from wildlife); RCW 16.30.010 (dangerous list, no rodents); WAC 220-640-200 (deleterious list, no rodents).",
       "source_ids": [
         "wa-rcw-16-30",
         "wa-wac-220-640-200"
@@ -49,8 +49,8 @@
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "No state pet-dealer license applies to rodents — a roof rat sale is treated as the sale of personal property, not classified wildlife. Statewide pet-dealer bills historically targeted dog/cat volume breeders, not rodents. Retail sale defers to a local business/pet-shop license; private transfer is unregulated.",
-      "governing_law": "RCW 77.08.010(74); WAC 220-450-030 (classified-wildlife sale rules — N/A to non-wildlife rats); local pet-shop codes.",
+      "why": "No state pet-dealer license applies to rodents, a roof rat sale is treated as the sale of personal property, not classified wildlife. Statewide pet-dealer bills historically targeted dog/cat volume breeders, not rodents. Retail sale defers to a local business/pet-shop license; private transfer is unregulated.",
+      "governing_law": "RCW 77.08.010(74); WAC 220-450-030 (classified-wildlife sale rules, N/A to non-wildlife rats); local pet-shop codes.",
       "source_ids": [
         "wa-wac-220-640-200"
       ],
@@ -61,7 +61,7 @@
     "transport": {
       "status": "legal_with_permit",
       "confidence": "high",
-      "why": "Intrastate transport of an owned pet is unregulated (only humane-transport rules, RCW 16.52.080). IMPORT into Washington requires a Certificate of Veterinary Inspection within 30 days, with the roof rat handled administratively as a \"pocket pet\" (WAC 16-54-170 / WSDA small-animal import) — no exotic entry permit needed via that route; rodents are exempt from rabies vaccination. Never release a roof rat.",
+      "why": "Intrastate transport of an owned pet is unregulated (only humane-transport rules, RCW 16.52.080). IMPORT into Washington requires a Certificate of Veterinary Inspection within 30 days, with the roof rat handled administratively as a \"pocket pet\" (WAC 16-54-170 / WSDA small-animal import), no exotic entry permit needed via that route; rodents are exempt from rabies vaccination. Never release a roof rat.",
       "governing_law": "WAC 16-54-170 + WSDA small-animal import (CVI as pocket pet); RCW 16.52.080 (humane transport); WAC 220-450-010 (no-release).",
       "source_ids": [
         "wa-wsda-import",
@@ -94,7 +94,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — it's a non-native species; rehome responsibly.",
+      "summary": "Never release a roof rat, it's a non-native species; rehome responsibly.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -107,14 +107,14 @@
   "sources": [
     {
       "id": "wa-rcw-16-30",
-      "title": "RCW 16.30.010 — Potentially dangerous wild animal (no rodents)",
+      "title": "RCW 16.30.010, Potentially dangerous wild animal (no rodents)",
       "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=16.30.010",
       "authority": "Washington State Legislature",
       "accessed": "2026-06-06"
     },
     {
       "id": "wa-wac-220-640-200",
-      "title": "WAC 220-640-200 — Deleterious exotic wildlife (no rodents/Rattus)",
+      "title": "WAC 220-640-200, Deleterious exotic wildlife (no rodents/Rattus)",
       "url": "https://app.leg.wa.gov/wac/default.aspx?cite=220-640-200",
       "authority": "WA Dept of Fish & Wildlife",
       "accessed": "2026-06-06"

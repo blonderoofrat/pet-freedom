@@ -28,7 +28,7 @@
       "status": "legal",
       "confidence": "high",
       "why": "ODWC confirmed in writing (June 2026) that keeping a roof rat is not prohibited and requires no permit. OAC 800:25-25-3(a)(25)'s exemption for 'rats (except those species normally found in the wild)' was confirmed by the agency to cover both Rattus species widely kept in captivity (R. rattus and R. norvegicus): ODWC treats R. rattus as a non-native species 'not normally found in the wild,' so it falls inside the exemption despite scattered semi-naturalized populations. The earlier 'unregulated/unclear' reading is superseded by this agency confirmation.",
-      "governing_law": "OAC 800:25-25-3(a)(25) (domesticated-animal exemption — covers Norway rat and roof rat); ODWC written confirmation (June 2026).",
+      "governing_law": "OAC 800:25-25-3(a)(25) (domesticated-animal exemption, covers Norway rat and roof rat); ODWC written confirmation (June 2026).",
       "source_ids": [
         "ok-800-25-25-3"
       ],
@@ -39,7 +39,7 @@
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "ODWC confirmed (June 2026) that breeding roof rats requires no permit. OAC 800:25-25-3(a)(25) exempts the roof rat from ODWC's commercial breeder license AND its noncommercial breeder license. (The native-wildlife breeder statute 4 O.S. §4-107 never applied — R. rattus is non-native — and the Commercial Pet Breeders Act covers dogs/cats only.)",
+      "why": "ODWC confirmed (June 2026) that breeding roof rats requires no permit. OAC 800:25-25-3(a)(25) exempts the roof rat from ODWC's commercial breeder license AND its noncommercial breeder license. (The native-wildlife breeder statute 4 O.S. §4-107 never applied, R. rattus is non-native, and the Commercial Pet Breeders Act covers dogs/cats only.)",
       "governing_law": "OAC 800:25-25-3(a)(25) (exempts roof rat from commercial AND noncommercial breeder licenses); ODWC confirmation (June 2026).",
       "source_ids": [
         "ok-800-25-25-3"
@@ -63,7 +63,7 @@
     "transport": {
       "status": "legal",
       "confidence": "high",
-      "why": "ODWC confirmed (June 2026) that importing or exporting roof rats requires no ODWC permit, and because of that exemption ODWC does not require a health certificate to accompany these animals. Internal movement of a lawfully held pet is unrestricted. (One open item below: ODAFF, the agriculture department, may have separate animal-movement rules — an inquiry has been sent.) Never release a roof rat.",
+      "why": "ODWC confirmed (June 2026) that importing or exporting roof rats requires no ODWC permit, and because of that exemption ODWC does not require a health certificate to accompany these animals. Internal movement of a lawfully held pet is unrestricted. (One open item below: ODAFF, the agriculture department, may have separate animal-movement rules, an inquiry has been sent.) Never release a roof rat.",
       "governing_law": "OAC 800:25-25-3(a)(25) (exempts roof rat from ODWC import/export permit; no health certificate required); ODWC confirmation (June 2026).",
       "source_ids": [
         "ok-800-25-25-3",
@@ -86,7 +86,7 @@
       ],
       "summary": "ODWC confirmed (June 2026) that no permit or license is required to keep, breed, sell/trade, import, or export a roof rat in Oklahoma, and none of these is prohibited. ODWC recommends standard biosecurity to prevent accidental escape. Never release a roof rat. One open item: the Oklahoma Department of Agriculture, Food & Forestry may enforce separate rules; an inquiry has been sent at ODWC's suggestion.",
       "steps": [
-        "Use standard biosecurity (secure caging) to prevent escapes — never release a roof rat",
+        "Use standard biosecurity (secure caging) to prevent escapes, never release a roof rat",
         "(Pending) Confirm with the Oklahoma Department of Agriculture, Food & Forestry that no separate agriculture rule applies"
       ],
       "forms": [],
@@ -97,25 +97,25 @@
       ]
     }
   ],
-  "inquiry_focus": "RESOLVED for ODWC (June 2026): roof rats are exempt from all ODWC permits and licenses under OAC 800:25-25-3(a)(25) — no permit to keep, breed, sell/trade, or import/export, and no health certificate required. Open item: the Oklahoma Department of Agriculture, Food & Forestry (ODAFF) — does it enforce any separate rule on keeping/breeding/selling/importing Rattus? An inquiry was sent June 2026 at ODWC's suggestion.",
+  "inquiry_focus": "RESOLVED for ODWC (June 2026): roof rats are exempt from all ODWC permits and licenses under OAC 800:25-25-3(a)(25), no permit to keep, breed, sell/trade, or import/export, and no health certificate required. Open item: the Oklahoma Department of Agriculture, Food & Forestry (ODAFF), does it enforce any separate rule on keeping/breeding/selling/importing Rattus? An inquiry was sent June 2026 at ODWC's suggestion.",
   "sources": [
     {
       "id": "ok-800-25-25-3",
-      "title": "OAC 800:25-25-3(a)(25) — Exemptions ('rats except those species normally found in the wild'; ODWC confirms this covers both the Norway rat and the roof rat)",
+      "title": "OAC 800:25-25-3(a)(25), Exemptions ('rats except those species normally found in the wild'; ODWC confirms this covers both the Norway rat and the roof rat)",
       "url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-800-25-25-3",
       "authority": "Oklahoma Dept of Wildlife Conservation (via Cornell LII)",
       "accessed": "2026-06-06"
     },
     {
       "id": "ok-29-2-109-1",
-      "title": "29 O.S. §2-109.1 — 'Exotic wildlife' defined (species not found in the continental-US wild)",
+      "title": "29 O.S. §2-109.1, 'Exotic wildlife' defined (species not found in the continental-US wild)",
       "url": "https://law.justia.com/codes/oklahoma/title-29/section-29-2-109-1/",
       "authority": "Oklahoma Legislature",
       "accessed": "2026-06-06"
     },
     {
       "id": "ok-odaff-import",
-      "title": "ODAFF Animal Import Requirements (rev. 12/2025) — rodents not listed",
+      "title": "ODAFF Animal Import Requirements (rev. 12/2025), rodents not listed",
       "url": "https://ag.ok.gov/divisions/animal-industry-state-veterinarian/",
       "authority": "Oklahoma Dept of Agriculture, Food & Forestry",
       "accessed": "2026-06-06"
@@ -123,7 +123,7 @@
   ],
   "contacts": [
     {
-      "agency": "Oklahoma Dept of Wildlife Conservation — Wildlife Diversity / Law Enforcement Division",
+      "agency": "Oklahoma Dept of Wildlife Conservation, Wildlife Diversity / Law Enforcement Division",
       "role": "wildlife",
       "email": "",
       "form_url": "https://www.wildlifedepartment.com/contact-us",
@@ -131,7 +131,7 @@
       "primary": true
     },
     {
-      "agency": "Oklahoma Dept of Agriculture, Food & Forestry — Animal Industry / State Veterinarian",
+      "agency": "Oklahoma Dept of Agriculture, Food & Forestry, Animal Industry / State Veterinarian",
       "role": "agriculture",
       "email": "",
       "form_url": "https://ag.ok.gov/divisions/animal-industry-state-veterinarian/",

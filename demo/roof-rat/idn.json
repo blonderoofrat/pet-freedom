@@ -19,7 +19,7 @@
       "black rat"
     ]
   },
-  "summary": "Indonesia is one of the more legally hostile places for a pet roof rat, and earlier preliminary research here was wrong to call it permissive. R. rattus is NOT on the protected-species list, so it isn't caught by the conservation-poaching law (Law No. 5/1990) — but that is where the good news ends. Indonesia explicitly lists the roof rat (tikus rumah / tikus atap, the black rat) as a high-priority INVASIVE species in Appendix I of Permen LHK P.94/2016, and three separate ministries are mandated to control or eradicate it: Environment & Forestry (invasive-species control), Agriculture (it is an official crop pest, targeted by a national rodent-eradication program, GERDAL OPT), and Health (a disease vector under Permenkes 50/2017). The practical results: IMPORTING a roof rat is flatly prohibited (P.94/2016 Art. 4(1) — border rejection), so even a captive-bred, certified pet cannot legally cross the border. SELLING is restricted — commercial wildlife trade needs a circulation license (Permen LHK 18/2024) the state will not issue for a species it is legally bound to destroy. KEEPING and hobby-BREEDING sit in a genuine legal vacuum: no clause specifically criminalizes caging one tame roof rat indoors, but there is also no 'pet permit' to legitimize it, and the invasive/vector designation gives officials authority to confiscate or euthanize it. Telling contrast: the fancy rat (R. norvegicus, 'tikus putih') is sold openly as a lab/feeder animal — not because the law exempts it, but because nobody enforces against it. The roof rat gets no such blind spot.",
+  "summary": "Indonesia is one of the more legally hostile places for a pet roof rat, and earlier preliminary research here was wrong to call it permissive. R. rattus is NOT on the protected-species list, so it isn't caught by the conservation-poaching law (Law No. 5/1990), but that is where the good news ends. Indonesia explicitly lists the roof rat (tikus rumah / tikus atap, the black rat) as a high-priority INVASIVE species in Appendix I of Permen LHK P.94/2016, and three separate ministries are mandated to control or eradicate it: Environment & Forestry (invasive-species control), Agriculture (it is an official crop pest, targeted by a national rodent-eradication program, GERDAL OPT), and Health (a disease vector under Permenkes 50/2017). The practical results: IMPORTING a roof rat is flatly prohibited (P.94/2016 Art. 4(1), border rejection), so even a captive-bred, certified pet cannot legally cross the border. SELLING is restricted, commercial wildlife trade needs a circulation license (Permen LHK 18/2024) the state will not issue for a species it is legally bound to destroy. KEEPING and hobby-BREEDING sit in a genuine legal vacuum: no clause specifically criminalizes caging one tame roof rat indoors, but there is also no 'pet permit' to legitimize it, and the invasive/vector designation gives officials authority to confiscate or euthanize it. Telling contrast: the fancy rat (R. norvegicus, 'tikus putih') is sold openly as a lab/feeder animal, not because the law exempts it, but because nobody enforces against it. The roof rat gets no such blind spot.",
   "last_reviewed": "2026-06-08",
   "advocacy": {
     "flag": true,
@@ -31,29 +31,29 @@
       "time_sensitive": "",
       "targets": [
         {
-          "name": "SP4N-LAPOR! — National Public Aspiration & Complaint Portal (lapor.go.id)",
+          "name": "SP4N-LAPOR!, National Public Aspiration & Complaint Portal (lapor.go.id)",
           "type": "agency",
           "form_url": "https://www.lapor.go.id/",
           "why": "Verified live, official 'no wrong door' federal portal jointly run by the Ministry of State Apparatus (PANRB), the Presidential Staff Office, and the Ombudsman. It routes a citizen inquiry or aspiration to the competent ministry (here: KLHK for the invasive-species rule; Kemenkes for the vector rule) and guarantees a tracked written response. The KSDAE site itself lists this as its public complaint channel. Best single channel for both the clarification ask (to KLHK) and the request to revise Permen LHK P.94/2016."
         },
         {
-          "name": "KLHK — Ditjen KSDAE (Directorate General of Conservation of Natural Resources & Ecosystems)",
+          "name": "KLHK, Ditjen KSDAE (Directorate General of Conservation of Natural Resources & Ecosystems)",
           "type": "agency",
           "form_url": "https://ksdae.kehutanan.go.id/",
-          "why": "Verified live (June 2026). The federal authority that OWNS Permen LHK P.94/2016 and the invasive-species/wildlife-utilization rules — i.e. the only body that can issue a written clarification on keeping captive-bred R. rattus and the only rule-maker that can amend Appendix I to add a captive-bred carve-out. Address the clarify-and-revise request here (and via LAPOR! for a tracked reply). Submit in Bahasa Indonesia."
+          "why": "Verified live (June 2026). The federal authority that OWNS Permen LHK P.94/2016 and the invasive-species/wildlife-utilization rules, i.e. the only body that can issue a written clarification on keeping captive-bred R. rattus and the only rule-maker that can amend Appendix I to add a captive-bred carve-out. Address the clarify-and-revise request here (and via LAPOR! for a tracked reply). Submit in Bahasa Indonesia."
         },
         {
-          "name": "Badan Karantina Indonesia (Barantin) — National Quarantine Agency",
+          "name": "Badan Karantina Indonesia (Barantin), National Quarantine Agency",
           "type": "agency",
           "form_url": "https://www.karantinaindonesia.go.id/",
-          "why": "Verified live, official. The border-biosecurity authority enforcing the P.94/2016 Art. 4(1) import ban and domestic inter-area movement rules. Relevant only as a secondary touchpoint to confirm import/transport treatment of a captive-bred pet — NOT the body that can change the listing. Include only if your question is specifically about moving/importing an animal."
+          "why": "Verified live, official. The border-biosecurity authority enforcing the P.94/2016 Art. 4(1) import ban and domestic inter-area movement rules. Relevant only as a secondary touchpoint to confirm import/transport treatment of a captive-bred pet, NOT the body that can change the listing. Include only if your question is specifically about moving/importing an animal."
         }
       ],
       "template": {
         "en": "Subject: Request to clarify and revise the treatment of captive-bred pet roof rats (Rattus rattus)\n\nTo the Directorate General of KSDAE, Ministry of Environment & Forestry,\n\nI am writing to ask for a written clarification and a revision of the rules. Rattus rattus is listed by name as an invasive species in Appendix I of Permen LHK P.94/2016. I support controlling wild invasive populations. The rats I am asking about are captive-bred for generations, hand-tame, kept entirely indoors in cages, and never released into the wild; they pose no biosecurity, crop, or disease risk.\n\nThe issue is the species name, not the animal itself. The fancy rat (Rattus norvegicus, 'tikus putih') is an equally introduced, non-native rat that is openly kept and sold as a pet across Indonesia. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over, and the same tolerance should extend to it.\n\nCats and dogs are also non-native and documented to harm native and island wildlife, yet are permitted as pets. Whether the limited additional risk of a few sterile, tame, indoor-only roof rats, never released, is similarly outweighed by their value as companions is a judgment for the ministry to make.\n\nI respectfully ask: (1) Please confirm in writing whether a private citizen may keep captive-bred R. rattus indoors as a pet, and whether any registration mechanism exists. (2) Please consider revising Permen LHK P.94/2016 to distinguish wild invasive populations from documented captive-bred, indoor-kept pets, creating a captive-bred carve-out.\n\nThank you for your consideration.\n\n[Your name]\n[Your city / contact]",
         "id": "Perihal: Permohonan klarifikasi dan revisi atas perlakuan terhadap tikus peliharaan hasil penangkaran (Rattus rattus)\n\nKepada Yth. Direktorat Jenderal KSDAE, Kementerian Lingkungan Hidup dan Kehutanan,\n\nSaya menulis untuk memohon klarifikasi tertulis dan revisi atas peraturan. Rattus rattus tercantum secara eksplisit sebagai jenis invasif dalam Lampiran I Permen LHK P.94/2016. Saya mendukung pengendalian populasi invasif di alam liar. Tikus yang saya maksud adalah hasil penangkaran turun-temurun, jinak, dipelihara sepenuhnya di dalam rumah dalam kandang, dan tidak pernah dilepasliarkan, sehingga tidak menimbulkan risiko biosekuriti, pertanian, maupun penyakit.\n\nPersoalannya terletak pada nama spesies, bukan pada hewannya. Tikus putih (Rattus norvegicus) adalah tikus yang sama-sama bukan asli Indonesia, namun dipelihara dan diperjualbelikan secara terbuka sebagai hewan peliharaan di seluruh Indonesia. Tikus putih itu sendiri adalah tikus cokelat liar yang baru didomestikasi pada abad ke-19, sehingga tikus atap hasil penangkaran adalah kasus yang sama, hanya berbeda satu spesies, dan toleransi yang sama sepatutnya juga berlaku baginya.\n\nKucing dan anjing pun bukan hewan asli Indonesia dan terdokumentasi membahayakan satwa liar asli maupun satwa di pulau-pulau, namun tetap diizinkan sebagai hewan peliharaan. Apakah tambahan risiko yang terbatas dari beberapa ekor tikus atap yang steril, jinak, dipelihara sepenuhnya di dalam rumah, dan tidak pernah dilepasliarkan, sebanding dengan manfaatnya sebagai hewan pendamping, adalah pertimbangan yang menjadi kewenangan kementerian.\n\nDengan hormat saya memohon: (1) Mohon konfirmasi tertulis apakah warga sipil diperbolehkan memelihara R. rattus hasil penangkaran di dalam rumah sebagai hewan peliharaan, dan apakah ada mekanisme pendaftaran. (2) Mohon dipertimbangkan revisi Permen LHK P.94/2016 untuk membedakan populasi invasif liar dari hewan peliharaan hasil penangkaran yang dipelihara di dalam rumah, dengan menciptakan pengecualian bagi hasil penangkaran.\n\nAtas perhatian Bapak/Ibu, saya ucapkan terima kasih.\n\n[Nama Anda]\n[Kota / kontak Anda]"
       },
-      "confidence_notes": "VERIFIED (June 2026, live): (1) SP4N-LAPOR! at https://www.lapor.go.id/ — confirmed as the official national citizen-complaint/aspiration portal (PANRB + Presidential Staff Office + Ombudsman; tagline \"Sampaikan laporan Anda langsung kepada instansi pemerintah berwenang\"; 3-day verify / 5-day agency response). (2) KSDAE official portal https://ksdae.kehutanan.go.id/ — confirmed live (site dated 10 Jun 2026) and footer explicitly lists \"Pengaduan Online (SP4N-LAPOR)\" at lapor.go.id as its public complaint channel. (3) Badan Karantina Indonesia https://www.karantinaindonesia.go.id/ — confirmed official/live (\"Website Resmi BARANTIN\"). GROUNDED FROM PRIOR RESEARCH (idn.json, Gemini DR 2026-06-08, high/medium confidence): R. rattus on Appendix I of Permen LHK P.94/2016 (entry 5); Art. 4(1) import ban; triple eradication overlay (KLHK invasive + Kementan GERDAL OPT crop pest + Permenkes 50/2017 vector); fancy-rat open trade is enforcement blind spot, not a legal exemption. UNCERTAIN / DELIBERATELY OMITTED: A \"datakonservasi@gmail.com\" address surfaced for the KSDAE directorate, but a federal directorate using a personal-style Gmail inbox is not a reliable official channel to publish in a public kit, so I routed readers to the official portal + LAPOR! instead (which the agency itself endorses). The Barantin /hal/Pengaduan complaint subpage returned 404; the main domain is verified, so I cite the homepage. NO live bill or open public-comment window exists for P.94/2016 (Indonesia has no fixed rulemaking comment window here), so time_sensitive is intentionally empty — no invented urgency. This is a research aid, not legal advice; no individual civil-servant names are included.",
+      "confidence_notes": "VERIFIED (June 2026, live): (1) SP4N-LAPOR! at https://www.lapor.go.id/, confirmed as the official national citizen-complaint/aspiration portal (PANRB + Presidential Staff Office + Ombudsman; tagline \"Sampaikan laporan Anda langsung kepada instansi pemerintah berwenang\"; 3-day verify / 5-day agency response). (2) KSDAE official portal https://ksdae.kehutanan.go.id/, confirmed live (site dated 10 Jun 2026) and footer explicitly lists \"Pengaduan Online (SP4N-LAPOR)\" at lapor.go.id as its public complaint channel. (3) Badan Karantina Indonesia https://www.karantinaindonesia.go.id/, confirmed official/live (\"Website Resmi BARANTIN\"). GROUNDED FROM PRIOR RESEARCH (idn.json, Gemini DR 2026-06-08, high/medium confidence): R. rattus on Appendix I of Permen LHK P.94/2016 (entry 5); Art. 4(1) import ban; triple eradication overlay (KLHK invasive + Kementan GERDAL OPT crop pest + Permenkes 50/2017 vector); fancy-rat open trade is enforcement blind spot, not a legal exemption. UNCERTAIN / DELIBERATELY OMITTED: A \"datakonservasi@gmail.com\" address surfaced for the KSDAE directorate, but a federal directorate using a personal-style Gmail inbox is not a reliable official channel to publish in a public kit, so I routed readers to the official portal + LAPOR! instead (which the agency itself endorses). The Barantin /hal/Pengaduan complaint subpage returned 404; the main domain is verified, so I cite the homepage. NO live bill or open public-comment window exists for P.94/2016 (Indonesia has no fixed rulemaking comment window here), so time_sensitive is intentionally empty, no invented urgency. This is a research aid, not legal advice; no individual civil-servant names are included.",
       "local_lang": "id"
     }
   },
@@ -61,7 +61,7 @@
     "keep": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "R. rattus is absent from the protected-species list (Permen LHK P.106/2018), so Law No. 5/1990's poaching prohibitions do not apply — but escaping that list does NOT make it a recognized pet. It remains 'satwa liar' (wildlife) AND is codified as a priority invasive species (Permen LHK P.94/2016, Appendix I, entry 5) subject to state control/eradication, and a disease vector (Permenkes 50/2017). No penal clause specifically bans caging one tame specimen indoors (only the general KUHP Art. 302 animal-welfare duty applies), but there is no positive 'pet permit' to legitimize it, and officials retain authority to confiscate or euthanize on biosecurity grounds. A real, hostile legal vacuum — not 'legal.'",
+      "why": "R. rattus is absent from the protected-species list (Permen LHK P.106/2018), so Law No. 5/1990's poaching prohibitions do not apply, but escaping that list does NOT make it a recognized pet. It remains 'satwa liar' (wildlife) AND is codified as a priority invasive species (Permen LHK P.94/2016, Appendix I, entry 5) subject to state control/eradication, and a disease vector (Permenkes 50/2017). No penal clause specifically bans caging one tame specimen indoors (only the general KUHP Art. 302 animal-welfare duty applies), but there is no positive 'pet permit' to legitimize it, and officials retain authority to confiscate or euthanize on biosecurity grounds. A real, hostile legal vacuum, not 'legal.'",
       "governing_law": "Law No. 5/1990 (protected species only); Permen LHK P.106/2018 (R. rattus absent); Permen LHK P.94/2016 (invasive, Appendix I); Permenkes 50/2017 (disease vector); KUHP Art. 302 (welfare).",
       "source_ids": [
         "idn-p94",
@@ -75,8 +75,8 @@
     "breed": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "Permen LHK No. 18/2024 requires a business license (Perizinan Berusaha Penangkaran Jenis TSL) to breed ANY wildlife, protected or not — so commercial roof-rat breeding is covered on paper. But BKSDA cannot lawfully approve propagation of a species officially designated for eradication (P.94/2016), and Agriculture funds a national program (GERDAL OPT) to exterminate it — so the mandatory permit is effectively unobtainable. Small, intra-household hobby breeding is uncodified and de facto invisible to enforcement (hence 'unregulated_unclear'); any attempt to scale or formalize it is blocked by the impossibility of the permit.",
-      "governing_law": "Permen LHK No. 18/2024 (Penangkaran Jenis TSL license — all wildlife); Permen LHK P.94/2016 (invasive eradication mandate); MoA GERDAL OPT pest-control program.",
+      "why": "Permen LHK No. 18/2024 requires a business license (Perizinan Berusaha Penangkaran Jenis TSL) to breed ANY wildlife, protected or not, so commercial roof-rat breeding is covered on paper. But BKSDA cannot lawfully approve propagation of a species officially designated for eradication (P.94/2016), and Agriculture funds a national program (GERDAL OPT) to exterminate it, so the mandatory permit is effectively unobtainable. Small, intra-household hobby breeding is uncodified and de facto invisible to enforcement (hence 'unregulated_unclear'); any attempt to scale or formalize it is blocked by the impossibility of the permit.",
+      "governing_law": "Permen LHK No. 18/2024 (Penangkaran Jenis TSL license, all wildlife); Permen LHK P.94/2016 (invasive eradication mandate); MoA GERDAL OPT pest-control program.",
       "source_ids": [
         "idn-permen18-2024",
         "idn-p94",
@@ -102,7 +102,7 @@
     "transport": {
       "status": "restricted",
       "confidence": "high",
-      "why": "IMPORT is flatly PROHIBITED: Permen LHK P.94/2016 Art. 4(1) bans entry of listed invasive species ('Pemasukan jenis invasif dari luar negeri yang sudah tercantum... dilarang dan dikenakan tindakan penolakan'), and R. rattus is on Appendix I — Badan Karantina (Barantin) is mandated to reject, confiscate, or destroy a shipment at the border, regardless of captive-bred 'pet' status or origin health certificates. DOMESTIC inter-island movement legally requires BOTH an animal health certificate (SKKH) and a wildlife transport permit (SATS-DN from BKSDA, per Kepmenhut 447/Kpts-II/2003) — but the SATS-DN is effectively unobtainable because the applicant cannot prove legal origin from a licensed breeder (none exist for this invasive species). Never release a nonnative.",
+      "why": "IMPORT is flatly PROHIBITED: Permen LHK P.94/2016 Art. 4(1) bans entry of listed invasive species ('Pemasukan jenis invasif dari luar negeri yang sudah tercantum... dilarang dan dikenakan tindakan penolakan'), and R. rattus is on Appendix I, Badan Karantina (Barantin) is mandated to reject, confiscate, or destroy a shipment at the border, regardless of captive-bred 'pet' status or origin health certificates. DOMESTIC inter-island movement legally requires BOTH an animal health certificate (SKKH) and a wildlife transport permit (SATS-DN from BKSDA, per Kepmenhut 447/Kpts-II/2003), but the SATS-DN is effectively unobtainable because the applicant cannot prove legal origin from a licensed breeder (none exist for this invasive species). Never release a nonnative.",
       "governing_law": "Permen LHK P.94/2016 Art. 4(1) (import ban); Law No. 21/2019 (quarantine / SKKH); Kepmenhut 447/Kpts-II/2003 (SATS-DN domestic wildlife transport).",
       "source_ids": [
         "idn-p94",
@@ -121,9 +121,9 @@
       "activity": [
         "transport"
       ],
-      "summary": "Importing a roof rat into Indonesia is prohibited. R. rattus is on Appendix I of the invasive-species regulation (Permen LHK P.94/2016), and Art. 4(1) bans the entry of listed invasive species — Badan Karantina will reject, confiscate, or destroy the shipment at the border, even for a captive-bred pet with an origin health certificate.",
+      "summary": "Importing a roof rat into Indonesia is prohibited. R. rattus is on Appendix I of the invasive-species regulation (Permen LHK P.94/2016), and Art. 4(1) bans the entry of listed invasive species, Badan Karantina will reject, confiscate, or destroy the shipment at the border, even for a captive-bred pet with an origin health certificate.",
       "steps": [
-        "Do NOT attempt to import a roof rat — it will be rejected/confiscated at the port of entry.",
+        "Do NOT attempt to import a roof rat, it will be rejected/confiscated at the port of entry.",
         "The only narrow theoretical exception is a scientific/research permit under P.94/2016 Art. 7 (not a pet pathway)."
       ],
       "forms": [],
@@ -141,7 +141,7 @@
         "breed",
         "sell_give"
       ],
-      "summary": "Commercial breeding and sale of any wildlife (protected or not) require business licenses — Perizinan Berusaha Penangkaran Jenis TSL (breeding) and Peredaran Jenis TSL (circulation) under Permen LHK No. 18/2024. For the roof rat these are effectively unobtainable, because BKSDA will not license propagation or trade of a species the state is legally bound to eradicate. Inter-island transport additionally needs an SKKH (vet health certificate) plus a SATS-DN wildlife-transport permit that cannot realistically be issued for this species.",
+      "summary": "Commercial breeding and sale of any wildlife (protected or not) require business licenses, Perizinan Berusaha Penangkaran Jenis TSL (breeding) and Peredaran Jenis TSL (circulation) under Permen LHK No. 18/2024. For the roof rat these are effectively unobtainable, because BKSDA will not license propagation or trade of a species the state is legally bound to eradicate. Inter-island transport additionally needs an SKKH (vet health certificate) plus a SATS-DN wildlife-transport permit that cannot realistically be issued for this species.",
       "steps": [],
       "forms": [],
       "where_to_file": "Balai KSDA (BKSDA) regional office / KLHK KSDAE",
@@ -157,7 +157,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "The roof rat carries a triple eradication designation — invasive species (KLHK, Permen LHK P.94/2016), agricultural pest (Ministry of Agriculture, GERDAL OPT), and disease vector (Ministry of Health, Permenkes 50/2017). There is no 'pet permit' to legitimize ownership, and the state retains authority to confiscate or euthanize the animal on biosecurity grounds. Never release a roof rat into the wild.",
+      "summary": "The roof rat carries a triple eradication designation, invasive species (KLHK, Permen LHK P.94/2016), agricultural pest (Ministry of Agriculture, GERDAL OPT), and disease vector (Ministry of Health, Permenkes 50/2017). There is no 'pet permit' to legitimize ownership, and the state retains authority to confiscate or euthanize the animal on biosecurity grounds. Never release a roof rat into the wild.",
       "steps": [],
       "forms": [],
       "where_to_file": "KLHK / Kemenkes / local Dinas",
@@ -173,63 +173,63 @@
   "sources": [
     {
       "id": "idn-p94",
-      "title": "Permen LHK P.94/2016 — Invasive Species (Jenis Invasif): R. rattus on Appendix I (entry 5); Art. 4(1) import ban; Art. 3(5) eradication/control mandate; Art. 7 research exemption",
+      "title": "Permen LHK P.94/2016, Invasive Species (Jenis Invasif): R. rattus on Appendix I (entry 5); Art. 4(1) import ban; Art. 3(5) eradication/control mandate; Art. 7 research exemption",
       "url": "https://jdih.kehutanan.go.id/new2/uploads/files/P.94.pdf",
       "authority": "Ministry of Environment & Forestry (KLHK)",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-permen18-2024",
-      "title": "Permen LHK No. 18/2024 — Utilization of Plant & Wildlife Species (Pemanfaatan TSL): Art. 4 business licenses (Penangkaran / Peredaran) for all wildlife, protected or not",
+      "title": "Permen LHK No. 18/2024, Utilization of Plant & Wildlife Species (Pemanfaatan TSL): Art. 4 business licenses (Penangkaran / Peredaran) for all wildlife, protected or not",
       "url": "https://bksdasumsel.ksdae.kehutanan.go.id/layanan/tsl",
       "authority": "KLHK (Ditjen KSDAE)",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-law-5-1990",
-      "title": "Law No. 5/1990 — Conservation of Living Resources (Art. 21 prohibitions apply only to protected species)",
+      "title": "Law No. 5/1990, Conservation of Living Resources (Art. 21 prohibitions apply only to protected species)",
       "url": "https://faolex.fao.org/docs/pdf/ins3867.pdf",
       "authority": "Republic of Indonesia (via FAOLEX)",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-p106",
-      "title": "Permen LHK P.106/2018 — protected plant & animal species list (R. rattus absent → not protected)",
+      "title": "Permen LHK P.106/2018, protected plant & animal species list (R. rattus absent → not protected)",
       "url": "https://peraturan.go.id/id/permen-lhk-no-p-106-menlhk-setjen-kum-1-12-2018-tahun-2018",
       "authority": "KLHK / peraturan.go.id",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-law-21-2019",
-      "title": "Law No. 21/2019 — Animal, Fish & Plant Quarantine (SKKH / quarantine clearance for movement)",
+      "title": "Law No. 21/2019, Animal, Fish & Plant Quarantine (SKKH / quarantine clearance for movement)",
       "url": "https://peraturan.bpk.go.id/Details/122026/uu-no-21-tahun-2019",
       "authority": "Republic of Indonesia (BPK)",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-kepmenhut447",
-      "title": "Kepmenhut 447/Kpts-II/2003 — administration of capture & circulation of wild flora/fauna (SATS-DN domestic transport permit)",
+      "title": "Kepmenhut 447/Kpts-II/2003, administration of capture & circulation of wild flora/fauna (SATS-DN domestic transport permit)",
       "url": "https://animalsdontspeakhuman.org/undang-undang/keputusan-menteri-kehutanan-nomor-447-kpts-ii-2003-tentang-tata-usaha-pengambilan-atau-penangkapan-dan-peredaran-tumbuhan-dan-satwa-liar/",
       "authority": "Ministry of Forestry (now KLHK)",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-permenkes50",
-      "title": "Permenkes No. 50/2017 — environmental-health standards for vectors & disease-carrying animals (rats as leptospirosis/typhus vectors; mandated control)",
+      "title": "Permenkes No. 50/2017, environmental-health standards for vectors & disease-carrying animals (rats as leptospirosis/typhus vectors; mandated control)",
       "url": "https://diskes.badungkab.go.id/storage/diskes/file/Surat%20Edaran_Pengendalian%20Tikus.pdf",
       "authority": "Ministry of Health (Kemenkes)",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-gerdal",
-      "title": "GERDAL OPT — national rat-pest eradication program (rodenticides + barn-owl biocontrol); R. rattus classified as a plant-pest organism (OPT)",
+      "title": "GERDAL OPT, national rat-pest eradication program (rodenticides + barn-owl biocontrol); R. rattus classified as a plant-pest organism (OPT)",
       "url": "https://pertanian.jatimprov.go.id/gerakan-pengendalian-organisme-pengganggu-tumbuhan-gerdal-opt-untuk-mengatasi-serangan-hama-tikus-pada-tanaman-padi/",
       "authority": "Ministry of Agriculture (Kementan)",
       "accessed": "2026-06-08"
     },
     {
       "id": "idn-lapaksatwa",
-      "title": "Lapak Satwa — open listing of pet white rats (R. norvegicus): the de-facto-tolerance contrast (market practice, not a legal exemption)",
+      "title": "Lapak Satwa, open listing of pet white rats (R. norvegicus): the de-facto-tolerance contrast (market practice, not a legal exemption)",
       "url": "https://lapaksatwa.co.id/details/25320",
       "authority": "lapaksatwa.co.id (recognized pet-trade platform; secondary)",
       "accessed": "2026-06-08"
@@ -237,7 +237,7 @@
   ],
   "contacts": [
     {
-      "agency": "KLHK — Ditjen KSDAE, Direktorat Konservasi Keanekaragaman Hayati Spesies dan Genetik (KKHSG)",
+      "agency": "KLHK, Ditjen KSDAE, Direktorat Konservasi Keanekaragaman Hayati Spesies dan Genetik (KKHSG)",
       "role": "wildlife",
       "email": "",
       "form_url": "https://ksdae.menlhk.go.id/",
@@ -246,7 +246,7 @@
       "inquiry_language": "id"
     },
     {
-      "agency": "Badan Karantina Indonesia (Barantin) — Pusat Karantina Hewan dan Keamanan Hayati Hewani",
+      "agency": "Badan Karantina Indonesia (Barantin), Pusat Karantina Hewan dan Keamanan Hayati Hewani",
       "role": "agriculture",
       "email": "",
       "form_url": "https://karantinaindonesia.go.id/",
@@ -255,7 +255,7 @@
       "inquiry_language": "id"
     },
     {
-      "agency": "Kemenkes — Ditjen Pencegahan dan Pengendalian Penyakit (P2P)",
+      "agency": "Kemenkes, Ditjen Pencegahan dan Pengendalian Penyakit (P2P)",
       "role": "health",
       "email": "",
       "form_url": "https://p2p.kemkes.go.id/",

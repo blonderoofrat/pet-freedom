@@ -1,0 +1,123 @@
+{
+  "jurisdiction": {
+    "id": "us-co-denver",
+    "level": "municipality",
+    "name": "Denver",
+    "parent": "us-co",
+    "country": "US",
+    "iso": "US-CO",
+    "language": "en",
+    "slug": "denver",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "black rat",
+      "ship rat",
+      "wild or hazardous animal",
+      "pet animal"
+    ]
+  },
+  "summary": "Denver is stricter than Colorado. Colorado state law treats domesticated rats of the whole genus Rattus as ordinary pets, but the Denver Revised Municipal Code bans keeping any 'wild or hazardous animal,' which it defines as all species of nonhuman mammals except an enumerated list (D.R.M.C. 8-72). The only rat on that permitted list is the 'Domestic laboratory rat (Rattus rattus albino strain)' (8-72(b)(7)(j)). Read literally, that allows only an albino-strain rat, so a normally colored or blonde pet roof rat is a prohibited wild animal in Denver, even though it is legal everywhere else in Colorado. The clause also appears to contain a drafting error: the standard albino lab and pet rat is Rattus norvegicus, not Rattus rattus, and there is no recognized albino strain of Rattus rattus, so as written it permits a strain that does not exist while omitting the common pet rat species entirely. We have asked Denver Animal Protection to clarify or correct this; until they answer, treat a colored pet rat as restricted in Denver and confirm with the City.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": true
+  },
+  "activities": {
+    "keep": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "D.R.M.C. 8-72(a) makes it unlawful to own, possess, keep, maintain, feed, harbor, transport, or sell any living 'wild or hazardous animal' in the city. Section 8-72(b)(7) defines that term to include 'all species of nonhuman mammals' except an enumerated white-list. The only rat on the list is '(j) Domestic laboratory rat (Rattus rattus albino strain).' On its face, a normally colored (agouti, black, or blonde) domesticated roof rat is not the 'albino strain' and is therefore a prohibited wild animal in Denver. This is stricter than Colorado, whose Parks & Wildlife Domestic Animal List (2 CCR 406-11 Section 1103(A)) exempts 'Domesticated races of rats (Rattus norvegicus and Rattus)' from wildlife licensing. The clause appears to contain a scientific drafting error (the albino lab/pet rat is Rattus norvegicus, and no albino Rattus rattus strain exists), so whether Denver enforces it literally against a colored pet rat is an open question we have put to Denver Animal Protection.",
+      "governing_law": "Denver Revised Municipal Code Section 8-72 (Keeping wild or hazardous animals prohibited), esp. 8-72(b)(7)(j); cf. Colorado 2 CCR 406-11 Section 1103(A) (state domestic-rat exemption).",
+      "source_ids": [
+        "denver-8-72",
+        "co-domestic-list"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": true,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "medium",
+      "why": "Denver has no separate rodent-breeding rule, so breeding follows from the keeping ban: because D.R.M.C. 8-72 makes it unlawful to keep or maintain a 'wild or hazardous animal,' and a non-albino roof rat is not on the permitted white-list, you cannot lawfully keep the breeding stock inside the city in the first place. (If Denver Animal Protection reads 8-72(b)(7)(j) to allow domesticated pet rats generally, then ordinary hobby breeding would follow Colorado's permissive state rule.)",
+      "governing_law": "Denver Revised Municipal Code Section 8-72 (keeping/maintaining a wild or hazardous animal prohibited).",
+      "source_ids": [
+        "denver-8-72"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": true,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "The same prohibition in D.R.M.C. 8-72(a) expressly covers selling within the city ('own, possess, keep, maintain, feed, harbor, transport or sell'). A roof rat that is not the permitted 'albino strain' is a 'wild or hazardous animal,' so selling or otherwise transferring one inside Denver is barred by the same clause that bars keeping it. (Colorado state allows hobby transfer of domesticated rats; this is a Denver-specific bar.)",
+      "governing_law": "Denver Revised Municipal Code Section 8-72(a) (sale of a wild or hazardous animal prohibited).",
+      "source_ids": [
+        "denver-8-72"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": true,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "D.R.M.C. 8-72(a) expressly lists 'transport' among the prohibited acts for a 'wild or hazardous animal.' So moving a non-albino roof rat within Denver is barred by the same clause. (Colorado's state-level import rule, a Certificate of Veterinary Inspection for a pet rat entering the state, still applies to the rest of Colorado; see Colorado.)",
+      "governing_law": "Denver Revised Municipal Code Section 8-72(a) (transport of a wild or hazardous animal prohibited).",
+      "source_ids": [
+        "denver-8-72"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": true,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "other",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "sell_give"
+      ],
+      "summary": "Denver bans keeping or selling any 'wild or hazardous animal,' defined as all nonhuman mammals except a fixed list; the only permitted rat is the 'albino strain,' so a colored pet roof rat is not clearly allowed. Confirm your specific animal's status with Denver Animal Protection before keeping one in the city.",
+      "steps": [
+        "Read D.R.M.C. 8-72(b)(7) and check whether your animal fits a listed exception",
+        "Contact Denver Animal Protection (DDPHE) for a written determination on a domesticated, non-albino pet rat"
+      ],
+      "forms": [],
+      "where_to_file": "Denver Animal Protection (Denver Department of Public Health & Environment)",
+      "fees": "",
+      "source_ids": [
+        "denver-8-72"
+      ]
+    }
+  ],
+  "inquiry_focus": "Whether Denver reads D.R.M.C. 8-72(b)(7)(j) ('Domestic laboratory rat (Rattus rattus albino strain)') to permit domesticated pet rats generally, including Rattus norvegicus and captive-bred, non-albino Rattus rattus, or literally so that only an albino-strain rat is allowed; and the process to correct the apparent species/strain drafting error.",
+  "sources": [
+    {
+      "id": "denver-8-72",
+      "title": "Denver Revised Municipal Code Section 8-72, Keeping wild or hazardous animals prohibited (8-72(b)(7)(j) permits 'Domestic laboratory rat (Rattus rattus albino strain)')",
+      "url": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH8AN",
+      "authority": "City and County of Denver",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "co-domestic-list",
+      "title": "Colorado Parks & Wildlife Domestic Animal List, 2 CCR 406-11 Section 1103(A) ('Domesticated races of rats (Rattus norvegicus and Rattus)')",
+      "url": "https://cpw.state.co.us/Documents/RulesRegs/Regulations/Ch11.pdf",
+      "authority": "Colorado Parks & Wildlife",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": [
+    {
+      "agency": "Denver Animal Protection (Denver Department of Public Health & Environment)",
+      "role": "health",
+      "email": "",
+      "form_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Public-Health-Environment/Community-Behavioral-Health/Denver-Animal-Protection",
+      "phone": "720-913-1311"
+    }
+  ]
+}

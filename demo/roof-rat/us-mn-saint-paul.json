@@ -1,0 +1,85 @@
+{
+  "jurisdiction": {
+    "id": "us-mn-saint-paul",
+    "level": "municipality",
+    "name": "Saint Paul",
+    "parent": "us-mn",
+    "country": "US",
+    "iso": "US-MN",
+    "language": "en",
+    "slug": "saint-paul",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "exotic animal"
+    ]
+  },
+  "summary": "Good news if you live in Saint Paul: we checked, and Saint Paul is no stricter than Minnesota. The city's animal rules prohibit rats, mice, or guinea pigs only when they are NOT kept as pets; kept as pets, they are expressly allowed. (Saint Paul Legislative Code ch. 198; the prohibited list is wild and dangerous species like roosters, wolf hybrids, and large cats.) A pet roof rat is allowed, the same as Minnesota.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Saint Paul Legislative Code ch. 198 prohibits rats, mice, or guinea pigs only when they are not kept as pets, which means rats, mice, and guinea pigs are allowed when kept as pets. The prohibited-animal list is wild and dangerous species (roosters, wolf hybrids, large cats, etc.), not pet rodents. Not stricter than Minnesota.",
+      "governing_law": "Saint Paul Legislative Code ch. 198 (Keeping of Animals; rats/mice/guinea pigs allowed if kept as pets).",
+      "source_ids": [
+        "stp-198"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction; the state's permissive rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "stp-198"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "stp-198"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "stp-198"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "stp-198",
+      "title": "Saint Paul, Prohibited Animals / Keeping of Animals (Legislative Code ch. 198): rats, mice, guinea pigs allowed if kept as pets",
+      "url": "https://www.stpaul.gov/departments/safety-inspections/animal-control-information/keeping-animals-permit/prohibited-animals",
+      "authority": "City of Saint Paul, Minnesota",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

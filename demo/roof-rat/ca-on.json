@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Ontario does not regulate roof rats at the provincial level — they are legal by default. Rattus rattus is not listed as prohibited or restricted under the Invasive Species Act, and as a non-native species it falls outside the Fish and Wildlife Conservation Act (which covers native 'game' and 'specially protected' wildlife). So keeping, breeding, selling, and transporting roof rats is unregulated by the province. The real rules are MUNICIPAL: city bylaws on exotic/pet animals, breeder/pet-shop licensing, animal limits, and the Provincial Animal Welfare Services Act (PAWS) care standards.",
+  "summary": "Ontario does not regulate roof rats at the provincial level, they are legal by default. Rattus rattus is not listed as prohibited or restricted under the Invasive Species Act, and as a non-native species it falls outside the Fish and Wildlife Conservation Act (which covers native 'game' and 'specially protected' wildlife). So keeping, breeding, selling, and transporting roof rats is unregulated by the province. The real rules are MUNICIPAL: city bylaws on exotic/pet animals, breeder/pet-shop licensing, animal limits, and the Provincial Animal Welfare Services Act (PAWS) care standards.",
   "last_reviewed": "2026-06-06",
   "advocacy": {
     "flag": false
@@ -24,7 +24,7 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "Rattus rattus is not listed under the Invasive Species Act (unlike wild pigs or nutria) and is not native 'game' or 'specially protected' wildlife under the Fish and Wildlife Conservation Act, 1997 — so it is outside the Ministry of Natural Resources' regulatory scope. No provincial permit is needed to keep one. Your municipality may regulate exotic pets or cap animal numbers.",
+      "why": "Rattus rattus is not listed under the Invasive Species Act (unlike wild pigs or nutria) and is not native 'game' or 'specially protected' wildlife under the Fish and Wildlife Conservation Act, 1997, so it is outside the Ministry of Natural Resources' regulatory scope. No provincial permit is needed to keep one. Your municipality may regulate exotic pets or cap animal numbers.",
       "governing_law": "Invasive Species Act (R. rattus not listed); Fish and Wildlife Conservation Act, 1997 (covers native wildlife); municipal bylaws.",
       "source_ids": [
         "on-fwca",
@@ -99,7 +99,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat outdoors — it is a non-native species and release is both ecologically harmful and an animal-welfare concern. Rehome responsibly.",
+      "summary": "Never release a roof rat outdoors, it is a non-native species and release is both ecologically harmful and an animal-welfare concern. Rehome responsibly.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -119,7 +119,7 @@
     },
     {
       "id": "on-reg666",
-      "title": "O. Reg. 666/98 — Possession, Buying and Selling of Wildlife (native wildlife)",
+      "title": "O. Reg. 666/98, Possession, Buying and Selling of Wildlife (native wildlife)",
       "url": "https://www.ontario.ca/laws/regulation/980666",
       "authority": "Government of Ontario",
       "accessed": "2026-06-06"

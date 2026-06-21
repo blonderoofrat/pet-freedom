@@ -20,7 +20,7 @@
       "Wildtier"
     ]
   },
-  "summary": "Austria allows the roof rat, but with a mandatory notification step that fancy-rat keepers avoid. The Animal Welfare Act (Tierschutzgesetz 2004) and the 2nd Animal Husbandry Ordinance (2. THVO) publish minimum husbandry standards for rats (Rattus) generically, so rats are clearly keepable, and R. rattus is on no prohibition list (not §9 of the 2. THVO, not the EU Union list). BUT §8 of the 2. THVO requires a prior NOTIFICATION (Meldung) to the district veterinary authority (Bezirksverwaltungsbehörde) for ALL wild mammal species, with only three exceptions (hoofed game, bison, chipmunks). The domesticated fancy rat (R. norvegicus) is named in the §31b small-rodent hobby carve-out; the undomesticated R. rattus is not — so it most likely counts as a 'wild mammal' triggering that notification. The result: keeping/breeding/selling is legal but notification-obligated, not permit-free. A written ruling from the BMSGPK or local Bezirksverwaltungsbehörde would confirm.",
+  "summary": "Austria allows the roof rat, but with a mandatory notification step that fancy-rat keepers avoid. The Animal Welfare Act (Tierschutzgesetz 2004) and the 2nd Animal Husbandry Ordinance (2. THVO) publish minimum husbandry standards for rats (Rattus) generically, so rats are clearly keepable, and R. rattus is on no prohibition list (not §9 of the 2. THVO, not the EU Union list). BUT §8 of the 2. THVO requires a prior NOTIFICATION (Meldung) to the district veterinary authority (Bezirksverwaltungsbehörde) for ALL wild mammal species, with only three exceptions (hoofed game, bison, chipmunks). The domesticated fancy rat (R. norvegicus) is named in the §31b small-rodent hobby carve-out; the undomesticated R. rattus is not, so it most likely counts as a 'wild mammal' triggering that notification. The result: keeping/breeding/selling is legal but notification-obligated, not permit-free. A written ruling from the BMSGPK or local Bezirksverwaltungsbehörde would confirm.",
   "last_reviewed": "2026-06-11",
   "advocacy": {
     "flag": false
@@ -29,7 +29,7 @@
     "keep": {
       "status": "legal_with_permit",
       "confidence": "high",
-      "why": "Keeping rats is permitted (minimum husbandry standards in Anlage 1 of the 2. THVO; no §9 prohibition; R. rattus not on the EU Union list). But §8 of the 2. THVO requires a notification (Meldung/Anzeige, generally within 2 weeks) to the Bezirksverwaltungsbehörde for all wild mammal species — and R. rattus, unlike the domesticated R. norvegicus (named in the §31b carve-out), is an undomesticated species not among §8's three exceptions. Whether this 'notification' is mere registration or rises toward a permit varies by district. Legal, but notification-obligated.",
+      "why": "Keeping rats is permitted (minimum husbandry standards in Anlage 1 of the 2. THVO; no §9 prohibition; R. rattus not on the EU Union list). But §8 of the 2. THVO requires a notification (Meldung/Anzeige, generally within 2 weeks) to the Bezirksverwaltungsbehörde for all wild mammal species, and R. rattus, unlike the domesticated R. norvegicus (named in the §31b carve-out), is an undomesticated species not among §8's three exceptions. Whether this 'notification' is mere registration or rises toward a permit varies by district. Legal, but notification-obligated.",
       "governing_law": "2. THVO (BGBl. II 486/2004) §8 (wild-mammal Meldepflicht), Anlage 1; TSchG (BGBl. I 118/2004) §§13, 25.",
       "source_ids": [
         "at-2thvo",
@@ -90,7 +90,7 @@
         "keep",
         "breed"
       ],
-      "summary": "Because R. rattus is likely a 'wild mammal' under §8 of the 2. THVO, file a NOTIFICATION (Meldung) with your district authority (Bezirksverwaltungsbehörde / Veterinäramt) — generally within 2 weeks of starting to keep it. It's a low-friction step, not a full permit, but skipping it is a breach. Confirm the requirement (and whether R. rattus gets the R. norvegicus hobby carve-out) with a written ruling first. Never release.",
+      "summary": "Because R. rattus is likely a 'wild mammal' under §8 of the 2. THVO, file a NOTIFICATION (Meldung) with your district authority (Bezirksverwaltungsbehörde / Veterinäramt), generally within 2 weeks of starting to keep it. It's a low-friction step, not a full permit, but skipping it is a breach. Confirm the requirement (and whether R. rattus gets the R. norvegicus hobby carve-out) with a written ruling first. Never release.",
       "steps": [
         "File a §8 2. THVO Meldung with the Bezirksverwaltungsbehörde (and request a written species ruling)"
       ],
@@ -121,74 +121,74 @@
       ]
     }
   ],
-  "inquiry_focus": "(1) Does captive-bred Rattus rattus (Hausratte/Schwarzratte) kept as a privately-bred pet qualify as a 'wildes Säugetier' under §8 of the 2. Tierhaltungsverordnung, triggering the Meldepflicht to the Bezirksveterinäramt — or is it treated as a common pet rodent equivalent to R. norvegicus and exempt? (2) Is R. rattus covered by the §31b Abs. 4 TSchG small-rodent hobby-breeding carve-out (which names 'Ratten' without a species qualifier), or does its wild-species status impose the §31b Abs. 1 framework regardless of scale? (3) For intra-Austrian transfer of captive-bred R. rattus between private keepers, does the §8 notification obligation transfer to the new keeper, and is any animal-health certificate required?",
+  "inquiry_focus": "(1) Does captive-bred Rattus rattus (Hausratte/Schwarzratte) kept as a privately-bred pet qualify as a 'wildes Säugetier' under §8 of the 2. Tierhaltungsverordnung, triggering the Meldepflicht to the Bezirksveterinäramt, or is it treated as a common pet rodent equivalent to R. norvegicus and exempt? (2) Is R. rattus covered by the §31b Abs. 4 TSchG small-rodent hobby-breeding carve-out (which names 'Ratten' without a species qualifier), or does its wild-species status impose the §31b Abs. 1 framework regardless of scale? (3) For intra-Austrian transfer of captive-bred R. rattus between private keepers, does the §8 notification obligation transfer to the new keeper, and is any animal-health certificate required?",
   "sources": [
     {
       "id": "at-tschg",
-      "title": "Tierschutzgesetz (TSchG, BGBl. I 118/2004 idgF) — §§13, 25, 31, 31a, 31b (keeping, transfer, breeding)",
+      "title": "Tierschutzgesetz (TSchG, BGBl. I 118/2004 idgF), §§13, 25, 31, 31a, 31b (keeping, transfer, breeding)",
       "url": "https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003541",
-      "authority": "RIS — Austrian Federal Law",
+      "authority": "RIS, Austrian Federal Law",
       "accessed": "2026-06-07"
     },
     {
       "id": "at-2thvo",
-      "title": "2. Tierhaltungsverordnung (BGBl. II 486/2004 idgF) — §8 wild-mammal notification; §9 prohibitions; Anlage 1 (rat husbandry)",
+      "title": "2. Tierhaltungsverordnung (BGBl. II 486/2004 idgF), §8 wild-mammal notification; §9 prohibitions; Anlage 1 (rat husbandry)",
       "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003860",
-      "authority": "RIS — Austrian Federal Law",
+      "authority": "RIS, Austrian Federal Law",
       "accessed": "2026-06-07"
     },
     {
       "id": "at-ausnahme-meldepflicht",
-      "title": "Ausnahmen von der Meldepflicht für die Haltung von Tieren zum Zweck der Zucht und des Verkaufs (BGBl. II) — hobby thresholds incl. small rodents",
+      "title": "Ausnahmen von der Meldepflicht für die Haltung von Tieren zum Zweck der Zucht und des Verkaufs (BGBl. II), hobby thresholds incl. small rodents",
       "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009499",
-      "authority": "RIS — Austrian Federal Law",
+      "authority": "RIS, Austrian Federal Law",
       "accessed": "2026-06-07"
     },
     {
       "id": "at-oesterreich-ratten",
-      "title": "oesterreich.gv.at — Mindestanforderungen für die Haltung von Ratten (husbandry rules apply to Rattus)",
+      "title": "oesterreich.gv.at, Mindestanforderungen für die Haltung von Ratten (husbandry rules apply to Rattus)",
       "url": "https://www.oesterreich.gv.at/de/themen/reisen_und_freizeit/haustiere/3/Seite.742337",
       "authority": "Austrian Government (oesterreich.gv.at)",
       "accessed": "2026-06-07"
     },
     {
       "id": "at-eu-429",
-      "title": "Regulation (EU) 2016/429 — Animal Health Law (intra-EU rodent movement; certificate-exempt when owner-accompanied)",
+      "title": "Regulation (EU) 2016/429, Animal Health Law (intra-EU rodent movement; certificate-exempt when owner-accompanied)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32016R0429",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-07"
     },
     {
       "id": "at-bavg",
-      "title": "BAVG — Import/travel with live animals (Austrian border/import authority)",
+      "title": "BAVG, Import/travel with live animals (Austrian border/import authority)",
       "url": "https://www.bavg.gv.at/en/import/living-animals/travel",
       "authority": "Bundesamt für Verbrauchergesundheit (BAVG)",
       "accessed": "2026-06-07"
     },
     {
       "id": "at-eu-1143",
-      "title": "Regulation (EU) 1143/2014 on invasive alien species — Union list (R. rattus not listed)",
+      "title": "Regulation (EU) 1143/2014 on invasive alien species, Union list (R. rattus not listed)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R1143",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-07"
     },
     {
       "id": "at-wien-ma60",
-      "title": "wien.gv.at MA 60 — Wildtier keeping/breeding notification (Meldung)",
+      "title": "wien.gv.at MA 60, Wildtier keeping/breeding notification (Meldung)",
       "url": "https://www.wien.gv.at/amtswege/meldung-haltung-zucht-wildtiere-exoten",
       "authority": "City of Vienna",
       "accessed": "2026-06-11"
     },
     {
       "id": "at-wien-zucht",
-      "title": "wien.gv.at — Haltung von Tieren für Zucht und Verkauf (§31a advertising rules)",
+      "title": "wien.gv.at, Haltung von Tieren für Zucht und Verkauf (§31a advertising rules)",
       "url": "https://www.wien.gv.at/zusammenleben/haltung-tiere-zucht-verkauf",
       "authority": "City of Vienna",
       "accessed": "2026-06-11"
     },
     {
       "id": "at-eu-576",
-      "title": "EU Reg. 576/2013 — non-commercial movement of pet animals",
+      "title": "EU Reg. 576/2013, non-commercial movement of pet animals",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32013R0576",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-11"
@@ -196,7 +196,7 @@
   ],
   "contacts": [
     {
-      "agency": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK) — Tierschutz",
+      "agency": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK), Tierschutz",
       "role": "agriculture",
       "email": "veterinaerrecht@gesundheitsministerium.gv.at",
       "form_url": "https://www.verbrauchergesundheit.gv.at/tiere/faq/faqtier.html",

@@ -1,0 +1,97 @@
+{
+  "jurisdiction": {
+    "id": "us-tx-dallas",
+    "level": "municipality",
+    "name": "Dallas",
+    "parent": "us-tx",
+    "country": "US",
+    "iso": "US-TX",
+    "language": "en",
+    "slug": "dallas",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "wild animal",
+      "prohibited animal"
+    ]
+  },
+  "summary": "Good news if you live in Dallas: we checked the full city code, and Dallas is no stricter than Texas. Dallas bans only a specific list of dangerous and exotic animals (Sec. 7-6.1: dangerous wild animals per Texas Health & Safety Code 822.101 plus margay, badger, wolf, dingo, elephant, primates, crocodilians, venomous reptiles, etc.). Rats are not on that list, and Dallas sets no pet limit on rodents. A pet roof rat is allowed, the same as Texas. The only 'rat' mention in the code is about pest-control traps, not pet keeping.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Dallas City Code ch. 7. The prohibited-animals list (Sec. 7-6.1) is dangerous/exotic species only and does not include rats; rodents are kept as pets with no numeric limit. The sole code reference to 'rats' concerns traps for pest control. Not stricter than Texas.",
+      "governing_law": "Dallas City Code ch. 7, Sec. 7-6.1 (Prohibited animals; rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "dallas-7-6-1",
+        "dallas-ch7-full"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction or pet-rat cap; Texas imposes no state restriction.",
+      "governing_law": "Dallas City Code ch. 7, Sec. 7-6.1 (Prohibited animals; rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "dallas-7-6-1",
+        "dallas-ch7-full"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; Texas state rules apply.",
+      "governing_law": "Dallas City Code ch. 7, Sec. 7-6.1 (Prohibited animals; rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "dallas-7-6-1",
+        "dallas-ch7-full"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; Texas state rules apply.",
+      "governing_law": "Dallas City Code ch. 7, Sec. 7-6.1 (Prohibited animals; rats not listed); no Texas state restriction.",
+      "source_ids": [
+        "dallas-7-6-1",
+        "dallas-ch7-full"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "dallas-7-6-1",
+      "title": "Dallas City Code ch. 7, Sec. 7-6.1 (Prohibited animals; dangerous/exotic species, rats not listed)",
+      "url": "https://codelibrary.amlegal.com/codes/dallas/latest/dallas_tx/0-0-0-102021",
+      "authority": "City of Dallas, Texas",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "dallas-ch7-full",
+      "title": "Dallas City Code ch. 7 (Animals), full text (Animal Legal & Historical Center mirror)",
+      "url": "https://www.animallaw.info/local/tx-dallas-dallas-city-code-volume-i-chapter-7-animals",
+      "authority": "Michigan State University College of Law (mirror of Dallas City Code)",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

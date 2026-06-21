@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "California restricts ALL rodents as 'detrimental' wild animals (14 CCR §671), and CDFW never issues possession permits for pets — so a normal wild-type roof rat is effectively illegal to keep. BUT the rule exempts 'domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)', and that exemption is written by phenotype/origin, not by species — it doesn't name Rattus norvegicus. So a white/albino, trained, or documented laboratory-reared Rattus rattus may qualify, while a wild-type one does not. Whether a domesticated roof-rat line qualifies is the open question we've put to CDFW.",
+  "summary": "California restricts ALL rodents as 'detrimental' wild animals (14 CCR §671), and CDFW never issues possession permits for pets, so a normal wild-type roof rat is effectively illegal to keep. BUT the rule exempts 'domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)', and that exemption is written by phenotype/origin, not by species, it doesn't name Rattus norvegicus. So a white/albino, trained, or documented laboratory-reared Rattus rattus may qualify, while a wild-type one does not. Whether a domesticated roof-rat line qualifies is the open question we've put to CDFW.",
   "last_reviewed": "2026-06-06",
   "advocacy": {
     "flag": true,
@@ -27,30 +27,30 @@
       "time_sensitive": "",
       "targets": [
         {
-          "name": "California Department of Fish and Wildlife — License & Revenue Branch / Special Permits Unit (Restricted Species)",
+          "name": "California Department of Fish and Wildlife, License & Revenue Branch / Special Permits Unit (Restricted Species)",
           "type": "agency",
           "why": "The Department that interprets and administers 14 CCR §671 and issues (and declines) restricted-species permits. This is the correct first stop for a written clarification on whether the species-blind 'domesticated races of rats or mice' exemption already reaches a captive-bred, tame roof rat. Verified official contact page; verified branch email LRB@wildlife.ca.gov and lines (916) 928-5805 / (916) 928-5846.",
           "form_url": "https://wildlife.ca.gov/Licensing/Restricted-Species",
           "email": "LRB@wildlife.ca.gov"
         },
         {
-          "name": "California Fish and Game Commission — Petition for Regulation Change (FGC 1) / Submit Comments",
+          "name": "California Fish and Game Commission, Petition for Regulation Change (FGC 1) / Submit Comments",
           "type": "public_comment",
-          "why": "The rulemaking body that actually owns 14 CCR §671 and is the ONLY entity that can amend the restricted-species list or its exemptions. If CDFW reads the rule as excluding domesticated roof rats, this is where a formal FGC 1 petition (and public comment) to add domesticated Rattus rattus to the exemption must go — the same channel used for the domestic-ferret effort. Verified official petition page and inbox fgc@fgc.ca.gov.",
+          "why": "The rulemaking body that actually owns 14 CCR §671 and is the ONLY entity that can amend the restricted-species list or its exemptions. If CDFW reads the rule as excluding domesticated roof rats, this is where a formal FGC 1 petition (and public comment) to add domesticated Rattus rattus to the exemption must go, the same channel used for the domestic-ferret effort. Verified official petition page and inbox fgc@fgc.ca.gov.",
           "form_url": "https://fgc.ca.gov/Regulations/Petition-for-Regulation-Change",
           "email": "fgc@fgc.ca.gov"
         },
         {
-          "name": "California State Legislature — Find Your Representatives",
+          "name": "California State Legislature, Find Your Representatives",
           "type": "legislature",
-          "why": "Backstop lever. The blanket classification of all Rodentia as restricted traces to Fish & Game Code §2118 (statute). If the Commission concludes the statute prevents it from exempting the species by regulation, only the Legislature can change the underlying law — so contacting your own Assembly Member and Senator becomes the route. Official legislative find-your-rep tool.",
+          "why": "Backstop lever. The blanket classification of all Rodentia as restricted traces to Fish & Game Code §2118 (statute). If the Commission concludes the statute prevents it from exempting the species by regulation, only the Legislature can change the underlying law, so contacting your own Assembly Member and Senator becomes the route. Official legislative find-your-rep tool.",
           "form_url": "https://findyourrep.legislature.ca.gov/"
         }
       ],
       "template": {
         "en": "To the California Department of Fish and Wildlife, License & Revenue Branch / Special Permits Unit:\n\nI am writing to request a written clarification about the restricted-species exemption in 14 CCR §671(c)(2)(J)(1)(c). The rule restricts all rodents but exempts \"domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared).\" That exemption is written by phenotype and origin. It says \"rats or mice\" and names no species.\n\nMy question is whether this exemption applies to a captive-bred, domesticated and tame line of roof rat (Rattus rattus) that is white/albino, trained, or laboratory-reared, the same way it applies to the common pet rat (Rattus norvegicus). Domestication is a matter of an animal's breeding history and temperament, not its species. The dog descends from the wolf and the house cat from a wild felid, yet both are recognized as domestic animals because of generations bred for tameness, not their wild ancestry. The permitted fancy rat is itself the wild brown rat (Rattus norvegicus), domesticated in the 19th century, and a captive-bred roof rat is domesticated in that same sense. These animals are captive-bred, hand-tame, kept strictly indoors as pets, and never released into the wild.\n\nIf the Department reads §671 as not reaching a domesticated R. rattus, please say so plainly, and please explain how the Department defines \"trained\" and \"laboratory-reared\" for this exemption. If a regulatory change is required, I intend to petition the Fish and Game Commission.\n\nThank you for your time and for a written reply.\n\nSincerely,\n[Your name]\n[Your city, California]\n[Your email]"
       },
-      "confidence_notes": "VERIFIED (June 2026): (1) 14 CCR §671 classifies all Order Rodentia as restricted (\"detrimental\") and the exemption text reads \"Domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)\" with NO species named — confirmed by fetching the regulation; this is the load-bearing fact for the phenotype-not-species argument. (2) CDFW License & Revenue Branch is the correct administering office: official Restricted Species page https://wildlife.ca.gov/Licensing/Restricted-Species, branch email LRB@wildlife.ca.gov, phones (916) 928-5805 and (916) 928-5846, P.O. Box 944209, Sacramento, CA 94244-2090. (The internal file also lists a Special Permits Unit address SPU@wildlife.ca.gov; the live page surfaced LRB@wildlife.ca.gov as the branch inbox, so I list that as the verified email and the page as the primary touchpoint.) (3) The California Fish and Game Commission owns and amends §671 via the FGC 1 petition process and a public-comment process — verified at https://fgc.ca.gov/Regulations/Petition-for-Regulation-Change, inbox fgc@fgc.ca.gov, with a separate Submit Comments page; precedent confirmed by an existing FGC 1 petition to amend §671 to remove the domestic ferret. (4) Legislature find-your-rep tool https://findyourrep.legislature.ca.gov/ is the official lookup (the live fetch failed on a TLS certificate error, but the domain is confirmed official via the legislature's own search listing; treat as official but re-confirm the URL loads). UNCERTAIN / NOT VERIFIED: no live bill, pending list, or open public-comment window specific to roof rats was found, so time_sensitive is empty — do not imply urgency. Whether CDFW will read the exemption to reach R. rattus is genuinely open (that is the whole inquiry); the branch_note states both outcomes honestly. Legal language is English, so the letter is provided in en only. This is a research aid, not legal advice; OPSEC-clean (no individual civil-servant names — Commission/branch channels only).",
+      "confidence_notes": "VERIFIED (June 2026): (1) 14 CCR §671 classifies all Order Rodentia as restricted (\"detrimental\") and the exemption text reads \"Domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)\" with NO species named, confirmed by fetching the regulation; this is the load-bearing fact for the phenotype-not-species argument. (2) CDFW License & Revenue Branch is the correct administering office: official Restricted Species page https://wildlife.ca.gov/Licensing/Restricted-Species, branch email LRB@wildlife.ca.gov, phones (916) 928-5805 and (916) 928-5846, P.O. Box 944209, Sacramento, CA 94244-2090. (The internal file also lists a Special Permits Unit address SPU@wildlife.ca.gov; the live page surfaced LRB@wildlife.ca.gov as the branch inbox, so I list that as the verified email and the page as the primary touchpoint.) (3) The California Fish and Game Commission owns and amends §671 via the FGC 1 petition process and a public-comment process, verified at https://fgc.ca.gov/Regulations/Petition-for-Regulation-Change, inbox fgc@fgc.ca.gov, with a separate Submit Comments page; precedent confirmed by an existing FGC 1 petition to amend §671 to remove the domestic ferret. (4) Legislature find-your-rep tool https://findyourrep.legislature.ca.gov/ is the official lookup (the live fetch failed on a TLS certificate error, but the domain is confirmed official via the legislature's own search listing; treat as official but re-confirm the URL loads). UNCERTAIN / NOT VERIFIED: no live bill, pending list, or open public-comment window specific to roof rats was found, so time_sensitive is empty, do not imply urgency. Whether CDFW will read the exemption to reach R. rattus is genuinely open (that is the whole inquiry); the branch_note states both outcomes honestly. Legal language is English, so the letter is provided in en only. This is a research aid, not legal advice; OPSEC-clean (no individual civil-servant names, Commission/branch channels only).",
       "local_lang": "en"
     }
   },
@@ -58,7 +58,7 @@
     "keep": {
       "status": "restricted",
       "confidence": "high",
-      "why": "California classifies every species of Order Rodentia as a 'detrimental' restricted wild animal (14 CCR §671; FGC §2118), and CDFW categorically refuses Restricted Species Permits for PET purposes (only research/exhibition/education). The one opening is the exemption for 'domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)' (14 CCR §671(c)(2)(J)(1)(c)) — which is defined by phenotype/origin, NOT by species. A white/albino, trained, or documented laboratory-reared roof rat may qualify; a phenotypically wild-type (agouti/black) roof rat is presumed an illegal restricted pest. Wild-caught roof rats can never be kept (FGC §3005.5).",
+      "why": "California classifies every species of Order Rodentia as a 'detrimental' restricted wild animal (14 CCR §671; FGC §2118), and CDFW categorically refuses Restricted Species Permits for PET purposes (only research/exhibition/education). The one opening is the exemption for 'domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)' (14 CCR §671(c)(2)(J)(1)(c)), which is defined by phenotype/origin, NOT by species. A white/albino, trained, or documented laboratory-reared roof rat may qualify; a phenotypically wild-type (agouti/black) roof rat is presumed an illegal restricted pest. Wild-caught roof rats can never be kept (FGC §3005.5).",
       "governing_law": "14 CCR §671 & §671.1 (restricted species); §671(c)(2)(J)(1)(c) (domesticated-races exemption); FGC §2118; FGC §3005.5.",
       "source_ids": [
         "ca-671",
@@ -73,7 +73,7 @@
     "breed": {
       "status": "restricted",
       "confidence": "medium",
-      "why": "Breeding restricted rodents is prohibited without research/exhibition permits. If the animals meet the 'domesticated races' exemption, breeding is outside CDFW's wildlife jurisdiction — but local animal-control/zoning rules apply, and any retail sale is governed by the Pet Store Animal Care Act.",
+      "why": "Breeding restricted rodents is prohibited without research/exhibition permits. If the animals meet the 'domesticated races' exemption, breeding is outside CDFW's wildlife jurisdiction, but local animal-control/zoning rules apply, and any retail sale is governed by the Pet Store Animal Care Act.",
       "governing_law": "14 CCR §671 / §671.1; FGC §2118.",
       "source_ids": [
         "ca-671",
@@ -99,7 +99,7 @@
     "transport": {
       "status": "restricted",
       "confidence": "high",
-      "why": "Importing/transporting a restricted rodent needs a permit + Certificate of Veterinary Inspection. An EXEMPT domesticated rat may cross state lines without a restricted-species permit, but every animal entering California is still subject to inspection at CDFA border stations (the roof rat is a top agricultural pest), so carry documentation that the animal is an exempt domestic race. International movement is restricted federally (USFWS Form 3-177 — see United States).",
+      "why": "Importing/transporting a restricted rodent needs a permit + Certificate of Veterinary Inspection. An EXEMPT domesticated rat may cross state lines without a restricted-species permit, but every animal entering California is still subject to inspection at CDFA border stations (the roof rat is a top agricultural pest), so carry documentation that the animal is an exempt domestic race. International movement is restricted federally (USFWS Form 3-177, see United States).",
       "governing_law": "14 CCR §671; FGC §2118; CDFA border-station inspection.",
       "source_ids": [
         "ca-671",
@@ -118,7 +118,7 @@
         "keep",
         "breed"
       ],
-      "summary": "If the roof rat does NOT meet the 'domesticated races' exemption, it is a restricted species and CDFW issues permits only for research/exhibition/education — NOT pets — so keeping/breeding it as a pet is effectively prohibited (and wild-caught roof rats can never be kept, FGC §3005.5). Restricted-facility permits carry steep application + inspection fees and an emergency action plan.",
+      "summary": "If the roof rat does NOT meet the 'domesticated races' exemption, it is a restricted species and CDFW issues permits only for research/exhibition/education, NOT pets, so keeping/breeding it as a pet is effectively prohibited (and wild-caught roof rats can never be kept, FGC §3005.5). Restricted-facility permits carry steep application + inspection fees and an emergency action plan.",
       "steps": [
         "Determine whether your animal meets the white/albino/trained/laboratory-reared exemption",
         "If exempt, no CDFW permit is needed; if not, pet possession is not permitted"
@@ -157,7 +157,7 @@
       "activity": [
         "transport"
       ],
-      "summary": "All animals entering California pass CDFA border protection stations. Even an exempt domesticated roof rat may be stopped because it resembles a detrimental pest — carry proof (e.g., laboratory/breeder provenance) of its exempt domestic status.",
+      "summary": "All animals entering California pass CDFA border protection stations. Even an exempt domesticated roof rat may be stopped because it resembles a detrimental pest, carry proof (e.g., laboratory/breeder provenance) of its exempt domestic status.",
       "steps": [],
       "forms": [],
       "where_to_file": "CDFA border protection stations",
@@ -182,46 +182,46 @@
       ]
     }
   ],
-  "inquiry_focus": "We specifically want CDFW to confirm whether the 14 CCR §671(c)(2)(J)(1)(c) exemption for 'domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)' applies to a captive-bred, domesticated/tame line of the roof rat (Rattus rattus) — since the exemption is written by phenotype/origin and does NOT name a species — or whether the department reads it as limited to Rattus norvegicus. And how does CDFW operationally define 'trained' and 'laboratory-reared' for exempting a phenotypically wild-type rat from the Restricted Species Permit requirement and the FGC §3005.5 prohibition?",
+  "inquiry_focus": "We specifically want CDFW to confirm whether the 14 CCR §671(c)(2)(J)(1)(c) exemption for 'domesticated races of rats or mice (white or albino; trained, dancing or spinning, laboratory-reared)' applies to a captive-bred, domesticated/tame line of the roof rat (Rattus rattus), since the exemption is written by phenotype/origin and does NOT name a species, or whether the department reads it as limited to Rattus norvegicus. And how does CDFW operationally define 'trained' and 'laboratory-reared' for exempting a phenotypically wild-type rat from the Restricted Species Permit requirement and the FGC §3005.5 prohibition?",
   "sources": [
     {
       "id": "ca-671",
-      "title": "14 CCR §671 — Restricted Animals (all Rodentia 'detrimental'; (c)(2)(J)(1)(c) domesticated-races exemption)",
+      "title": "14 CCR §671, Restricted Animals (all Rodentia 'detrimental'; (c)(2)(J)(1)(c) domesticated-races exemption)",
       "url": "https://www.law.cornell.edu/regulations/california/14-CCR-671",
       "authority": "CA Code of Regulations",
       "accessed": "2026-06-06"
     },
     {
       "id": "ca-fgc2118",
-      "title": "Cal. Fish & Game Code §2118 — prohibition on importing/possessing wild animals (incl. Rodentia)",
+      "title": "Cal. Fish & Game Code §2118, prohibition on importing/possessing wild animals (incl. Rodentia)",
       "url": "https://codes.findlaw.com/ca/fish-and-game-code/fgc-sect-2118/",
       "authority": "CA Fish & Game Code",
       "accessed": "2026-06-06"
     },
     {
       "id": "ca-fgc30055",
-      "title": "Cal. Fish & Game Code §3005.5 — no capture/possession of wild nongame mammals",
+      "title": "Cal. Fish & Game Code §3005.5, no capture/possession of wild nongame mammals",
       "url": "https://codes.findlaw.com/ca/fish-and-game-code/fgc-sect-3005-5/",
       "authority": "CA Fish & Game Code",
       "accessed": "2026-06-06"
     },
     {
       "id": "ca-rsp",
-      "title": "Restricted Species Permits — CDFW (not issued for pets)",
+      "title": "Restricted Species Permits, CDFW (not issued for pets)",
       "url": "https://wildlife.ca.gov/Licensing/Restricted-Species",
       "authority": "CA Dept of Fish & Wildlife",
       "accessed": "2026-06-06"
     },
     {
       "id": "ca-hsc-petstore",
-      "title": "Pet Store Animal Care Act — Cal. Health & Safety Code §122350–122361",
+      "title": "Pet Store Animal Care Act, Cal. Health & Safety Code §122350–122361",
       "url": "https://law.justia.com/codes/california/2010/hsc/122350-122361.html",
       "authority": "CA Health & Safety Code",
       "accessed": "2026-06-06"
     },
     {
       "id": "ca-cdfa-border",
-      "title": "California Border Protection Stations FAQ — CDFA (pest exclusion)",
+      "title": "California Border Protection Stations FAQ, CDFA (pest exclusion)",
       "url": "https://www.cdfa.ca.gov/plant/PE/ExteriorExclusion/borders_faq.html",
       "authority": "CA Dept of Food & Agriculture",
       "accessed": "2026-06-06"
@@ -229,7 +229,7 @@
   ],
   "contacts": [
     {
-      "agency": "CDFW License & Revenue Branch — Special Permits Unit",
+      "agency": "CDFW License & Revenue Branch, Special Permits Unit",
       "role": "wildlife",
       "email": "SPU@wildlife.ca.gov",
       "form_url": "https://wildlife.ca.gov/Licensing/Restricted-Species",

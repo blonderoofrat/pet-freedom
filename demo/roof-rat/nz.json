@@ -16,20 +16,21 @@
       "kiore (Pacific rat, a distinct species)"
     ]
   },
-  "summary": "New Zealand treats the ship rat (Rattus rattus) as an invasive pest, not a permissible companion animal. It is managed as an unwanted organism under the Biosecurity Act 1993 and is a primary target of the national Predator Free 2050 eradication programme; under the Wildlife Act 1953 it is unprotected wildlife (Schedule 5). The Ministry for Primary Industries (MPI) confirmed in writing (June 2026) that pet rats cannot be imported into New Zealand, so import is prohibited. Within the country, Biosecurity Act section 53 prohibits breeding, propagating, selling, offering for sale, or exhibiting an unwanted organism, and section 52 prohibits its release or spread, so breeding and sale/transfer of a ship rat are prohibited. The Act does not list mere possession among its prohibited activities, so passive keeping of an already-present, securely contained animal sits in a narrow tolerated space, but the owner bears strict liability for any escape and regional pest-management plans can compel removal; the species has no recognised domestication exemption (the pet kept lawfully in New Zealand is the fancy rat, Rattus norvegicus). Never release any rat.",
-  "last_reviewed": "2026-06-13",
+  "summary": "New Zealand's national position on the roof rat (ship rat, Rattus rattus) is more permissive than its pest reputation suggests, though it varies by region and import is barred. The Ministry for Primary Industries confirmed in writing (June 2026) that Rattus rattus is NOT listed as an unwanted organism or a notifiable organism under the Biosecurity Act 1993, so there are no national restrictions on keeping or breeding the species under that Act, and the Animal Welfare Act 1999 requires no permit to keep, breed, or sell rats. At the national level, keeping a captive-bred roof rat is therefore legal. The catch is regional: some regional councils list Rattus rattus in their regional pest management plans, with rules that vary by region. MPI specifically noted that the Northland Regional Council plan has rules preventing the breeding or selling of Rattus rattus, and that the Auckland plan's Hauraki Gulf island rules (for example Waiheke Island) may impose restrictions. Check your own regional pest management plan (searchable on MPI's Established Pests Portal); these plans are updated roughly every ten years. Import is the firm barrier: MPI confirmed pet rats cannot be imported into New Zealand, so a roof rat must be sourced domestically. Rattus rattus remains an ecological pest and a Predator Free 2050 eradication target, so never release one, secure it against escape, and do not move it into a controlled area such as the Hauraki Gulf.",
+  "last_reviewed": "2026-06-16",
   "agency_confirmations": [
-    "Ministry for Primary Industries (MPI), Animal Welfare Team, written reply June 2026: there are NO registration or permit requirements under the Animal Welfare Act 1999 for people keeping, breeding, or selling rats (only the Act's general welfare duties and codes of welfare apply; there is no pet-rat-specific code of welfare). MPI also confirmed that pet rats CANNOT be imported into New Zealand (per MPI's 'Bringing pets to NZ other than cats and dogs' guidance). Note: this welfare-team reply addressed only the Animal Welfare Act layer; it did not address the Biosecurity Act 1993 status of the ship rat (Rattus rattus) specifically, which is the controlling framework and treats the species as an unwanted organism."
+    "Ministry for Primary Industries (MPI), Animal Welfare Team, written reply June 2026: there are NO registration or permit requirements under the Animal Welfare Act 1999 for people keeping, breeding, or selling rats (only the Act's general welfare duties and codes of welfare apply; there is no pet-rat-specific code of welfare). MPI also confirmed that pet rats CANNOT be imported into New Zealand (per MPI's 'Bringing pets to NZ other than cats and dogs' guidance). Note: this welfare-team reply addressed only the Animal Welfare Act layer; it did not address the Biosecurity Act 1993 status of the ship rat (Rattus rattus) specifically, which is the controlling framework and treats the species as an unwanted organism.",
+    "Ministry for Primary Industries (MPI), Customer Enquiries Centre, written reply 16 June 2026: Rattus rattus is NOT listed as an unwanted organism or a notifiable organism under the Biosecurity Act 1993, so there are no national restrictions on keeping or breeding the species under that Act. Some regional councils list Rattus rattus in their regional pest management plans with rules that vary by region; MPI specifically noted that the Northland Regional Council plan has rules preventing the breeding or selling of Rattus rattus, and that the Auckland plan's Hauraki Gulf island rules (for example Waiheke Island) may impose restrictions. Regional plans are searchable on MPI's New Zealand Established Pests Portal and are updated roughly every ten years."
   ],
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "There is no Animal Welfare Act 1999 registration or permit to keep a rat (MPI, June 2026), and the Biosecurity Act 1993 does not list mere possession among the activities it prohibits for an unwanted organism (section 53 names selling, exhibiting, propagating, breeding, and multiplying; section 52 names release and spread). Passive keeping of an already-present, securely contained ship rat therefore sits in a narrow tolerated space rather than being outright banned. However, it is not freely permitted: Rattus rattus is managed as an unwanted organism and is a Predator Free 2050 eradication target, the owner bears strict liability under section 52 if the animal escapes (an escape is the release of an unwanted organism), and regional pest-management plans can require its removal. The domestication tolerance extended in practice to the fancy rat (Rattus norvegicus) is not a statutory exemption and does not clearly cover Rattus rattus. Acquiring one lawfully is in any case blocked because import is prohibited and breeding and sale are prohibited.",
-      "governing_law": "Biosecurity Act 1993, Part 4 (ss 52-53, unwanted-organism duties; possession not enumerated); Wildlife Act 1953, Schedule 5 (rats unprotected); regional pest-management plans; Animal Welfare Act 1999 (general welfare duties; no keeping permit - MPI, June 2026).",
+      "status": "legal",
+      "confidence": "high",
+      "why": "MPI confirmed in writing (June 2026) that Rattus rattus is not an unwanted or notifiable organism under the Biosecurity Act 1993, so there is no national Biosecurity restriction on keeping it, and the Animal Welfare Act 1999 requires no permit to keep a rat. Keeping a captive-bred roof rat is therefore legal at the national level. Regional pest management plans can add local rules, so check your regional plan, but mere private keeping of a securely contained animal is generally allowed. The general Animal Welfare Act duties apply, and the animal must never be released or allowed to escape.",
+      "governing_law": "Biosecurity Act 1993 (R. rattus is NOT an unwanted/notifiable organism, MPI June 2026, so no national keeping restriction); Animal Welfare Act 1999 (general duties, no keeping permit); regional pest management plans (local variation).",
       "source_ids": [
         "nz-biosec-act",
         "nz-mpi-unwanted",
@@ -37,50 +38,50 @@
         "nz-wildlife-act",
         "nz-awa"
       ],
-      "verified_date": "2026-06-13",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
     },
     "breed": {
-      "status": "prohibited",
+      "status": "restricted",
       "confidence": "high",
-      "why": "Section 53(1)(c) of the Biosecurity Act 1993 provides that a person in charge of an organism they know or suspect to be an unwanted organism must not propagate, breed, or multiply it, or otherwise act in a manner likely to encourage its propagation. Rattus rattus is managed as an unwanted organism, so breeding it is prohibited. A Chief Technical Officer may permit an otherwise-prohibited act under section 53(2), but in practice such permissions are confined to education, research, and pest-management purposes and are not granted for hobby or companion-animal breeding. The absence of an Animal Welfare Act breeding permit (MPI, June 2026) does not change this; the welfare framework and the Biosecurity framework are separate, and the Biosecurity prohibition controls.",
-      "governing_law": "Biosecurity Act 1993, s 53(1)(c) (no propagating/breeding/multiplying an unwanted organism); s 53(2) (Chief Technical Officer permission, in practice research/pest-management only); ship-rat unwanted-organism status.",
+      "why": "Legal nationally: MPI confirmed (June 2026) there are no national restrictions on breeding Rattus rattus under the Biosecurity Act, and the Animal Welfare Act requires no breeding permit. But it is restricted in some regions. MPI specifically flagged that the Northland Regional Council pest management plan has rules preventing the breeding (and selling) of Rattus rattus, and that Auckland's Hauraki Gulf island rules may restrict it. So breeding is allowed nationally but can be prohibited in particular regions. Check your regional pest management plan (searchable on MPI's Established Pests Portal) before breeding.",
+      "governing_law": "Biosecurity Act 1993 (no NATIONAL breeding restriction, MPI June 2026); regional pest management plans (Northland prevents breeding/selling; Auckland Hauraki Gulf islands may restrict); Animal Welfare Act 1999 (no breeding permit).",
       "source_ids": [
         "nz-biosec-act",
         "nz-mpi-unwanted",
         "nz-doc-rats"
       ],
-      "verified_date": "2026-06-13",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
     },
     "sell_give": {
-      "status": "prohibited",
+      "status": "restricted",
       "confidence": "high",
-      "why": "Section 53(1) of the Biosecurity Act 1993 prohibits a person in charge of an unwanted organism from causing or permitting it to be in a place where organisms are offered for sale or exhibited, and from selling or offering it for sale. Transferring a ship rat (by sale or by gift) is therefore prohibited, because Rattus rattus is managed as an unwanted organism and any transfer risks its spread and propagation. There is no separate pet-dealer licence that can bypass this, and no small-breeder or hobby exemption. The Animal Welfare Act imposes no dealer permit (MPI, June 2026), but that welfare-layer answer does not displace the Biosecurity prohibition.",
-      "governing_law": "Biosecurity Act 1993, s 53(1)(a)-(b) (no exhibiting/offering for sale/selling an unwanted organism); s 52 (no spread/communication); ship-rat unwanted-organism status.",
+      "why": "Legal nationally (no national Biosecurity or Animal Welfare restriction on selling rats, MPI June 2026), but restricted in some regions: the Northland Regional Council pest management plan prevents the selling of Rattus rattus, and other regional plans may too. Check your regional pest management plan before selling or rehoming. No national dealer licence applies.",
+      "governing_law": "Biosecurity Act 1993 (no national sale restriction, MPI June 2026); regional pest management plans (Northland prevents selling); Animal Welfare Act 1999 (no dealer permit).",
       "source_ids": [
         "nz-biosec-act",
         "nz-mpi-unwanted",
         "nz-doc-rats"
       ],
-      "verified_date": "2026-06-13",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
     },
     "transport": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "Importing a roof rat into New Zealand is prohibited. MPI confirmed in writing (June 2026) that pet rats cannot be imported, and its 'Bringing pets to NZ (other than cats and dogs)' guidance does not provide any pathway for rats; live rodents enter only via a tightly controlled research/laboratory pathway (a section 52/53 unwanted-organisms permission plus an import health standard, routed to an approved transitional containment facility), which is not available for private pets. Domestic movement of a ship rat is also restricted: section 52 of the Biosecurity Act prohibits releasing or spreading an unwanted organism, and regional pest-management plans bar moving rats into controlled areas such as the Hauraki Gulf Controlled Area near pest-free islands. Any internal movement of a lawfully held animal must also meet the Animal Welfare (Transport within New Zealand) Code of Welfare. Never release any rat.",
-      "governing_law": "Biosecurity Act 1993 (import requires a CTO unwanted-organisms permission + import health standard, research/lab only; s 52 release/spread); MPI import guidance ('pets other than cats and dogs' - rats not importable; MPI, June 2026); regional pest-management plans (e.g., Auckland - Hauraki Gulf Controlled Area movement ban); Animal Welfare (Transport within New Zealand) Code of Welfare 2018.",
+      "why": "Importing a pet rat into New Zealand is prohibited: MPI confirmed (June 2026) that pet rats cannot be imported, and there is no pet-rodent import health standard, so a roof rat must be sourced domestically. Domestic movement of a lawfully held animal is otherwise fine, but do not move a rat into a regional controlled area such as Auckland's Hauraki Gulf Controlled Area near pest-free islands, and meet the Animal Welfare (Transport within New Zealand) Code of Welfare. Never release a rat: it is a Predator Free 2050 eradication target.",
+      "governing_law": "MPI import guidance (pet rats not importable, June 2026); regional controlled-area movement rules (e.g. Auckland Hauraki Gulf Controlled Area); Animal Welfare (Transport within New Zealand) Code of Welfare 2018.",
       "source_ids": [
         "nz-mpi-import",
         "nz-biosec-act",
         "nz-mpi-unwanted",
         "nz-auckland-rat"
       ],
-      "verified_date": "2026-06-13",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
       "verified_by": "maintainer"
     }
@@ -92,20 +93,18 @@
       "activity": [
         "transport"
       ],
-      "summary": "Pet rats cannot be imported into New Zealand (MPI, June 2026). There is no import pathway for a roof rat from any country; live rodents are admitted only through a research/laboratory pathway (a Chief Technical Officer unwanted-organisms permission under Biosecurity Act ss 52/53 plus an import health standard, routed to an approved transitional containment facility), which is not available for private pets. Domestic movement is also restricted: do not move a rat into a controlled area such as the Hauraki Gulf Controlled Area, and meet the Animal Welfare (Transport within New Zealand) Code of Welfare for any internal transport. Never release any rat.",
+      "summary": "Pet rats cannot be imported into New Zealand (MPI, June 2026). There is no pet pathway and no pet-rodent import health standard, so a roof rat must be sourced domestically. Do not move a rat into a regional controlled area such as Auckland's Hauraki Gulf Controlled Area, and meet the Animal Welfare (Transport within New Zealand) Code of Welfare for any internal transport. Never release a rat.",
       "steps": [
-        "Do not attempt to import a roof rat into New Zealand - there is no pet pathway",
-        "Treat the research/laboratory import pathway (CTO permission + import health standard + transitional facility) as unavailable for a companion animal",
-        "Do not move any rat into a controlled area such as the Hauraki Gulf Controlled Area",
-        "For any lawful internal transport, meet the Animal Welfare (Transport within New Zealand) Code of Welfare",
-        "Never release a rat into the environment - it is a Predator Free 2050 eradication target"
+        "Do not attempt to import a roof rat into New Zealand, there is no pet pathway",
+        "Source any roof rat domestically",
+        "Do not move a rat into a controlled area such as the Hauraki Gulf Controlled Area",
+        "Never release a rat: it is a Predator Free 2050 eradication target"
       ],
       "forms": [],
-      "where_to_file": "Ministry for Primary Industries (MPI) - Biosecurity New Zealand / Animal Imports",
+      "where_to_file": "Ministry for Primary Industries (MPI), Biosecurity New Zealand / Animal Imports",
       "fees": "",
       "source_ids": [
         "nz-mpi-import",
-        "nz-biosec-act",
         "nz-auckland-rat"
       ]
     },
@@ -117,20 +116,20 @@
         "breed",
         "sell_give"
       ],
-      "summary": "The ship rat is managed as an unwanted organism under the Biosecurity Act 1993. Section 53 prohibits propagating, breeding, multiplying, selling, offering for sale, or exhibiting it, so breeding and sale/gifting are prohibited. Section 52 prohibits releasing or spreading it, so any escape of a kept animal is itself an offence (strict liability). A Chief Technical Officer can permit an otherwise-prohibited act under ss 52/53, but in practice only for education, research, or pest management, not for companion-animal keeping. Regional pest-management plans can require removal of the species on private land. There is no recognised domestication exemption for Rattus rattus.",
+      "summary": "Check your REGIONAL pest management plan. R. rattus is not restricted nationally (MPI, June 2026), but some regional councils restrict it. The Northland Regional Council plan has rules preventing the breeding or selling of Rattus rattus, and Auckland's Hauraki Gulf island rules (e.g. Waiheke) may restrict it. Search Rattus rattus on MPI's New Zealand Established Pests Portal to find your region's rules; plans are updated roughly every ten years. Secure the animal against escape and never release it.",
       "steps": [
-        "Understand that breeding and selling/gifting a ship rat are prohibited under Biosecurity Act s 53",
-        "Understand that an escape is the release of an unwanted organism (s 52) and the keeper is strictly liable",
-        "Do not assume the practical tolerance shown to the fancy rat (R. norvegicus) extends to R. rattus - it has no statutory domestication exemption",
-        "If a research/education/pest-management purpose genuinely applies, seek a Chief Technical Officer permission from MPI before acting (not available for pet keeping)"
+        "Search 'Rattus rattus' on MPI's Established Pests Portal to find your region's status and plan",
+        "Read your regional council's pest management plan for any breeding/selling/keeping rules",
+        "In Northland (and possibly Auckland's Hauraki Gulf islands), do not breed or sell R. rattus",
+        "Keep the animal securely contained; never release it"
       ],
       "forms": [],
-      "where_to_file": "Ministry for Primary Industries (MPI) - Biosecurity New Zealand",
+      "where_to_file": "Your regional council (via MPI Established Pests Portal)",
       "fees": "",
       "source_ids": [
-        "nz-biosec-act",
-        "nz-mpi-unwanted",
-        "nz-doc-rats"
+        "nz-mpi-pests-portal",
+        "nz-auckland-rat",
+        "nz-biosec-act"
       ]
     },
     {
@@ -139,7 +138,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Keepers of any animal owe the Animal Welfare Act 1999 duties (meet the animal's physical, health, and behavioural needs and provide treatment for sickness or injury); breaching a minimum standard in a code of welfare can support a prosecution. There is no code of welfare specific to pet rats, but the general duties apply. This welfare duty is separate from, and additional to, the Biosecurity Act controls on the ship rat.",
+      "summary": "Keepers owe the Animal Welfare Act 1999 duties (meet the animal's physical, health, and behavioural needs and treat sickness or injury). There is no code of welfare specific to pet rats, but the general duties apply.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -198,6 +197,13 @@
       "url": "https://www.legislation.govt.nz/act/public/1999/142/latest/DLM49664.html",
       "authority": "New Zealand Legislation (Parliamentary Counsel Office)",
       "accessed": "2026-06-13"
+    },
+    {
+      "id": "nz-mpi-pests-portal",
+      "title": "New Zealand Established Pests Portal (MPI): search a species to see its Biosecurity Act status and which regional pest management plans include it (with links to the regional plan rules)",
+      "url": "https://www.mpi.govt.nz/biosecurity/how-to-find-report-and-prevent-pests-and-diseases/new-zealand-established-pests-portal",
+      "authority": "Ministry for Primary Industries (MPI)",
+      "accessed": "2026-06-16"
     }
   ],
   "contacts": [

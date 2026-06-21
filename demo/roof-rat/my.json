@@ -20,128 +20,74 @@
       "Malayan black rat"
     ]
   },
-  "summary": "Malaysia is split. In PENINSULAR Malaysia (and the Federal Territory of Labuan) the roof rat is PROHIBITED as a pet: Rattus rattus is explicitly named in the Fifth Schedule (\"Controlled Species\") of the Wildlife Conservation Act 2010 (Act 716), and section 117 bars any person from keeping, breeding, selling, buying, importing, or exporting a Fifth-Schedule species — with no captive-bred or domestication exemption, and penalties up to RM50,000 / 3 years (raised by the 2022 Amendment, Act A1646). Note the reversed species-trap: the common fancy rat (R. norvegicus) is NOT scheduled and is kept openly, while R. rattus is named by binomial. In EAST Malaysia (Sabah and Sarawak), which have their own wildlife laws, R. rattus is NOT on the state schedules, so keeping it is not barred by wildlife law; commercial breeding/selling needs a Department of Veterinary Services (DVS) animal-business licence under the Animal Welfare Act 2015 (Act 772), and importing needs a state veterinary import permit (Sarawak Form A; Sabah DOVSAI permit + MAQIS clearance). Not CITES-listed. Never release — it is a documented agricultural pest.",
-  "last_reviewed": "2026-06-11",
+  "summary": "Malaysia is permissive for the roof rat, corrected by the wildlife agency itself. PERHILITAN (the Department of Wildlife and National Parks, which enforces the Wildlife Conservation Act 2010, Act 716) confirmed in writing (June 2026) that Rattus rattus is NOT subject to Act 716 or to the International Trade in Endangered Species Act 2008 (Act 686), and that no licence or permit is issued for the species. So keeping a roof rat is not controlled by wildlife law (this overturns the earlier Deep Research reading that wrongly placed R. rattus in the Act 716 Fifth Schedule; the official MyBIS species record shows no Act 716 status, and Sabah and Sarawak likewise do not schedule it). Keeping is therefore legal nationwide. Commercial breeding or selling is an animal business under the Animal Welfare Act 2015 (Act 772) and needs a Department of Veterinary Services (DVS) licence; ordinary hobby keeping needs none beyond the Act's welfare duties. Importing a live rat goes through the DVS veterinary import permit and MAQIS quarantine clearance (PERHILITAN redirected import questions there), not a wildlife bar. Not CITES-listed. Roof rats are a documented agricultural pest, so never release one.",
+  "last_reviewed": "2026-06-17",
+  "agency_confirmations": [
+    "PERHILITAN (Department of Wildlife and National Parks, Peninsular Malaysia, Enforcement Division), written reply June 2026: the roof rat (Rattus rattus) is NOT subject to the Wildlife Conservation Act 2010 (Act 716) or the International Trade in Endangered Species Act 2008 (Act 686), and accordingly no licence or permit is issued by the Department for the species. For import and related matters, the Department directed inquiries to the Department of Veterinary Services and the Malaysian Quarantine and Inspection Services Department (MAQIS)."
+  ],
   "advocacy": {
-    "flag": true,
-    "kit": {
-      "case_type": "clarification",
-      "problem": "Malaysia treats the roof rat (Rattus rattus) differently by region. In Peninsular Malaysia it is a Fifth-Schedule 'Controlled Species' under the Wildlife Conservation Act 2010, so keeping, breeding, selling, importing, or exporting it is prohibited under section 117. In Sabah and Sarawak, which have their own wildlife laws and do not schedule R. rattus, keeping it is not barred by wildlife law. The practical gap is at the East Malaysia border: because R. rattus is also classified as an agricultural pest, an applicant for a state veterinary import permit (Sarawak Form A, or Sabah's DOVSAI permit plus MAQIS clearance) may be refused on an ad-hoc basis even though no statute requires that refusal for a documented, captive-bred, indoor companion specimen.",
-      "ask": "Ask the Sarawak State Veterinary Authority (DVS Sarawak) and the Sabah Department of Veterinary Services and Animal Industry (DOVSAI) to confirm in writing whether a captive-bred Rattus rattus kept as an indoor companion is eligible for import-permit consideration (Sarawak Form A under the Veterinary Public Health Ordinance 1999; Sabah DOVSAI import permit), and whether the species' agricultural-pest classification for wild populations creates a categorical administrative bar on documented captive-bred specimens. The underlying judgment is the department's to make. Malaysia already permits cats and dogs, which are themselves non-native and well documented to harm native and island wildlife, yet are permitted as pets. Whether the limited additional risk of a few sterile, tame, indoor-only roof rats, never released, is similarly outweighed by their value as companions is a cost-benefit judgment for the department, not a result that follows automatically from wild-population pest status. For Peninsular Malaysia the only accurate ask is informational: confirm with PERHILITAN that no exemption order permits private keeping of a Fifth-Schedule R. rattus.",
-      "branch_note": "In East Malaysia the lever is the state agency (DVS Sarawak / DOVSAI Sabah), which administers the import-permit discretion, not the legislature. In Peninsular Malaysia there is no realistic administrative lever: the prohibition is set in the Fifth Schedule by the federal legislature and was reinforced by the 2022 Amendment, so changing it would require a section 133 ministerial exemption order (precedent is pharmaceutical and scientific only) or a schedule amendment. The productive work is the East Malaysia permit-eligibility clarification.",
-      "time_sensitive": "",
-      "targets": [
-        {
-          "name": "Department of Veterinary Services Sarawak (DVS Sarawak) — Import/Export & Regulatory Division",
-          "type": "agency",
-          "why": "Administers Sarawak's Form A import permit (Veterinary Public Health Ordinance 1999, s.9). The right office to confirm whether captive-bred R. rattus is eligible for an import permit or categorically refused due to pest status.",
-          "form_url": "https://dvs.sarawak.gov.my/",
-          "email": ""
-        },
-        {
-          "name": "Department of Veterinary Services & Animal Industry Sabah (DOVSAI)",
-          "type": "agency",
-          "why": "Issues Sabah import permits (with MAQIS clearance) for live animals. The right office to confirm import eligibility for a documented captive-bred R. rattus.",
-          "form_url": "https://jpah.sabah.gov.my/",
-          "email": ""
-        },
-        {
-          "name": "PERHILITAN (Dept of Wildlife & National Parks, Peninsular Malaysia)",
-          "type": "agency",
-          "why": "Administers Act 716 in Peninsular Malaysia. Informational only: confirm that no exemption order permits private keeping of a Fifth-Schedule R. rattus (the prohibition is absolute).",
-          "form_url": "https://www.wildlife.gov.my/en/hubungi-kami/",
-          "email": "spjphelp@wildlife.gov.my"
-        }
-      ],
-      "template": {
-        "en": "To the Department of Veterinary Services [Sarawak / Sabah]:\n\nI am writing as a private hobbyist researching whether a captive-bred roof rat (Rattus rattus), kept as an indoor companion animal, may be imported into [Sarawak / Sabah]. I understand that R. rattus is not listed in the state's wildlife protection schedules, and that import of a live animal requires a veterinary import permit ([Sarawak: Form A under the Veterinary Public Health Ordinance 1999] / [Sabah: a DOVSAI import permit with MAQIS clearance]).\n\nMy question is narrow: is a documented, captive-bred R. rattus kept as an indoor pet eligible for import-permit consideration, or is the species categorically refused because wild roof rats are classified as an agricultural pest? If eligibility exists, I would be grateful for the documentary requirements (for example, an origin-country veterinary health certificate and any quarantine conditions).\n\nMalaysia already permits cats and dogs, which are themselves non-native and well documented to harm native and island wildlife, yet are kept as pets. I ask the Department to weigh the comparable, and much smaller, question: whether the limited additional risk of a single sterile, tame, indoor-only roof rat that is never released is outweighed by its value as a companion, rather than to treat the pest status of wild populations as an automatic bar on a documented captive-bred animal. That weighing is the Department's to make; I ask only that it be made.\n\nI am asking only to understand the framework and to act lawfully and responsibly. Thank you for your time and guidance.\n\n[Your name]\n[Your contact details]"
-      },
-      "confidence_notes": "Grounded in the Gemini DR (2026-06-11), which cites the primary statutes directly: Act 716 (Fifth Schedule + s.117) and the 2022 Amendment Act A1646 via FAOLEX; the Sabah Wildlife Conservation Enactment 1997 and Sarawak Wild Life Protection Ordinance 1998 (which do not schedule R. rattus); the Sarawak Veterinary Public Health Ordinance 1999 (Form A) via Sarawak LawNet; and Act 772 via DVS. Direct email addresses for DVS Sarawak and DOVSAI were not confirmed in the DR — the official departmental contact pages are given instead; obtain the current import-division email before sending. The East Malaysia permit-denial risk is an inference from the species' pest classification, not a documented refusal, and is exactly what the clarification seeks to resolve.",
-      "local_lang": "en"
-    }
+    "flag": false
   },
   "activities": {
     "keep": {
-      "status": "prohibited",
+      "status": "legal",
       "confidence": "high",
-      "why": "PENINSULAR Malaysia: Rattus rattus is explicitly named in the Fifth Schedule ('Controlled Species') of the Wildlife Conservation Act 2010 (Act 716), and s.117(1) provides that no person shall keep a Fifth-Schedule species. Unlike protected (First Schedule) species there is no private keeping-licence mechanism for controlled species, and there is no captive-bred or domestication exemption; penalties were raised to RM50,000 / 3 years by the 2022 Amendment (Act A1646). EAST Malaysia (Sabah/Sarawak): R. rattus is NOT on the state wildlife schedules (the Sarawak Ordinance expressly does not protect Muridae), so keeping it is not barred by wildlife law there — treat keeping as unregulated/legal in Sabah and Sarawak, subject to Act 772 welfare duties and any local pest by-laws.",
-      "governing_law": "Peninsular: Wildlife Conservation Act 2010 (Act 716) Fifth Schedule + s.117(1); Act A1646 (2022 amendment). East Malaysia: Sabah Wildlife Conservation Enactment 1997 and Sarawak Wild Life Protection Ordinance 1998 (R. rattus not scheduled).",
+      "why": "PERHILITAN (the enforcing wildlife department) confirmed in writing (June 2026) that Rattus rattus is NOT subject to the Wildlife Conservation Act 2010 (Act 716) or the endangered-species act (Act 686), and that no licence or permit is issued for it. Keeping is therefore not barred or permit-gated by wildlife law. The earlier Deep Research claim that R. rattus is a Fifth-Schedule 'controlled species' is contradicted by the enforcing agency and by the official MyBIS record, which shows no Act 716 status; it is superseded. Only the general welfare duties of the Animal Welfare Act 2015 (Act 772) apply to a kept pet.",
+      "governing_law": "PERHILITAN written confirmation (June 2026): R. rattus not under Act 716 / Act 686, no licence required. Animal Welfare Act 2015 (Act 772) general duties. Sabah WCE 1997 / Sarawak WLPO 1998 (not scheduled).",
       "source_ids": [
         "my-act716",
         "my-act-a1646",
         "my-sabah-wce",
         "my-sarawak-wlpo"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "breed": {
-      "status": "prohibited",
+      "status": "legal",
       "confidence": "high",
-      "why": "PENINSULAR: breeding requires keeping, which s.117 prohibits for a Fifth-Schedule species; additionally ss.118-119 of Act 716 ban hybridisation of controlled species without the Director General's written permission, and any hybrid is itself deemed a controlled species. There is no commercial captive-breeding licence pathway for controlled species. EAST Malaysia: not barred by wildlife law; commercial-scale breeding is an 'animal business' under the Animal Welfare Act 2015 (Act 772) needing a DVS premises licence (welfare/facility inspection), while non-commercial hobby breeding is exempt from the commercial licence but still bound by Act 772 welfare duties.",
-      "governing_law": "Peninsular: Act 716 s.117 + ss.118-119 (hybridisation). East Malaysia: Act 772 s.35 (animal-business licence).",
+      "why": "Not barred by wildlife law (PERHILITAN, June 2026: R. rattus not under Act 716). Hobby breeding needs no wildlife permit; only the Animal Welfare Act 2015 (Act 772) welfare duties apply. Commercial-scale breeding is an 'animal business' under Act 772 and needs a Department of Veterinary Services (DVS) premises licence with a facility/welfare inspection.",
+      "governing_law": "PERHILITAN (June 2026): not under Act 716. Animal Welfare Act 2015 (Act 772) s.35 (animal-business licence for commercial breeding).",
       "source_ids": [
         "my-act716",
         "my-act-a1646",
         "my-act772"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "sell_give": {
-      "status": "prohibited",
+      "status": "legal",
       "confidence": "high",
-      "why": "PENINSULAR: s.117(1) of Act 716 prohibits any person from selling or purchasing a Fifth-Schedule species; both commercial sale and private transfer are barred. EAST Malaysia: not barred by wildlife law — commercial retail needs a DVS pet-shop/premises licence under Act 772, and private gratuitous transfer between individuals is unregulated by wildlife law but subject to Act 772 welfare duties (including the no-abandonment / no-release rule).",
-      "governing_law": "Peninsular: Act 716 s.117(1). East Malaysia: Act 772 s.35 (premises licence).",
+      "why": "Not barred by wildlife law (PERHILITAN, June 2026). Private gifting or sale between individuals is unregulated by wildlife law; commercial retail (a pet shop or regular dealer) needs a DVS pet-shop/premises licence under the Animal Welfare Act 2015 (Act 772). Welfare duties, including no abandonment/no release, apply.",
+      "governing_law": "PERHILITAN (June 2026): not under Act 716. Animal Welfare Act 2015 (Act 772) (pet-shop/premises licence for commercial sale).",
       "source_ids": [
         "my-act716",
         "my-act-a1646",
         "my-act772"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "transport": {
-      "status": "prohibited",
+      "status": "legal_with_permit",
       "confidence": "high",
-      "why": "PENINSULAR: s.117(1) of Act 716 expressly bars importing and exporting a Fifth-Schedule species (the 2022 Amendment added re-export), and any domestic movement implies possession, which is itself prohibited — so MAQIS/DVS will not permit a R. rattus import destined for Peninsular Malaysia. EAST Malaysia: import is permit-gated, not barred — Sarawak requires a Form A 'Permit to Import' under the Veterinary Public Health Ordinance 1999 (60-day validity) plus an origin-country veterinary health certificate; Sabah requires a DOVSAI import permit + MAQIS e-permit clearance through a designated port. Not CITES-listed. Never release.",
-      "governing_law": "Peninsular: Act 716 s.117(1) + Act A1646 (import/export/re-export ban). East Malaysia: Sarawak Veterinary Public Health Ordinance 1999 s.9(1) (Form A); Sabah DOVSAI import permit + MAQIS.",
+      "why": "Import is not a wildlife bar. PERHILITAN (June 2026) redirected import questions to the Department of Veterinary Services (DVS) and the Malaysian Quarantine and Inspection Services Department (MAQIS): importing a live rat needs a DVS veterinary import permit plus MAQIS quarantine clearance through a designated entry point, with an origin-country veterinary health certificate. R. rattus is not CITES-listed (not under Act 686). Domestic movement of a lawfully kept rat is unregulated by wildlife law. Never release a roof rat, it is a documented agricultural pest.",
+      "governing_law": "PERHILITAN (June 2026): import via DVS + MAQIS, not Act 716. DVS veterinary import permit; MAQIS quarantine; origin-country health certificate. Not CITES (Act 686).",
       "source_ids": [
         "my-act716",
         "my-act-a1646",
         "my-sarawak-vpho"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     }
   },
   "restrictions": [
-    {
-      "type": "ban",
-      "applies_to": "person",
-      "activity": [
-        "keep",
-        "breed",
-        "sell_give",
-        "transport"
-      ],
-      "summary": "PENINSULAR Malaysia (incl. Labuan): the roof rat is a Fifth-Schedule 'Controlled Species' under the Wildlife Conservation Act 2010, so keeping, breeding, selling, buying, importing, or exporting it is prohibited under s.117 — there is no private-keeping permit and no captive-bred exemption; penalties reach RM50,000 / 3 years (Act A1646, 2022). Do not keep, breed, sell, or move R. rattus in Peninsular Malaysia.",
-      "steps": [
-        "In Peninsular Malaysia, do not keep/breed/sell/import R. rattus — it is a Fifth-Schedule controlled species (no permit pathway)",
-        "Never release a roof rat (it is a documented agricultural pest)"
-      ],
-      "forms": [],
-      "where_to_file": "PERHILITAN (Peninsular Malaysia)",
-      "fees": "",
-      "source_ids": [
-        "my-act716",
-        "my-act-a1646"
-      ]
-    },
     {
       "type": "permit",
       "applies_to": "person",
@@ -150,83 +96,83 @@
         "sell_give",
         "transport"
       ],
-      "summary": "EAST Malaysia (Sabah/Sarawak): R. rattus is not scheduled, so keeping is not barred by wildlife law. Commercial breeding/selling needs a DVS animal-business / pet-shop licence under Act 772 (facility/welfare inspection). Importing needs a state veterinary import permit: Sarawak Form A (Veterinary Public Health Ordinance 1999) + an origin-country health certificate; Sabah a DOVSAI permit + MAQIS e-permit. Confirm with the state DVS that a captive-bred specimen is eligible (pest classification may prompt ad-hoc refusal).",
+      "summary": "Keeping a roof rat is legal in Malaysia and needs no wildlife licence (PERHILITAN, June 2026). COMMERCIAL breeding or selling is an animal business under the Animal Welfare Act 2015 and needs a Department of Veterinary Services (DVS) licence; ordinary hobby keeping and private transfer need none. IMPORTING a live rat needs a DVS veterinary import permit plus MAQIS quarantine clearance and an origin-country health certificate. Roof rats are a documented agricultural pest, so never release one.",
       "steps": [
-        "Commercial breeding/sale (Sabah/Sarawak): obtain a DVS animal-business / pet-shop licence (Act 772)",
-        "Import to Sarawak: apply for Form A + origin-country veterinary health certificate",
-        "Import to Sabah: obtain a DOVSAI import permit + MAQIS e-permit clearance"
+        "Keep a pet roof rat: no wildlife licence needed (PERHILITAN: not under Act 716)",
+        "Commercial breeding/sale: obtain a DVS animal-business / pet-shop licence (Animal Welfare Act 2015)",
+        "Import: obtain a DVS veterinary import permit + MAQIS quarantine clearance + origin-country health certificate",
+        "Never release a roof rat (documented agricultural pest)"
       ],
       "forms": [],
-      "where_to_file": "DVS Sarawak / DOVSAI Sabah (import + animal business); MAQIS (Sabah clearance)",
-      "fees": "DVS animal-business licence set by state DVS",
+      "where_to_file": "Department of Veterinary Services (DVS) + MAQIS (import / commercial licence); PERHILITAN confirmed it is not a wildlife matter",
+      "fees": "DVS licence set by the department",
       "source_ids": [
         "my-act772",
-        "my-sarawak-vpho",
-        "my-sabah-wce"
+        "my-maqis"
       ]
     }
   ],
-  "inquiry_focus": "(1) PERHILITAN (Peninsular): confirm that Rattus rattus is listed in the Fifth Schedule (Controlled Species) of the Wildlife Conservation Act 2010, so that keeping/breeding/selling/importing it is prohibited under s.117, and that no exemption order permits private keeping. (2) DVS Sarawak / DOVSAI Sabah (East Malaysia): R. rattus is not on the state wildlife schedules — is a documented, captive-bred R. rattus kept as an indoor companion eligible for an import permit (Sarawak Form A / Sabah DOVSAI permit), or is it categorically refused because wild roof rats are an agricultural pest? What documentation (health certificate, quarantine) is required?",
+  "inquiry_focus": "(1) PERHILITAN (Peninsular): confirm that Rattus rattus is listed in the Fifth Schedule (Controlled Species) of the Wildlife Conservation Act 2010, so that keeping/breeding/selling/importing it is prohibited under s.117, and that no exemption order permits private keeping. (2) DVS Sarawak / DOVSAI Sabah (East Malaysia): R. rattus is not on the state wildlife schedules, is a documented, captive-bred R. rattus kept as an indoor companion eligible for an import permit (Sarawak Form A / Sabah DOVSAI permit), or is it categorically refused because wild roof rats are an agricultural pest? What documentation (health certificate, quarantine) is required?",
   "sources": [
     {
       "id": "my-act716",
-      "title": "Wildlife Conservation Act 2010 (Act 716) — Fifth Schedule (Controlled Species; R. rattus named) + s.117 (keep/breed/sell/import prohibited); applies to Peninsular Malaysia + Labuan",
+      "title": "Wildlife Conservation Act 2010 (Act 716), Peninsular Malaysia's federal wildlife law. PERHILITAN confirmed (June 2026) that Rattus rattus is NOT a listed or controlled species under it, so no wildlife licence applies.",
       "url": "https://faolex.fao.org/docs/pdf/mal107883.pdf",
       "authority": "Malaysia (via FAOLEX)",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-act-a1646",
-      "title": "Wildlife Conservation (Amendment) Act 2022 (Act A1646) — raised penalties (RM50,000 / 3 yrs); added re-export",
+      "title": "Wildlife Conservation (Amendment) Act 2022 (Act A1646), penalty amendments to Act 716 (context only; Rattus rattus is not under Act 716 per PERHILITAN).",
       "url": "https://faolex.fao.org/docs/pdf/mal217997.pdf",
       "authority": "Parliament of Malaysia (via FAOLEX)",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-act772",
-      "title": "Animal Welfare Act 2015 (Act 772) — welfare duties + animal-business / pet-shop licence (DVS)",
+      "title": "Animal Welfare Act 2015 (Act 772), welfare duties + animal-business / pet-shop licence (DVS)",
       "url": "https://awa.dvs.gov.my/Akta/1655779446-Akta.pdf",
       "authority": "Department of Veterinary Services (DVS) Malaysia",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-sabah-wce",
-      "title": "Sabah Wildlife Conservation Enactment 1997 (No. 6 of 1997) — Schedules (R. rattus not listed)",
+      "title": "Sabah Wildlife Conservation Enactment 1997 (No. 6 of 1997), Schedules (R. rattus not listed)",
       "url": "https://sagc.sabah.gov.my/sites/default/files/law/WildlifeConservationEnactment1997.pdf",
       "authority": "Sabah State (SAGC)",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-sarawak-wlpo",
-      "title": "Sarawak Wild Life Protection Ordinance 1998 (Cap. 26) — Muridae not protected (R. rattus not scheduled)",
+      "title": "Sarawak Wild Life Protection Ordinance 1998 (Cap. 26), Muridae not protected (R. rattus not scheduled)",
       "url": "https://lawnet.sarawak.gov.my/",
       "authority": "Sarawak State (LawNet)",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-sarawak-vpho",
-      "title": "Sarawak Veterinary Public Health Ordinance 1999 (Cap. 32) — s.9(1) Form A 'Permit to Import' for live animals",
+      "title": "Sarawak Veterinary Public Health Ordinance 1999 (Cap. 32), s.9(1) Form A 'Permit to Import' for live animals",
       "url": "https://lawnet.sarawak.gov.my/",
       "authority": "Sarawak State (LawNet)",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-exemption-2019",
-      "title": "Wildlife Conservation (Exemption) Order 2019 — shows the exemption mechanism exists; none covers private R. rattus keeping",
+      "title": "Wildlife Conservation (Exemption) Order 2019, shows the exemption mechanism exists; none covers private R. rattus keeping",
       "url": "https://www.wildlife.gov.my/",
       "authority": "PERHILITAN / Federal Gazette",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-mybis",
-      "title": "MyBIS — Rattus rattus species record",
+      "title": "MyBIS, Rattus rattus species record",
       "url": "https://www.mybis.gov.my/sp/20385",
       "authority": "Malaysia Biodiversity Information System (Govt)",
       "accessed": "2026-06-11"
     },
     {
       "id": "my-maqis",
-      "title": "MAQIS — live-animal import procedures (E-Permit; East Malaysia clearance)",
+      "title": "MAQIS, live-animal import procedures (E-Permit; East Malaysia clearance)",
       "url": "http://www.maqis.gov.my/en_US/web/guest/haiwan-prosedur-import",
       "authority": "Malaysian Quarantine & Inspection Services (MAQIS)",
       "accessed": "2026-06-11"
@@ -243,7 +189,7 @@
       "inquiry_language": "en"
     },
     {
-      "agency": "Department of Veterinary Services Sarawak (DVS Sarawak) — Import/Export & Regulatory",
+      "agency": "Department of Veterinary Services Sarawak (DVS Sarawak), Import/Export & Regulatory",
       "role": "agriculture",
       "email": "",
       "form_url": "https://dvs.sarawak.gov.my/",

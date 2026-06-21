@@ -19,8 +19,13 @@
       "ilmoituksenvarainen eläintenpito"
     ]
   },
-  "summary": "Finland is permissive for the roof rat. There is no species-specific ban: R. rattus is on neither the EU invasive-species Union list (Reg. 1143/2014) nor Finland's national invasive list (Government Decree 1725/2015, whose mammals are alien carnivores, bats and chipmunks, not rats). On Finlands invasive portal it is classed only as an alien species (vieraslaji), not a harmful invasive alien species (haitallinen vieraslaji), so the bans and eradication duties that hit listed species do not apply. The Animal Welfare Act (Laki eläinten hyvinvoinnista 693/2023, in force 1 Jan 2024) sets welfare and husbandry standards for all kept animals but does not restrict keeping R. rattus, so a hobbyist is in the same position as a fancy-rat (R. norvegicus) keeper: both are small companion and hobby animals (pienikokoinen seura- ja harrastuseläin) under Government Decree 674/2010. A notification (ilmoitus) is required only at scale: 7 or more cages, terraria or aquaria for professional/commercial activity, or 20 or more for large-scale non-professional keeping, filed to Ruokavirasto at least 30 days before starting. Intra-EU non-commercial movement of pet rodents by an accompanying owner needs no import permit and no health certificate; commercial movement uses TRACES.",
-  "last_reviewed": "2026-06-14",
+  "summary": "Finland is permissive for the roof rat, now confirmed in writing by the Finnish authorities (June 2026). Keeping rats as companion or hobby animals needs NO permit or registration under the Animal Welfare Act 693/2023 (specified for small companion and hobby animals by Government Decree 674/2010). There is currently no list of allowed or denied species (one may come later), and Rattus rattus is on neither the EU invasive Union list (Reg. 1143/2014) nor Finland's national invasive list (Decree 1725/2015), so no species-specific ban applies; the Finnish Environment Institute confirmed it is not a CITES species. The only requirement is a NOTIFICATION of activity (not a permit) at commercial scale: selling or handing over small companion animals from at least 7 cages, terraria, or aquaria in regular use, or merely keeping them at 20 or more (Animal Welfare Act Appendix 2). A wild, living-in-the-wild animal may not be taken into possession (captive-bred is fine). Import from another EU country follows standard pet-movement rules; a third-country (for example US) import is handled by the Food Authority's border-control team. Never release.",
+  "last_reviewed": "2026-06-17",
+  "agency_confirmations": [
+    "Finnish Food Authority (Ruokavirasto), Animal Health and Welfare, written reply June 2026: keeping rats as companion or hobby animals requires no permit or registration under the Animal Welfare Act 693/2023 (specified by Government Decree 674/2010). There is currently no list of species allowed or denied as companion animals. A notification of activity is required only at commercial scale: selling or handing over small companion animals (self-bred or not) from at least 7 cages, terraria, or aquaria in regular use, or keeping them at 20 or more (Animal Welfare Act Appendix 2). A wild, living-in-the-wild vertebrate may not be taken into possession.",
+    "Finnish Environment Institute (Syke), CITES authority, written reply June 2026: Rattus rattus is not a CITES species and has no CITES requirements.",
+    "Finnish Food Authority, import/export, June 2026: movement of pet rodents within the EU, Norway, and Switzerland follows the standard import/export rules; a third-country import (for example from the United States) is handled by the Food Authority's border-control team under the usual rabbit-and-rodent import requirements."
+  ],
   "advocacy": {
     "flag": false
   },
@@ -28,8 +33,8 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "Keeping a captive-bred roof rat is lawful. R. rattus is absent from the EU Union list (Reg. 1143/2014; confirmed against Implementing Reg. 2016/1141, whose listed mammals are squirrels, mongoose, muntjac, coypu, coati, raccoon and chipmunk) and from Finland's national invasive decree 1725/2015 (national-concern mammals are alien carnivores, bats and chipmunks). Finland's invasive portal (vieraslajit.fi, SYKE) classes it only as an alien species (vieraslaji), not a harmful invasive alien species (haitallinen vieraslaji), so the keeping ban and eradication duties for listed species do not apply. As a synanthropic rodent it is treated as unprotected (rauhoittamaton) under wildlife law, so no Nature Conservation Act permit is needed. Finland keeps companion animals on a negative-list basis: anything not banned is keepable if welfare needs are met. The Animal Welfare Act 693/2023 and Government Decree 674/2010 apply welfare and housing standards to the rat (rotta) generically, with no distinction from R. norvegicus.",
-      "governing_law": "Laki eläinten hyvinvoinnista 693/2023; Valtioneuvoston asetus 674/2010 (rat husbandry standards); Government Decree 1725/2015 (R. rattus not listed); Reg. (EU) 1143/2014 (not listed); Luonnonsuojelulaki 9/2023 (synanthropic rats unprotected).",
+      "why": "The Finnish Food Authority confirmed (June 2026) that keeping rats as companion or hobby animals requires no permit or registration under the Animal Welfare Act 693/2023 (specified by Government Decree 674/2010). There is currently no allowed/denied species list. A notification of activity is required only if you keep small companion animals at a large scale (at least 20 cages, terraria, or aquaria in regular use). A captive-bred roof rat is fine; a wild, living-in-the-wild animal may not be taken into possession.",
+      "governing_law": "Animal Welfare Act 693/2023 + Government Decree 674/2010 (no permit to keep; notification at >=20 cages, Appendix 2). Finnish Food Authority written reply, June 2026.",
       "source_ids": [
         "fi-awa-693-2023",
         "fi-decree-674-2010",
@@ -37,51 +42,51 @@
         "fi-eu-1143",
         "fi-vieraslajit"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "breed": {
-      "status": "legal_with_permit",
+      "status": "legal",
       "confidence": "high",
-      "why": "Small-scale hobby breeding requires no registration; the breeder is bound only by the welfare and housing standards of the Animal Welfare Act 693/2023 and Decree 674/2010. A notification (ilmoitus) becomes mandatory only at scale. For small companion and hobby animals (which include rats), the Ruokavirasto thresholds are at least 7 cages, terraria or aquaria in regular use for professional/commercial activity, and at least 20 for large-scale non-professional keeping. The notification is filed to Ruokavirasto (via the animal-keeper and facility register) at least 30 days before starting. This is a notification, not a discretionary licence; a dedicated rattery can approach the 20-cage line, so flag it. This threshold is identical for R. norvegicus.",
-      "governing_law": "Laki eläinten hyvinvoinnista 693/2023 (ilmoituksenvarainen eläintenpito); Ruokavirasto notification thresholds (7 / 20 cages, 30 days).",
+      "why": "No breeding permit is required. The Finnish Food Authority confirmed (June 2026) that selling or handing over small companion animals from a self-bred litter triggers only a NOTIFICATION of activity (not a permit), and only at scale: at least 7 cages, terraria, or aquaria in regular use. A hobbyist breeding below that threshold needs nothing beyond the Animal Welfare Act's general duties.",
+      "governing_law": "Animal Welfare Act 693/2023 + Decree 674/2010; notification at >=7 cages for selling self-bred (Appendix 2). Finnish Food Authority, June 2026.",
       "source_ids": [
         "fi-awa-693-2023",
         "fi-ruokavirasto-ilmoitus",
         "fi-ruokavirasto-ilmoitus-info"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "sell_give": {
-      "status": "legal_with_permit",
+      "status": "legal",
       "confidence": "high",
-      "why": "No prohibition on selling or giving captive-bred R. rattus. Casual transfers between hobbyists below the notification threshold are unregulated. The same Ruokavirasto thresholds apply: professional/commercial activity is reached when the operator transfers at least three self-bred litters of cats/dogs/ferrets/rabbits per year, or at least 10 animals per year they did not breed themselves, or runs equivalent regular commercial activity in small companion and hobby animal species using at least 7 cages, terraria or aquaria; large-scale non-professional keeping is reached at 20 or more. At or above the threshold, file the notification to Ruokavirasto 30 days before starting; the premises then enter the keeper register and become subject to welfare inspection. Adoption given free below threshold needs no registration.",
-      "governing_law": "Laki eläinten hyvinvoinnista 693/2023 (ilmoituksenvarainen eläintenpito); Ruokavirasto notification thresholds.",
+      "why": "No dealer permit is required. Selling, handing over, or conveying small companion animals (self-bred or not) triggers only a NOTIFICATION of activity at scale: at least 7 cages, terraria, or aquaria in regular use (Finnish Food Authority, June 2026). Below that, giving or selling a roof rat needs no notification. Free gifting is treated the same way.",
+      "governing_law": "Animal Welfare Act 693/2023 + Decree 674/2010; notification at >=7 cages for selling/handing over (Appendix 2). Finnish Food Authority, June 2026.",
       "source_ids": [
         "fi-awa-693-2023",
         "fi-ruokavirasto-ilmoitus",
         "fi-ruokavirasto-ilmoitus-info"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "transport": {
       "status": "legal",
       "confidence": "high",
-      "why": "Internal transport within Finland carries no species restriction, only the fitness-for-transport welfare rules (Animal Welfare Act 693/2023; EU Reg. 1/2005). No internal health certificate or transit permit is needed. Intra-EU non-commercial movement by an owner accompanying the animals needs no import permit and no health certificate: Ruokavirasto guidance states imports of rodents from EU countries, Norway and Switzerland require neither an import permit nor a veterinary certificate. Customs (Tulli) may inspect for welfare and to confirm the animals are not a listed invasive species; R. rattus is on no invasive list, so the import bans do not apply. Commercial intra-EU trade uses the TRACES system with the rodent intra-trade health certificate (EU Reg. 2016/429); the receiving facility must be a registered Ruokavirasto importer. Extra-EU import requires entry via a Border Control Post with veterinary documentation. Never release a roof rat.",
-      "governing_law": "Ruokavirasto import/movement guidance (rabbits and rodents); EU Reg. 2016/429 (Animal Health Law); EU Reg. 1/2005 (transport); Laki eläinten hyvinvoinnista 693/2023; Reg. (EU) 1143/2014 (not listed, so no import ban).",
+      "why": "Rattus rattus is not a CITES species (Finnish Environment Institute, June 2026), so no CITES paperwork applies. Movement within the EU follows the standard pet-movement rules. A third-country (for example US) import is handled by the Finnish Food Authority's border-control team and follows the usual rabbits-and-rodents import requirements (health/veterinary), not a species-specific bar. Never release a roof rat.",
+      "governing_law": "No CITES (Syke, June 2026); EU pet-movement rules; Finnish Food Authority third-country import requirements (rabbits and rodents).",
       "source_ids": [
         "fi-ruokavirasto-rodents",
         "fi-eu-429",
         "fi-eu-1143"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-06-17",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     }
   },
   "restrictions": [
@@ -190,22 +195,28 @@
   ],
   "contacts": [
     {
-      "agency": "Ruokavirasto (Finnish Food Authority)",
+      "agency": "Ruokavirasto (Finnish Food Authority), Animal Health and Welfare (welfare specialist)",
       "role": "agriculture",
-      "email": "kirjaamo@ruokavirasto.fi",
-      "form_url": "https://www.ruokavirasto.fi/en/about-us/contact-information/",
+      "email": "alisa.matomaki@ruokavirasto.fi",
+      "form_url": "https://www.ruokavirasto.fi/en/",
       "phone": "",
-      "primary": true,
-      "inquiry_language": "en"
+      "primary": true
     },
     {
-      "agency": "Suomen ympäristökeskus (SYKE) / Vieraslajit.fi",
-      "role": "wildlife",
-      "email": "vieraslajit@syke.fi",
-      "form_url": "https://vieraslajit.fi/info/yhteystiedot",
+      "agency": "Ruokavirasto, EU import/export (EU-elain) + third-country border control",
+      "role": "agriculture",
+      "email": "kolmasmaa@ruokavirasto.fi",
+      "form_url": "https://www.ruokavirasto.fi/en/themes/import-and-export/eu-countries-norway-and-switzerland/animals/rabbits-and-rodents/",
       "phone": "",
-      "primary": false,
-      "inquiry_language": "en"
+      "primary": false
+    },
+    {
+      "agency": "Suomen ymparistokeskus (Finnish Environment Institute, Syke), CITES Permits",
+      "role": "wildlife",
+      "email": "cites@syke.fi",
+      "form_url": "",
+      "phone": "",
+      "primary": false
     }
   ]
 }

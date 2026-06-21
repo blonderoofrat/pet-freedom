@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "West Virginia is now DR-verified, and it is one of the cleanest 'legal' cases in the country. The state's wildlife code defines 'wild animals' as native mammals EXCEPT 'house mice or rats' (W. Va. Code 20-1-2) — so the roof rat is excluded from the DNR's captive-wildlife scheme by name, and there is no species trap (R. rattus and R. norvegicus are treated identically). No rodents appear on the Dangerous Wild Animal List (74 CSR 1), and a domesticated rat also meets the Act's 'domestic animal' (genetic-change) exemption. Keeping, breeding, and selling are all unregulated at the state level (the only commercial-breeder law, 19-20-26, covers dogs only). Importing rodents is a minor gray area (the agriculture CVI rules omit rodents but use conflicting 'animal' definitions). Never release one.",
+  "summary": "West Virginia is now DR-verified, and it is one of the cleanest 'legal' cases in the country. The state's wildlife code defines 'wild animals' as native mammals EXCEPT 'house mice or rats' (W. Va. Code 20-1-2), so the roof rat is excluded from the DNR's captive-wildlife scheme by name, and there is no species trap (R. rattus and R. norvegicus are treated identically). No rodents appear on the Dangerous Wild Animal List (74 CSR 1), and a domesticated rat also meets the Act's 'domestic animal' (genetic-change) exemption. Keeping, breeding, and selling are all unregulated at the state level (the only commercial-breeder law, 19-20-26, covers dogs only). Importing rodents is a minor gray area (the agriculture CVI rules omit rodents but use conflicting 'animal' definitions). Never release one.",
   "last_reviewed": "2026-06-10",
   "advocacy": {
     "flag": false
@@ -25,7 +25,7 @@
       "status": "legal",
       "confidence": "high",
       "why": "West Virginia's wildlife code defines 'wild animals' as mammals NATIVE to the state EXCEPT 'house mice or rats' (W. Va. Code 20-1-2). The roof rat is both non-native AND within the 'rats' carve-out, so the DNR has no jurisdiction (no permit, caging, or inspection). It is also not on the Dangerous Wild Animal List (74 CSR 1-3 lists zero rodents), and a domesticated rat independently meets the Act's 'domestic animal' genetic-change exemption (19-34-2).",
-      "governing_law": "W. Va. Code 20-1-2 ('wild animals' except house mice or rats); 74 CSR 1-3 (Dangerous Wild Animal List — no rodents); W. Va. Code 19-34-2 (domestic-animal exemption).",
+      "governing_law": "W. Va. Code 20-1-2 ('wild animals' except house mice or rats); 74 CSR 1-3 (Dangerous Wild Animal List, no rodents); W. Va. Code 19-34-2 (domestic-animal exemption).",
       "source_ids": [
         "wv-20-1-2",
         "wv-74-1-3"
@@ -37,7 +37,7 @@
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "No rodent breeder license exists. West Virginia's commercial-breeding statute (W. Va. Code 19-20-26) regulates dogs only (11+ unsterilized dogs); by expressio unius, rodents are excluded. Even warehouse-scale roof-rat breeding needs no state facility license (federal USDA wholesale rules can still apply — see United States).",
+      "why": "No rodent breeder license exists. West Virginia's commercial-breeding statute (W. Va. Code 19-20-26) regulates dogs only (11+ unsterilized dogs); by expressio unius, rodents are excluded. Even warehouse-scale roof-rat breeding needs no state facility license (federal USDA wholesale rules can still apply, see United States).",
       "governing_law": "W. Va. Code 19-20-26 (dog-breeding only); W. Va. Code 20-1-2 (rats outside wildlife scope).",
       "source_ids": [
         "wv-20-1-2"
@@ -49,7 +49,7 @@
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "No state pet-dealer or pet-shop license exists for rodents (historical exotic-pet-dealer bills failed). Selling or giving roof rats is unregulated at the state level (federal USDA wholesale/sight-unseen rules apply on top — see United States).",
+      "why": "No state pet-dealer or pet-shop license exists for rodents (historical exotic-pet-dealer bills failed). Selling or giving roof rats is unregulated at the state level (federal USDA wholesale/sight-unseen rules apply on top, see United States).",
       "governing_law": "W. Va. Code 20-1-2; W. Va. Code 19-9B (failed dealer bills).",
       "source_ids": [
         "wv-20-1-2",
@@ -62,7 +62,7 @@
     "transport": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "Intrastate transport of a healthy pet is unregulated. For IMPORT, the agriculture CVI rules (W. Va. C.S.R. 61-1-8) mandate Certificates of Veterinary Inspection for many species but omit rodents, while conflicting definitions of 'animal' leave a minor ambiguity — so a CVI may or may not be demanded for a pet rat. Never release a roof rat.",
+      "why": "Intrastate transport of a healthy pet is unregulated. For IMPORT, the agriculture CVI rules (W. Va. C.S.R. 61-1-8) mandate Certificates of Veterinary Inspection for many species but omit rodents, while conflicting definitions of 'animal' leave a minor ambiguity, so a CVI may or may not be demanded for a pet rat. Never release a roof rat.",
       "governing_law": "W. Va. C.S.R. 61-1-8 (CVI on import; rodents omitted); W. Va. Code 19-9-1.",
       "source_ids": [
         "wv-61-1-8",
@@ -80,7 +80,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — it's a non-native species. Local county/municipal ordinances may add limits — check yours.",
+      "summary": "Never release a roof rat, it's a non-native species. Local county/municipal ordinances may add limits, check yours.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -93,21 +93,21 @@
   "sources": [
     {
       "id": "wv-20-1-2",
-      "title": "WV Code §20-1-2 — Definitions ('wild animals' = native mammals EXCEPT house mice or rats)",
+      "title": "WV Code §20-1-2, Definitions ('wild animals' = native mammals EXCEPT house mice or rats)",
       "url": "https://code.wvlegislature.gov/20-1-2/",
       "authority": "West Virginia Legislature",
       "accessed": "2026-06-07"
     },
     {
       "id": "wv-74-1-3",
-      "title": "W. Va. C.S.R. §74-1-3 — Dangerous Wild Animal list (big cats/bears/primates; no rodents)",
+      "title": "W. Va. C.S.R. §74-1-3, Dangerous Wild Animal list (big cats/bears/primates; no rodents)",
       "url": "https://www.law.cornell.edu/regulations/west-virginia/W-Va-C-S-R-SS-74-1-3",
       "authority": "WV Dept of Agriculture (via Cornell LII)",
       "accessed": "2026-06-07"
     },
     {
       "id": "wv-61-1-8",
-      "title": "W. Va. C.S.R. §61-1-8 — Animal Importation (CVI species list; rodents absent)",
+      "title": "W. Va. C.S.R. §61-1-8, Animal Importation (CVI species list; rodents absent)",
       "url": "https://www.law.cornell.edu/regulations/west-virginia/W-Va-C-S-R-SS-61-1-8",
       "authority": "WV Dept of Agriculture (via Cornell LII)",
       "accessed": "2026-06-07"

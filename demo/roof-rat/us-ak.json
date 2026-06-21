@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Alaska is the most restrictive state in the nation for the roof rat — it's flatly PROHIBITED. Alaska uses a 'clean list' (whitelist): only species on 5 AAC 92.029 may be kept without a permit, and the Dept of Fish & Game is barred from issuing a permit for anything not on it. The ONLY rat on the list is the albino lab Norway rat (Rattus norvegicus var. albinus); Rattus rattus appears nowhere. On top of that, 5 AAC 92.141 makes it unlawful to harbor or transport live Muridae rodents (which includes the roof rat) — Alaska runs active 'rat-free' eradication programs. Anchorage adds a city-wide ban on the entire genus Rattus. Keeping/breeding/selling/importing are all prohibited (a class A misdemeanor, up to $25,000).",
+  "summary": "Alaska is the most restrictive state in the nation for the roof rat, it's flatly PROHIBITED. Alaska uses a 'clean list' (whitelist): only species on 5 AAC 92.029 may be kept without a permit, and the Dept of Fish & Game is barred from issuing a permit for anything not on it. The ONLY rat on the list is the albino lab Norway rat (Rattus norvegicus var. albinus); Rattus rattus appears nowhere. On top of that, 5 AAC 92.141 makes it unlawful to harbor or transport live Muridae rodents (which includes the roof rat), Alaska runs active 'rat-free' eradication programs. Anchorage adds a city-wide ban on the entire genus Rattus. Keeping/breeding/selling/importing are all prohibited (a class A misdemeanor, up to $25,000).",
   "last_reviewed": "2026-06-12",
   "advocacy": {
     "flag": true,
@@ -27,13 +27,13 @@
       "time_sensitive": "No proposal window is open now. The Board of Game's site currently shows it is not accepting proposals (the 2026/2027 cycle deadline of May 1, 2026 has passed and covered only certain regions). The next opportunity to file a statewide clean-list proposal is the upcoming statewide cycle, with proposals expected to be due around May 1, 2027. Watch the Board of Game site for the official \"Call for Proposals\" announcement (usually issued by January) and the online submission portal that opens with it. You can also ask to join the Board's notification list to be alerted when the window opens.",
       "targets": [
         {
-          "name": "Alaska Board of Game — Proposal & Public Comment process (Boards Support Section)",
+          "name": "Alaska Board of Game, Proposal & Public Comment process (Boards Support Section)",
           "type": "public_comment",
           "why": "The Board of Game controls the 5 AAC 92.029 clean list and is the ONLY body that can add the roof rat to it. Its public proposal-and-comment process is the correct lever. Submit a proposal (or comment) through the official Board of Game portal when the Call for Proposals opens; until then, ask the Boards Support Section to add you to the notification list so you catch the next window.",
           "form_url": "https://www.adfg.alaska.gov/index.cfm?adfg=gameboard.main"
         },
         {
-          "name": "Alaska Board of Game — regulatory proposal portal (boardofgame.adfg.alaska.gov)",
+          "name": "Alaska Board of Game, regulatory proposal portal (boardofgame.adfg.alaska.gov)",
           "type": "public_comment",
           "why": "This is where the official proposal forms and the online submission option are posted once a Call for Proposals is issued, and where proposal books are opened for public comment. This is the channel through which a clean-list amendment for captive-bred Rattus rattus would actually be filed and commented on.",
           "form_url": "https://www.adfg.alaska.gov/index.cfm?adfg=process.proposal&board=game"
@@ -41,22 +41,22 @@
         {
           "name": "ADF&G Wildlife Permits / Possession program",
           "type": "agency",
-          "why": "Use this ONLY to request a written confirmation of the current status and to be pointed to the Board process — not as a place to win the change. By regulation this office cannot permit an unlisted species, so it cannot grant possession; a note here is useful to get the official statement in writing and to confirm the listing route, which strengthens a future Board proposal.",
+          "why": "Use this ONLY to request a written confirmation of the current status and to be pointed to the Board process, not as a place to win the change. By regulation this office cannot permit an unlisted species, so it cannot grant possession; a note here is useful to get the official statement in writing and to confirm the listing route, which strengthens a future Board proposal.",
           "email": "dfg.dwc.permits@alaska.gov"
         }
       ],
       "template": {
         "en": "To the Alaska Board of Game / Boards Support Section,\n\nI am writing about Alaska's clean list of animals that may be kept as pets, 5 AAC 92.029. I am asking the Board to add the captive-bred, domesticated roof rat (Rattus rattus) to that list as a permitted pet.\n\nThe domesticated albino Norway rat (Rattus norvegicus var. albinus) is already on the list. The pet roof rat is the same kind of animal: captive-bred for generations, hand-tame, kept entirely indoors as a companion, and never released to the wild. The distinction in the regulation is by species, not by whether the animal is domesticated. A tame, captive-bred roof rat poses no more risk than the listed lab rat.\n\nBecause the Department cannot issue a permit for a species the list leaves off, the only path is to amend the list, which is the Board's authority. I respectfully request that captive-bred Rattus rattus be added to 5 AAC 92.029, subject to the same indoor-only, no-release conditions, and I ask to be notified when the next Call for Proposals opens so I may submit a formal proposal.\n\nThank you for your consideration.\n\n[Your name]\n[Your city/region, Alaska]\n[Your email / phone]"
       },
-      "confidence_notes": "Verified on official ADF&G pages (June 2026): (1) the Wildlife Possession page confirms 5 AAC 92.029 is a clean list and states verbatim that if a species is not in section (b), \"the Alaska Department of Fish and Game is forbidden from issuing a permit authorizing anyone to possess it as a pet\" — this is the basis for classifying the case as branch (b)/positive-list and for saying an agency appeal cannot help. (2) The ADF&G permits contact dfg.dwc.permits@alaska.gov (and (907) 465-4148) is the verified official inbox for the possession program. (3) The Board of Game is confirmed as the regulatory body for the list and proposal process; its main page currently states it is NOT accepting proposals, and the prior 2026/2027 cycle deadline (May 1, 2026) has passed. (4) The Boards Support Section central contact is P.O. Box 115526, Juneau, AK 99811-5526, (907) 465-4110, with the official portal at boardofgame.adfg.alaska.gov and the proposal-process page used as form_url. Uncertain/assumptions: the exact next statewide proposal deadline (~May 1, 2027) is projected from the Board's regular cycle, not yet posted — readers should watch for the official Call for Proposals. I did not include any individual civil servant as a target (the Boards staff page lists named executive directors, but per OPSEC only official channels/inboxes are used). The albino-Norway-rat-on-the-list precedent is drawn from the grounding file and consistent with 5 AAC 92.029; it should be cited as the precedent in any actual proposal. Anchorage's separate AMC 16.90.030 genus-Rattus ban is a second, municipal layer not addressed by this state-level kit. This is a research aid, not legal advice."
+      "confidence_notes": "Verified on official ADF&G pages (June 2026): (1) the Wildlife Possession page confirms 5 AAC 92.029 is a clean list and states verbatim that if a species is not in section (b), \"the Alaska Department of Fish and Game is forbidden from issuing a permit authorizing anyone to possess it as a pet\", this is the basis for classifying the case as branch (b)/positive-list and for saying an agency appeal cannot help. (2) The ADF&G permits contact dfg.dwc.permits@alaska.gov (and (907) 465-4148) is the verified official inbox for the possession program. (3) The Board of Game is confirmed as the regulatory body for the list and proposal process; its main page currently states it is NOT accepting proposals, and the prior 2026/2027 cycle deadline (May 1, 2026) has passed. (4) The Boards Support Section central contact is P.O. Box 115526, Juneau, AK 99811-5526, (907) 465-4110, with the official portal at boardofgame.adfg.alaska.gov and the proposal-process page used as form_url. Uncertain/assumptions: the exact next statewide proposal deadline (~May 1, 2027) is projected from the Board's regular cycle, not yet posted, readers should watch for the official Call for Proposals. I did not include any individual civil servant as a target (the Boards staff page lists named executive directors, but per OPSEC only official channels/inboxes are used). The albino-Norway-rat-on-the-list precedent is drawn from the grounding file and consistent with 5 AAC 92.029; it should be cited as the precedent in any actual proposal. Anchorage's separate AMC 16.90.030 genus-Rattus ban is a second, municipal layer not addressed by this state-level kit. This is a research aid, not legal advice."
     }
   },
   "activities": {
     "keep": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "Alaska's clean list (5 AAC 92.029) permits only listed species; the only rat on it is 'White rat Rattus norvegicus Var. albinus.' R. rattus is absent, and ADF&G is legally precluded from issuing a possession permit for an unlisted species. Independently, 5 AAC 92.141 prohibits harboring live Muridae rodents (defined to include true rats — 5 AAC 92.990(49)). ADF&G guidance states only albino rats are legal pets. Prohibited.",
-      "governing_law": "5 AAC 92.029 (clean list — R. rattus absent); 5 AAC 92.141 (Muridae harboring ban); 5 AAC 92.990(49); AS 16.05.920 (class A misdemeanor).",
+      "why": "Alaska's clean list (5 AAC 92.029) permits only listed species; the only rat on it is 'White rat Rattus norvegicus Var. albinus.' R. rattus is absent, and ADF&G is legally precluded from issuing a possession permit for an unlisted species. Independently, 5 AAC 92.141 prohibits harboring live Muridae rodents (defined to include true rats, 5 AAC 92.990(49)). ADF&G guidance states only albino rats are legal pets. Prohibited.",
+      "governing_law": "5 AAC 92.029 (clean list, R. rattus absent); 5 AAC 92.141 (Muridae harboring ban); 5 AAC 92.990(49); AS 16.05.920 (class A misdemeanor).",
       "source_ids": [
         "ak-92-029",
         "ak-92-141",
@@ -95,7 +95,7 @@
     "transport": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "5 AAC 92.141 makes it unlawful to enter Alaska (or operate any conveyance) while harboring live Muridae rodents — the roof rat is named in ADF&G guidance as covered. Import is also barred by the clean list (unlisted species can't be imported; no permit can issue). Class A misdemeanor (up to 1 yr / $25,000). Never release.",
+      "why": "5 AAC 92.141 makes it unlawful to enter Alaska (or operate any conveyance) while harboring live Muridae rodents, the roof rat is named in ADF&G guidance as covered. Import is also barred by the clean list (unlisted species can't be imported; no permit can issue). Class A misdemeanor (up to 1 yr / $25,000). Never release.",
       "governing_law": "5 AAC 92.141 (Muridae transport ban); 5 AAC 92.029; AS 16.05.920; AMC 16.90.030.",
       "source_ids": [
         "ak-92-141",
@@ -116,10 +116,10 @@
         "sell_give",
         "transport"
       ],
-      "summary": "The roof rat is prohibited statewide in Alaska (clean-list exclusion + Muridae harboring ban), and Anchorage bans the whole genus Rattus. Do NOT bring one to Alaska — only the albino lab Norway rat is legal (and even that needs a permit in Anchorage). Violations are a class A misdemeanor (up to 1 year / $25,000). Never release.",
+      "summary": "The roof rat is prohibited statewide in Alaska (clean-list exclusion + Muridae harboring ban), and Anchorage bans the whole genus Rattus. Do NOT bring one to Alaska, only the albino lab Norway rat is legal (and even that needs a permit in Anchorage). Violations are a class A misdemeanor (up to 1 year / $25,000). Never release.",
       "steps": [],
       "forms": [],
-      "where_to_file": "Alaska Dept of Fish & Game — Wildlife Permits",
+      "where_to_file": "Alaska Dept of Fish & Game, Wildlife Permits",
       "fees": "",
       "source_ids": [
         "ak-92-029",
@@ -130,21 +130,21 @@
   "sources": [
     {
       "id": "ak-92-029",
-      "title": "5 AAC 92.029 — Permit for Possessing Live Game (clean list; only 'White rat Rattus norvegicus Var. albinus')",
+      "title": "5 AAC 92.029, Permit for Possessing Live Game (clean list; only 'White rat Rattus norvegicus Var. albinus')",
       "url": "https://www.law.cornell.edu/regulations/alaska/5-AAC-92.029_v2",
       "authority": "Alaska Board of Game / ADF&G (via Cornell LII)",
       "accessed": "2026-06-07"
     },
     {
       "id": "ak-92-141",
-      "title": "5 AAC 92.141 + 92.990(49) — Muridae rodent transport/harboring prohibition (incl. roof rat)",
+      "title": "5 AAC 92.141 + 92.990(49), Muridae rodent transport/harboring prohibition (incl. roof rat)",
       "url": "https://www.adfg.alaska.gov/static/species/nonnative/invasive/pdfs/ak_rodent_laws.pdf",
       "authority": "Alaska Dept of Fish & Game",
       "accessed": "2026-06-07"
     },
     {
       "id": "ak-anchorage",
-      "title": "Anchorage Municipal Code 16.90.030 — genus Rattus banned except research permit",
+      "title": "Anchorage Municipal Code 16.90.030, genus Rattus banned except research permit",
       "url": "https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=972",
       "authority": "Municipality of Anchorage / ADF&G",
       "accessed": "2026-06-07"
@@ -152,7 +152,7 @@
   ],
   "contacts": [
     {
-      "agency": "Alaska Dept of Fish & Game — Wildlife Permits Section",
+      "agency": "Alaska Dept of Fish & Game, Wildlife Permits Section",
       "role": "wildlife",
       "email": "dfg.dwc.permits@alaska.gov",
       "form_url": "https://www.adfg.alaska.gov/index.cfm?adfg=otherlicense.possession",
@@ -160,14 +160,14 @@
       "primary": true
     },
     {
-      "agency": "State of Alaska — Office of the State Veterinarian (Dept of Environmental Conservation)",
+      "agency": "State of Alaska, Office of the State Veterinarian (Dept of Environmental Conservation)",
       "role": "agriculture",
       "email": "akcvi@alaska.gov",
       "form_url": "https://dec.alaska.gov/eh/vet/import/exotics/",
       "phone": "(907) 375-8215"
     },
     {
-      "agency": "Anchorage Health Department — Environmental Health Services",
+      "agency": "Anchorage Health Department, Environmental Health Services",
       "role": "other",
       "email": "wwahd@muni.org",
       "form_url": "https://www.muni.org/Departments/health/Pages/default.aspx",

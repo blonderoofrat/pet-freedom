@@ -17,7 +17,7 @@
       "le 'isumu"
     ]
   },
-  "summary": "American Samoa is effectively a closed door for a pet roof rat. IMPORT is functionally prohibited: the Department of Agriculture's quarantine code (ASAC Title 24, Ch. 3) bans the importation of 'miscellaneous pets' (ASAC 24.0318), the 'domestic animal' import list (ASAC 24.0320) is a closed list of agricultural/working animals that does NOT include any rat, and any non-domestic animal may be imported only with the Governor's prior written permission (ASAC 24.0315) — a waiver that is, in practice, reserved for scientific/laboratory use and essentially never granted for a pet rodent. There is no on-island quarantine facility, so a non-compliant animal is returned to origin at the owner's expense or destroyed. WITHIN the territory there is no wildlife-possession permit scheme for pet rats (keep/breed/sell are not separately licensed), so those activities sit in an unregulated legal void — but that void is legally perilous: ASAC Title 25, Ch. 21 (Rodent Control, ASAC 25.2101) imposes an affirmative duty on every building owner/occupant to eradicate rodents and to deny them food and harborage, with no carve-out for a caged, domesticated rat, and ASAC 24.1104 lists 'rats and mice' as pest species that may be killed at any time without a permit. The code makes NO distinction between wild R. rattus and a captive-bred 'fancy' rat (or even R. norvegicus) — taxonomically indifferent. Maintaining a public-health nuisance after a 10-day abatement notice is a class C misdemeanor (ASAC 25.0107). The traditional matai/village by-law system adds a further enforceable layer on communal land. Never release a roof rat (it is a documented, federally targeted invasive that devastates native Pacific birds).",
+  "summary": "American Samoa is effectively a closed door for a pet roof rat. IMPORT is functionally prohibited: the Department of Agriculture's quarantine code (ASAC Title 24, Ch. 3) bans the importation of 'miscellaneous pets' (ASAC 24.0318), the 'domestic animal' import list (ASAC 24.0320) is a closed list of agricultural/working animals that does NOT include any rat, and any non-domestic animal may be imported only with the Governor's prior written permission (ASAC 24.0315), a waiver that is, in practice, reserved for scientific/laboratory use and essentially never granted for a pet rodent. There is no on-island quarantine facility, so a non-compliant animal is returned to origin at the owner's expense or destroyed. WITHIN the territory there is no wildlife-possession permit scheme for pet rats (keep/breed/sell are not separately licensed), so those activities sit in an unregulated legal void, but that void is legally perilous: ASAC Title 25, Ch. 21 (Rodent Control, ASAC 25.2101) imposes an affirmative duty on every building owner/occupant to eradicate rodents and to deny them food and harborage, with no carve-out for a caged, domesticated rat, and ASAC 24.1104 lists 'rats and mice' as pest species that may be killed at any time without a permit. The code makes NO distinction between wild R. rattus and a captive-bred 'fancy' rat (or even R. norvegicus), taxonomically indifferent. Maintaining a public-health nuisance after a 10-day abatement notice is a class C misdemeanor (ASAC 25.0107). The traditional matai/village by-law system adds a further enforceable layer on communal land. Never release a roof rat (it is a documented, federally targeted invasive that devastates native Pacific birds).",
   "last_reviewed": "2026-06-12",
   "advocacy": {
     "flag": false
@@ -26,8 +26,8 @@
     "keep": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "No wildlife-possession permit or 'banned-to-keep' species statute exists for pet rats, so in-territory keeping is not separately licensed — BUT it is legally perilous, not safely permissive. ASAC 25.2101 (Rodent Control) imposes an affirmative duty on 'every owner, lessee, or occupant of an occupied building' to eradicate rodents 'by poisoning, trapping, fumigation or other appropriate means' and to keep premises 'free from foodstuffs... and other material which may serve as food or harborage for rodents,' with NO carve-out for a caged, domesticated rat — so a clean pet enclosure is textually indistinguishable from an illegal rodent harborage. ASAC 24.1104 separately classifies 'rats and mice' as pest species takeable at any time without a permit. Maintaining a public-health nuisance after a 10-day notice to abate is a class C misdemeanor (ASAC 25.0107). Whether Health actually treats a secure indoor pet as a 'harborage' is the open enforcement question.",
-      "governing_law": "ASAC 25.2101 (Rodent Control — duty to eradicate / no harborage); ASAC 25.0107 (penalty for maintaining a public nuisance after notice); ASAC 24.1104 (rats/mice = pest species, no protective status); ASAC 13.0203(31) (definition of public-health nuisance).",
+      "why": "No wildlife-possession permit or 'banned-to-keep' species statute exists for pet rats, so in-territory keeping is not separately licensed, BUT it is legally perilous, not safely permissive. ASAC 25.2101 (Rodent Control) imposes an affirmative duty on 'every owner, lessee, or occupant of an occupied building' to eradicate rodents 'by poisoning, trapping, fumigation or other appropriate means' and to keep premises 'free from foodstuffs... and other material which may serve as food or harborage for rodents,' with NO carve-out for a caged, domesticated rat, so a clean pet enclosure is textually indistinguishable from an illegal rodent harborage. ASAC 24.1104 separately classifies 'rats and mice' as pest species takeable at any time without a permit. Maintaining a public-health nuisance after a 10-day notice to abate is a class C misdemeanor (ASAC 25.0107). Whether Health actually treats a secure indoor pet as a 'harborage' is the open enforcement question.",
+      "governing_law": "ASAC 25.2101 (Rodent Control, duty to eradicate / no harborage); ASAC 25.0107 (penalty for maintaining a public nuisance after notice); ASAC 24.1104 (rats/mice = pest species, no protective status); ASAC 13.0203(31) (definition of public-health nuisance).",
       "source_ids": [
         "as-asac-25-2101",
         "as-asac-25-0107",
@@ -41,7 +41,7 @@
     "breed": {
       "status": "unregulated_unclear",
       "confidence": "low",
-      "why": "The ASAC contains no statute regulating or licensing the private propagation of small mammals, and no hobbyist-breeder carve-out for non-traditional pets — so breeding is technically unregulated. But it is the most legally hostile of the in-territory activities: intentionally increasing the population of a species the government is actively trying to suppress (ASAC 24.1104 lists rats/mice as pests takeable at will; federal eradication programs are underway) cuts directly against public policy, and breeding still requires keeping, which carries the ASAC 25.2101 harborage problem. A breeding operation would also be exposed to the broad public-health nuisance definition in ASAC 13.0203(31). With no legal way to import founder stock, establishing breeding stock is in any case a practical impossibility.",
+      "why": "The ASAC contains no statute regulating or licensing the private propagation of small mammals, and no hobbyist-breeder carve-out for non-traditional pets, so breeding is technically unregulated. But it is the most legally hostile of the in-territory activities: intentionally increasing the population of a species the government is actively trying to suppress (ASAC 24.1104 lists rats/mice as pests takeable at will; federal eradication programs are underway) cuts directly against public policy, and breeding still requires keeping, which carries the ASAC 25.2101 harborage problem. A breeding operation would also be exposed to the broad public-health nuisance definition in ASAC 13.0203(31). With no legal way to import founder stock, establishing breeding stock is in any case a practical impossibility.",
       "governing_law": "No provision in ASAC Title 24 or 25 licenses/prohibits private rodent breeding; cuts against ASAC 24.1104 (pest species), ASAC 25.2101 (harborage), ASAC 13.0203(31) (nuisance).",
       "source_ids": [
         "as-asac-24-1104",
@@ -55,7 +55,7 @@
     "sell_give": {
       "status": "unregulated_unclear",
       "confidence": "low",
-      "why": "There is no pet-dealer or rodent-specific licensing statute, and the quarantine chapter is silent on the local sale/gifting of an animal already lawfully present — so intra-territory transfer is unaddressed by specific point-of-sale law. Practically, however, selling/gifting a rat transfers the ASAC 25.2101 nuisance/eradication liability to the buyer, and any commercial enterprise would need a general business license from the Department of Commerce (DOC), whose issuance requires compliance with health/environmental rules and would trigger Department of Health / Environmental Quality Commission review — almost certainly denied given the territory's active rat-eradication posture. Because lawful import of founder stock is closed, a commercial breeding/sale operation is practically impossible to establish.",
+      "why": "There is no pet-dealer or rodent-specific licensing statute, and the quarantine chapter is silent on the local sale/gifting of an animal already lawfully present, so intra-territory transfer is unaddressed by specific point-of-sale law. Practically, however, selling/gifting a rat transfers the ASAC 25.2101 nuisance/eradication liability to the buyer, and any commercial enterprise would need a general business license from the Department of Commerce (DOC), whose issuance requires compliance with health/environmental rules and would trigger Department of Health / Environmental Quality Commission review, almost certainly denied given the territory's active rat-eradication posture. Because lawful import of founder stock is closed, a commercial breeding/sale operation is practically impossible to establish.",
       "governing_law": "No ASAC pet-dealer/rodent sale licence (Title 24 / Title 31 silent on non-agricultural small mammals); commercial operation would need a DOC general business license subject to health/environmental compliance; transfer carries ASAC 25.2101 liability.",
       "source_ids": [
         "as-asac-24-quarantine",
@@ -69,8 +69,8 @@
     "transport": {
       "status": "prohibited",
       "confidence": "high",
-      "why": "Importing a roof rat into American Samoa is functionally prohibited. ASAC 24.0318 expressly prohibits the importation of 'miscellaneous pets' — a banned catch-all for non-traditional domestic animals into which pet rodents fall. The 'domestic animals' eligible for routine import are an exhaustive closed list (ASAC 24.0320: ruminants, horses/mules/asses, swine, domestic poultry) that does NOT include any rat. A non-domestic animal may be imported only with 'the prior written permission of the Governor' (ASAC 24.0315) — a waiver realistically reserved for scientific/laboratory imports, not pets. American Samoa has no quarantine facility (unlike Hawaii), so a non-compliant or unauthorized animal is immediately returned to origin at the owner's expense or destroyed. The species is treated firmly as an invasive pest at the border, not as a permissible companion animal. (American Samoa is outside the U.S. customs territory; a shipment routed through a U.S. designated port would also implicate federal USFWS rules, but the territorial import bar is dispositive.) Never release a roof rat.",
-      "governing_law": "ASAC 24.0318 ('miscellaneous pet' importation prohibited); ASAC 24.0320 (closed 'domestic animal' import list — no rat); ASAC 24.0315 (non-domestic animals require the Governor's prior written permission); ASAC 24.0306 (domestic-animal import permit); no on-island quarantine facility.",
+      "why": "Importing a roof rat into American Samoa is functionally prohibited. ASAC 24.0318 expressly prohibits the importation of 'miscellaneous pets', a banned catch-all for non-traditional domestic animals into which pet rodents fall. The 'domestic animals' eligible for routine import are an exhaustive closed list (ASAC 24.0320: ruminants, horses/mules/asses, swine, domestic poultry) that does NOT include any rat. A non-domestic animal may be imported only with 'the prior written permission of the Governor' (ASAC 24.0315), a waiver realistically reserved for scientific/laboratory imports, not pets. American Samoa has no quarantine facility (unlike Hawaii), so a non-compliant or unauthorized animal is immediately returned to origin at the owner's expense or destroyed. The species is treated firmly as an invasive pest at the border, not as a permissible companion animal. (American Samoa is outside the U.S. customs territory; a shipment routed through a U.S. designated port would also implicate federal USFWS rules, but the territorial import bar is dispositive.) Never release a roof rat.",
+      "governing_law": "ASAC 24.0318 ('miscellaneous pet' importation prohibited); ASAC 24.0320 (closed 'domestic animal' import list, no rat); ASAC 24.0315 (non-domestic animals require the Governor's prior written permission); ASAC 24.0306 (domestic-animal import permit); no on-island quarantine facility.",
       "source_ids": [
         "as-asac-24-quarantine",
         "as-faolex-ch03",
@@ -91,13 +91,13 @@
       "summary": "Importing a roof rat into American Samoa is functionally prohibited. Pet rodents fall under the banned 'miscellaneous pet' class (ASAC 24.0318); rats are absent from the closed 'domestic animal' import list (ASAC 24.0320); and a non-domestic animal can enter only with the Governor's prior written permission (ASAC 24.0315), which is realistically reserved for scientific/laboratory imports. There is no quarantine facility, so a non-compliant animal is returned to origin at the owner's expense or destroyed. Do not ship a pet rat to American Samoa expecting entry.",
       "steps": [
         "Treat import as effectively closed: a pet roof rat is a prohibited 'miscellaneous pet' and is not on the domestic-animal import list",
-        "The only theoretical route is the Governor's prior written permission (ASAC 24.0315) — confirm in writing with the Dept of Agriculture Quarantine office before any shipment; expect denial for a pet rodent",
-        "If denied or non-compliant: there is no on-island quarantine, so the animal is returned at your expense or destroyed — do not attempt entry on spec",
+        "The only theoretical route is the Governor's prior written permission (ASAC 24.0315), confirm in writing with the Dept of Agriculture Quarantine office before any shipment; expect denial for a pet rodent",
+        "If denied or non-compliant: there is no on-island quarantine, so the animal is returned at your expense or destroyed, do not attempt entry on spec",
         "Never release a roof rat (documented invasive; active eradication programs)"
       ],
       "forms": [],
-      "where_to_file": "American Samoa Dept of Agriculture — Plant & Animal Quarantine (PAQ) Division (and, for any waiver, the Governor's Office)",
-      "fees": "ASAC 24.0306 domestic-animal import permit nominal fee (N/A in practice — a pet rat is not an importable 'domestic animal')",
+      "where_to_file": "American Samoa Dept of Agriculture, Plant & Animal Quarantine (PAQ) Division (and, for any waiver, the Governor's Office)",
+      "fees": "ASAC 24.0306 domestic-animal import permit nominal fee (N/A in practice, a pet rat is not an importable 'domestic animal')",
       "source_ids": [
         "as-asac-24-quarantine",
         "as-faolex-ch03",
@@ -111,14 +111,14 @@
         "keep",
         "breed"
       ],
-      "summary": "Public-health 'rodent harborage' hazard. ASAC 25.2101 imposes an affirmative duty on every building owner/occupant to eradicate rodents and to keep premises free of food and harborage, with no exemption for a caged domesticated rat — so a pet enclosure can be read as an illegal rodent harborage. ASAC 24.1104 lists rats/mice as pest species takeable at any time without a permit. Maintaining a public-health nuisance after a 10-day notice to abate is a class C misdemeanor (ASAC 25.0107). Keep enclosures secure and sanitary; understand that enforcement could compel removal/destruction of the animal.",
+      "summary": "Public-health 'rodent harborage' hazard. ASAC 25.2101 imposes an affirmative duty on every building owner/occupant to eradicate rodents and to keep premises free of food and harborage, with no exemption for a caged domesticated rat, so a pet enclosure can be read as an illegal rodent harborage. ASAC 24.1104 lists rats/mice as pest species takeable at any time without a permit. Maintaining a public-health nuisance after a 10-day notice to abate is a class C misdemeanor (ASAC 25.0107). Keep enclosures secure and sanitary; understand that enforcement could compel removal/destruction of the animal.",
       "steps": [
         "Understand that no possession permit exists, but the rodent-eradication duty (ASAC 25.2101) can be read to reach a caged pet rat",
         "Keep any rat strictly contained, clean, and odor-free to minimize nuisance-complaint exposure",
         "Confirm with the Dept of Health whether a secure indoor pet enclosure is treated as a regulated 'harborage' before relying on the gap"
       ],
       "forms": [],
-      "where_to_file": "American Samoa Dept of Health — Environmental Health Services",
+      "where_to_file": "American Samoa Dept of Health, Environmental Health Services",
       "fees": "",
       "source_ids": [
         "as-asac-25-2101",
@@ -148,70 +148,70 @@
   "sources": [
     {
       "id": "as-asac-24-quarantine",
-      "title": "ASAC Title 24, Ch. 3 — Quarantine of Pets and Agricultural Products and Animals (24.0306 import permit; 24.0315 Governor's permission for non-domestic; 24.0318 'miscellaneous pet' import ban; 24.0320 closed 'domestic animal' list)",
+      "title": "ASAC Title 24, Ch. 3, Quarantine of Pets and Agricultural Products and Animals (24.0306 import permit; 24.0315 Governor's permission for non-domestic; 24.0318 'miscellaneous pet' import ban; 24.0320 closed 'domestic animal' list)",
       "url": "https://asbar.org/regulation-section/title-24-ecosystem-protection-and-development/chapter-03-quarantine-of-pets-and-agricultural-products-and-animals/",
       "authority": "American Samoa Administrative Code (via ASBAR)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-faolex-ch03",
-      "title": "American Samoa Administrative Code Title 24, Ch. 3 — full text (incl. 24.0320 closed 'domestic animal' definition)",
+      "title": "American Samoa Administrative Code Title 24, Ch. 3, full text (incl. 24.0320 closed 'domestic animal' definition)",
       "url": "https://faolex.fao.org/docs/pdf/ams68618.pdf",
       "authority": "FAO Legal Office archive (FAOLEX)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-asac-24-1104",
-      "title": "ASAC 24.1104 — Taking of pest species ('rats and mice' takeable at any time without a permit); ASAC 24.1101 (definition of 'wildlife')",
+      "title": "ASAC 24.1104, Taking of pest species ('rats and mice' takeable at any time without a permit); ASAC 24.1101 (definition of 'wildlife')",
       "url": "https://asbar.org/regulation/24-1104-taking-of-pest-species/",
       "authority": "American Samoa Administrative Code (via ASBAR)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-asac-25-2101",
-      "title": "ASAC 25.2101 — Duty of owner/lessee/occupant of occupied building to eradicate rodents and deny food/harborage (Rodent Control)",
+      "title": "ASAC 25.2101, Duty of owner/lessee/occupant of occupied building to eradicate rodents and deny food/harborage (Rodent Control)",
       "url": "https://asbar.org/code-annotated/25-2101-duty-of-owner-lessee-or-occupant-of-occupied-building/",
       "authority": "American Samoa Administrative Code (via ASBAR)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-asac-25-0107",
-      "title": "ASAC 25.0107 — Penalty for maintaining/allowing a public nuisance after notice to abate (class C misdemeanor; each day a separate offense)",
+      "title": "ASAC 25.0107, Penalty for maintaining/allowing a public nuisance after notice to abate (class C misdemeanor; each day a separate offense)",
       "url": "https://asbar.org/code-annotated/25-0107-penalty-for-maintaining-or-allowing-public-nuisance-after-notice-to-abate/",
       "authority": "American Samoa Administrative Code (via ASBAR)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-asac-13-0203",
-      "title": "ASAC 13.0203(31) — Definition of a 'nuisance' affecting public health",
+      "title": "ASAC 13.0203(31), Definition of a 'nuisance' affecting public health",
       "url": "https://asbar.org/code-annotated/13-0203-definitions/",
       "authority": "American Samoa Administrative Code (via ASBAR)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-asac-37-0204",
-      "title": "ASAC 37.0204 / 37.0201 — Restrictions on alienation of land; matai system and communal native-land definitions (village by-law enforcement layer)",
+      "title": "ASAC 37.0204 / 37.0201, Restrictions on alienation of land; matai system and communal native-land definitions (village by-law enforcement layer)",
       "url": "https://asbar.org/code-annotated/37-0204-restrictions-on-alienation-of-land/",
       "authority": "American Samoa Administrative Code (via ASBAR)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-pettravel",
-      "title": "American Samoa Pet Import Requirements — 'miscellaneous pets' barred; no quarantine facility; non-compliant animals returned or destroyed",
+      "title": "American Samoa Pet Import Requirements, 'miscellaneous pets' barred; no quarantine facility; non-compliant animals returned or destroyed",
       "url": "https://www.pettravel.com/information/pet-passports/american-samoa-pet-import-requirements/",
       "authority": "PetTravel.com (secondary, summarizing DOA quarantine policy)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-aphis-eradication",
-      "title": "Savana Island Black Rat Eradication Program — Draft Environmental Assessment (Dec 2023): R. rattus active eradication target in American Samoa",
+      "title": "Savana Island Black Rat Eradication Program, Draft Environmental Assessment (Dec 2023): R. rattus active eradication target in American Samoa",
       "url": "https://downloads.regulations.gov/APHIS-2023-0085-0001/content.pdf",
       "authority": "USDA-APHIS (via Regulations.gov)",
       "accessed": "2026-06-12"
     },
     {
       "id": "as-doc",
-      "title": "American Samoa Department of Commerce — business licensing (commercial breeding/retail must comply with health/environmental review)",
+      "title": "American Samoa Department of Commerce, business licensing (commercial breeding/retail must comply with health/environmental review)",
       "url": "https://www.doc.as.gov/",
       "authority": "American Samoa Department of Commerce (ASDOC)",
       "accessed": "2026-06-12"
@@ -219,7 +219,7 @@
   ],
   "contacts": [
     {
-      "agency": "American Samoa Dept of Agriculture — Plant & Animal Quarantine (PAQ) Division",
+      "agency": "American Samoa Dept of Agriculture, Plant & Animal Quarantine (PAQ) Division",
       "role": "agriculture",
       "email": "elsualevai@yahoo.com",
       "form_url": "",
@@ -228,7 +228,7 @@
       "inquiry_language": "en"
     },
     {
-      "agency": "American Samoa Dept of Health — Environmental Health Services",
+      "agency": "American Samoa Dept of Health, Environmental Health Services",
       "role": "other",
       "email": "",
       "form_url": "https://doh.as/",
@@ -237,7 +237,7 @@
       "inquiry_language": "en"
     },
     {
-      "agency": "American Samoa Dept of Marine & Wildlife Resources (DMWR) — Wildlife Division",
+      "agency": "American Samoa Dept of Marine & Wildlife Resources (DMWR), Wildlife Division",
       "role": "wildlife",
       "email": "aquaticeducation@dmwr.as.gov",
       "form_url": "https://dmwr.as.gov/wildlife-division/",

@@ -11,6 +11,18 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.3.0 (2026-06-20)
+
+- **City & county (municipal) layer.** `build.py` now renders a "Local city & county rules" section on a parent
+  jurisdiction page (its city/county children with status badges) and nests cities under states in the hub, so a
+  municipality page is never orphaned. A city is just a jurisdiction JSON with `level:"municipality"` + `parent` =
+  its state id; URLs nest under the state.
+- **Municipal methodology (RUNBOOK new §12):** the 4-state coverage model (presumed / suspected / researched-
+  stricter = full page / researched-not-stricter = reassurance stub), the city-screening rule (only large metros in
+  permissive states with a home-rule signal; skip states that already restrict), and screen-free-first (read the
+  code with a headless fetch or a full-text mirror; escalate to Deep Research only when a code host is unreadable).
+- **Demo refreshed** to include worked city examples so the playground shows the new city layer.
+
 ## 1.2.5 (2026-06-18)
 
 - **RUNBOOK §9 safety guardrail, remediation half: if a flawed inquiry template already went out, audit your

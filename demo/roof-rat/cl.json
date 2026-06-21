@@ -15,7 +15,7 @@
       "rata de los tejados"
     ]
   },
-  "summary": "Chile has no blanket ban on keeping captive-bred rats as pets, and in practice a roof rat is treated like the openly-sold fancy rat (R. norvegicus). Both are established commensal exotics classified as invasive (MMA's 2017 naturalized/invasive catalogue) and cited as 'especie dañina' in the agricultural-pest context, but NO SAG decree under the Ley de Caza (Ley 19.473) formally lists either Rattus species or bans keeping them. The Ley de Caza's wildlife-keeper registry (RNTFS) and criadero licensing are built for genuinely wild/protected exotic fauna (parrots, reptiles), not ubiquitous commensal rodents — so captive-bred pet rats sit in a practical gray zone (neither licensed nor expressly prohibited), and fancy rats are sold across Chilean platforms with no reported enforcement. For R. rattus there's an extra layer: its pest/invasive designation creates theoretical friction with private breeding, though no statute prohibits captive-bred specimens. IMPORT of any live exotic rodent needs a case-by-case SAG Art. 25 internment permit (which SAG could refuse on ecological grounds given the invasive status); internal transport of lawfully-held animals is unregulated. Not CITES-listed. ⚠️ Watch: the MMA is building a formal official invasive-species list under Ley 21.600 (2023) that, if it attaches possession provisions, could flip this to prohibited (Spain-style).",
+  "summary": "Chile has no blanket ban on keeping captive-bred rats as pets, and in practice a roof rat is treated like the openly-sold fancy rat (R. norvegicus). Both are established commensal exotics classified as invasive (MMA's 2017 naturalized/invasive catalogue) and cited as 'especie dañina' in the agricultural-pest context, but NO SAG decree under the Ley de Caza (Ley 19.473) formally lists either Rattus species or bans keeping them. The Ley de Caza's wildlife-keeper registry (RNTFS) and criadero licensing are built for genuinely wild/protected exotic fauna (parrots, reptiles), not ubiquitous commensal rodents, so captive-bred pet rats sit in a practical gray zone (neither licensed nor expressly prohibited), and fancy rats are sold across Chilean platforms with no reported enforcement. For R. rattus there's an extra layer: its pest/invasive designation creates theoretical friction with private breeding, though no statute prohibits captive-bred specimens. IMPORT of any live exotic rodent needs a case-by-case SAG Art. 25 internment permit (which SAG could refuse on ecological grounds given the invasive status); internal transport of lawfully-held animals is unregulated. Not CITES-listed. ⚠️ Watch: the MMA is building a formal official invasive-species list under Ley 21.600 (2023) that, if it attaches possession provisions, could flip this to prohibited (Spain-style).",
   "last_reviewed": "2026-06-11",
   "advocacy": {
     "flag": true,
@@ -27,7 +27,7 @@
       "branch_note": "This is decided by the executive regulator (MMA / SBAP) through formal public-consultation windows. The lever is submitting a comment when a window is open, and writing the MMA, not the courts or Congress. No window is open now; the move is to watch for the next one.",
       "targets": [
         {
-          "name": "Ministerio del Medio Ambiente (MMA) — consulta pública (EEI / Ley 21.600)",
+          "name": "Ministerio del Medio Ambiente (MMA), consulta pública (EEI / Ley 21.600)",
           "type": "public_comment",
           "form_url": "https://consultasciudadanas.mma.gob.cl/",
           "why": "The draft regulation qualifying invasive exotic species and prevention plans is run here for public comment under Ley 21.600. Comment while a window is open."
@@ -49,7 +49,7 @@
     "keep": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "No Chilean statute prohibits a private individual from keeping captive-bred R. rattus. The Ley de Caza (19.473) governs 'fauna silvestre' via RNTFS registration aimed at exotic WILDLIFE (parrots, caimans) — a ubiquitous commensal like R. rattus doesn't neatly fall into that permit pipeline. The MMA EEI catalogue documents R. rattus as naturalized/invasive but prescribes no keeping ban. The strongest signal: R. norvegicus, in the same pest registers, is openly sold. No SAG resolution banning tenencia of captive R. rattus exists.",
+      "why": "No Chilean statute prohibits a private individual from keeping captive-bred R. rattus. The Ley de Caza (19.473) governs 'fauna silvestre' via RNTFS registration aimed at exotic WILDLIFE (parrots, caimans), a ubiquitous commensal like R. rattus doesn't neatly fall into that permit pipeline. The MMA EEI catalogue documents R. rattus as naturalized/invasive but prescribes no keeping ban. The strongest signal: R. norvegicus, in the same pest registers, is openly sold. No SAG resolution banning tenencia of captive R. rattus exists.",
       "governing_law": "Ley 19.473 (Ley de Caza) Arts. 1–5, 26(e); DS 5/1998 (Reglamento); MMA EEI catalogue 2017 (no keeping ban).",
       "source_ids": [
         "cl-ley-caza",
@@ -89,7 +89,7 @@
     "transport": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "IMPORT of any live exotic animal (incl. rodents) needs two SAG authorizations under Ley 19.473 Art. 25: (1) an Exotic Fauna Internment Permit from DIPROREN; and (2) a species-specific zoosanitary protocol from PROPEC — ~60–90 days' notice. ⚠️ Because R. rattus is an established feral pest in Chile, SAG MAY refuse the import permit on ecological grounds (real risk; confirm). Not CITES-listed. INTERNAL transport of lawfully-held pets has no specific permit (Ley Cholito imposes only normal vet care) — practically unregulated. Never release.",
+      "why": "IMPORT of any live exotic animal (incl. rodents) needs two SAG authorizations under Ley 19.473 Art. 25: (1) an Exotic Fauna Internment Permit from DIPROREN; and (2) a species-specific zoosanitary protocol from PROPEC, ~60–90 days' notice. ⚠️ Because R. rattus is an established feral pest in Chile, SAG MAY refuse the import permit on ecological grounds (real risk; confirm). Not CITES-listed. INTERNAL transport of lawfully-held pets has no specific permit (Ley Cholito imposes only normal vet care), practically unregulated. Never release.",
       "governing_law": "Ley 19.473 Art. 25 (exotic-fauna internment permit); SAG DIPROREN/PROPEC protocols; Ley 21.020.",
       "source_ids": [
         "cl-sag-import",
@@ -107,12 +107,12 @@
       "activity": [
         "transport"
       ],
-      "summary": "Keeping a captive-bred roof rat in Chile is in a gray zone (no licence, no express ban — treated like the openly-sold fancy rat). IMPORTING one needs a SAG Art. 25 exotic-fauna internment permit (DIPROREN) + a PROPEC zoosanitary protocol, applied 60–90 days ahead — and SAG could refuse it given R. rattus's invasive status. Internal transport of a lawful animal is unregulated. ⚠️ Watch the MMA's forthcoming EEI list (could add a possession rule). Never release.",
+      "summary": "Keeping a captive-bred roof rat in Chile is in a gray zone (no licence, no express ban, treated like the openly-sold fancy rat). IMPORTING one needs a SAG Art. 25 exotic-fauna internment permit (DIPROREN) + a PROPEC zoosanitary protocol, applied 60–90 days ahead, and SAG could refuse it given R. rattus's invasive status. Internal transport of a lawful animal is unregulated. ⚠️ Watch the MMA's forthcoming EEI list (could add a possession rule). Never release.",
       "steps": [
         "For import: SAG DIPROREN exotic-fauna internment permit (Art. 25) + PROPEC zoosanitary protocol"
       ],
       "forms": [],
-      "where_to_file": "SAG — DIPROREN (import permit) / PROPEC (zoosanitary)",
+      "where_to_file": "SAG, DIPROREN (import permit) / PROPEC (zoosanitary)",
       "fees": "",
       "source_ids": [
         "cl-sag-import"
@@ -123,42 +123,42 @@
   "sources": [
     {
       "id": "cl-ley-caza",
-      "title": "Ley 19.473 (Ley de Caza, 1996) — Arts. 1–5, 25 (internación), 26(e) (especie dañina)",
+      "title": "Ley 19.473 (Ley de Caza, 1996), Arts. 1–5, 25 (internación), 26(e) (especie dañina)",
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=30840",
       "authority": "Biblioteca del Congreso Nacional (BCN)",
       "accessed": "2026-06-08"
     },
     {
       "id": "cl-reglamento",
-      "title": "DS 5/1998 — Reglamento de la Ley de Caza (mod. DS 53)",
+      "title": "DS 5/1998, Reglamento de la Ley de Caza (mod. DS 53)",
       "url": "https://www.sag.gob.cl/sites/default/files/REGLAMENTO_LEY_CAZA_Y_MODIFICACIONES_DS_53.pdf",
       "authority": "SAG",
       "accessed": "2026-06-08"
     },
     {
       "id": "cl-mma-catalogo",
-      "title": "MMA — Catálogo de Especies Exóticas Asilvestradas/Naturalizadas (2017): R. rattus + R. norvegicus naturalized invasives",
+      "title": "MMA, Catálogo de Especies Exóticas Asilvestradas/Naturalizadas (2017): R. rattus + R. norvegicus naturalized invasives",
       "url": "https://especies-exoticas.mma.gob.cl/wp-content/uploads/2018/12/A.1.-Libro_catalogo_especies_exoticas_Asilvetradas_chile_LIB_2017.pdf",
       "authority": "Ministerio del Medio Ambiente",
       "accessed": "2026-06-08"
     },
     {
       "id": "cl-ley-21020",
-      "title": "Ley 21.020 ('Ley Cholito', 2017) — tenencia responsable; breeder/seller registration",
+      "title": "Ley 21.020 ('Ley Cholito', 2017), tenencia responsable; breeder/seller registration",
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=1106037",
       "authority": "BCN",
       "accessed": "2026-06-08"
     },
     {
       "id": "cl-ley-21600",
-      "title": "Ley 21.600 (2023) — crea SBAP; mandates a formal EEI list (not yet gazetted for this)",
+      "title": "Ley 21.600 (2023), crea SBAP; mandates a formal EEI list (not yet gazetted for this)",
       "url": "https://www.bcn.cl/leychile/navegar?idNorma=1195666",
       "authority": "BCN / MMA",
       "accessed": "2026-06-08"
     },
     {
       "id": "cl-sag-import",
-      "title": "SAG — Internación de fauna exótica (Art. 25 permit; DIPROREN; ~60-day timeline) + non-traditional pet protocol (PROPEC)",
+      "title": "SAG, Internación de fauna exótica (Art. 25 permit; DIPROREN; ~60-day timeline) + non-traditional pet protocol (PROPEC)",
       "url": "https://www.sag.gob.cl/ambitos-de-accion/internacion-de-fauna-exotica",
       "authority": "SAG",
       "accessed": "2026-06-08"
@@ -180,7 +180,7 @@
   ],
   "contacts": [
     {
-      "agency": "SAG — División de Protección de Recursos Naturales Renovables (DIPROREN)",
+      "agency": "SAG, División de Protección de Recursos Naturales Renovables (DIPROREN)",
       "role": "wildlife",
       "email": "diproren@sag.gob.cl",
       "form_url": "https://www.sag.gob.cl/ambitos-de-accion/internacion-de-fauna-exotica",
@@ -189,7 +189,7 @@
       "inquiry_language": "es"
     },
     {
-      "agency": "SAG — División de Protección Pecuaria (PROPEC)",
+      "agency": "SAG, División de Protección Pecuaria (PROPEC)",
       "role": "agriculture",
       "email": "propec@sag.gob.cl",
       "form_url": "https://www.sag.gob.cl/ambitos-de-accion/ingreso-de-otros-animales-mascotas-o-de-compania-no-tradicionales",
@@ -198,7 +198,7 @@
       "inquiry_language": "es"
     },
     {
-      "agency": "Ministerio del Medio Ambiente (MMA) — Conservación de Especies",
+      "agency": "Ministerio del Medio Ambiente (MMA), Conservación de Especies",
       "role": "environment",
       "email": "clasificacionespecie@mma.gob.cl",
       "form_url": "https://especies-exoticas.mma.gob.cl/",

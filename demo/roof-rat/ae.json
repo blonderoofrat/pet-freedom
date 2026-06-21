@@ -117,7 +117,7 @@
       ],
       "forms": [
         {
-          "name": "MOCCAE — Import Permit for Live Animals and Birds",
+          "name": "MOCCAE, Import Permit for Live Animals and Birds",
           "url": "https://www.moccae.gov.ae/en/services/import-permit-animals-birds"
         }
       ],
@@ -129,39 +129,39 @@
       ]
     }
   ],
-  "inquiry_focus": "(1) Does the Annex 1 exemption under Federal Law No. 22 of 2016 for 'domesticated rats and mice' apply to Rattus rattus (roof/black rat) kept as captive-bred pets, or only to R. norvegicus — is there a ministerial circular clarifying species scope? (2) For a private individual importing a small number of captive-bred R. rattus as pets, does the MOCCAE live-animal import permit apply, and is a facility/breeding-centre licence required, or is there a private-owner pathway like the cat/dog import permit? (3) For small-scale private hobby breeding/occasional rehoming (no commercial intent), is any MOCCAE or municipality licence required, or does the Annex exemption fully cover private possession without registration?",
+  "inquiry_focus": "(1) Does the Annex 1 exemption under Federal Law No. 22 of 2016 for 'domesticated rats and mice' apply to Rattus rattus (roof/black rat) kept as captive-bred pets, or only to R. norvegicus, is there a ministerial circular clarifying species scope? (2) For a private individual importing a small number of captive-bred R. rattus as pets, does the MOCCAE live-animal import permit apply, and is a facility/breeding-centre licence required, or is there a private-owner pathway like the cat/dog import permit? (3) For small-scale private hobby breeding/occasional rehoming (no commercial intent), is any MOCCAE or municipality licence required, or does the Annex exemption fully cover private possession without registration?",
   "sources": [
     {
       "id": "ae-fl22-annex",
-      "title": "Federal Law No. 22 of 2016 (dangerous animals) + Annex 1 — Rodents: 'All species except domesticated hamsters, guinea pigs, rats and mice'",
+      "title": "Federal Law No. 22 of 2016 (dangerous animals) + Annex 1, Rodents: 'All species except domesticated hamsters, guinea pigs, rats and mice'",
       "url": "https://uaelegislation.gov.ae/en/legislations/1162/regulations/609/download",
       "authority": "UAE Federal Legislation Portal",
       "accessed": "2026-06-07"
     },
     {
       "id": "ae-uae-portal",
-      "title": "u.ae — Banning private ownership of dangerous animals (official summary)",
+      "title": "u.ae, Banning private ownership of dangerous animals (official summary)",
       "url": "https://u.ae/en/information-and-services/environment-and-energy/animal-welfare/banning-private-ownership-of-dangerous-animals",
       "authority": "Official UAE Government Portal",
       "accessed": "2026-06-07"
     },
     {
       "id": "ae-moccae-import",
-      "title": "MOCCAE — Import Permit for Live Animals and Birds (AED 100, 90-day; rodents covered)",
+      "title": "MOCCAE, Import Permit for Live Animals and Birds (AED 100, 90-day; rodents covered)",
       "url": "https://www.moccae.gov.ae/en/services/import-permit-animals-birds",
       "authority": "MOCCAE",
       "accessed": "2026-06-07"
     },
     {
       "id": "ae-moccae-rodentcert",
-      "title": "MOCCAE — Veterinary Health Certificate model for exporting rodents/lagomorphs/reptiles to the UAE",
+      "title": "MOCCAE, Veterinary Health Certificate model for exporting rodents/lagomorphs/reptiles to the UAE",
       "url": "https://www.dkc.ae/docs/MOCCAE_Model_of_Veterinary_Health_Certificate_for_Exporting_Rodents_and_Lagomorphs_and_Reptiles_to_the_UAE.pdf",
       "authority": "MOCCAE (mirrored)",
       "accessed": "2026-06-07"
     },
     {
       "id": "ae-moccae-license",
-      "title": "MOCCAE — License for Practicing Animal Care Activities (breeding/import-export)",
+      "title": "MOCCAE, License for Practicing Animal Care Activities (breeding/import-export)",
       "url": "https://www.moccae.gov.ae/en/services/permit-animal-products-ne",
       "authority": "MOCCAE",
       "accessed": "2026-06-07"

@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Keeping, breeding, and selling a domesticated roof rat is legal in Maryland with no state permit. Maryland's 'dangerous animal' ban (Md. Criminal Law §10-621) lists big cats, bears, primates, and the like — no rodents — and the wildlife regulation (COMAR 08.03.09.03) expressly exempts 'domesticated rats and mice' from any import or possession restriction. No rodent-specific import certificate is mandated (Maryland's CVI/rabies rules cover only livestock, poultry, and dogs/cats/ferrets), though obtaining a general interstate CVI before importing is prudent and worth confirming with the State Veterinarian.",
+  "summary": "Keeping, breeding, and selling a domesticated roof rat is legal in Maryland with no state permit. Maryland's 'dangerous animal' ban (Md. Criminal Law §10-621) lists big cats, bears, primates, and the like, no rodents, and the wildlife regulation (COMAR 08.03.09.03) expressly exempts 'domesticated rats and mice' from any import or possession restriction. No rodent-specific import certificate is mandated (Maryland's CVI/rabies rules cover only livestock, poultry, and dogs/cats/ferrets), though obtaining a general interstate CVI before importing is prudent and worth confirming with the State Veterinarian.",
   "last_reviewed": "2026-06-07",
   "advocacy": {
     "flag": false
@@ -37,7 +37,7 @@
     "breed": {
       "status": "unregulated_unclear",
       "confidence": "high",
-      "why": "§10-621 prohibits 'breed' only for the enumerated dangerous species; rodents are not enumerated. COMAR 08.03.09.03(C) exempts domesticated rats and mice from import/possession restrictions, and no DNR breeder license reaches domesticated rodents. (Federal USDA/AWA dealer licensing is a separate matter triggered only by commercial wholesale/sight-unseen thresholds — see United States.) Gemini DR-verified: private hobby breeding isn't state-regulated (game husbandry licenses cover game birds/mammals, not non-game rodents); county zoning/kennel/pet-shop rules are the layer.",
+      "why": "§10-621 prohibits 'breed' only for the enumerated dangerous species; rodents are not enumerated. COMAR 08.03.09.03(C) exempts domesticated rats and mice from import/possession restrictions, and no DNR breeder license reaches domesticated rodents. (Federal USDA/AWA dealer licensing is a separate matter triggered only by commercial wholesale/sight-unseen thresholds, see United States.) Gemini DR-verified: private hobby breeding isn't state-regulated (game husbandry licenses cover game birds/mammals, not non-game rodents); county zoning/kennel/pet-shop rules are the layer.",
       "governing_law": "Md. Code, Criminal Law §10-621(b)(1); COMAR 08.03.09.03(C).",
       "source_ids": [
         "md-10-621",
@@ -63,8 +63,8 @@
     "transport": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "In-state transport of a domesticated rat is unregulated. For IMPORT, Maryland's rabies-import rule (COMAR 10.06.02.11) applies to dogs/cats/ferrets only, and MDA's admission rules require a CVI for livestock/poultry/dogs/cats/ferrets — there is no pet-rodent category. So no rodent-specific CVI is mandated, but a general interstate CVI is the customary document for any animal crossing state lines (note: since 2019 Maryland no longer accepts the federal APHIS 7001 'small animal' form), so confirm with MDA Animal Health before importing. Gemini DR-verified: importing any companion rodent needs an Interstate CVI issued within 30 days before entry (COMAR 15.14.05.01); private-traveler enforcement is historically lax but the ICVI is mandated.",
-      "governing_law": "COMAR 10.06.02.11 (rabies import — dogs/cats/ferrets); MDA 'Health Requirements Governing the Admission of Animals'; COMAR 08.03.09.03 (DNR import not prohibited for domesticated rats/mice).",
+      "why": "In-state transport of a domesticated rat is unregulated. For IMPORT, Maryland's rabies-import rule (COMAR 10.06.02.11) applies to dogs/cats/ferrets only, and MDA's admission rules require a CVI for livestock/poultry/dogs/cats/ferrets, there is no pet-rodent category. So no rodent-specific CVI is mandated, but a general interstate CVI is the customary document for any animal crossing state lines (note: since 2019 Maryland no longer accepts the federal APHIS 7001 'small animal' form), so confirm with MDA Animal Health before importing. Gemini DR-verified: importing any companion rodent needs an Interstate CVI issued within 30 days before entry (COMAR 15.14.05.01); private-traveler enforcement is historically lax but the ICVI is mandated.",
+      "governing_law": "COMAR 10.06.02.11 (rabies import, dogs/cats/ferrets); MDA 'Health Requirements Governing the Admission of Animals'; COMAR 08.03.09.03 (DNR import not prohibited for domesticated rats/mice).",
       "source_ids": [
         "md-10-06-02-11",
         "md-mda-admit",
@@ -82,12 +82,12 @@
       "activity": [
         "transport"
       ],
-      "summary": "No rodent-specific import certificate is required (Maryland's CVI/rabies rules cover only livestock, poultry, dogs/cats/ferrets), but a general interstate Certificate of Veterinary Inspection is the customary travel document — confirm with MDA Animal Health before importing a pet rat. Maryland no longer accepts the APHIS 7001 small-animal form (use an approved CVI form).",
+      "summary": "No rodent-specific import certificate is required (Maryland's CVI/rabies rules cover only livestock, poultry, dogs/cats/ferrets), but a general interstate Certificate of Veterinary Inspection is the customary travel document, confirm with MDA Animal Health before importing a pet rat. Maryland no longer accepts the APHIS 7001 small-animal form (use an approved CVI form).",
       "steps": [
         "Confirm CVI expectations with MDA Animal Health before interstate movement"
       ],
       "forms": [],
-      "where_to_file": "Maryland Dept of Agriculture — Animal Health Program",
+      "where_to_file": "Maryland Dept of Agriculture, Animal Health Program",
       "fees": "",
       "source_ids": [
         "md-mda-admit"
@@ -99,7 +99,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — it is a non-native species; rehome responsibly.",
+      "summary": "Never release a roof rat, it is a non-native species; rehome responsibly.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -112,21 +112,21 @@
   "sources": [
     {
       "id": "md-10-621",
-      "title": "Md. Code, Criminal Law §10-621 — Dangerous-animal import/possession ban (no rodents listed)",
+      "title": "Md. Code, Criminal Law §10-621, Dangerous-animal import/possession ban (no rodents listed)",
       "url": "https://www.animallaw.info/statute/md-exotic-pets-subtitle-6-crimes-relating-animals",
       "authority": "Md. Code (via MSU Animal Legal & Historical Center)",
       "accessed": "2026-06-06"
     },
     {
       "id": "md-08-03-09-03",
-      "title": "COMAR 08.03.09.03 — exempts 'domesticated rats and mice' from import/possession prohibition",
+      "title": "COMAR 08.03.09.03, exempts 'domesticated rats and mice' from import/possession prohibition",
       "url": "https://regs.maryland.gov/us/md/exec/comar/08.03.09.03",
       "authority": "Maryland DNR (Division of State Documents)",
       "accessed": "2026-06-06"
     },
     {
       "id": "md-10-06-02-11",
-      "title": "COMAR 10.06.02.11 — Importation of Animals (rabies import certificate; dogs/cats/ferrets)",
+      "title": "COMAR 10.06.02.11, Importation of Animals (rabies import certificate; dogs/cats/ferrets)",
       "url": "https://regs.maryland.gov/us/md/exec/comar/10.06.02.11",
       "authority": "Maryland Dept of Health (Division of State Documents)",
       "accessed": "2026-06-06"
@@ -135,7 +135,7 @@
       "id": "md-mda-admit",
       "title": "MDA Health Requirements Governing the Admission of Animals (CVI scope by species)",
       "url": "https://mda.maryland.gov/AnimalHealth/Documents/State%20Regulations%20for%20Maryland%20Updated%20JUL19.pdf",
-      "authority": "Maryland Dept of Agriculture — Animal Health Program",
+      "authority": "Maryland Dept of Agriculture, Animal Health Program",
       "accessed": "2026-06-06"
     }
   ]

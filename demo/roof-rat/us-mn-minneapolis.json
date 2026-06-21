@@ -1,0 +1,96 @@
+{
+  "jurisdiction": {
+    "id": "us-mn-minneapolis",
+    "level": "municipality",
+    "name": "Minneapolis",
+    "parent": "us-mn",
+    "country": "US",
+    "iso": "US-MN",
+    "language": "en",
+    "slug": "minneapolis",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "exotic animal"
+    ]
+  },
+  "summary": "Good news if you live in Minneapolis: we checked, and Minneapolis is no stricter than Minnesota. Minnesota's regulated-animals law (Minn. Stat. 346.155) covers dangerous exotics like big cats, bears, and primates, not rodents, so a pet rat is unregulated statewide. Minneapolis licenses dogs, cats, and ferrets and regulates dangerous and exotic species and reptiles, but imposes no restriction on keeping a pet rat. A pet roof rat is allowed, the same as Minnesota.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Minnesota's regulated-animal statute (Minn. Stat. 346.155) lists dangerous exotic species (large cats, bears, primates, etc.) and does not include rodents, so a pet rat is unregulated at the state level. Minneapolis Title 4 (Animal Care and Control) licenses dogs, cats, and ferrets and regulates dangerous and exotic animals and reptiles, but has no restriction on keeping pet rats. Not stricter than Minnesota.",
+      "governing_law": "Minneapolis Code Title 4 (Animal Care and Control); Minn. Stat. 346.155 (regulated animals; rodents not listed).",
+      "source_ids": [
+        "mpls-title4",
+        "mn-346-155"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction; the state's permissive rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "mpls-title4",
+        "mn-346-155"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "mpls-title4",
+        "mn-346-155"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; the state's rule applies.",
+      "governing_law": "See keep.",
+      "source_ids": [
+        "mpls-title4",
+        "mn-346-155"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "mpls-title4",
+      "title": "Minneapolis Code of Ordinances Title 4 (Animal Care and Control)",
+      "url": "https://library.municode.com/mn/minneapolis/codes/code_of_ordinances?nodeId=COOR_TIT4ANCACO",
+      "authority": "City of Minneapolis, Minnesota",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "mn-346-155",
+      "title": "Minnesota Statutes 346.155 (Possessing regulated animals; rodents not listed)",
+      "url": "https://www.animallaw.info/statute/mn-exotic-pet-346155-possessing-regulated-animals",
+      "authority": "State of Minnesota",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

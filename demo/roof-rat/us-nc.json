@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "North Carolina has NO statewide exotic-pet law. The Wildlife Resources Commission regulates only NATIVE wildlife, and the roof rat is a non-native species, so it is outside the WRC's captivity-license scope; the state Animal Welfare Act's breeder/dealer rules cover only dogs and cats. So keeping, breeding, and selling/giving a captive-bred roof rat is legal at the state level. The one firm state requirement is animal-health: importing a pet rat into NC needs a Certificate of Veterinary Inspection. The decisive variable is LOCAL — North Carolina delegates exotic/dangerous-animal rules to counties and cities, so always check your county/city ordinance.",
+  "summary": "North Carolina has NO statewide exotic-pet law. The Wildlife Resources Commission regulates only NATIVE wildlife, and the roof rat is a non-native species, so it is outside the WRC's captivity-license scope; the state Animal Welfare Act's breeder/dealer rules cover only dogs and cats. So keeping, breeding, and selling/giving a captive-bred roof rat is legal at the state level. The one firm state requirement is animal-health: importing a pet rat into NC needs a Certificate of Veterinary Inspection. The decisive variable is LOCAL, North Carolina delegates exotic/dangerous-animal rules to counties and cities, so always check your county/city ordinance.",
   "last_reviewed": "2026-06-07",
   "advocacy": {
     "flag": true,
@@ -27,21 +27,21 @@
       "time_sensitive": "",
       "targets": [
         {
-          "name": "North Carolina Wildlife Resources Commission — Wildlife Interaction, Regulated Activities & Permits (captivity licenses & permits)",
+          "name": "North Carolina Wildlife Resources Commission, Wildlife Interaction, Regulated Activities & Permits (captivity licenses & permits)",
           "type": "agency",
           "email": "raps@ncwildlife.gov",
           "form_url": "https://www.ncwildlife.gov/connect/contact-us",
-          "why": "This is the official WRC unit that administers wildlife captivity licenses and species-specific permits. Ask it to confirm in writing that a non-native, captive-bred roof rat is not a 'native wild animal' under 15A NCAC 10H.1401 and needs no captivity license — the single most useful state-level clarification."
+          "why": "This is the official WRC unit that administers wildlife captivity licenses and species-specific permits. Ask it to confirm in writing that a non-native, captive-bred roof rat is not a 'native wild animal' under 15A NCAC 10H.1401 and needs no captivity license, the single most useful state-level clarification."
         },
         {
-          "name": "North Carolina Wildlife Resources Commission — Conservation Policy & Analysis (regulations)",
+          "name": "North Carolina Wildlife Resources Commission, Conservation Policy & Analysis (regulations)",
           "type": "agency",
           "email": "regulations@ncwildlife.gov",
           "form_url": "https://www.ncwildlife.gov/connect/contact-us",
           "why": "The WRC's policy/regulations inbox is the right channel for a definitional/jurisdictional clarification or a request for a written interpretation of how the 'wild animal' / 'native' language applies to a non-native pet species. Use if you want a policy-level statement rather than a permit-desk answer."
         },
         {
-          "name": "NCDA&CS Veterinary Division — Office of the State Veterinarian (Import/Export)",
+          "name": "NCDA&CS Veterinary Division, Office of the State Veterinarian (Import/Export)",
           "type": "agency",
           "form_url": "https://www.ncagr.gov/divisions/veterinary/ImportExport",
           "why": "Official state authority on animal-import health rules. Confirm that bringing a pet rat into NC requires only a Certificate of Veterinary Inspection (no State-Veterinarian permit) and that purely in-state movement needs none. Their import/export page is the official touchpoint; phone (919) 707-3250."
@@ -50,7 +50,7 @@
       "template": {
         "en": "Subject: Request to confirm a non-native pet roof rat (Rattus rattus) is outside the captivity-license requirement\n\nDear North Carolina Wildlife Resources Commission,\n\nI keep a domesticated, captive-bred pet roof rat (Rattus rattus). I am writing to ask for a short written confirmation of how existing rules apply, so keepers and local officials are not confused.\n\nMy understanding is that the wildlife captivity license under 15A NCAC 10H.1401 authorizes possession of native wild animals only, and that Rattus rattus is a non-native species and therefore falls outside the Commission's captivity-license jurisdiction. The point is that the species is non-native, not whether the animal is tame.\n\nThese rats are captive-bred, hand-raised, and kept entirely indoors as companion pets. They are never released into the wild.\n\nPlease confirm in writing that a non-native, captive-bred Rattus rattus kept as a pet requires no wildlife captivity license and is outside the Commission's jurisdiction. A clear statement would help keepers comply correctly and prevent local misunderstanding.\n\nThank you for your time.\n\nSincerely,\n[Your name]\n[Your city, North Carolina]\n[Your email]"
       },
-      "confidence_notes": "Verified on the official ncwildlife.gov and ncagr.gov sites (June 2026). The WRC captivity-license page explicitly states the license authorizes possession of \"native wild animals or wild birds\" and excludes non-native animals — directly grounding the \"agency-clarification, not legislation\" branch for the state level. Verified official WRC channels on the live contact-us page: raps@ncwildlife.gov (captivity/permit unit, \"WIRAPS\") and regulations@ncwildlife.gov (Conservation Policy & Analysis); both are official division inboxes, not individual addresses — I deliberately omitted the named staff person the page lists. The general WRC contact page (https://www.ncwildlife.gov/connect/contact-us) is included as the form_url fallback. NOTE: the wrccomments@ncwildlife.gov address in our internal file did NOT appear on the current contact page, so I did not use it as a primary channel and substituted the verified division inboxes instead. The NCDA&CS Veterinary Division Import/Export page is live and is the correct State-Veterinarian touchpoint, though that page does not itself enumerate rodents (it lists other species), so the CVI-for-rodents conclusion rests on the prior research reading of 02 NCAC 52B.0212(f) (the mammal catch-all) rather than on language quoted from the page — worth confirming by phone (919) 707-3250. Statutory citations (G.S. 19A-23 dogs/cats only; G.S. 153A-131 / 160A-187 local delegation; 15A NCAC 10H.1401) come from the prior Gemini-DR-verified research file, not re-verified line-by-line here. The single biggest real-world variable — local county/city ordinances — was not individually checked; that is inherently case-by-case and the kit directs the reader to check their own jurisdiction. This is a research aid, not legal advice.",
+      "confidence_notes": "Verified on the official ncwildlife.gov and ncagr.gov sites (June 2026). The WRC captivity-license page explicitly states the license authorizes possession of \"native wild animals or wild birds\" and excludes non-native animals, directly grounding the \"agency-clarification, not legislation\" branch for the state level. Verified official WRC channels on the live contact-us page: raps@ncwildlife.gov (captivity/permit unit, \"WIRAPS\") and regulations@ncwildlife.gov (Conservation Policy & Analysis); both are official division inboxes, not individual addresses, I deliberately omitted the named staff person the page lists. The general WRC contact page (https://www.ncwildlife.gov/connect/contact-us) is included as the form_url fallback. NOTE: the wrccomments@ncwildlife.gov address in our internal file did NOT appear on the current contact page, so I did not use it as a primary channel and substituted the verified division inboxes instead. The NCDA&CS Veterinary Division Import/Export page is live and is the correct State-Veterinarian touchpoint, though that page does not itself enumerate rodents (it lists other species), so the CVI-for-rodents conclusion rests on the prior research reading of 02 NCAC 52B.0212(f) (the mammal catch-all) rather than on language quoted from the page, worth confirming by phone (919) 707-3250. Statutory citations (G.S. 19A-23 dogs/cats only; G.S. 153A-131 / 160A-187 local delegation; 15A NCAC 10H.1401) come from the prior Gemini-DR-verified research file, not re-verified line-by-line here. The single biggest real-world variable, local county/city ordinances, was not individually checked; that is inherently case-by-case and the kit directs the reader to check their own jurisdiction. This is a research aid, not legal advice.",
       "local_lang": "en"
     }
   },
@@ -58,7 +58,7 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "No NC statute regulates possessing a non-native pet rodent. The WRC captivity license covers only NATIVE wildlife (15A NCAC 10H.1401; G.S. 113-272.5), and R. rattus is non-native, so no captivity license applies. The only possible restriction is a local ordinance under G.S. §153A-131 / §160A-187, which reach only animals 'dangerous to persons or property' — generally not a small pet rat. Check your county/city ordinance. Gemini DR-verified: no state exotic-pet statute (state captivity licenses exclude pet ownership); the binding layer is LOCAL - county/city ordinances may ban/restrict R. rattus as a 'wild/exotic animal' vs a 'customary pet' (N.C. Gen. Stat. 153A-131 / 160A-187).",
+      "why": "No NC statute regulates possessing a non-native pet rodent. The WRC captivity license covers only NATIVE wildlife (15A NCAC 10H.1401; G.S. 113-272.5), and R. rattus is non-native, so no captivity license applies. The only possible restriction is a local ordinance under G.S. §153A-131 / §160A-187, which reach only animals 'dangerous to persons or property', generally not a small pet rat. Check your county/city ordinance. Gemini DR-verified: no state exotic-pet statute (state captivity licenses exclude pet ownership); the binding layer is LOCAL - county/city ordinances may ban/restrict R. rattus as a 'wild/exotic animal' vs a 'customary pet' (N.C. Gen. Stat. 153A-131 / 160A-187).",
       "governing_law": "N.C.G.S. §153A-131 & §160A-187 (local delegation); 15A NCAC 10H.1401 & G.S. 113-272.5 (WRC = native only).",
       "source_ids": [
         "nc-sog",
@@ -72,7 +72,7 @@
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "NC's breeder/dealer licensing (Animal Welfare Act, ch. 19A, art. 3) applies only to dogs and cats (G.S. 19A-23(4)), so breeding rodents triggers no state license. No WRC propagation license applies (R. rattus is non-native, outside WRC scope). Local ordinances could impose kennel/nuisance/numeric limits — check your county/city. Gemini DR-verified: the NC Animal Welfare Act defines 'animal' as dogs/cats only (19A-23(4)) -> rodent breeders are exempt from state licensing/inspection regardless of volume.",
+      "why": "NC's breeder/dealer licensing (Animal Welfare Act, ch. 19A, art. 3) applies only to dogs and cats (G.S. 19A-23(4)), so breeding rodents triggers no state license. No WRC propagation license applies (R. rattus is non-native, outside WRC scope). Local ordinances could impose kennel/nuisance/numeric limits, check your county/city. Gemini DR-verified: the NC Animal Welfare Act defines 'animal' as dogs/cats only (19A-23(4)) -> rodent breeders are exempt from state licensing/inspection regardless of volume.",
       "governing_law": "N.C.G.S. §19A-23(4) (Animal Welfare Act = dogs/cats); 15A NCAC 10H.1401.",
       "source_ids": [
         "nc-19a-23",
@@ -154,7 +154,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — it is a non-native species; rehome responsibly.",
+      "summary": "Never release a roof rat, it is a non-native species; rehome responsibly.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -168,35 +168,35 @@
   "sources": [
     {
       "id": "nc-sog",
-      "title": "UNC School of Government — what local governments may do about exotic/dangerous animals (NC has no general exotic-pet law; WRC regulates native wildlife only)",
+      "title": "UNC School of Government, what local governments may do about exotic/dangerous animals (NC has no general exotic-pet law; WRC regulates native wildlife only)",
       "url": "https://www.sog.unc.edu/resources/faqs/what-may-local-governments-do-protect-public-exotic-and-dangerous-animals-other-dogs-eg-lions-tigers",
       "authority": "UNC School of Government",
       "accessed": "2026-06-06"
     },
     {
       "id": "nc-10h1401",
-      "title": "15A NCAC 10H.1401 — Captivity license definitions (native wildlife only)",
+      "title": "15A NCAC 10H.1401, Captivity license definitions (native wildlife only)",
       "url": "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2010%20-%20wildlife%20resources%20and%20water%20safety/subchapter%20h/15a%20ncac%2010h%20.1401.pdf",
       "authority": "NC Wildlife Resources Commission",
       "accessed": "2026-06-06"
     },
     {
       "id": "nc-153a-131",
-      "title": "N.C.G.S. §153A-131 — Possession or harboring of dangerous animals (county delegation)",
+      "title": "N.C.G.S. §153A-131, Possession or harboring of dangerous animals (county delegation)",
       "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_153A/GS_153A-131.html",
       "authority": "NC General Assembly",
       "accessed": "2026-06-06"
     },
     {
       "id": "nc-19a-23",
-      "title": "N.C.G.S. §19A-23 — Animal Welfare Act definitions (breeder/dealer = dogs & cats only)",
+      "title": "N.C.G.S. §19A-23, Animal Welfare Act definitions (breeder/dealer = dogs & cats only)",
       "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_19A/Article_3.pdf",
       "authority": "NC General Assembly",
       "accessed": "2026-06-06"
     },
     {
       "id": "nc-52b-0212",
-      "title": "02 NCAC 52B.0212 — Importation Requirements: Wild Animals (mammal catch-all CVI)",
+      "title": "02 NCAC 52B.0212, Importation Requirements: Wild Animals (mammal catch-all CVI)",
       "url": "https://www.law.cornell.edu/regulations/north-carolina/02-N-C-Admin-Code-52B-0212",
       "authority": "NCDA&CS State Veterinarian (via Cornell LII)",
       "accessed": "2026-06-06"
@@ -212,7 +212,7 @@
       "primary": true
     },
     {
-      "agency": "NCDA&CS Veterinary Division — Office of the State Veterinarian",
+      "agency": "NCDA&CS Veterinary Division, Office of the State Veterinarian",
       "role": "agriculture",
       "email": "",
       "form_url": "https://www.ncagr.gov/divisions/veterinary/ImportExport",

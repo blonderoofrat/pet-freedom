@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Virginia is one of the clearest 'yes' states for the roof rat. Its wildlife code (4VAC15-20-50) literally names 'Domesticated races of rats (Rattus norvegicus and Rattus rattus)' as DOMESTIC animals — which removes captive-bred pet roof rats from the 'wild animal' and 'nonnative (exotic)' categories and from the Department of Wildlife Resources' permitting. The genus does not appear on the predatory/undesirable nonnative list. So keeping, breeding, and selling/giving a pet roof rat is legal with no wildlife permit. The only conditional requirement is a Certificate of Veterinary Inspection when importing one from out of state for sale, adoption, or breeding (a personal move-in is exempt). Never release one — wild R. rattus is a designated nuisance.",
+  "summary": "Virginia is one of the clearest 'yes' states for the roof rat. Its wildlife code (4VAC15-20-50) literally names 'Domesticated races of rats (Rattus norvegicus and Rattus rattus)' as DOMESTIC animals, which removes captive-bred pet roof rats from the 'wild animal' and 'nonnative (exotic)' categories and from the Department of Wildlife Resources' permitting. The genus does not appear on the predatory/undesirable nonnative list. So keeping, breeding, and selling/giving a pet roof rat is legal with no wildlife permit. The only conditional requirement is a Certificate of Veterinary Inspection when importing one from out of state for sale, adoption, or breeding (a personal move-in is exempt). Never release one, wild R. rattus is a designated nuisance.",
   "last_reviewed": "2026-06-07",
   "advocacy": {
     "flag": false
@@ -25,7 +25,7 @@
       "status": "legal",
       "confidence": "high",
       "why": "Domesticated Rattus rattus is expressly defined as a 'domestic animal' in 4VAC15-20-50 (which lists 'Domesticated races of rats (Rattus norvegicus and Rattus rattus)'), removing it from the 'wild animal' and 'nonnative (exotic) animal' definitions and thus from DWR possession-permit requirements. The genus does not appear on the predatory/undesirable nonnative list (4VAC15-30-40). No permit is required to keep one. Gemini DR-verified: 4VAC15-20-50 explicitly lists 'Domesticated races of rats (R. norvegicus and R. rattus)' as domestic animals (protection applies to captive-bred lineage).",
-      "governing_law": "4VAC15-20-50 (domestic-animal list incl. R. rattus; definitions); 4VAC15-30-40 (permit list — Rattus absent).",
+      "governing_law": "4VAC15-20-50 (domestic-animal list incl. R. rattus; definitions); 4VAC15-30-40 (permit list, Rattus absent).",
       "source_ids": [
         "va-15-20-50",
         "va-15-30-40"
@@ -37,7 +37,7 @@
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "Because the species is a domestic animal outside DWR jurisdiction, breeding needs no DWR wildlife/propagation permit (the breeding restriction in 4VAC15-20-50(B) names only foxes and rabbits, not rats). No species-specific Virginia breeding ban exists. Large-scale commercial breeding could implicate general VDACS animal-dealer/pet-shop provisions and local zoning — activity-scale rules, not species rules. Gemini DR-verified: no state breeder license for companion rodents; only general welfare standards apply.",
+      "why": "Because the species is a domestic animal outside DWR jurisdiction, breeding needs no DWR wildlife/propagation permit (the breeding restriction in 4VAC15-20-50(B) names only foxes and rabbits, not rats). No species-specific Virginia breeding ban exists. Large-scale commercial breeding could implicate general VDACS animal-dealer/pet-shop provisions and local zoning, activity-scale rules, not species rules. Gemini DR-verified: no state breeder license for companion rodents; only general welfare standards apply.",
       "governing_law": "4VAC15-20-50 (domestic-animal status); general commercial-animal provisions, Code of Va. Title 3.2 Subtitle V.",
       "source_ids": [
         "va-15-20-50"
@@ -62,7 +62,7 @@
     "transport": {
       "status": "legal",
       "confidence": "high",
-      "why": "Intrastate transport of a domestic pet rat is unregulated by DWR. For IMPORT from another state, Code of Va. §3.2-5902 requires a Certificate of Veterinary Inspection (dated within 10 days) for a pet animal — but it EXEMPTS animals merely passing through and animals brought in by a resident or someone moving to Virginia, EXCEPT when brought in to offer for public sale, trade, or promotion. So: personal move-in = no CVI; import to sell/adopt-out/breed-for-sale = CVI required. Gemini DR-verified: commercial import needs a CVI issued within 10 days; a resident relocating with a personal pet rat is exempt. Intrastate legal.",
+      "why": "Intrastate transport of a domestic pet rat is unregulated by DWR. For IMPORT from another state, Code of Va. §3.2-5902 requires a Certificate of Veterinary Inspection (dated within 10 days) for a pet animal, but it EXEMPTS animals merely passing through and animals brought in by a resident or someone moving to Virginia, EXCEPT when brought in to offer for public sale, trade, or promotion. So: personal move-in = no CVI; import to sell/adopt-out/breed-for-sale = CVI required. Gemini DR-verified: commercial import needs a CVI issued within 10 days; a resident relocating with a personal pet rat is exempt. Intrastate legal.",
       "governing_law": "Code of Va. §3.2-5902 (CVI for imported pet animals; resident/transit exemptions).",
       "source_ids": [
         "va-3-2-5902",
@@ -113,28 +113,28 @@
   "sources": [
     {
       "id": "va-15-20-50",
-      "title": "4VAC15-20-50 — Definitions; 'Domesticated races of rats (Rattus norvegicus and Rattus rattus)' listed as domestic animals",
+      "title": "4VAC15-20-50, Definitions; 'Domesticated races of rats (Rattus norvegicus and Rattus rattus)' listed as domestic animals",
       "url": "https://law.lis.virginia.gov/admincode/title4/agency15/chapter20/section50/",
       "authority": "Virginia DWR / Code of Virginia",
       "accessed": "2026-06-06"
     },
     {
       "id": "va-15-30-40",
-      "title": "4VAC15-30-40 — Importation, possession, sale of nonnative (exotic) animals (genus Rattus absent; no-liberation clause)",
+      "title": "4VAC15-30-40, Importation, possession, sale of nonnative (exotic) animals (genus Rattus absent; no-liberation clause)",
       "url": "https://law.lis.virginia.gov/admincode/title4/agency15/chapter30/section40/",
       "authority": "Virginia DWR / Code of Virginia",
       "accessed": "2026-06-06"
     },
     {
       "id": "va-15-20-160",
-      "title": "4VAC15-20-160 — Nuisance species designated (wild Black rat / Rattus rattus)",
+      "title": "4VAC15-20-160, Nuisance species designated (wild Black rat / Rattus rattus)",
       "url": "https://law.lis.virginia.gov/admincode/title4/agency15/chapter20/section160/",
       "authority": "Virginia DWR / Code of Virginia",
       "accessed": "2026-06-06"
     },
     {
       "id": "va-3-2-5902",
-      "title": "Code of Va. §3.2-5902 — CVI required for importation of certain pet animals (resident/transit exemptions)",
+      "title": "Code of Va. §3.2-5902, CVI required for importation of certain pet animals (resident/transit exemptions)",
       "url": "https://law.lis.virginia.gov/vacode/title3.2/chapter59/section3.2-5902/",
       "authority": "VDACS / Office of the State Veterinarian",
       "accessed": "2026-06-06"

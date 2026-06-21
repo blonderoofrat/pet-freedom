@@ -184,6 +184,28 @@ information; **commit + back up.**
 
 ---
 
+## 12. City & county (municipal) layer
+
+Some places set pet law at the city or county level, stricter than the state. Handle municipalities as a tiered,
+lazy layer — do NOT try to research every city.
+
+- **The 4-state coverage model.** Every municipality is in one of four states: (1) presumed-permissive, not researched
+  (the default: no page, the state rule applies); (2) suspected maybe-stricter, not yet researched (a candidate);
+  (3) researched and stricter than the state (a FULL city page + advocacy + an inquiry); (4) researched and not stricter
+  (a short "we checked, you're fine" reassurance STUB). Reader questions move a city from 1/2 to 3/4 over time.
+- **City-screening rule.** Only spend effort on LARGE metros in PERMISSIVE states/countries with a home-rule signal
+  (a "wild/exotic animal" ordinance, a reputation for strict pet rules, the boilerplate "all mammals except a
+  white-list" pattern). SKIP any city whose state already restricts the species — the state page already covers it. In
+  practice very few cities are stricter, so the rule keeps the work bounded.
+- **Screen free first.** Read the actual municipal code with a headless-browser fetch (bypasses code-host bot walls) or
+  a full-text legal mirror; escalate to a paid Deep Research only when a code host is genuinely unreadable. "City is
+  silent / same as the state" is a one-fetch answer.
+- **Data + render.** A city is a jurisdiction JSON with `level:"municipality"` and `parent` = its state id (the URL
+  nests under the state). `build.py` renders a "Local city & county rules" section (`child_links_block`) on the parent
+  page and nests cities under states in the hub, so a city page is never orphaned. A reassurance stub is just a city
+  JSON with legal statuses + a "we checked, you're fine" summary; a stricter city is a full page with restrictions +
+  advocacy, like any jurisdiction.
+
 ## The habit: commit + back up after each change
 
 After every meaningful change — a verified jurisdiction, a build, a reply processed — commit and back up.

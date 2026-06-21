@@ -17,7 +17,7 @@
       "ship rat"
     ]
   },
-  "summary": "The Philippines is now DR-verified, and the picture is a permitted-but-burdensome 'wildlife' classification. Because feral Rattus rattus is everywhere, captive-bred pet roof rats fail the Wildlife Act's domestication test ('no genetically similar form in the wild') and default to 'exotic faunal species' under the DENR — unlike the fancy rat (R. norvegicus), which is exempt and managed as a domestic animal by the DA Bureau of Animal Industry. So keeping legally requires a DENR Certificate of Wildlife Registration (CWR), breeding requires a Wildlife Farm Permit (WFP), and selling/giving requires WFP-registered progeny plus paperwork (no hobbyist exemption). Transport/import layers DA-BAI and DENR permits on top. In practice, enforcement against hobbyists is negligible and a 'vermin' sanitation overlay (PD 856) adds ambiguity — but on the letter of the law, the permits are required.",
+  "summary": "The Philippines is now DR-verified, and the picture is a permitted-but-burdensome 'wildlife' classification. Because feral Rattus rattus is everywhere, captive-bred pet roof rats fail the Wildlife Act's domestication test ('no genetically similar form in the wild') and default to 'exotic faunal species' under the DENR, unlike the fancy rat (R. norvegicus), which is exempt and managed as a domestic animal by the DA Bureau of Animal Industry. So keeping legally requires a DENR Certificate of Wildlife Registration (CWR), breeding requires a Wildlife Farm Permit (WFP), and selling/giving requires WFP-registered progeny plus paperwork (no hobbyist exemption). Transport/import layers DA-BAI and DENR permits on top. In practice, enforcement against hobbyists is negligible and a 'vermin' sanitation overlay (PD 856) adds ambiguity, but on the letter of the law, the permits are required.",
   "last_reviewed": "2026-06-09",
   "advocacy": {
     "flag": true,
@@ -29,13 +29,13 @@
       "time_sensitive": "House Bill 7232, the \"Revised Wildlife Resources Conservation and Protection Act,\" was filed 21 January 2026 in the 20th Congress and is moving through the House; it expressly covers exotic species bred or cultured in captivity. While this rewrite of the Wildlife Act is pending in committee, there is a live window to ask that captive-bred, domesticated companion rodents be recognized as domestic animals (or given a light registration tier) rather than full exotic wildlife. Confirm the bill's current committee stage on congress.gov.ph before writing, since status can change.",
       "targets": [
         {
-          "name": "House of Representatives of the Philippines — Find/Contact Your Representative (House Members directory)",
+          "name": "House of Representatives of the Philippines, Find/Contact Your Representative (House Members directory)",
           "type": "legislature",
           "form_url": "https://www.congress.gov.ph/house-members/",
-          "why": "Primary lever. The definition that catches domesticated R. rattus lives in the law/IRR, so durable change runs through Congress. Use this official directory to find your district representative (and the Committee on Natural Resources) and ask, while House Bill 7232 — the Revised Wildlife Act — is pending, that captive-bred domesticated companion rodents be recognized as domestic animals or given a light registration tier."
+          "why": "Primary lever. The definition that catches domesticated R. rattus lives in the law/IRR, so durable change runs through Congress. Use this official directory to find your district representative (and the Committee on Natural Resources) and ask, while House Bill 7232, the Revised Wildlife Act, is pending, that captive-bred domesticated companion rodents be recognized as domestic animals or given a light registration tier."
         },
         {
-          "name": "DENR — Biodiversity Management Bureau (BMB), Wildlife Resources Division (official contact page)",
+          "name": "DENR, Biodiversity Management Bureau (BMB), Wildlife Resources Division (official contact page)",
           "type": "agency",
           "form_url": "https://www.bmb.gov.ph/contact/",
           "email": "wrd@bmb.gov.ph",
@@ -45,7 +45,7 @@
       "template": {
         "en": "Subject: Recognize captive-bred pet roof rats (Rattus rattus) as domestic companion animals\n\nDear [Office of Representative / DENR-BMB Wildlife Resources Division],\n\nI am writing as a Filipino keeper of domesticated pet rats to ask for fairer treatment of the captive-bred pet roof rat (Rattus rattus).\n\nUnder the rules implementing RA 9147, a species is domesticated only if it has no genetically similar form in the wild. Because feral roof rats are everywhere, the tame, captive-bred pet line is pushed into the exotic-wildlife system (a Certificate of Wildlife Registration to keep, a Wildlife Farm Permit to breed or rehome), while the equally non-native fancy rat (Rattus norvegicus) is treated as an ordinary companion animal under the Bureau of Animal Industry.\n\nThis is a difference in wording, not in the animals. The test asks whether a wild population exists, but that is not what makes an animal domestic. The dog descends from the wolf and the house cat from a wild felid, both with wild relatives still living, yet we treat them as domestic because domestication, not the absence of a wild ancestor, defines a domestic species. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over. Our roof rats are domesticated in that sense: captive-bred over many generations, tame, raised indoors, never taken from the wild, and never released.\n\nI ask that captive-bred, domesticated R. rattus be recognized as a domestic companion animal like the fancy rat, or, short of that, that a lightweight registration tier be created for keeping one and for passing offspring to another keeper without a full Wildlife Farm Permit. The test should be whether the animal is genuinely domesticated and captive-bred.\n\n[For the legislator:] I would be grateful if you would raise this as House Bill 7232 (Revised Wildlife Resources Conservation and Protection Act) is considered.\n[For DENR-BMB:] I would also welcome a written determination of how this species is currently classified.\n\nThank you for your consideration.\n\nRespectfully,\n[Your name]\n[Your city/province]\n[Your email / contact]"
       },
-      "confidence_notes": "VERIFIED via web search (June 2026): (1) DENR-BMB official contact page https://www.bmb.gov.ph/contact/ and the Wildlife Resources Division email wrd@bmb.gov.ph plus general inbox bmb@bmb.gov.ph — corroborated across bmb.gov.ph and independent directories; the bmb.gov.ph/contact/ page returned HTTP 403 to my automated fetch but is the live official URL and resolves in a browser. (2) BMB/DENR is the authority for the Certificate of Wildlife Registration for exotic pets (confirmed via the government FOI portal and PAWS FAQ). (3) Pending legislation: House Bill 7232, \"Revised Wildlife Resources Conservation and Protection Act,\" filed 21 January 2026 (20th Congress), expressly covers exotic species bred/cultured in captivity — confirmed via the official hrep.online legisdocs PDF listing and search results; I could not extract the full bill text (binary PDF) or pin its exact current committee stage, so the letter says to confirm status on congress.gov.ph first. (4) Official \"find your representative\" channel = congress.gov.ph/house-members/ (House Members directory). GROUNDED but not independently re-verified line-by-line from the source statute: the domestication test wording (\"no genetically similar form in the wild,\" Joint IRR Rule 1.1(nn)) and the fancy-rat (R. norvegicus) BAI-managed exemption come from the project's prior Gemini-DR-verified research in ph.json, not re-derived here. The \"vermin\"/PD 856 overlay and near-zero hobbyist enforcement are real but create legal ambiguity, not a safe harbor — the letter accordingly asks for a written determination. No individual civil servants are named. This is a research aid, not legal advice.",
+      "confidence_notes": "VERIFIED via web search (June 2026): (1) DENR-BMB official contact page https://www.bmb.gov.ph/contact/ and the Wildlife Resources Division email wrd@bmb.gov.ph plus general inbox bmb@bmb.gov.ph, corroborated across bmb.gov.ph and independent directories; the bmb.gov.ph/contact/ page returned HTTP 403 to my automated fetch but is the live official URL and resolves in a browser. (2) BMB/DENR is the authority for the Certificate of Wildlife Registration for exotic pets (confirmed via the government FOI portal and PAWS FAQ). (3) Pending legislation: House Bill 7232, \"Revised Wildlife Resources Conservation and Protection Act,\" filed 21 January 2026 (20th Congress), expressly covers exotic species bred/cultured in captivity, confirmed via the official hrep.online legisdocs PDF listing and search results; I could not extract the full bill text (binary PDF) or pin its exact current committee stage, so the letter says to confirm status on congress.gov.ph first. (4) Official \"find your representative\" channel = congress.gov.ph/house-members/ (House Members directory). GROUNDED but not independently re-verified line-by-line from the source statute: the domestication test wording (\"no genetically similar form in the wild,\" Joint IRR Rule 1.1(nn)) and the fancy-rat (R. norvegicus) BAI-managed exemption come from the project's prior Gemini-DR-verified research in ph.json, not re-derived here. The \"vermin\"/PD 856 overlay and near-zero hobbyist enforcement are real but create legal ambiguity, not a safe harbor, the letter accordingly asks for a written determination. No individual civil servants are named. This is a research aid, not legal advice.",
       "local_lang": "en"
     }
   },
@@ -53,7 +53,7 @@
     "keep": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "The Philippines treats Rattus rattus as an 'exotic faunal species' under the Wildlife Act (RA 9147): it fails the domestication test in the Joint IRR (Rule 1.1(nn)) — a domesticated species must have 'no genetically similar form in the wild', and feral R. rattus is ubiquitous — so captive-bred pet roof rats are not exempt (unlike fancy R. norvegicus). Keeping legally requires a DENR Certificate of Wildlife Registration (CWR) with proof of legal acquisition. In practice enforcement against hobbyists is negligible and a 'vermin' overlay (Sanitation Code, PD 856) muddies it, but the letter of the law requires the permit.",
+      "why": "The Philippines treats Rattus rattus as an 'exotic faunal species' under the Wildlife Act (RA 9147): it fails the domestication test in the Joint IRR (Rule 1.1(nn)), a domesticated species must have 'no genetically similar form in the wild', and feral R. rattus is ubiquitous, so captive-bred pet roof rats are not exempt (unlike fancy R. norvegicus). Keeping legally requires a DENR Certificate of Wildlife Registration (CWR) with proof of legal acquisition. In practice enforcement against hobbyists is negligible and a 'vermin' overlay (Sanitation Code, PD 856) muddies it, but the letter of the law requires the permit.",
       "governing_law": "RA 9147 ss.6,27; DENR DAO 2004-62 (CWR for non-threatened exotic fauna); Joint IRR Rule 1.1(nn) (domestication test).",
       "source_ids": [
         "ph-ra9147",
@@ -81,7 +81,7 @@
     "sell_give": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "Only WFP-registered progenies may be commercially traded (RA 9147 s.27). There is NO small-breeder/hobbyist exemption — even a free transfer technically requires a notarized deed of donation and a new CWR for the recipient, or the animal becomes 'illegal wildlife'. Enforcement against small hobbyist trades is historically negligible, but it is strictly illegal without the permit.",
+      "why": "Only WFP-registered progenies may be commercially traded (RA 9147 s.27). There is NO small-breeder/hobbyist exemption, even a free transfer technically requires a notarized deed of donation and a new CWR for the recipient, or the animal becomes 'illegal wildlife'. Enforcement against small hobbyist trades is historically negligible, but it is strictly illegal without the permit.",
       "governing_law": "RA 9147 s.27; DENR DAO 2004-55 / 2004-62 (registered progeny + WFP for trade).",
       "source_ids": [
         "ph-ra9147",
@@ -115,7 +115,7 @@
         "breed",
         "sell_give"
       ],
-      "summary": "On a plain reading of RA 9147, a captive roof rat is an 'exotic species' needing DENR-BMB registration (a CWR to keep/hobby-breed; a Wildlife Farm Permit to sell commercially). In practice rats are also 'vermin' (PD 856) and pet rats are sold openly with no recorded enforcement — a grey zone. Get a DENR-BMB determination before relying on either reading. Import: BAI SPSIC + DENR exotic-species clearance. Never release.",
+      "summary": "On a plain reading of RA 9147, a captive roof rat is an 'exotic species' needing DENR-BMB registration (a CWR to keep/hobby-breed; a Wildlife Farm Permit to sell commercially). In practice rats are also 'vermin' (PD 856) and pet rats are sold openly with no recorded enforcement, a grey zone. Get a DENR-BMB determination before relying on either reading. Import: BAI SPSIC + DENR exotic-species clearance. Never release.",
       "steps": [
         "Ask DENR-BMB whether commensal R. rattus needs a CWR or is exempt as 'vermin'",
         "For commercial breeding/sale: apply for a Wildlife Farm Permit (WFP)",
@@ -130,46 +130,46 @@
       ]
     }
   ],
-  "inquiry_focus": "(1) Is Rattus rattus (introduced commensal pest) classified as an 'exotic species' requiring a Certificate of Wildlife Registration under RA 9147 + DAO 2004-62 for private hobbyist possession of captive-bred animals, or does its 'vermin' status under PD 856 remove it from DENR-BMB jurisdiction? Any administrative ruling/species determination? (2) For a hobbyist keeping/breeding captive-bred R. rattus (non-commercial), what permit applies — CWR, WFP, or other — and may progeny be given to other registered hobbyists without a WFP? (3) (BAI) What clearances/veterinary screening apply to importing captive-bred R. rattus, and does the post-COVID rodent viral-screening requirement apply?",
+  "inquiry_focus": "(1) Is Rattus rattus (introduced commensal pest) classified as an 'exotic species' requiring a Certificate of Wildlife Registration under RA 9147 + DAO 2004-62 for private hobbyist possession of captive-bred animals, or does its 'vermin' status under PD 856 remove it from DENR-BMB jurisdiction? Any administrative ruling/species determination? (2) For a hobbyist keeping/breeding captive-bred R. rattus (non-commercial), what permit applies, CWR, WFP, or other, and may progeny be given to other registered hobbyists without a WFP? (3) (BAI) What clearances/veterinary screening apply to importing captive-bred R. rattus, and does the post-COVID rodent viral-screening requirement apply?",
   "sources": [
     {
       "id": "ph-ra9147",
-      "title": "RA 9147 — Wildlife Resources Conservation and Protection Act (2001): Secs. 5 (exotic species), 6 (possession), 27 (illegal acts)",
+      "title": "RA 9147, Wildlife Resources Conservation and Protection Act (2001): Secs. 5 (exotic species), 6 (possession), 27 (illegal acts)",
       "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9147_2001.html",
       "authority": "Republic of the Philippines (LawPhil)",
       "accessed": "2026-06-08"
     },
     {
       "id": "ph-dao-2004-62",
-      "title": "DENR DAO 2004-62 — registration of threatened/non-threatened/exotic faunal species (CWR; fees)",
+      "title": "DENR DAO 2004-62, registration of threatened/non-threatened/exotic faunal species (CWR; fees)",
       "url": "https://elibrary.bmb.gov.ph/elibrary/wp-content/uploads/2023/05/dao2004-62.pdf",
       "authority": "DENR-BMB",
       "accessed": "2026-06-08"
     },
     {
       "id": "ph-dao-2004-55",
-      "title": "DENR DAO 2004-55 — RA 9147 implementing guidelines (Wildlife Farm Permit; sale rules)",
+      "title": "DENR DAO 2004-55, RA 9147 implementing guidelines (Wildlife Farm Permit; sale rules)",
       "url": "https://www.pntr.gov.ph/wp-content/uploads/2021/04/AO-5504.pdf",
       "authority": "DENR",
       "accessed": "2026-06-08"
     },
     {
       "id": "ph-pd856",
-      "title": "PD 856 — Code on Sanitation, Ch. XVI Vermin Control (rats classified vermin)",
+      "title": "PD 856, Code on Sanitation, Ch. XVI Vermin Control (rats classified vermin)",
       "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/39796",
       "authority": "Republic of the Philippines (Supreme Court E-Library)",
       "accessed": "2026-06-08"
     },
     {
       "id": "ph-bai-import",
-      "title": "BAI — Pet Import (Sanitary & Phytosanitary Import Clearance; rodent viral screening)",
+      "title": "BAI, Pet Import (Sanitary & Phytosanitary Import Clearance; rodent viral screening)",
       "url": "https://www.bai.gov.ph/Stakeholders/PetImport",
       "authority": "Bureau of Animal Industry (DA)",
       "accessed": "2026-06-08"
     },
     {
       "id": "ph-bai-localship",
-      "title": "BAI — One-Time Local Shipping Permit for live animals (internal transport) + AO 19",
+      "title": "BAI, One-Time Local Shipping Permit for live animals (internal transport) + AO 19",
       "url": "https://nvqsd.bai.gov.ph/Admin/ONE%20TIME%20LOCAL%20PDF.pdf",
       "authority": "BAI-NVQSD",
       "accessed": "2026-06-08"
@@ -177,7 +177,7 @@
   ],
   "contacts": [
     {
-      "agency": "DENR — Biodiversity Management Bureau (BMB), Wildlife Resources Division",
+      "agency": "DENR, Biodiversity Management Bureau (BMB), Wildlife Resources Division",
       "role": "wildlife",
       "email": "wrd@bmb.gov.ph",
       "form_url": "https://www.bmb.gov.ph/contact/",
@@ -186,7 +186,7 @@
       "inquiry_language": "en"
     },
     {
-      "agency": "Bureau of Animal Industry (BAI) — National Veterinary Quarantine Services Division",
+      "agency": "Bureau of Animal Industry (BAI), National Veterinary Quarantine Services Division",
       "role": "agriculture",
       "email": "nvqsd@bai.gov.ph",
       "form_url": "https://www.bai.gov.ph/Stakeholders/PetImport",

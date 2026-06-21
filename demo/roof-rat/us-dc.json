@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Washington, D.C. uses a closed 'prohibited-unless-listed' scheme (D.C. Code §8-1808): you may not keep, breed, sell, give, or import any animal that isn't on a short permitted list. Ordinary pet rodents ARE allowed because the list includes 'domesticated rodents and rabbits' — which covers the fancy rat, mouse, hamster, etc. The unresolved question is whether a captive-bred roof rat counts as a 'domesticated rodent': the term is undefined, and D.C. separately runs an aggressive rodent-control program that treats R. rattus as a pest. So a roof rat's status as a D.C. pet is genuinely unclear and leans restricted — a written determination from DC Health is the necessary next step.",
+  "summary": "Washington, D.C. uses a closed 'prohibited-unless-listed' scheme (D.C. Code §8-1808): you may not keep, breed, sell, give, or import any animal that isn't on a short permitted list. Ordinary pet rodents ARE allowed because the list includes 'domesticated rodents and rabbits', which covers the fancy rat, mouse, hamster, etc. The unresolved question is whether a captive-bred roof rat counts as a 'domesticated rodent': the term is undefined, and D.C. separately runs an aggressive rodent-control program that treats R. rattus as a pest. So a roof rat's status as a D.C. pet is genuinely unclear and leans restricted, a written determination from DC Health is the necessary next step.",
   "last_reviewed": "2026-06-07",
   "advocacy": {
     "flag": true,
@@ -27,7 +27,7 @@
       "time_sensitive": "",
       "targets": [
         {
-          "name": "DC Health (Department of Health) — Animal Services Program",
+          "name": "DC Health (Department of Health), Animal Services Program",
           "type": "agency",
           "why": "DC Health administers D.C. Code Sec. 8-1808 and the permitted-animal categories, so it is the body with authority to interpret the undefined term 'domesticated rodents' and to confirm in writing that a captive-bred pet roof rat falls inside the permitted category. This is the fastest path because a favorable reading needs no law change. Use the general DC Health inquiry channel (the 'Ask the Director' form on dchealth.dc.gov) or the verified general inbox doh@dc.gov; phone (202) 442-5955.",
           "email": "doh@dc.gov",
@@ -36,21 +36,21 @@
         {
           "name": "Council of the District of Columbia (via the official Council Directory / find-your-councilmember)",
           "type": "legislature",
-          "why": "Because 'domesticated rodent' is undefined in the statute itself, the durable backstop — if DC Health declines to confirm informally — is a short statutory definition (or authorization for a defining rule) making clear that captive-bred rodent lines kept as pets are 'domesticated rodents.' Residents can find and contact their ward and at-large councilmembers through the official directory.",
+          "why": "Because 'domesticated rodent' is undefined in the statute itself, the durable backstop, if DC Health declines to confirm informally, is a short statutory definition (or authorization for a defining rule) making clear that captive-bred rodent lines kept as pets are 'domesticated rodents.' Residents can find and contact their ward and at-large councilmembers through the official directory.",
           "form_url": "https://dccouncil.gov/council-directory/"
         }
       ],
       "template": {
         "en": "To: DC Health, Animal Services Program\n\nSubject: Request for written confirmation that a captive-bred pet roof rat is a permitted \"domesticated rodent\" under D.C. Code Sec. 8-1808(j)(1)(C)\n\nDear DC Health,\n\nI am a District resident writing about how the permitted-animal category in D.C. Code Sec. 8-1808(j)(1)(C), \"domesticated rodents and rabbits,\" applies to captive-bred pet roof rats (Rattus rattus). That phrase is not defined in the statute, and the District publishes no species list, so the status of these pets is unclear.\n\nThe animals I am asking about are captive-bred for many generations, fully tame, kept indoors as household pets, and never released. In husbandry they are the same kind of domesticated pet rodent as the fancy rat, mouse, or hamster the law already permits. The question is the species' wild relatives, not the animal's domestication. The wild roof rat the rodent-control program targets is a separate matter.\n\nI respectfully ask DC Health to confirm in writing that a captive-bred, indoor-only pet roof rat is a \"domesticated rodent\" within Sec. 8-1808(j)(1)(C). If the Department reads the term more narrowly, I ask what determination or rulemaking pathway would let a resident keep one lawfully, and I ask the Department to consider defining \"domesticated rodent\" to include established captive-bred lines kept as pets.\n\nThank you for your time.\n\nSincerely,\n[Your name]\n[Your address / Ward]\n[Your email]"
       },
-      "confidence_notes": "Verified against the live statute on the DC Law Library (code.dccouncil.gov): D.C. Code Sec. 8-1808(j)(1) is a closed permitted-list scheme, and subsection (j)(1)(C) permits \"domesticated rodents and rabbits.\" The prohibited verbs were confirmed as \"import into the District, possess, display, offer for sale, trade, barter, exchange, or adoption, or give as a household pet.\" IMPORTANT CORRECTION to prior internal notes: the live statute contains NO size threshold (no \"larger than a guinea pig\" language) tied to the rodent category — the kit does not rely on that. The term \"domesticated rodent\" is genuinely undefined and D.C. publishes no species list; that is the real crux, and it is what makes this an agency-interpretation (clarification) case rather than a fight-the-statute case. DC Health contacts verified via dchealth.dc.gov: general inbox doh@dc.gov and general line (202) 442-5955 are confirmed official; an \"Ask the Director\"/contact form exists on the DC Health site (I provide the contact-page URL rather than a deep-linked form, since the exact form path was not independently loadable — the form_url should be treated as the DC Health contact landing point). The direct Animal Services page returned HTTP 403 to automated fetch, but the email/phone were corroborated across multiple official search snippets. DC Council Directory (dccouncil.gov/council-directory/) confirmed as the official find-your-representative page. No individual civil servant is named anywhere. No live bill, pending list, or open comment window was found, so time_sensitive is left empty (no manufactured urgency). This is a research aid, not legal advice; a resident should get the agency's position in writing before keeping, importing, or placing a roof rat in the District."
+      "confidence_notes": "Verified against the live statute on the DC Law Library (code.dccouncil.gov): D.C. Code Sec. 8-1808(j)(1) is a closed permitted-list scheme, and subsection (j)(1)(C) permits \"domesticated rodents and rabbits.\" The prohibited verbs were confirmed as \"import into the District, possess, display, offer for sale, trade, barter, exchange, or adoption, or give as a household pet.\" IMPORTANT CORRECTION to prior internal notes: the live statute contains NO size threshold (no \"larger than a guinea pig\" language) tied to the rodent category, the kit does not rely on that. The term \"domesticated rodent\" is genuinely undefined and D.C. publishes no species list; that is the real crux, and it is what makes this an agency-interpretation (clarification) case rather than a fight-the-statute case. DC Health contacts verified via dchealth.dc.gov: general inbox doh@dc.gov and general line (202) 442-5955 are confirmed official; an \"Ask the Director\"/contact form exists on the DC Health site (I provide the contact-page URL rather than a deep-linked form, since the exact form path was not independently loadable, the form_url should be treated as the DC Health contact landing point). The direct Animal Services page returned HTTP 403 to automated fetch, but the email/phone were corroborated across multiple official search snippets. DC Council Directory (dccouncil.gov/council-directory/) confirmed as the official find-your-representative page. No individual civil servant is named anywhere. No live bill, pending list, or open comment window was found, so time_sensitive is left empty (no manufactured urgency). This is a research aid, not legal advice; a resident should get the agency's position in writing before keeping, importing, or placing a roof rat in the District."
     }
   },
   "activities": {
     "keep": {
       "status": "legal",
       "confidence": "medium",
-      "why": "Pet rodents are a permitted category — §8-1808 lists 'domesticated rodents and rabbits' as an exception to the general ban, so the fancy rat, mouse, hamster, etc. are lawful with no permit. The unresolved point is whether a captive-bred Rattus rattus qualifies as a 'domesticated rodent.' 'Domesticated' is undefined, and D.C. treats R. rattus as a wild/pest species (it runs a Rodent & Vector Control program), so an official could read a roof rat as NOT a 'domesticated rodent' and therefore a prohibited animal. No statute, rule, or guidance squarely decides it. Gemini DR-verified: DC Code sec.8-1808(j)(1)(C) exempts 'domesticated rodents' from the District's prohibited-unless-listed animal ban, and roof rats fall below the 'larger than a guinea pig' size threshold, so no exotic/hobby permit is needed to keep one. medium confidence: 'domesticated' isn't taxonomically split between R. rattus and R. norvegicus, so DC Health could read it narrowly. (The WILD R. rattus is separately a 'commensal rodent' subject to pest eradication - a different regime.)",
+      "why": "Pet rodents are a permitted category, §8-1808 lists 'domesticated rodents and rabbits' as an exception to the general ban, so the fancy rat, mouse, hamster, etc. are lawful with no permit. The unresolved point is whether a captive-bred Rattus rattus qualifies as a 'domesticated rodent.' 'Domesticated' is undefined, and D.C. treats R. rattus as a wild/pest species (it runs a Rodent & Vector Control program), so an official could read a roof rat as NOT a 'domesticated rodent' and therefore a prohibited animal. No statute, rule, or guidance squarely decides it. Gemini DR-verified: DC Code sec.8-1808(j)(1)(C) exempts 'domesticated rodents' from the District's prohibited-unless-listed animal ban, and roof rats fall below the 'larger than a guinea pig' size threshold, so no exotic/hobby permit is needed to keep one. medium confidence: 'domesticated' isn't taxonomically split between R. rattus and R. norvegicus, so DC Health could read it narrowly. (The WILD R. rattus is separately a 'commensal rodent' subject to pest eradication - a different regime.)",
       "governing_law": "D.C. Code §8-1808 (permitted-animal list: 'domesticated rodents and rabbits'; general prohibition on non-listed animals).",
       "source_ids": [
         "dc-8-1808",
@@ -64,7 +64,7 @@
     "breed": {
       "status": "unregulated_unclear",
       "confidence": "low",
-      "why": "There is no separate hobby-breeding permit for permitted rodents — if the animal is a lawful 'domesticated rodent,' private breeding isn't separately barred. But the same threshold problem governs: if R. rattus is NOT a 'domesticated rodent,' breeding it is prohibited possession. Sustained breeding for sale could also fall outside the 'household pet … for pleasure rather than for commercial purposes' framing. Gemini DR-verified: hobby breeding up to 25 animals/year is unregulated; breeding >25/year for sale triggers the 'commercial animal breeder' classification - annual licence, fees, facility inspections (DC Code sec.8-1821.01).",
+      "why": "There is no separate hobby-breeding permit for permitted rodents, if the animal is a lawful 'domesticated rodent,' private breeding isn't separately barred. But the same threshold problem governs: if R. rattus is NOT a 'domesticated rodent,' breeding it is prohibited possession. Sustained breeding for sale could also fall outside the 'household pet … for pleasure rather than for commercial purposes' framing. Gemini DR-verified: hobby breeding up to 25 animals/year is unregulated; breeding >25/year for sale triggers the 'commercial animal breeder' classification - annual licence, fees, facility inspections (DC Code sec.8-1821.01).",
       "governing_law": "D.C. Code §8-1808.",
       "source_ids": [
         "dc-8-1808"
@@ -89,7 +89,7 @@
     "transport": {
       "status": "legal_with_permit",
       "confidence": "medium",
-      "why": "Importation into the District is one of the verbs §8-1808 controls, so importing a non-permitted animal is itself prohibited — if R. rattus is not a 'domesticated rodent,' bringing one into D.C. is barred. For permitted pet rodents, DC Health's general pet-import guidance applies but is light on rodents (the CVI/rabies framework targets dogs/cats; rabies is rarely seen in rodents). There is also a no-release norm. The threshold 'domesticated rodent' question again controls. Gemini DR-verified: importing any pet into DC requires a Certificate of Veterinary Inspection issued within 30 days of travel (DC Health import guidelines); intrastate transport is legal if the animal is secured/weather-protected.",
+      "why": "Importation into the District is one of the verbs §8-1808 controls, so importing a non-permitted animal is itself prohibited, if R. rattus is not a 'domesticated rodent,' bringing one into D.C. is barred. For permitted pet rodents, DC Health's general pet-import guidance applies but is light on rodents (the CVI/rabies framework targets dogs/cats; rabies is rarely seen in rodents). There is also a no-release norm. The threshold 'domesticated rodent' question again controls. Gemini DR-verified: importing any pet into DC requires a Certificate of Veterinary Inspection issued within 30 days of travel (DC Health import guidelines); intrastate transport is legal if the animal is secured/weather-protected.",
       "governing_law": "D.C. Code §8-1808 (import); DC Health pet-import (CVI/rabies) guidance; DC rodent-control law.",
       "source_ids": [
         "dc-8-1808",
@@ -116,7 +116,7 @@
         "Ask DC Health Animal Services for a written determination on whether a captive-bred R. rattus is a permitted 'domesticated rodent'"
       ],
       "forms": [],
-      "where_to_file": "DC Health — Animal Services Program",
+      "where_to_file": "DC Health, Animal Services Program",
       "fees": "",
       "source_ids": [
         "dc-8-1808",
@@ -129,7 +129,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — D.C. treats R. rattus as a commensal pest and runs active rodent control; release would also implicate cruelty/abandonment law. Surrender unwanted animals to a vet or animal control, never the outdoors.",
+      "summary": "Never release a roof rat, D.C. treats R. rattus as a commensal pest and runs active rodent control; release would also implicate cruelty/abandonment law. Surrender unwanted animals to a vet or animal control, never the outdoors.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -143,14 +143,14 @@
   "sources": [
     {
       "id": "dc-8-1808",
-      "title": "D.C. Code §8-1808 — Prohibited conduct (permitted-animal list incl. 'domesticated rodents and rabbits')",
+      "title": "D.C. Code §8-1808, Prohibited conduct (permitted-animal list incl. 'domesticated rodents and rabbits')",
       "url": "https://code.dccouncil.gov/us/dc/council/code/sections/8-1808",
       "authority": "Council of the District of Columbia",
       "accessed": "2026-06-06"
     },
     {
       "id": "dc-animallaw",
-      "title": "DC Exotic Pets — §8-1808 Prohibited conduct (annotated)",
+      "title": "DC Exotic Pets, §8-1808 Prohibited conduct (annotated)",
       "url": "https://www.animallaw.info/statute/dc-exotic-pets-%C2%A7-8-1808-prohibited-conduct",
       "authority": "MSU Animal Legal & Historical Center",
       "accessed": "2026-06-06"
@@ -171,7 +171,7 @@
     },
     {
       "id": "dc-animal-services",
-      "title": "Animal Services Program — DC Health",
+      "title": "Animal Services Program, DC Health",
       "url": "https://dchealth.dc.gov/service/animal-services-program",
       "authority": "DC Health",
       "accessed": "2026-06-06"
@@ -179,7 +179,7 @@
   ],
   "contacts": [
     {
-      "agency": "DC Health — Animal Services Program",
+      "agency": "DC Health, Animal Services Program",
       "role": "health",
       "email": "doh@dc.gov",
       "form_url": "https://dchealth.dc.gov/service/division-animal-services",

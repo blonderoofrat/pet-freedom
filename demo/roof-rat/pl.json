@@ -15,7 +15,7 @@
       "szczur czarny"
     ]
   },
-  "summary": "Poland is permissive for the roof rat. Rattus rattus is NOT on the EU invasive-species Union list (Reg. 1143/2014) and NOT on Poland's national IAS list (Council of Ministers Regulation of 9 Dec 2022, Dz.U. 2022 poz. 2649), so the blanket keep/breed/sell/transport prohibitions in Art. 7 of the 2021 Alien Species Act (Ustawa o gatunkach obcych, Dz.U. 2021 poz. 1718) do not apply. It is also not on the CITES appendices (so no Starosta registration duty under the Nature Conservation Act) and not on the dangerous-animals list (so no RDOŚ permit). That leaves only the general Animal Welfare Act (Ustawa o ochronie zwierząt, Dz.U. 2023 poz. 1580) care duties (Art. 9). So a hobbyist may keep, breed, give away and transport captive-bred roof rats with no environmental or wildlife permit. Two real nuances: (1) COMMERCIAL breeding/dealing (organized, continuous, for profit) is a 'supervised activity' (działalność nadzorowana) requiring prior notification to the District Veterinary Officer (Powiatowy Lekarz Weterynarii) and a veterinary identification number (WNI) under the Animal Health Protection Act (Dz.U. 2023 poz. 1075) — hobby give-away of occasional litters is not. (2) There is a genuine, unresolved statutory ambiguity about whether a captive-bred roof rat is a 'domestic animal' (zwierzę domowe) or a 'wild animal' under Art. 4 of the Animal Welfare Act; if 'domestic,' Art. 10a bars selling it at outdoor marketplaces/fairs (sales must occur at the breeder's premises, the seller's home, or a licensed pet shop). Local municipal sanitary rules require mandatory deratization of free-roaming rodents, so the practical duty is escape-proof indoor containment. Never release a roof rat.",
+  "summary": "Poland is permissive for the roof rat. Rattus rattus is NOT on the EU invasive-species Union list (Reg. 1143/2014) and NOT on Poland's national IAS list (Council of Ministers Regulation of 9 Dec 2022, Dz.U. 2022 poz. 2649), so the blanket keep/breed/sell/transport prohibitions in Art. 7 of the 2021 Alien Species Act (Ustawa o gatunkach obcych, Dz.U. 2021 poz. 1718) do not apply. It is also not on the CITES appendices (so no Starosta registration duty under the Nature Conservation Act) and not on the dangerous-animals list (so no RDOŚ permit). That leaves only the general Animal Welfare Act (Ustawa o ochronie zwierząt, Dz.U. 2023 poz. 1580) care duties (Art. 9). So a hobbyist may keep, breed, give away and transport captive-bred roof rats with no environmental or wildlife permit. Two real nuances: (1) COMMERCIAL breeding/dealing (organized, continuous, for profit) is a 'supervised activity' (działalność nadzorowana) requiring prior notification to the District Veterinary Officer (Powiatowy Lekarz Weterynarii) and a veterinary identification number (WNI) under the Animal Health Protection Act (Dz.U. 2023 poz. 1075), hobby give-away of occasional litters is not. (2) There is a genuine, unresolved statutory ambiguity about whether a captive-bred roof rat is a 'domestic animal' (zwierzę domowe) or a 'wild animal' under Art. 4 of the Animal Welfare Act; if 'domestic,' Art. 10a bars selling it at outdoor marketplaces/fairs (sales must occur at the breeder's premises, the seller's home, or a licensed pet shop). Local municipal sanitary rules require mandatory deratization of free-roaming rodents, so the practical duty is escape-proof indoor containment. Never release a roof rat.",
   "last_reviewed": "2026-06-13",
   "advocacy": {
     "flag": false
@@ -25,7 +25,7 @@
       "status": "legal",
       "confidence": "high",
       "why": "Keeping a captive-bred roof rat is legal with no wildlife or environmental permit. R. rattus is on neither the EU Union list (Reg. 1143/2014) nor Poland's national IAS list (Rozp. RM 9 Dec 2022, Dz.U. 2022 poz. 2649), so the Art. 7 keeping prohibition of the 2021 Alien Species Act does not apply. It is not on CITES (so no 14-day Starosta registration under Art. 64 of the Nature Conservation Act) and not on the dangerous-animals list (so no RDOŚ permit). Only the general care duties of the Animal Welfare Act apply (Art. 9: shelter, daylight, free movement, food, constant water). Local municipal sanitary law (mandatory deratyzacja of free-roaming rodents) makes escape-proof indoor containment the practical obligation; an escaped roof rat is treated as a pest.",
-      "governing_law": "Ustawa o gatunkach obcych (2021, Dz.U. 2021 poz. 1718) Art. 7; Rozp. RM 9 Dec 2022 (Dz.U. 2022 poz. 2649, national + Union IAS lists); Ustawa o ochronie przyrody Art. 64 (CITES registry — R. rattus not listed); Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580) Art. 4, Art. 9.",
+      "governing_law": "Ustawa o gatunkach obcych (2021, Dz.U. 2021 poz. 1718) Art. 7; Rozp. RM 9 Dec 2022 (Dz.U. 2022 poz. 2649, national + Union IAS lists); Ustawa o ochronie przyrody Art. 64 (CITES registry, R. rattus not listed); Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580) Art. 4, Art. 9.",
       "source_ids": [
         "pl-gatunki-obce",
         "pl-rm-2022",
@@ -54,8 +54,8 @@
     "sell_give": {
       "status": "legal",
       "confidence": "medium",
-      "why": "Selling or giving away a captive-bred roof rat is legal. The Alien Species Act bans 'introduction to trade' (wprowadzanie do obrotu) only for listed IAS, and R. rattus is unlisted; no CITES certificate of legal origin is required. Commercial sellers are subject to ordinary consumer-warranty rules (rękojmia) and, if running an organized for-profit business, must hold the veterinary WNI (see BREED) and register in CEIDG. ONE GENUINE AMBIGUITY (why confidence is medium): Art. 10a of the Animal Welfare Act bans selling 'domestic animals' (zwierzęta domowe) at marketplaces, fairs and exchanges (targowiska, targi, giełdy). Whether a captive-bred roof rat is a 'domestic animal' (Art. 4 pt 17) or a 'wild animal' (Art. 4 pt 21) is statutorily unresolved (no Supreme Administrative Court ruling). Either way the animal may be sold/given away — but if treated as 'domestic,' that must be at the breeder's premises, the seller's home, or a licensed pet shop, NOT at an outdoor market. Practically, municipal sanitary rules would block a public-market sale of a synanthropic rodent regardless.",
-      "governing_law": "Ustawa o gatunkach obcych Art. 7 (R. rattus unlisted); Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580) Art. 4 (domestic vs wild), Art. 10a (no marketplace sale of 'domestic animals'); Council Reg. (EC) 338/97 (CITES — R. rattus not listed); Ustawa o ochronie zdrowia zwierząt (Dz.U. 2023 poz. 1075) (commercial WNI).",
+      "why": "Selling or giving away a captive-bred roof rat is legal. The Alien Species Act bans 'introduction to trade' (wprowadzanie do obrotu) only for listed IAS, and R. rattus is unlisted; no CITES certificate of legal origin is required. Commercial sellers are subject to ordinary consumer-warranty rules (rękojmia) and, if running an organized for-profit business, must hold the veterinary WNI (see BREED) and register in CEIDG. ONE GENUINE AMBIGUITY (why confidence is medium): Art. 10a of the Animal Welfare Act bans selling 'domestic animals' (zwierzęta domowe) at marketplaces, fairs and exchanges (targowiska, targi, giełdy). Whether a captive-bred roof rat is a 'domestic animal' (Art. 4 pt 17) or a 'wild animal' (Art. 4 pt 21) is statutorily unresolved (no Supreme Administrative Court ruling). Either way the animal may be sold/given away, but if treated as 'domestic,' that must be at the breeder's premises, the seller's home, or a licensed pet shop, NOT at an outdoor market. Practically, municipal sanitary rules would block a public-market sale of a synanthropic rodent regardless.",
+      "governing_law": "Ustawa o gatunkach obcych Art. 7 (R. rattus unlisted); Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580) Art. 4 (domestic vs wild), Art. 10a (no marketplace sale of 'domestic animals'); Council Reg. (EC) 338/97 (CITES, R. rattus not listed); Ustawa o ochronie zdrowia zwierząt (Dz.U. 2023 poz. 1075) (commercial WNI).",
       "source_ids": [
         "pl-gatunki-obce",
         "pl-ochrona-zwierzat",
@@ -68,8 +68,8 @@
     "transport": {
       "status": "legal",
       "confidence": "high",
-      "why": "Transport is legal. Domestic movement of a privately owned roof rat needs no certificate, passport or travel permit — only the welfare conditions of the Animal Welfare Act transport chapter (secure, ventilated, escape-proof container protecting against temperature extremes). Intra-EU NON-commercial movement (owner-accompanied, ≤5 animals, no transfer of ownership) is governed by EU Reg. 576/2013, under which pet rodents are 'other species' (Annex I Part B) exempt from the microchip/rabies/EU-pet-passport rules that bind dogs/cats/ferrets; Poland's GIW advises carrying a basic vet attestation of good health for carrier policies. COMMERCIAL or >5-animal intra-EU movement uses an official intra-EU health certificate logged in TRACES NT (Comm. Impl. Reg. (EU) 2021/403); third-country imports must enter via a Border Control Post with a third-country health certificate. No IAS transport bar applies (R. rattus unlisted). Never release.",
-      "governing_law": "Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580) Rozdz. 7 (transport welfare); EU Reg. 576/2013 (non-commercial pet movement; rodents = Annex I Part B); Comm. Impl. Reg. (EU) 2021/403 + Council Reg. (EC) 1/2005 (commercial); Ustawa o gatunkach obcych (no bar — R. rattus unlisted).",
+      "why": "Transport is legal. Domestic movement of a privately owned roof rat needs no certificate, passport or travel permit, only the welfare conditions of the Animal Welfare Act transport chapter (secure, ventilated, escape-proof container protecting against temperature extremes). Intra-EU NON-commercial movement (owner-accompanied, ≤5 animals, no transfer of ownership) is governed by EU Reg. 576/2013, under which pet rodents are 'other species' (Annex I Part B) exempt from the microchip/rabies/EU-pet-passport rules that bind dogs/cats/ferrets; Poland's GIW advises carrying a basic vet attestation of good health for carrier policies. COMMERCIAL or >5-animal intra-EU movement uses an official intra-EU health certificate logged in TRACES NT (Comm. Impl. Reg. (EU) 2021/403); third-country imports must enter via a Border Control Post with a third-country health certificate. No IAS transport bar applies (R. rattus unlisted). Never release.",
+      "governing_law": "Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580) Rozdz. 7 (transport welfare); EU Reg. 576/2013 (non-commercial pet movement; rodents = Annex I Part B); Comm. Impl. Reg. (EU) 2021/403 + Council Reg. (EC) 1/2005 (commercial); Ustawa o gatunkach obcych (no bar, R. rattus unlisted).",
       "source_ids": [
         "pl-eu-576",
         "pl-giw-podroze",
@@ -116,10 +116,10 @@
         "keep",
         "sell_give"
       ],
-      "summary": "Keeping a captive-bred roof rat is legal (not on the EU or national invasive list), subject to the Animal Welfare Act care duties (Art. 9). Two practical limits: (1) local municipal sanitary rules mandate deratization of free-roaming rodents, so the animal must be kept escape-proof indoors — an escaped roof rat is treated as a pest and the keeper is strictly liable (Civil Code Art. 431). (2) If a roof rat is treated as a 'domestic animal' under Art. 4, Art. 10a bars selling it at outdoor marketplaces/fairs (targowiska/targi/giełdy); sell instead at the breeder's premises, the seller's home, or a licensed pet shop. Never release a roof rat.",
+      "summary": "Keeping a captive-bred roof rat is legal (not on the EU or national invasive list), subject to the Animal Welfare Act care duties (Art. 9). Two practical limits: (1) local municipal sanitary rules mandate deratization of free-roaming rodents, so the animal must be kept escape-proof indoors, an escaped roof rat is treated as a pest and the keeper is strictly liable (Civil Code Art. 431). (2) If a roof rat is treated as a 'domestic animal' under Art. 4, Art. 10a bars selling it at outdoor marketplaces/fairs (targowiska/targi/giełdy); sell instead at the breeder's premises, the seller's home, or a licensed pet shop. Never release a roof rat.",
       "steps": [
         "Keep escape-proof indoors (municipal deratization targets free-roaming rodents; keeper is strictly liable for escapes)",
-        "Do not sell at outdoor marketplaces/fairs if treating the rat as a 'domestic animal' (Art. 10a) — sell at premises/home/licensed shop",
+        "Do not sell at outdoor marketplaces/fairs if treating the rat as a 'domestic animal' (Art. 10a), sell at premises/home/licensed shop",
         "Never release a roof rat into the environment"
       ],
       "forms": [],
@@ -135,63 +135,63 @@
   "sources": [
     {
       "id": "pl-gatunki-obce",
-      "title": "Ustawa z 11 sierpnia 2021 o gatunkach obcych (Dz.U. 2021 poz. 1718) — Art. 7 (IAS prohibitions on keeping/breeding/transport/trade apply only to listed species)",
+      "title": "Ustawa z 11 sierpnia 2021 o gatunkach obcych (Dz.U. 2021 poz. 1718), Art. 7 (IAS prohibitions on keeping/breeding/transport/trade apply only to listed species)",
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001718",
       "authority": "ISAP / Sejm RP",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-rm-2022",
-      "title": "Rozporządzenie RM z 9 grudnia 2022 (Dz.U. 2022 poz. 2649) — national list of IAS posing a threat to Poland (R. rattus NOT listed)",
+      "title": "Rozporządzenie RM z 9 grudnia 2022 (Dz.U. 2022 poz. 2649), national list of IAS posing a threat to Poland (R. rattus NOT listed)",
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002649",
       "authority": "ISAP / Sejm RP",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-ochrona-zwierzat",
-      "title": "Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580 t.j.) — Art. 4 (domestic vs wild animal definitions), Art. 9 (keeper care duties), Art. 10a (breeder monopoly = dogs/cats only; no marketplace sale of domestic animals)",
+      "title": "Ustawa o ochronie zwierząt (Dz.U. 2023 poz. 1580 t.j.), Art. 4 (domestic vs wild animal definitions), Art. 9 (keeper care duties), Art. 10a (breeder monopoly = dogs/cats only; no marketplace sale of domestic animals)",
       "url": "https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/ochrona-zwierzat-16798854",
       "authority": "Dziennik Ustaw (via LEX)",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-zdrowie-zwierzat",
-      "title": "Ustawa o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz.U. 2023 poz. 1075) — Art. 1, Art. 85 (commercial animal breeding/dealing = 'supervised activity'; PLW notification + WNI)",
+      "title": "Ustawa o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz.U. 2023 poz. 1075), Art. 1, Art. 85 (commercial animal breeding/dealing = 'supervised activity'; PLW notification + WNI)",
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001075",
       "authority": "ISAP / Sejm RP",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-biznes-rejestr",
-      "title": "Biznes.gov.pl — Wpis do rejestru powiatowego lekarza weterynarii (registering a supervised veterinary activity)",
+      "title": "Biznes.gov.pl, Wpis do rejestru powiatowego lekarza weterynarii (registering a supervised veterinary activity)",
       "url": "https://www.biznes.gov.pl/pl/portal/ou1645",
       "authority": "Biznes.gov.pl (Government of Poland)",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-eu-1143",
-      "title": "Regulation (EU) 1143/2014 on invasive alien species — Union list adopted by separate implementing act; R. rattus NOT on the Union list",
+      "title": "Regulation (EU) 1143/2014 on invasive alien species, Union list adopted by separate implementing act; R. rattus NOT on the Union list",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R1143",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-eu-576",
-      "title": "Regulation (EU) 576/2013 — non-commercial movement of pet animals; pet rodents are 'other species' (Annex I Part B), exempt from microchip/rabies/passport rules",
+      "title": "Regulation (EU) 576/2013, non-commercial movement of pet animals; pet rodents are 'other species' (Annex I Part B), exempt from microchip/rabies/passport rules",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32013R0576",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-giw-podroze",
-      "title": "Główny Inspektorat Weterynarii (GIW) — Podróżowanie ze zwierzęciem domowym w UE (pet travel in the EU; 'pozostałe zwierzęta towarzyszące' / other pet animals incl. rodents)",
+      "title": "Główny Inspektorat Weterynarii (GIW), Podróżowanie ze zwierzęciem domowym w UE (pet travel in the EU; 'pozostałe zwierzęta towarzyszące' / other pet animals incl. rodents)",
       "url": "https://www.wetgiw.gov.pl/nadzor-weterynaryjny/przemieszczenia-niehandlowe---podroz-ze-zwierzetami-towarzyszacymi",
       "authority": "Główny Inspektorat Weterynarii (GIW)",
       "accessed": "2026-06-13"
     },
     {
       "id": "pl-iop",
-      "title": "IOP Kraków — Rattus rattus alien-species record (ecologically alien synanthropic species; NOT regulatorily listed as IAS)",
+      "title": "IOP Kraków, Rattus rattus alien-species record (ecologically alien synanthropic species; NOT regulatorily listed as IAS)",
       "url": "https://www.iop.krakow.pl/ias/gatunki/606",
       "authority": "Instytut Ochrony Przyrody PAN",
       "accessed": "2026-06-13"
@@ -199,7 +199,7 @@
   ],
   "contacts": [
     {
-      "agency": "Generalna Dyrekcja Ochrony Środowiska (GDOŚ) — General Directorate for Environmental Protection",
+      "agency": "Generalna Dyrekcja Ochrony Środowiska (GDOŚ), General Directorate for Environmental Protection",
       "role": "wildlife",
       "email": "kancelaria@gdos.gov.pl",
       "form_url": "https://www.gov.pl/web/gdos/kontakt",
@@ -208,7 +208,7 @@
       "inquiry_language": "pl"
     },
     {
-      "agency": "Główny Inspektorat Weterynarii (GIW) — General Veterinary Inspectorate",
+      "agency": "Główny Inspektorat Weterynarii (GIW), General Veterinary Inspectorate",
       "role": "agriculture",
       "email": "wet@wetgiw.gov.pl",
       "form_url": "https://www.wetgiw.gov.pl/inspekcja-weterynaryjna/kontakt-giw",

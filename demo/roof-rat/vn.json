@@ -19,7 +19,7 @@
       "black rat"
     ]
   },
-  "summary": "Vietnam runs on a 'positive-list' model: an activity with a species is unauthorized unless that species is explicitly on a permitted schedule. The roof rat is on NO such list — not protected wildlife (Decree 06/2019, Decree 160/2013, not CITES), not permitted livestock/husbandry (Circular 66/2025/TT-BNNMT's 'other animals permitted for husbandry' list excludes ALL rodents), and not a recognized companion animal. So keeping a single pet roof rat sits in a regulatory void: not explicitly banned, currently unprosecuted, but with no statutory protection. Commercial breeding/selling is effectively illicit by omission (no way to obtain the required business/husbandry registration for an unlisted species) and exposed to the same enforcement used in the 2008 nationwide hamster crackdown (administrative fines up to 30 million VND + forced culling). Transport is the hardest layer: domestic inter-provincial movement needs a veterinary health certificate that can't readily be issued for an unlisted species, and IMPORT is practically prohibited — at the border R. rattus defaults to a 'wild animal' classification caught by Directive 29/CT-TTg's suspension of live wild-animal imports, and rodents are absent from the permitted-import list (Circular 14/2023). Vietnam draws NO legal distinction between R. rattus and the fancy rat R. norvegicus — both are equally unlisted. ⚠️ 2025: MARD + MONRE merged into one Ministry of Agriculture & Environment (MAE), centralizing veterinary + biodiversity enforcement.",
+  "summary": "Vietnam runs on a 'positive-list' model: an activity with a species is unauthorized unless that species is explicitly on a permitted schedule. The roof rat is on NO such list, not protected wildlife (Decree 06/2019, Decree 160/2013, not CITES), not permitted livestock/husbandry (Circular 66/2025/TT-BNNMT's 'other animals permitted for husbandry' list excludes ALL rodents), and not a recognized companion animal. So keeping a single pet roof rat sits in a regulatory void: not explicitly banned, currently unprosecuted, but with no statutory protection. Commercial breeding/selling is effectively illicit by omission (no way to obtain the required business/husbandry registration for an unlisted species) and exposed to the same enforcement used in the 2008 nationwide hamster crackdown (administrative fines up to 30 million VND + forced culling). Transport is the hardest layer: domestic inter-provincial movement needs a veterinary health certificate that can't readily be issued for an unlisted species, and IMPORT is practically prohibited, at the border R. rattus defaults to a 'wild animal' classification caught by Directive 29/CT-TTg's suspension of live wild-animal imports, and rodents are absent from the permitted-import list (Circular 14/2023). Vietnam draws NO legal distinction between R. rattus and the fancy rat R. norvegicus, both are equally unlisted. ⚠️ 2025: MARD + MONRE merged into one Ministry of Agriculture & Environment (MAE), centralizing veterinary + biodiversity enforcement.",
   "last_reviewed": "2026-06-08",
   "advocacy": {
     "flag": false
@@ -28,7 +28,7 @@
     "keep": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "R. rattus is absent from every Vietnamese list: not in Group IB/IIB of Decree 06/2019 (am. 84/2021), not in Decree 160/2013, not CITES. The Law on Forestry Art. 9 keeping prohibitions are keyed to listed species, so they don't bite; Decree 06/2019 Art. 23's 3-working-day notification for 'ordinary forest animals' is not applied by rangers to commensal urban rats (they aren't treated as 'forest animals'). Result: personal possession is a pure regulatory void — neither prohibited nor affirmatively authorized as a 'pet.' Currently unprosecuted (an open hobby market exists), but with no statutory protection; the state retains discretionary biosecurity/sanitation power to confiscate. 'Unregulated_unclear,' tending tolerated-but-unprotected.",
+      "why": "R. rattus is absent from every Vietnamese list: not in Group IB/IIB of Decree 06/2019 (am. 84/2021), not in Decree 160/2013, not CITES. The Law on Forestry Art. 9 keeping prohibitions are keyed to listed species, so they don't bite; Decree 06/2019 Art. 23's 3-working-day notification for 'ordinary forest animals' is not applied by rangers to commensal urban rats (they aren't treated as 'forest animals'). Result: personal possession is a pure regulatory void, neither prohibited nor affirmatively authorized as a 'pet.' Currently unprosecuted (an open hobby market exists), but with no statutory protection; the state retains discretionary biosecurity/sanitation power to confiscate. 'Unregulated_unclear,' tending tolerated-but-unprotected.",
       "governing_law": "Law on Forestry 16/2017/QH14 Art. 9, 23; Decree 06/2019/ND-CP (am. 84/2021); Decree 160/2013/ND-CP; Law on Animal Husbandry 32/2018/QH14 (positive-list paradigm).",
       "source_ids": [
         "vn-decree-06-2019",
@@ -43,7 +43,7 @@
     "breed": {
       "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "Under the positive-list paradigm, commercial breeding of any species not on the permitted-husbandry list is unauthorized/illicit. Circular 66/2025/TT-BNNMT (effective 5 Jan 2026) sets the exhaustive 'List of other animals permitted for animal husbandry' (earthworms, black soldier flies, crickets, scorpions, wild ducks, etc.) — and ALL rodents, R. rattus and R. norvegicus alike, are excluded. A would-be breeder therefore cannot obtain the business registration / facility-hygiene / biosecurity clearances required by Decree 13/2020. No hobbyist or small-breeder exemption exists. Hobby breeding is currently ignored but unprotected; any profit-making breeding operates in the black market and is exposed to the 2008-hamster-style enforcement (fines to 30M VND + culling). 'Unregulated_unclear' for the tolerated hobbyist; effectively illicit at commercial scale.",
+      "why": "Under the positive-list paradigm, commercial breeding of any species not on the permitted-husbandry list is unauthorized/illicit. Circular 66/2025/TT-BNNMT (effective 5 Jan 2026) sets the exhaustive 'List of other animals permitted for animal husbandry' (earthworms, black soldier flies, crickets, scorpions, wild ducks, etc.), and ALL rodents, R. rattus and R. norvegicus alike, are excluded. A would-be breeder therefore cannot obtain the business registration / facility-hygiene / biosecurity clearances required by Decree 13/2020. No hobbyist or small-breeder exemption exists. Hobby breeding is currently ignored but unprotected; any profit-making breeding operates in the black market and is exposed to the 2008-hamster-style enforcement (fines to 30M VND + culling). 'Unregulated_unclear' for the tolerated hobbyist; effectively illicit at commercial scale.",
       "governing_law": "Circular 66/2025/TT-BNNMT (permitted-husbandry list excludes rodents); Law on Animal Husbandry 32/2018/QH14; Decree 13/2020/ND-CP.",
       "source_ids": [
         "vn-circular-66-2025",
@@ -57,7 +57,7 @@
     "sell_give": {
       "status": "unregulated_unclear",
       "confidence": "low",
-      "why": "Commercial trade of an unlisted animal species is legally unsupported and exposed to discretionary enforcement. The direct proxy is the 2008 nationwide hamster crackdown: authorities used the pre-existing positive-list mechanism (hamsters 'not on the list of animals permitted for import/husbandry') to declare all trading/transport/keeping unauthorized, threatening administrative fines of 20–30 million VND plus forced culling/re-export — the exact same legal logic applies to R. rattus. Open Facebook-group and pet-shop sales currently proceed only on enforcement apathy. Free/non-commercial transfer has fewer hooks but no affirmative protection. Low confidence: highly volatile, subject to competitor reporting and localized biosecurity directives.",
+      "why": "Commercial trade of an unlisted animal species is legally unsupported and exposed to discretionary enforcement. The direct proxy is the 2008 nationwide hamster crackdown: authorities used the pre-existing positive-list mechanism (hamsters 'not on the list of animals permitted for import/husbandry') to declare all trading/transport/keeping unauthorized, threatening administrative fines of 20–30 million VND plus forced culling/re-export, the exact same legal logic applies to R. rattus. Open Facebook-group and pet-shop sales currently proceed only on enforcement apathy. Free/non-commercial transfer has fewer hooks but no affirmative protection. Low confidence: highly volatile, subject to competitor reporting and localized biosecurity directives.",
       "governing_law": "Law on Animal Husbandry 32/2018/QH14 + Decree 13/2020/ND-CP (positive-list); 2008 hamster-ban enforcement precedent.",
       "source_ids": [
         "vn-husbandry-law",
@@ -71,7 +71,7 @@
     "transport": {
       "status": "restricted",
       "confidence": "high",
-      "why": "DOMESTIC (inter-provincial): the Law on Animal Health 79/2015 + Circular 25/2016/TT-BNNPTNT require a veterinary health certificate + quarantine clearance to move terrestrial animals between provinces — but provincial vets have no protocol/health parameters to inspect an unlisted species, so the required certificate can't readily be issued; formal shipping risks confiscation at veterinary checkpoints. IMPORT (practically prohibited): (1) Directive 29/CT-TTg (23 Jul 2020) suspends imports of live WILD animals, and at customs R. rattus — not defined as a domestic husbandry animal — defaults to the 'wild animal' classification, so even a captive-bred specimen is rejected/re-exported; (2) rodents are absent from the permitted-import list (Circular 14/2023/TT-BNNPTNT), and importing unlisted terrestrial animals needs a prior biosecurity risk analysis + import permit the MAE does not issue for pet rodents (same rationale as the 2008 hamster import ban). Not CITES. Never release. Net: 'restricted' (high) — import operationally impossible, domestic formal transport blocked by the unlisted-species paperwork gap.",
+      "why": "DOMESTIC (inter-provincial): the Law on Animal Health 79/2015 + Circular 25/2016/TT-BNNPTNT require a veterinary health certificate + quarantine clearance to move terrestrial animals between provinces, but provincial vets have no protocol/health parameters to inspect an unlisted species, so the required certificate can't readily be issued; formal shipping risks confiscation at veterinary checkpoints. IMPORT (practically prohibited): (1) Directive 29/CT-TTg (23 Jul 2020) suspends imports of live WILD animals, and at customs R. rattus, not defined as a domestic husbandry animal, defaults to the 'wild animal' classification, so even a captive-bred specimen is rejected/re-exported; (2) rodents are absent from the permitted-import list (Circular 14/2023/TT-BNNPTNT), and importing unlisted terrestrial animals needs a prior biosecurity risk analysis + import permit the MAE does not issue for pet rodents (same rationale as the 2008 hamster import ban). Not CITES. Never release. Net: 'restricted' (high), import operationally impossible, domestic formal transport blocked by the unlisted-species paperwork gap.",
       "governing_law": "Directive 29/CT-TTg (2020) (wild-animal import suspension); Circular 14/2023/TT-BNNPTNT (permitted-import list excludes rodents); Law on Animal Health 79/2015/QH13 + Circular 25/2016/TT-BNNPTNT (quarantine/health cert).",
       "source_ids": [
         "vn-directive-29",
@@ -93,14 +93,14 @@
         "sell_give",
         "transport"
       ],
-      "summary": "Vietnam's positive-list system means R. rattus has no legal route to commercial husbandry, sale, or import — it's on no permitted list, so the required registrations/certificates can't be obtained, and authorities can invoke the 2008-hamster-ban precedent (fines to 30M VND + culling) at any time. Keeping a single pet is tolerated-but-unprotected. Import is practically impossible (Directive 29 wild-animal default + rodents off the Circular 14/2023 import list). Never release.",
+      "summary": "Vietnam's positive-list system means R. rattus has no legal route to commercial husbandry, sale, or import, it's on no permitted list, so the required registrations/certificates can't be obtained, and authorities can invoke the 2008-hamster-ban precedent (fines to 30M VND + culling) at any time. Keeping a single pet is tolerated-but-unprotected. Import is practically impossible (Directive 29 wild-animal default + rodents off the Circular 14/2023 import list). Never release.",
       "steps": [
         "Understand there is currently NO legal pathway to commercially breed/sell/import R. rattus in Vietnam (it's on no permitted list)",
         "For any movement, expect that a veterinary health certificate cannot readily be issued for an unlisted species",
         "Constructive long game: petition the MAE to add captive-bred pet rodents to the Circular 66/2025 permitted-husbandry list"
       ],
       "forms": [],
-      "where_to_file": "Ministry of Agriculture & Environment (MAE) — Dept of Livestock Production / Dept of Animal Health",
+      "where_to_file": "Ministry of Agriculture & Environment (MAE), Dept of Livestock Production / Dept of Animal Health",
       "fees": "",
       "source_ids": [
         "vn-circular-66-2025",
@@ -109,81 +109,81 @@
       ]
     }
   ],
-  "inquiry_focus": "(Cục Chăn nuôi / MAE) (1) Loài chuột mái nhà (Rattus rattus) nuôi nhốt làm thú cưng không nằm trong danh mục động vật khác được phép chăn nuôi theo Thông tư 66/2025/TT-BNNMT. Việc một cá nhân tự nhân giống và bán lẻ loài chuột này có bị coi là vi phạm pháp luật và chịu mức phạt hành chính tương tự lệnh cấm chuột Hamster năm 2008 không? Có cơ chế ngoại lệ nào để hợp pháp hóa cơ sở nuôi chuột cảnh quy mô nhỏ không? (Is private breeding/retail of R. rattus — absent from the Circular 66/2025 permitted list — a violation subject to 2008-hamster-style fines; any small-scale exemption?) (Cục Thú y) (2) Để vận chuyển hợp pháp chuột cảnh (Rattus rattus) nhân giống trong nước giữa các tỉnh, cơ quan Thú y có cấp giấy chứng nhận kiểm dịch động vật theo Thông tư 25/2016/TT-BNNPTNT cho một loài không thuộc danh mục chăn nuôi cho phép không? (Will a quarantine certificate be issued for inter-provincial transport of an unlisted species?) (CITES MA) (3) Theo Chỉ thị 29/CT-TTg, một cá thể Rattus rattus sinh sản trong môi trường nuôi nhốt ở nước ngoài khi nhập khẩu làm thú cưng có bị xếp vào nhóm động vật hoang dã cấm nhập khẩu không? (Is a captive-bred imported pet R. rattus a banned wild animal under Directive 29, or a permitted domestic pet, at customs?)",
+  "inquiry_focus": "(Cục Chăn nuôi / MAE) (1) Loài chuột mái nhà (Rattus rattus) nuôi nhốt làm thú cưng không nằm trong danh mục động vật khác được phép chăn nuôi theo Thông tư 66/2025/TT-BNNMT. Việc một cá nhân tự nhân giống và bán lẻ loài chuột này có bị coi là vi phạm pháp luật và chịu mức phạt hành chính tương tự lệnh cấm chuột Hamster năm 2008 không? Có cơ chế ngoại lệ nào để hợp pháp hóa cơ sở nuôi chuột cảnh quy mô nhỏ không? (Is private breeding/retail of R. rattus, absent from the Circular 66/2025 permitted list, a violation subject to 2008-hamster-style fines; any small-scale exemption?) (Cục Thú y) (2) Để vận chuyển hợp pháp chuột cảnh (Rattus rattus) nhân giống trong nước giữa các tỉnh, cơ quan Thú y có cấp giấy chứng nhận kiểm dịch động vật theo Thông tư 25/2016/TT-BNNPTNT cho một loài không thuộc danh mục chăn nuôi cho phép không? (Will a quarantine certificate be issued for inter-provincial transport of an unlisted species?) (CITES MA) (3) Theo Chỉ thị 29/CT-TTg, một cá thể Rattus rattus sinh sản trong môi trường nuôi nhốt ở nước ngoài khi nhập khẩu làm thú cưng có bị xếp vào nhóm động vật hoang dã cấm nhập khẩu không? (Is a captive-bred imported pet R. rattus a banned wild animal under Directive 29, or a permitted domestic pet, at customs?)",
   "sources": [
     {
       "id": "vn-circular-66-2025",
-      "title": "Circular 66/2025/TT-BNNMT — List of 'other animals' permitted for husbandry (effective 5 Jan 2026; EXCLUDES all rodents)",
+      "title": "Circular 66/2025/TT-BNNMT, List of 'other animals' permitted for husbandry (effective 5 Jan 2026; EXCLUDES all rodents)",
       "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-66-2025-tt-bnnmt-46873.htm",
       "authority": "Ministry of Agriculture & Environment (Vietnam)",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-husbandry-law",
-      "title": "Law on Animal Husbandry 32/2018/QH14 — positive-list definition of permitted livestock; commercial-breeding requirements",
+      "title": "Law on Animal Husbandry 32/2018/QH14, positive-list definition of permitted livestock; commercial-breeding requirements",
       "url": "https://faolex.fao.org/docs/pdf/vie211555V.pdf",
       "authority": "National Assembly of Vietnam (via FAOLEX)",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-decree-13-2020",
-      "title": "Decree 13/2020/ND-CP (am. 46/2022) — guidance to the Law on Animal Husbandry (commercial facility/registration requirements)",
+      "title": "Decree 13/2020/ND-CP (am. 46/2022), guidance to the Law on Animal Husbandry (commercial facility/registration requirements)",
       "url": "https://luatvietnam.vn/nong-nghiep/nghi-dinh-13-2020-nd-cp-huong-dan-luat-chan-nuoi-180147-d1.html",
       "authority": "Government of Vietnam",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-decree-06-2019",
-      "title": "Decree 06/2019/ND-CP (am. 84/2021) — endangered/precious/rare forest fauna (R. rattus unlisted; Art. 23 ordinary-animal notification)",
+      "title": "Decree 06/2019/ND-CP (am. 84/2021), endangered/precious/rare forest fauna (R. rattus unlisted; Art. 23 ordinary-animal notification)",
       "url": "https://luatvietnam.vn/nong-nghiep/nghi-dinh-06-2019-nd-cp-quan-ly-thuc-vat-dong-vat-rung-nguy-cap-170399-d1.html",
       "authority": "Government of Vietnam",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-decree-160-2013",
-      "title": "Decree 160/2013/ND-CP — species prioritized for protection (R. rattus absent)",
+      "title": "Decree 160/2013/ND-CP, species prioritized for protection (R. rattus absent)",
       "url": "https://vanbanphapluat.co/decree-no-160-2013-nd-cp-on-criteria-to-determine-species-endangered-precious-and-rare-species-prioritized-protection",
       "authority": "Government of Vietnam",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-directive-29",
-      "title": "Directive 29/CT-TTg (23 Jul 2020) — suspension of live WILD-animal imports (R. rattus defaults to wildlife at customs)",
+      "title": "Directive 29/CT-TTg (23 Jul 2020), suspension of live WILD-animal imports (R. rattus defaults to wildlife at customs)",
       "url": "https://luatvietnam.vn/xuat-nhap-khau/chi-thi-29-ct-ttg-412245-d1.html",
       "authority": "Prime Minister of Vietnam",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-circular-14-2023",
-      "title": "Circular 14/2023/TT-BNNPTNT — permitted livestock-import list (rodents absent)",
+      "title": "Circular 14/2023/TT-BNNPTNT, permitted livestock-import list (rodents absent)",
       "url": "https://vcci.com.vn/legal-document/thong-tu-142023tt-bnnptnt-ve-danh-muc-giong-vat-nuoi-can-thiet-nhap-khau",
       "authority": "Ministry of Agriculture & Rural Development (Vietnam)",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-circular-25-2016",
-      "title": "Circular 25/2016/TT-BNNPTNT — terrestrial-animal quarantine + inter-provincial health certificate",
+      "title": "Circular 25/2016/TT-BNNPTNT, terrestrial-animal quarantine + inter-provincial health certificate",
       "url": "https://luatvietnam.vn/nong-nghiep/thong-tu-25-2016-tt-bnnptnt-106925-d1.html",
       "authority": "Ministry of Agriculture & Rural Development (Vietnam)",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-law-animal-health",
-      "title": "Law on Animal Health (Veterinary) 79/2015/QH13 — import quarantine + inter-provincial movement",
+      "title": "Law on Animal Health (Veterinary) 79/2015/QH13, import quarantine + inter-provincial movement",
       "url": "https://faolex.fao.org/docs/pdf/vie211555V.pdf",
       "authority": "National Assembly of Vietnam",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-circular-35-2018",
-      "title": "Circular 35/2018/TT-BTNMT — invasive alien species list (R. rattus NOT listed; but Yersinia pestis listed as invasive microorganism)",
+      "title": "Circular 35/2018/TT-BTNMT, invasive alien species list (R. rattus NOT listed; but Yersinia pestis listed as invasive microorganism)",
       "url": "https://luatvietnam.vn/tai-nguyen/thong-tu-35-2018-tt-btnmt-170130-d1.html",
       "authority": "Ministry of Natural Resources & Environment (now MAE)",
       "accessed": "2026-06-08"
     },
     {
       "id": "vn-hamster-2008",
-      "title": "2008 nationwide hamster crackdown — positive-list rationale; fines 20–30M VND + culling (enforcement precedent for unlisted rodents)",
+      "title": "2008 nationwide hamster crackdown, positive-list rationale; fines 20–30M VND + culling (enforcement precedent for unlisted rodents)",
       "url": "https://cand.com.vn/Xa-hoi/Nuoi-chuot-Hamster-khong-phep-co-the-bi-phat-toi-30-trieu-dong-i58053/",
       "authority": "Dept of Livestock Production (reported, CAND)",
       "accessed": "2026-06-08"
@@ -191,7 +191,7 @@
   ],
   "contacts": [
     {
-      "agency": "Ministry of Agriculture & Environment (MAE) — Dept of Livestock Production (Cục Chăn nuôi)",
+      "agency": "Ministry of Agriculture & Environment (MAE), Dept of Livestock Production (Cục Chăn nuôi)",
       "role": "agriculture",
       "email": "portal@mae.gov.vn",
       "form_url": "https://en.mae.gov.vn/Pages/lien-he.aspx",
@@ -200,7 +200,7 @@
       "inquiry_language": "vi"
     },
     {
-      "agency": "MAE — Dept of Animal Health (Cục Thú y) / Nature & Biodiversity Conservation Agency (CITES MA)",
+      "agency": "MAE, Dept of Animal Health (Cục Thú y) / Nature & Biodiversity Conservation Agency (CITES MA)",
       "role": "wildlife",
       "email": "citesvn@mae.gov.vn",
       "form_url": "https://en.mae.gov.vn/",

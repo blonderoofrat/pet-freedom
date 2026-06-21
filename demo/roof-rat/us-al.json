@@ -17,98 +17,68 @@
       "domestic animal"
     ]
   },
-  "summary": "Alabama doesn't name Rattus rattus anywhere, and the whole question turns on one classification: is your captive-bred roof rat a 'domestic animal' or a 'wild rodent'? State health rules (ADPH r. 420-4-4-.01(6)) define a 'domestic animal' as one bred through human association to the point of genetic changes in temperament/color/conformation — so a pedigreed, captive-bred, color-mutation roof rat can qualify, and if it does, keeping/breeding/selling are unregulated at the state level. If it's instead treated as a 'wild rodent,' the wildlife rule (Ala. Admin. Code r. 220-2-.26) is harsh: it bans importing a wild rodent from out of state AND bans transporting one within the state at all (even an Alabama-born animal) except by a licensed game-breeder. There's no R. rattus-specific safe harbor, so the practical risk is an officer disagreeing that your animal is 'domestic.' Importing a domestic pet rat needs an electronic health certificate (eCVI); a 'semi-wild' classification adds a 10-day State-Veterinarian notice. Get a written ADCNR classification before importing or selling.",
-  "last_reviewed": "2026-06-08",
+  "summary": "Alabama is simpler than it first looks, straight from the wildlife agency. The Department of Conservation and Natural Resources (Wildlife and Freshwater Fisheries) confirmed in writing (June 2026) that it does NOT regulate roof rats: you may keep, breed, buy, sell, or trade a captive-bred Rattus rattus with no license or permit. The one catch is IMPORT: Ala. Admin. Code r. 220-2-.26 prohibits importing the species into Alabama, so a roof rat must be acquired within the state. This supersedes the earlier, more cautious 'is it a domestic animal or a wild rodent' analysis: the agency's answer is that roof rats simply are not regulated for keeping, breeding, or selling, only their importation is barred. Never release one.",
+  "last_reviewed": "2026-06-16",
+  "agency_confirmations": [
+    "Alabama Department of Conservation and Natural Resources, Wildlife and Freshwater Fisheries Division (Capt. Jon Sims), written reply June 2026: 'We do not regulate roof rats. You can possess, buy, sale, or trade them without any license or permit. 220-2-.26 does prohibit the importation of them.' So keeping, breeding, and selling or giving a captive-bred roof rat are unregulated in Alabama (no permit), and only importing the species into the state is prohibited."
+  ],
   "advocacy": {
-    "flag": true,
-    "kit": {
-      "case_type": "agency_species_trap",
-      "problem": "Alabama law never mentions the roof rat (Rattus rattus) by name. There is no pet-rodent permit, no statewide ban, and no list that puts the species on or off limits. Everything hinges on one classification question: is a captive-bred, tame pet roof rat a \"domestic animal\" or a \"wild rodent\"?\n\nAlabama's public-health rule (Ala. Admin. Code r. 420-4-4-.01(6)) defines a \"domestic animal\" as one bred through human association to the point of genetic changes in temperament, color, or conformation that distinguish it from wild animals of the same species. A pedigreed, captive-bred, color-mutation roof rat that has never lived in the wild fits that test. If it is \"domestic,\" keeping, breeding, and giving it away are unregulated by the state, and it can be taken to the vet freely.\n\nAlabama's wildlife rule (Ala. Admin. Code r. 220-2-.26) is strict toward any \"wild rodent\": it bans importing one from out of state, bans selling one, and bans all transport within the state, even an Alabama-born animal and even a trip to the vet, except by a licensed game breeder. Because no Alabama rule names R. rattus as an exempt domestic pet, every owner carries the burden of proving their tame animal is \"domestic,\" and a single officer could decide to treat the whole species as a restricted \"wild rodent.\" That uncertainty is the problem.",
-      "ask": "Ask the Alabama Department of Conservation and Natural Resources (Wildlife and Freshwater Fisheries Division) for a written interpretation confirming that a pedigreed, captive-bred Rattus rattus exhibiting domestication traits (genetic docility and domestic color mutations) is a \"domestic animal\" under ADPH Rule 420-4-4-.01(6), and therefore exempt from the possession, sale, and intrastate-transport bans of r. 220-2-.26, rather than a restricted \"wild rodent.\" That classification turns on domestication, not wild ancestry. The dog descends from the wolf and the house cat from a wild felid, yet Alabama treats both as domestic animals because of generations bred for tameness, not their wild origins, which is the genetic-change test the ADPH rule describes. The fancy rat sold in pet stores is itself the wild brown rat (R. norvegicus), domesticated only in the 19th century (see https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/), and a pedigreed captive-bred roof rat is domesticated in that same sense, the same case one species over. The Division is asked to weigh that question, not to reach a particular result. The agency can also be asked to recognize pedigreed captive-bred Rattus as a category of domestic animal so individual owners no longer carry that burden case by case (New Jersey's genus-level exemption for Rattus is the model to cite). Separately, ask the Alabama Department of Agriculture and Industries (State Veterinarian) to confirm in writing that importing a captive-bred pet roof rat requires only a standard electronic Certificate of Veterinary Inspection (eCVI), not the 10-day \"semi-wild animal\" pre-report under r. 80-3-6-.23.",
-      "branch_note": "This is branch (a): a bureaucratic classification problem, and the lever is the agency, not the legislature.\n\nNo statute and no administrative list names Rattus rattus. The restriction does not come from the species being placed on a prohibited list by the legislature; it comes from how an agency might read a generic, undefined phrase (\"wild rodent\" in r. 220-2-.26) against a separate definition of \"domestic animal\" (r. 420-4-4-.01(6)) that a captive-bred pet roof rat can already satisfy. The law as written contains the exemption sought, the \"domestic animal\" carve-out, so the request is not to change a law. It is to have the agency apply the existing definition correctly and say so in writing.\n\nThe correct tool is therefore a written agency interpretation or declaratory ruling from ADCNR Wildlife and Freshwater Fisheries (the body that administers r. 220-2-.26), optionally backed by ADPH (which owns the \"domestic animal\" definition) and ADAI's State Veterinarian (for the import question). A legislative campaign would be the wrong tool: there is no bad statute to repeal and no species on a statutory list to remove. The honest caveat in the other direction: if ADCNR responds that it categorically treats R. rattus as a \"wild rodent\" regardless of captive-breeding history, it would be applying r. 220-2-.26 in a way the rule's text arguably permits, and the durable fix would then shift to a rulemaking petition (asking ADCNR to amend 220-2-.26 to add a captive-bred-Rattus exemption) rather than a one-off appeal, because an agency cannot be argued out of a reading the rule lets it hold; the rule has to change. Start with the clarification request and escalate to a rulemaking petition only if the agency confirms a categorical \"wild rodent\" reading.",
-      "time_sensitive": "",
-      "targets": [
-        {
-          "name": "Alabama Department of Conservation and Natural Resources — Wildlife and Freshwater Fisheries Division (official Contact Us page)",
-          "type": "agency",
-          "form_url": "https://www.outdooralabama.com/top-navigation/contact-us",
-          "why": "ADCNR Wildlife and Freshwater Fisheries administers r. 220-2-.26, the rule that defines and restricts a 'wild rodent.' This is the agency that can issue the written classification we need (domestic vs. wild). The official contact page routes to the Wildlife Section and to enforcement/permits — the right institutional doors for an interpretation request. Start here."
-        },
-        {
-          "name": "Alabama DCNR — Wildlife Section official inbox",
-          "type": "agency",
-          "email": "DCNR.Wildlife@dcnr.alabama.gov",
-          "why": "Verified official, role-based Wildlife Section mailbox (not an individual's personal address) listed on the DCNR Contact Us page. Use it to send the written request for a classification interpretation of captive-bred Rattus rattus under r. 220-2-.26 and ADPH r. 420-4-4-.01(6)."
-        },
-        {
-          "name": "Alabama Department of Agriculture and Industries — Animal Industries Division / State Veterinarian (official contact)",
-          "type": "agency",
-          "form_url": "https://agi.alabama.gov/contact-us/",
-          "email": "ask-me@agi.alabama.gov",
-          "why": "ADAI's Office of the State Veterinarian governs animal import into Alabama (eCVI) and the 10-day 'semi-wild animal' pre-report (r. 80-3-6-.23). Ask here, in writing, whether a captive-bred pet roof rat is treated as a standard domestic pet (eCVI only) or as a semi-wild animal. The contact form and ask-me inbox are the verified official channels."
-        }
-      ],
-      "template": {
-        "en": "Subject: Request for written classification of a captive-bred domestic roof rat (Rattus rattus)\n\nTo the Wildlife and Freshwater Fisheries Division:\n\nI am writing to request a written interpretation of how Alabama classifies a pedigreed, captive-bred pet roof rat (Rattus rattus) kept as a household companion. My concern is the difference between a \"domestic animal\" under ADPH Rule 420-4-4-.01(6) and a restricted \"wild rodent\" under Ala. Admin. Code r. 220-2-.26.\n\nThese animals are captive-bred over many generations, tame, kept indoors only, and never released. They show the genetic changes in temperament and color that the \"domestic animal\" definition describes, much like the fancy rat sold in pet stores. The issue is not whether a wild-caught rat is wild; it is that a domesticated, captive-bred animal should be recognized as domestic. The dog descends from the wolf and the house cat from a wild felid, yet both are recognized as domestic animals because of generations bred for tameness, not their wild ancestry, and a captive-bred roof rat is domesticated in that same sense.\n\nPlease confirm in writing that such an animal is a \"domestic animal,\" and therefore exempt from the possession, sale, and intrastate-transport provisions of r. 220-2-.26, so an owner needs no game-breeder license to keep one or take it to a veterinarian. I would also welcome the Division recognizing pedigreed, captive-bred Rattus as a domestic category, as some other states have done, so owners are not left to prove this animal by animal.\n\nThank you for your time and guidance.\n\n[Your name]\n[Your city, Alabama]\n[Your email / phone]"
-      },
-      "confidence_notes": "VERIFIED (2026-06-09 web check): (1) ADCNR Wildlife and Freshwater Fisheries Division contact page is live at outdooralabama.com/top-navigation/contact-us and lists role-based official section inboxes including the Wildlife Section mailbox DCNR.Wildlife@dcnr.alabama.gov and enforcement dcnr.enforce@dcnr.alabama.gov, plus division phone 334-242-3465 / wildlife 334-242-3469. I deliberately used the official section inbox and the contact PAGE rather than any individual employee's address. (2) ADAI Animal Industries import page is live (agi.alabama.gov/animalindustries/animal-health/imports-requirements/), confirms eCVI via Global Vet Link and AgView with 30-day validity, and the official general contact channels are the form at agi.alabama.gov/contact-us/ and ask-me@agi.alabama.gov (phones 334-240-7100 / 800-642-7761; State Vet line 334-240-7255).\\n\\nGROUNDED but not independently re-read today: the substantive legal classification (r. 220-2-.26 'wild rodent' import/sale/intrastate-transport ban with a game-breeder exception; ADPH r. 420-4-4-.01(6) 'domestic animal' genetic-change test; r. 80-3-6-.23 semi-wild 10-day pre-report; Lacey Act incorporation) comes from prior verified research (Gemini Deep Research, 2026-06-08) in the jurisdiction file; I did not re-pull each statute text in this session.\\n\\nUNCERTAIN / honest caveats: (a) Alabama has NOT issued a public ruling on R. rattus, so the 'domestic animal' argument is a reasonable reading, not settled law — the whole point of the request is to get it in writing. (b) The old jurisdiction file listed a license email (dcnr.wfflicense@...) and named individuals (State Vet, an import staffer); I did NOT use any individual's name and substituted the verified role-based Wildlife Section inbox and official forms, which is the safer, OPSEC-clean, and more durable channel. (c) No live bill, pending list, or open comment window exists for this issue, so time_sensitive is intentionally empty — no manufactured urgency. (d) This is a research aid, not legal advice.",
-      "local_lang": "en"
-    }
+    "flag": false
   },
   "activities": {
     "keep": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "No Alabama statute names Rattus rattus, and there is no state pet-rodent permit. Legality turns on classification: ADPH r. 420-4-4-.01(6) defines a 'domestic animal' as one bred through human association to a degree producing genetic changes (temperament/color/conformation) distinguishing it from wild animals of its species; 'wildlife' (r. 420-4-4-.01(12)) is everything else. A pedigreed, captive-bred, color-mutation roof rat can meet the 'domestic' test → keeping is unregulated, no permit. But if an officer deems it a 'wild rodent,' ADCNR r. 220-2-.26 bars possession of one imported from out of state (in-state-trapped wild rodents fall to unprotected-nongame rules but then can't be transported — see transport). No species-specific exemption names R. rattus, so the owner carries the evidentiary burden of domestication.",
-      "governing_law": "Ala. Admin. Code r. 420-4-4-.01(6),(12) (ADPH domestic-vs-wild definitions); Ala. Admin. Code r. 220-2-.26 (ADCNR 'wild rodent' import/possession); Code of Ala. 1975 Title 9 ch. 11.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "The Department of Conservation and Natural Resources (Wildlife and Freshwater Fisheries) confirmed in writing (June 2026) that Alabama does not regulate roof rats; you may possess one with no license or permit. The earlier domestic-animal-versus-wild-rodent classification question is moot: the agency does not treat a kept roof rat as a regulated 'wild rodent'.",
+      "governing_law": "DCNR Wildlife and Freshwater Fisheries written confirmation (June 2026): roof rats not regulated, no permit to keep. Ala. Admin. Code r. 220-2-.26 (import bar only).",
       "source_ids": [
         "al-220-2-26",
         "al-adph-420-4-4-01"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "breed": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "Alabama has NO statewide commercial pet-breeder or small-rodent breeder license; if the animal is 'domestic,' non-commercial and hobby breeding are unregulated by the state. Commercial breeding is governed at the LOCAL/municipal level (e.g., the City of Gadsden's Commercial Breeder Permit + business license) — check your city/county. If the rat is instead classed as a 'wild rodent,' breeding it for transport/sale requires an ADCNR Game Breeder license (Code of Ala. §9-11-30; ~$250/yr non-cervid; facility inspections). Federally, USDA AWA exempts face-to-face/retail and small hobby sellers; the >4-breeding-female wholesale/sight-unseen threshold is the federal commercial demarcation (no Alabama state threshold).",
-      "governing_law": "No statewide pet-breeder statute; local municipal ordinances; Code of Ala. §9-11-30 (Game Breeder — only if 'wild'); USDA AWA (federal).",
+      "status": "legal",
+      "confidence": "high",
+      "why": "Not regulated by the state. DCNR confirmed (June 2026) you may possess, buy, sell, or trade roof rats with no license or permit, so hobby or commercial breeding needs no state wildlife permit. A storefront may still need an ordinary local business license, and federal USDA rules apply only to wholesale/sight-unseen sale (face-to-face placement is exempt).",
+      "governing_law": "DCNR written confirmation (June 2026): no permit to breed/possess roof rats; local business rules; USDA AWA (federal, wholesale only).",
       "source_ids": [
         "al-gadsden-breeder",
         "al-9-11-30",
         "al-220-2-26"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "sell_give": {
-      "status": "unregulated_unclear",
-      "confidence": "medium",
-      "why": "Alabama has no state-level pet-dealer/pet-shop licensing act for domestic small animals; selling a 'domestic' pet rat needs only a standard retail revenue/business license for a storefront (Ala. Dept of Revenue 'Pet Shop' code), and private/free transfer is unregulated. BUT 220-2-.26 expressly prohibits the sale of a 'wild rodent' — so if the animal is classed wild, sale/transfer is banned. Everything again hinges on the domestic-vs-wild classification.",
-      "governing_law": "Ala. Admin. Code r. 220-2-.26 (no sale of 'wild rodent'); Ala. Code Title 40/Dept of Revenue retail license; no state pet-dealer act.",
+      "status": "legal",
+      "confidence": "high",
+      "why": "DCNR confirmed (June 2026) you can buy, sell, or trade roof rats with no license or permit; free gifting is likewise unregulated. A retail storefront still needs an ordinary business license, but no wildlife or pet-dealer permit applies to the species.",
+      "governing_law": "DCNR written confirmation (June 2026): buy/sell/trade roof rats with no license or permit; ordinary business license for a storefront.",
       "source_ids": [
         "al-220-2-26",
         "al-revenue"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "transport": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "INTRASTATE: ADCNR r. 220-2-.26(1) bans transporting a 'wild rodent' anywhere within Alabama — explicitly 'whether such member originated within or without the state' — EXCEPT by a properly licensed game-breeder. So if the animal is classed 'wild,' even a vet trip is unlawful; only the 'domestic animal' classification (or a game-breeder license) makes intrastate transport legal/unregulated. IMPORT (legal_with_permit): a domestic pet rat entering Alabama needs an electronic Certificate of Veterinary Inspection (eCVI via Global Vet Link or AgView; paper APHIS Form 7001 prohibited since 2019; valid 30 days). A 'semi-wild' classification additionally triggers a 10-day advance notice to the State Veterinarian (r. 80-3-6-.23); a 'wild rodent' classification = import banned. EXPORT: unregulated by Alabama (meet the destination state's rules; USFWS Form 3-177 for international, since the federal government treats R. rattus as wildlife). Never release. Net: 'restricted' because the binding intrastate ban + the import paperwork both turn on a classification the state hasn't settled for R. rattus.",
-      "governing_law": "Ala. Admin. Code r. 220-2-.26(1) (intrastate 'wild rodent' transport ban); ADAI eCVI import policy; Ala. Admin. Code r. 80-3-6-.23 (10-day semi-wild pre-report); USFWS Form 3-177 (intl export).",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "IMPORT is prohibited. DCNR confirmed (June 2026) that Ala. Admin. Code r. 220-2-.26 prohibits importing roof rats into Alabama, so you cannot bring one in from out of state; acquire one within Alabama. Intrastate movement of a lawfully kept roof rat is not regulated (the agency does not regulate the species). Export is governed by the destination's rules, and internationally by USFWS Form 3-177 (the federal government treats R. rattus as wildlife). Never release one.",
+      "governing_law": "Ala. Admin. Code r. 220-2-.26 (import of the species prohibited, DCNR confirmed June 2026); destination-state rules + USFWS Form 3-177 for export.",
       "source_ids": [
         "al-220-2-26",
         "al-import-ecvi",
         "al-80-3-6-23"
       ],
-      "verified_date": "2026-06-08",
+      "verified_date": "2026-06-16",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     }
   },
   "restrictions": [
@@ -128,7 +98,7 @@
         "Keep documentation (pedigree, photos of domestic color mutations) to support the 'domestic animal' classification"
       ],
       "forms": [],
-      "where_to_file": "Alabama DCNR (Wildlife & Freshwater Fisheries — classification); Alabama Dept of Agriculture & Industries (State Veterinarian — eCVI/import); local animal control (commercial breeding)",
+      "where_to_file": "Alabama DCNR (Wildlife & Freshwater Fisheries, classification); Alabama Dept of Agriculture & Industries (State Veterinarian, eCVI/import); local animal control (commercial breeding)",
       "fees": "Game Breeder license ~$250/yr (only if 'wild')",
       "source_ids": [
         "al-220-2-26",
@@ -142,7 +112,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Never release a roof rat — releasing any captive-raised/non-indigenous mammal into the wild in Alabama is illegal without express written ADCNR Commissioner permission, and it's ecologically harmful. Rehome responsibly.",
+      "summary": "Never release a roof rat, releasing any captive-raised/non-indigenous mammal into the wild in Alabama is illegal without express written ADCNR Commissioner permission, and it's ecologically harmful. Rehome responsibly.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -156,56 +126,56 @@
   "sources": [
     {
       "id": "al-220-2-26",
-      "title": "Ala. Admin. Code r. 220-2-.26 — Restrictions on possession, sale, importation & transport of certain animals ('wild rodent' clause; intrastate transport ban; game-breeder exception; Lacey Act incorporation)",
+      "title": "Ala. Admin. Code r. 220-2-.26, Restrictions on possession, sale, importation & transport of certain animals ('wild rodent' clause; intrastate transport ban; game-breeder exception; Lacey Act incorporation)",
       "url": "https://admincode.legislature.state.al.us/administrative-code/220-2-.26",
       "authority": "Alabama Dept of Conservation & Natural Resources",
       "accessed": "2026-06-08"
     },
     {
       "id": "al-adph-420-4-4-01",
-      "title": "Ala. Admin. Code r. 420-4-4-.01(6),(12) — ADPH definitions of 'Domestic animal' (genetic-change test) vs 'Wildlife'",
+      "title": "Ala. Admin. Code r. 420-4-4-.01(6),(12), ADPH definitions of 'Domestic animal' (genetic-change test) vs 'Wildlife'",
       "url": "https://admincode.legislature.state.al.us/administrative-code/420-4-4-.01",
       "authority": "Alabama Dept of Public Health",
       "accessed": "2026-06-08"
     },
     {
       "id": "al-import-ecvi",
-      "title": "ADAI Import Requirements — mandatory electronic CVI (Global Vet Link / AgView); paper Form 7001 prohibited since 2019; 30-day validity",
+      "title": "ADAI Import Requirements, mandatory electronic CVI (Global Vet Link / AgView); paper Form 7001 prohibited since 2019; 30-day validity",
       "url": "https://agi.alabama.gov/animalindustries/animal-health/imports-requirements/",
       "authority": "Alabama Dept of Agriculture & Industries",
       "accessed": "2026-06-08"
     },
     {
       "id": "al-80-3-6-23",
-      "title": "Ala. Admin. Code r. 80-3-6-.23 — Wild/semi-wild captive animals imported into Alabama (10-day State-Vet pre-report)",
+      "title": "Ala. Admin. Code r. 80-3-6-.23, Wild/semi-wild captive animals imported into Alabama (10-day State-Vet pre-report)",
       "url": "https://admincode.legislature.state.al.us/api/rule/80-3-6-.23",
       "authority": "Alabama Dept of Agriculture & Industries",
       "accessed": "2026-06-08"
     },
     {
       "id": "al-9-11-30",
-      "title": "Code of Ala. 1975 §9-11-30 — Game Breeder License (required only if the animal is classed 'wild')",
+      "title": "Code of Ala. 1975 §9-11-30, Game Breeder License (required only if the animal is classed 'wild')",
       "url": "https://law.justia.com/codes/alabama/title-9/chapter-11/article-2/section-9-11-30/",
       "authority": "Alabama Legislature",
       "accessed": "2026-06-08"
     },
     {
       "id": "al-gadsden-breeder",
-      "title": "City of Gadsden — Commercial Breeder Permit & Business License (example of LOCAL commercial-breeding regulation)",
+      "title": "City of Gadsden, Commercial Breeder Permit & Business License (example of LOCAL commercial-breeding regulation)",
       "url": "https://www.cityofgadsden.com/572/Animal-Tags-and-Breeder-Permits",
       "authority": "City of Gadsden, Alabama",
       "accessed": "2026-06-08"
     },
     {
       "id": "al-revenue",
-      "title": "Alabama Dept of Revenue — retail/'Pet Shop' license codes (storefront sale)",
+      "title": "Alabama Dept of Revenue, retail/'Pet Shop' license codes (storefront sale)",
       "url": "https://www.revenue.alabama.gov/wp-content/uploads/2022/03/License_Taxes_Quick_Code_Section_Reference.pdf",
       "authority": "Alabama Dept of Revenue",
       "accessed": "2026-06-08"
     },
     {
       "id": "al-adph-rabies",
-      "title": "ADPH Rabies Control & Bite Manual — rodent bites almost never require PEP; no rabies vaccine/quarantine mandate for pet rats",
+      "title": "ADPH Rabies Control & Bite Manual, rodent bites almost never require PEP; no rabies vaccine/quarantine mandate for pet rats",
       "url": "https://www.alabamapublichealth.gov/infectiousdiseases/assets/rabiesbitemanual020123.pdf",
       "authority": "Alabama Dept of Public Health",
       "accessed": "2026-06-08"
@@ -213,7 +183,7 @@
   ],
   "contacts": [
     {
-      "agency": "Alabama Dept of Conservation & Natural Resources — Wildlife & Freshwater Fisheries Division (Law Enforcement / Wildlife Permits)",
+      "agency": "Alabama Dept of Conservation & Natural Resources, Wildlife & Freshwater Fisheries Division (Law Enforcement / Wildlife Permits)",
       "role": "wildlife",
       "email": "dcnr.wfflicense@dcnr.alabama.gov",
       "form_url": "https://www.outdooralabama.com/top-navigation/contact-us",
@@ -221,7 +191,7 @@
       "primary": true
     },
     {
-      "agency": "Alabama Dept of Agriculture & Industries — Animal Industry Division, Office of the State Veterinarian",
+      "agency": "Alabama Dept of Agriculture & Industries, Animal Industry Division, Office of the State Veterinarian",
       "role": "agriculture",
       "email": "statevet@agi.alabama.gov",
       "form_url": "https://agi.alabama.gov/animalindustries/animal-health/imports-requirements/",

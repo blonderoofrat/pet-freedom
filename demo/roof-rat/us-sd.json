@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "South Dakota is now agency-clarified, and the news is favorable. Preliminary research feared a 'prohibited-by-default' reading: a statutory gate (SDCL 40-3-24) bars possessing any nondomestic mammal unless the Animal Industry Board's rules allow it, and Order Rodentia is absent from those rules. But the South Dakota State Veterinarian (Animal Industry Board) confirmed in writing (June 2026) that the Board has NO AUTHORITY over the possession of rodents at all — so that gate is not applied to a pet roof rat, and possession is effectively unregulated rather than prohibited. The one concrete requirement the State Vet gave: IMPORTING a roof rat into South Dakota requires a Certificate of Veterinary Inspection (CVI) plus an import permit number. The State Veterinarian further confirmed (June 2026) there is no other state-level regulator: LOCAL (city/county) authorities would have jurisdiction in most places, so the only thing to check is your municipal animal ordinance.",
+  "summary": "South Dakota is now agency-clarified, and the news is favorable. Preliminary research feared a 'prohibited-by-default' reading: a statutory gate (SDCL 40-3-24) bars possessing any nondomestic mammal unless the Animal Industry Board's rules allow it, and Order Rodentia is absent from those rules. But the South Dakota State Veterinarian (Animal Industry Board) confirmed in writing (June 2026) that the Board has NO AUTHORITY over the possession of rodents at all, so that gate is not applied to a pet roof rat, and possession is effectively unregulated rather than prohibited. The one concrete requirement the State Vet gave: IMPORTING a roof rat into South Dakota requires a Certificate of Veterinary Inspection (CVI) plus an import permit number. The State Veterinarian further confirmed (June 2026) there is no other state-level regulator: LOCAL (city/county) authorities would have jurisdiction in most places, so the only thing to check is your municipal animal ordinance.",
   "last_reviewed": "2026-06-09",
   "agency_confirmations": [
     "South Dakota Animal Industry Board (State Veterinarian), written reply June 2026: the Board has NO authority over the possession of roof rats or any other mammals in the Order Rodentia. Importing them into South Dakota requires a Certificate of Veterinary Inspection (CVI) and an import permit number.",
@@ -120,21 +120,21 @@
   "sources": [
     {
       "id": "sd-40-3-24",
-      "title": "SDCL 40-3-24/40-3-25/40-3-1(3) — nondomestic-mammal possession gate + AIB authority + 'domestic animal' definition (AIB confirms it does not reach Rodentia)",
+      "title": "SDCL 40-3-24/40-3-25/40-3-1(3), nondomestic-mammal possession gate + AIB authority + 'domestic animal' definition (AIB confirms it does not reach Rodentia)",
       "url": "https://sdlegislature.gov/Rules/Administrative/12:68:18:03",
       "authority": "South Dakota Legislature / Animal Industry Board",
       "accessed": "2026-06-07"
     },
     {
       "id": "sd-12-68-18",
-      "title": "ARSD Chapter 12:68:18 — Nondomestic Animal Control (permit orders enumerated; Rodentia absent)",
+      "title": "ARSD Chapter 12:68:18, Nondomestic Animal Control (permit orders enumerated; Rodentia absent)",
       "url": "https://www.animallaw.info/administrative/sd-exotic-pets-chapter-126818-nondomestic-animal-control",
       "authority": "SD Animal Industry Board (via MSU Animal Legal & Historical Center)",
       "accessed": "2026-06-07"
     },
     {
       "id": "sd-aib-import",
-      "title": "SD Animal Industry Board — Animal Movement & Imports (CVI + import permit number required to import)",
+      "title": "SD Animal Industry Board, Animal Movement & Imports (CVI + import permit number required to import)",
       "url": "https://aib.sd.gov/sd-animal-movement.html",
       "authority": "South Dakota Animal Industry Board",
       "accessed": "2026-06-07"

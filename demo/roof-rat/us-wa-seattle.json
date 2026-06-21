@@ -1,0 +1,124 @@
+{
+  "jurisdiction": {
+    "id": "us-wa-seattle",
+    "level": "municipality",
+    "name": "Seattle",
+    "parent": "us-wa",
+    "country": "US",
+    "iso": "US-WA",
+    "language": "en",
+    "slug": "seattle",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "small animal",
+      "companion animal",
+      "exotic animal"
+    ]
+  },
+  "summary": "A pet rat is legal in Seattle, but Seattle is stricter than Washington in one way worth knowing, especially if you want a breeding colony. A rat is not an 'exotic' or banned animal here: Seattle's exotic-animal definition only covers animals capable of seriously injuring a person, so it excludes rats, and a pet rat is a 'companion animal.' The catch is zoning. Seattle's land-use code (SMC 23.42.052) caps the number of 'small animals' kept per home at three, and unlike King County it does not explicitly exempt indoor caged pets. Read literally, a Seattle household is limited to about three small animals total (rats plus any cats, dogs, or rabbits) on a standard lot, with a few more allowed on larger lots. So one to three pet rats are clearly fine; a larger group may run into the cap, so confirm with the city before keeping many. Unincorporated King County is more permissive: it expressly allows unlimited indoor caged pets (KCC 21A.30.020.A), the same as Washington state.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": true
+  },
+  "activities": {
+    "keep": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "Keeping a pet rat is legal in Seattle: SMC 9.25.020 defines an 'exotic animal' as one that is both non-domestic and capable of seriously injuring a human (Rodentia is absent from the list), so a rat is a 'companion animal,' not exotic or banned. However, Seattle's land-use code caps animal density: SMC 23.42.052.A allows up to three 'small animals' accessory to each dwelling unit (four on lots of at least 20,000 sq ft, plus one more per additional 5,000 sq ft). The code does not define 'small animal' to exempt indoor caged pets, and, unlike King County (KCC 21A.30.020.A, which expressly exempts indoor caged pets), Seattle is silent. On a literal reading the three-animal cap therefore counts pet rats, so a household keeping more than three small animals total may be over the limit. This makes Seattle stricter than Washington, which sets no cap. One to three rats are clearly fine; whether the cap is enforced against indoor caged rats is an open, literal-reading question, so confirm with the City for a larger group.",
+      "governing_law": "SMC 9.25.020 (exotic/companion-animal definitions; rats are companion animals) and SMC 23.42.052.A (cap of three 'small animals' per dwelling, no indoor-cage exemption); cf. KCC 21A.30.020.A (King County exempts indoor caged pets); Washington RCW ch. 16.30 (no rodent restriction).",
+      "source_ids": [
+        "smc-9-25-020",
+        "smc-23-42-052",
+        "kcc-21a-30-020"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "breed": {
+      "status": "restricted",
+      "confidence": "medium",
+      "why": "There is no Seattle breeding ban, but the three-'small-animal' cap (SMC 23.42.052.A), with no indoor-cage exemption, effectively limits keeping a breeding group of rats in Seattle on a standard lot. A larger lot raises the cap, and unincorporated King County has no such cap (indoor caged pets are unlimited). Washington sets no cap.",
+      "governing_law": "SMC 23.42.052.A (small-animal cap applied to the breeding group); cf. KCC 21A.30.020.A (no cap).",
+      "source_ids": [
+        "smc-23-42-052",
+        "kcc-21a-30-020"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Seattle imposes no restriction on giving away or selling a pet rat; Washington's permissive rule applies.",
+      "governing_law": "No Seattle or Washington restriction on transferring pet rats.",
+      "source_ids": [
+        "smc-9-25-020"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "Seattle adds no local transport restriction on a pet rat; Washington's permissive rule applies.",
+      "governing_law": "No Seattle or Washington transport restriction on pet rats.",
+      "source_ids": [
+        "smc-9-25-020"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "gemini-dr"
+    }
+  },
+  "restrictions": [
+    {
+      "type": "number_limit",
+      "applies_to": "person",
+      "activity": [
+        "keep",
+        "breed"
+      ],
+      "summary": "Seattle caps the total number of 'small animals' kept per home at three (four on lots of at least 20,000 sq ft, plus one more per additional 5,000 sq ft of lot area). Unlike King County, the code does not exempt indoor caged pets, so on a literal reading pet rats count toward the cap. Confirm with the City before keeping more than three small animals total.",
+      "steps": [
+        "Count your total small animals (rats plus any cats, dogs, rabbits) against the three-per-dwelling cap in SMC 23.42.052.A",
+        "If keeping more, check your lot size for the higher allowance, or contact Seattle SDCI / Seattle Animal Shelter for a determination on indoor caged pets"
+      ],
+      "forms": [],
+      "where_to_file": "Seattle Department of Construction and Inspections (zoning) / Seattle Animal Shelter",
+      "fees": "",
+      "source_ids": [
+        "smc-23-42-052"
+      ]
+    }
+  ],
+  "inquiry_focus": "Whether SMC 23.42.052.A's three-'small-animal' cap is applied to indoor caged pet rats, given the code's silence and King County's express exemption (KCC 21A.30.020.A) for indoor caged pets.",
+  "sources": [
+    {
+      "id": "smc-9-25-020",
+      "title": "Seattle Municipal Code 9.25.020 (exotic animal = non-domestic AND capable of seriously injuring a human; rats are companion animals)",
+      "url": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT9AN_CH9.25ANCO",
+      "authority": "City of Seattle, Washington",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "smc-23-42-052",
+      "title": "Seattle Municipal Code 23.42.052.A (Keeping of animals; up to three 'small animals' per dwelling unit, no indoor-cage exemption)",
+      "url": "https://library.municode.com/wa/seattle/codes/municipal_code",
+      "authority": "City of Seattle, Washington",
+      "accessed": "2026-06-20"
+    },
+    {
+      "id": "kcc-21a-30-020",
+      "title": "King County Code 21A.30.020.A (small animals kept indoors in cages are not limited in number)",
+      "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-legislation-codes/king-county-code",
+      "authority": "King County, Washington",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

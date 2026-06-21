@@ -24,7 +24,7 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "The Black Rat (Rattus rattus) is explicitly named on Saskatchewan's Captive Wildlife allowed list (under The Wildlife Act, 1998 and the Captive Wildlife Regulations, 2021), which exempts listed species from the captive-wildlife licence requirement. So a resident may keep a captive-bred roof rat as a pet with no provincial licence — even though feral rats must be destroyed under the province's pest-control duty.",
+      "why": "The Black Rat (Rattus rattus) is explicitly named on Saskatchewan's Captive Wildlife allowed list (under The Wildlife Act, 1998 and the Captive Wildlife Regulations, 2021), which exempts listed species from the captive-wildlife licence requirement. So a resident may keep a captive-bred roof rat as a pet with no provincial licence, even though feral rats must be destroyed under the province's pest-control duty.",
       "governing_law": "The Wildlife Act, 1998; Captive Wildlife Regulations, 2021 (Captive Wildlife allowed list).",
       "source_ids": [
         "sk-allowed-list",
@@ -62,7 +62,7 @@
     "transport": {
       "status": "legal",
       "confidence": "high",
-      "why": "Transport of a captive R. rattus within and into Saskatchewan is legal for an allowed-list species. Interprovincial transport is legal but subject to the destination province's rules — note you cannot transport one into (or, unresolved, through) Alberta.",
+      "why": "Transport of a captive R. rattus within and into Saskatchewan is legal for an allowed-list species. Interprovincial transport is legal but subject to the destination province's rules, note you cannot transport one into (or, unresolved, through) Alberta.",
       "governing_law": "The Wildlife Act, 1998.",
       "source_ids": [
         "sk-allowed-list"
@@ -79,7 +79,7 @@
       "activity": [
         "keep"
       ],
-      "summary": "Feral rats are a different matter: under the Pest Control Act / pest declarations, every landowner and occupant has an affirmative duty to destroy and prevent the spread of wild rats. This applies to feral animals, not to your securely-caged, captive-bred pet — but never release a pet rat.",
+      "summary": "Feral rats are a different matter: under the Pest Control Act / pest declarations, every landowner and occupant has an affirmative duty to destroy and prevent the spread of wild rats. This applies to feral animals, not to your securely-caged, captive-bred pet, but never release a pet rat.",
       "steps": [],
       "forms": [],
       "where_to_file": "",
@@ -110,7 +110,7 @@
   "sources": [
     {
       "id": "sk-allowed-list",
-      "title": "Saskatchewan Captive Wildlife — Allowed Species List (Black Rat / Rattus rattus listed)",
+      "title": "Saskatchewan Captive Wildlife, Allowed Species List (Black Rat / Rattus rattus listed)",
       "url": "https://pubsaskdev.blob.core.windows.net/pubsask-prod/127131/Captive%2Bwildlife%2Ballowed%2Blist.pdf",
       "authority": "Government of Saskatchewan",
       "accessed": "2026-06-06"
@@ -124,7 +124,7 @@
     },
     {
       "id": "sk-pest",
-      "title": "Saskatchewan Pests Declaration / Pest Control Act — feral-rat eradication duty",
+      "title": "Saskatchewan Pests Declaration / Pest Control Act, feral-rat eradication duty",
       "url": "https://faolex.fao.org/docs/pdf/sk82209.pdf",
       "authority": "Government of Saskatchewan",
       "accessed": "2026-06-06"

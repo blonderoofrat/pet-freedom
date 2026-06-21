@@ -17,8 +17,11 @@
       "dakrat"
     ]
   },
-  "summary": "Belgium is the country that pioneered the 'positive list' (huisdierenlijst / liste positive) — only mammals ON the list may be kept by private persons without special authorization. Since the 2014 state reform, animal welfare is regional, so Flanders, Wallonia and Brussels each maintain their own mammal positive list. Across all three, the listed pet rat appears to be only Rattus norvegicus (the domesticated brown/fancy rat) — Rattus rattus is a distinct species and is not named on any regional list. Keeping an unlisted mammal requires a ministerial authorization that is rarely granted to hobbyists, so a captive-bred roof rat falls into an effectively RESTRICTED zone everywhere in Belgium: not banned by name, but unlawful without authorization. R. rattus is NOT on the EU Union list (Reg. 1143/2014), so that adds no separate bar. The lists are also in flux after 2024 Council of State annulments. The bright spot: each region has a formal procedure to REQUEST adding a species to the positive list — a concrete advocacy route.",
-  "last_reviewed": "2026-06-11",
+  "summary": "Belgium is the country that pioneered the 'positive list' (huisdierenlijst / liste positive), only mammals ON the list may be kept by private persons without special authorization. Since the 2014 state reform, animal welfare is regional, so Flanders, Wallonia and Brussels each maintain their own mammal positive list. Across all three, the listed pet rat appears to be only Rattus norvegicus (the domesticated brown/fancy rat), Rattus rattus is a distinct species and is not named on any regional list. Keeping an unlisted mammal requires a ministerial authorization that is rarely granted to hobbyists, so a captive-bred roof rat falls into an effectively RESTRICTED zone everywhere in Belgium: not banned by name, but unlawful without authorization. R. rattus is NOT on the EU Union list (Reg. 1143/2014), so that adds no separate bar. The lists are also in flux after 2024 Council of State annulments. The bright spot: each region has a formal procedure to REQUEST adding a species to the positive list, a concrete advocacy route.",
+  "last_reviewed": "2026-06-16",
+  "agency_confirmations": [
+    "Flemish Department of Animal Welfare (Vlaanderen), written reply June 2026: since the 2014 state reform there is no longer a single Belgian positive list; Flanders, Wallonia, and Brussels each maintain their own. On the Flemish list, only breeding forms of the brown rat (Rattus norvegicus) are allowed; the roof rat (Rattus rattus) is not, so keeping it as a pet, and therefore breeding it, is not permitted without authorization. Selling or giving an animal away (including for free) requires recognition as an animal business, and a recognized trader may hold a non-listed animal only temporarily, to transfer it to a buyer who may legally own it. Commercial transport of rats over 65 km requires a transporter permit, and import is handled by the federal food-safety agency (FAVV / AFSCA). A keeper may apply for an individual authorization to hold a non-listed species, or petition to add the species to the positive list with a scientific dossier that an expert committee assesses and decides within six months."
+  ],
   "advocacy": {
     "flag": true,
     "kit": {
@@ -32,7 +35,7 @@
           "name": "Your regional animal-welfare authority (Flanders: Dienst Dierenwelzijn; Wallonia: Bien-être animal; Brussels: Dierenwelzijn / Bien-être animal)",
           "type": "agency",
           "email": "dierenwelzijn@vlaanderen.be",
-          "why": "Animal welfare and the positive list are a REGIONAL competence in Belgium; the Flemish service email is shown — Wallonia and Brussels residents should write their own region's animal-welfare service, which runs the same add-a-species procedure."
+          "why": "Animal welfare and the positive list are a REGIONAL competence in Belgium; the Flemish service email is shown, Wallonia and Brussels residents should write their own region's animal-welfare service, which runs the same add-a-species procedure."
         }
       ],
       "template": {
@@ -46,7 +49,7 @@
     "keep": {
       "status": "restricted",
       "confidence": "high",
-      "why": "Each region permits only mammals explicitly enumerated on its positive list (federal origin: Royal Decree 16 July 2009; Wallonia AGW 24 July 2018; Brussels AGRBC 25 June 2020; Flanders BVR 27 Jan 2023 + Vlaamse Codex Dierenwelzijn 2024). The listed rat uses the scientific name Rattus norvegicus; R. rattus — a distinct species, not a domesticated lineage of R. norvegicus — is not named on any list found. Keeping an unlisted mammal needs prior ministerial/governmental authorization; without it, keeping is unlawful. Medium confidence: the official annex PDFs couldn't all be read in full, so a generic 'Rattus sp.' entry can't be 100% excluded — verify.",
+      "why": "Each region permits only mammals explicitly enumerated on its positive list (federal origin: Royal Decree 16 July 2009; Wallonia AGW 24 July 2018; Brussels AGRBC 25 June 2020; Flanders BVR 27 Jan 2023 + Vlaamse Codex Dierenwelzijn 2024). The listed rat uses the scientific name Rattus norvegicus; R. rattus, a distinct species, not a domesticated lineage of R. norvegicus, is not named on any list found. Keeping an unlisted mammal needs prior ministerial/governmental authorization; without it, keeping is unlawful. Medium confidence: the official annex PDFs couldn't all be read in full, so a generic 'Rattus sp.' entry can't be 100% excluded, verify.",
       "governing_law": "Royal Decree 16 July 2009 (positive list); AGW 24 July 2018 (Wallonia); AGRBC 25 June 2020 (Brussels); BVR 27 Jan 2023 + Vlaamse Codex Dierenwelzijn 2024 (Flanders).",
       "source_ids": [
         "be-kb-2009",
@@ -61,7 +64,7 @@
     "breed": {
       "status": "restricted",
       "confidence": "high",
-      "why": "Breeding is downstream of keeping: if keeping unlisted R. rattus needs authorization, breeding does too. Additionally, anyone operating a pet-breeding establishment needs regional recognition (agrément/erkenning) — Flanders requires prior recognition under the Vlaamse Codex Dierenwelzijn; Wallonia's establishment-agrément decree (AGW 24 Nov 2022) was annulled by the Council of State in Dec 2024, leaving that framework uncertain.",
+      "why": "Breeding is downstream of keeping: if keeping unlisted R. rattus needs authorization, breeding does too. Additionally, anyone operating a pet-breeding establishment needs regional recognition (agrément/erkenning), Flanders requires prior recognition under the Vlaamse Codex Dierenwelzijn; Wallonia's establishment-agrément decree (AGW 24 Nov 2022) was annulled by the Council of State in Dec 2024, leaving that framework uncertain.",
       "governing_law": "Vlaamse Codex Dierenwelzijn 2024 (Flanders recognition); AGW 24 Nov 2022 (Wallonia, annulled 2024); Royal Decree 27 April 2007 (establishment conditions, federal origin).",
       "source_ids": [
         "be-vlaamse-codex",
@@ -74,7 +77,7 @@
     "sell_give": {
       "status": "restricted",
       "confidence": "high",
-      "why": "Selling/giving an unlisted species compounds the keeping restriction (both parties must be able to lawfully hold it). Commercial or regular breeding/selling also needs regional recognition as a breeder/dealer (origin: Royal Decree 27 April 2007, now regional). Gratuitous gifting to another private person is more relaxed but still requires the animal to be lawfully held (i.e., positive-list compliant) by both. No price triggers separate rules — the species-authorization problem applies to giving too.",
+      "why": "Selling/giving an unlisted species compounds the keeping restriction (both parties must be able to lawfully hold it). Commercial or regular breeding/selling also needs regional recognition as a breeder/dealer (origin: Royal Decree 27 April 2007, now regional). Gratuitous gifting to another private person is more relaxed but still requires the animal to be lawfully held (i.e., positive-list compliant) by both. No price triggers separate rules, the species-authorization problem applies to giving too.",
       "governing_law": "Royal Decree 27 April 2007 (agrément); Vlaamse Codex Dierenwelzijn 2024; Royal Decree 16 July 2009 (list as precondition for lawful trade).",
       "source_ids": [
         "be-kb-2009",
@@ -107,18 +110,18 @@
         "breed",
         "sell_give"
       ],
-      "summary": "In Belgium a mammal may be kept only if it's on your region's positive list — and only Rattus norvegicus (the fancy rat) appears to be listed, not Rattus rattus. So keeping a roof rat needs a rarely-granted ministerial authorization. Before acquiring one, ask your regional authority (Flanders/Wallonia/Brussels) in writing whether R. rattus is covered, and consider petitioning to ADD it to the positive list. Never release.",
+      "summary": "In Belgium a mammal may be kept only if it's on your region's positive list, and only Rattus norvegicus (the fancy rat) appears to be listed, not Rattus rattus. So keeping a roof rat needs a rarely-granted ministerial authorization. Before acquiring one, ask your regional authority (Flanders/Wallonia/Brussels) in writing whether R. rattus is covered, and consider petitioning to ADD it to the positive list. Never release.",
       "steps": [
         "Ask your regional animal-welfare authority whether R. rattus is on the positive list",
         "If not, use the regional species-addition procedure to petition for inclusion"
       ],
       "forms": [
         {
-          "name": "Wallonia — demander à ajouter une espèce sur la liste positive (mammifères)",
+          "name": "Wallonia, demander à ajouter une espèce sur la liste positive (mammifères)",
           "url": "https://www.wallonie.be/fr/demarches/demander-ajouter-une-espece-sur-la-liste-positive-mammiferes"
         },
         {
-          "name": "Flanders — erkenningsaanvraag positieve lijst",
+          "name": "Flanders, erkenningsaanvraag positieve lijst",
           "url": "https://dierenwelzijn.vlaanderen.be/erkenningsaanvraag-positieve-lijst"
         }
       ],
@@ -135,7 +138,7 @@
       "activity": [
         "sell_give"
       ],
-      "summary": "Free/gratuitous transfer (weggeven) is legally equivalent to commercial trade for an unlisted species — both barred without authorisation. In Flanders, only recognised breeders/dealers may advertise animals on public classified sites or social media; an individual cannot use public channels to rehome a R. rattus, and the recipient must already hold their own regional erkenning/agrément.",
+      "summary": "Free/gratuitous transfer (weggeven) is legally equivalent to commercial trade for an unlisted species, both barred without authorisation. In Flanders, only recognised breeders/dealers may advertise animals on public classified sites or social media; an individual cannot use public channels to rehome a R. rattus, and the recipient must already hold their own regional erkenning/agrément.",
       "steps": [],
       "forms": [],
       "where_to_file": "Regional animal-welfare authority",
@@ -145,25 +148,25 @@
       ]
     }
   ],
-  "inquiry_focus": "(1) Does the 'rat' / 'Rattus norvegicus' entry on the regional mammal positive list (Royal Decree 16 July 2009 as regionally amended) cover only R. norvegicus by name, or a generic genus-level entry that could include captive-bred Rattus rattus? Please provide the full Annex text and a written interpretation. (2) What is the current legal status of the Wallonia (AGW 2018) and Brussels (AGRBC 2020) mammal positive lists after the Dec 2024 Council of State annulment of the establishment-agrément framework — is the list operative and is the species-addition procedure open? (3) For a hobbyist holding documented captive-bred R. rattus, what dossier/evidence is required to (a) obtain individual authorization pending listing and (b) formally add the species to the positive list, and what is the realistic timeline/precedent?",
+  "inquiry_focus": "(1) Does the 'rat' / 'Rattus norvegicus' entry on the regional mammal positive list (Royal Decree 16 July 2009 as regionally amended) cover only R. norvegicus by name, or a generic genus-level entry that could include captive-bred Rattus rattus? Please provide the full Annex text and a written interpretation. (2) What is the current legal status of the Wallonia (AGW 2018) and Brussels (AGRBC 2020) mammal positive lists after the Dec 2024 Council of State annulment of the establishment-agrément framework, is the list operative and is the species-addition procedure open? (3) For a hobbyist holding documented captive-bred R. rattus, what dossier/evidence is required to (a) obtain individual authorization pending listing and (b) formally add the species to the positive list, and what is the realistic timeline/precedent?",
   "sources": [
     {
       "id": "be-kb-2009",
-      "title": "Royal Decree 16 July 2009 — list of mammals (non-production) that may be kept (federal origin positive list)",
+      "title": "Royal Decree 16 July 2009, list of mammals (non-production) that may be kept (federal origin positive list)",
       "url": "https://etaamb.openjustice.be/fr/arrete-royal-du-16-juillet-2009_n2009024254",
       "authority": "Belgian Official Gazette (Moniteur belge / Belgisch Staatsblad)",
       "accessed": "2026-06-07"
     },
     {
       "id": "be-agw-2018",
-      "title": "Arrêté du Gouvernement wallon 24 July 2018 — Wallonia mammal positive list",
+      "title": "Arrêté du Gouvernement wallon 24 July 2018, Wallonia mammal positive list",
       "url": "https://wallex.wallonie.be/eli/arrete/2018/07/24/2018204736/2018/07/24",
       "authority": "WALLEX (Wallonia)",
       "accessed": "2026-06-07"
     },
     {
       "id": "be-vlaamse-codex",
-      "title": "Vlaamse Codex Dierenwelzijn (17 May 2024, in force 1 Jan 2025) — Flanders positive-list & breeder-recognition framework",
+      "title": "Vlaamse Codex Dierenwelzijn (17 May 2024, in force 1 Jan 2025), Flanders positive-list & breeder-recognition framework",
       "url": "https://codex.vlaanderen.be/PrintDocument.ashx?id=1039852",
       "authority": "Codex Vlaanderen",
       "accessed": "2026-06-07"
@@ -177,42 +180,42 @@
     },
     {
       "id": "be-wallonie-addspecies",
-      "title": "Wallonie.be — Demander à ajouter une espèce sur la liste positive mammifères",
+      "title": "Wallonie.be, Demander à ajouter une espèce sur la liste positive mammifères",
       "url": "https://www.wallonie.be/fr/demarches/demander-ajouter-une-espece-sur-la-liste-positive-mammiferes",
       "authority": "SPW",
       "accessed": "2026-06-07"
     },
     {
       "id": "be-fps-travel",
-      "title": "FPS Public Health — Travelling with pets (rodent entry: <5, owner-accompanied, 5-day vet exam)",
+      "title": "FPS Public Health, Travelling with pets (rodent entry: <5, owner-accompanied, 5-day vet exam)",
       "url": "https://www.health.belgium.be/en/animals-and-plants/animals/animal-keeping-and-transporting/travelling-pets",
       "authority": "Federal Public Service Public Health",
       "accessed": "2026-06-07"
     },
     {
       "id": "be-eu-1143",
-      "title": "Regulation (EU) 1143/2014 on invasive alien species — Union list (R. rattus not listed)",
+      "title": "Regulation (EU) 1143/2014 on invasive alien species, Union list (R. rattus not listed)",
       "url": "https://eur-lex.europa.eu/eli/reg/2014/1143/oj/eng",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-07"
     },
     {
       "id": "be-annex-ar2009-brussels",
-      "title": "AR 16 July 2009 — Brussels positive-list annex (lists R. norvegicus 'forme d'élevage'; R. rattus absent)",
+      "title": "AR 16 July 2009, Brussels positive-list annex (lists R. norvegicus 'forme d'élevage'; R. rattus absent)",
       "url": "https://environnement.brussels/media/4906/download?inline",
       "authority": "Bruxelles Environnement",
       "accessed": "2026-06-11"
     },
     {
       "id": "be-flanders-erkenning",
-      "title": "Erkenningsaanvraag — keeping a mammal not on the positive list (Flanders)",
+      "title": "Erkenningsaanvraag, keeping a mammal not on the positive list (Flanders)",
       "url": "https://www.vlaanderen.be/natuur-milieu-en-klimaat/dieren/huisdieren-en-landbouwhuisdieren/erkenningsaanvraag-voor-het-houden-van-een-zoogdier-dat-niet-op-de-positieve-lijst-staat",
       "authority": "Dierenwelzijn Vlaanderen",
       "accessed": "2026-06-11"
     },
     {
       "id": "be-wallonia-agrement",
-      "title": "Demander un agrément — mammifère non listé (Wallonia)",
+      "title": "Demander un agrément, mammifère non listé (Wallonia)",
       "url": "https://environnement.wallonie.be/fr/demandes/3199_demander-un-agrement-pour-detenir-un-mammifere-non-autorise-ne-figurant-pas-sur-la-liste-positive-mammiferes-en-wallonie.html",
       "authority": "SPW Bien-être animal",
       "accessed": "2026-06-11"
@@ -229,7 +232,7 @@
       "inquiry_language": "nl"
     },
     {
-      "agency": "SPW — Direction du Bien-être animal (Wallonie)",
+      "agency": "SPW, Direction du Bien-être animal (Wallonie)",
       "role": "agriculture",
       "email": "bienetreanimal@spw.wallonie.be",
       "form_url": "https://bienetreanimal.wallonie.be/contact",
@@ -238,7 +241,7 @@
       "inquiry_language": "fr"
     },
     {
-      "agency": "Bruxelles Environnement — Bien-être animal",
+      "agency": "Bruxelles Environnement, Bien-être animal",
       "role": "agriculture",
       "email": "",
       "form_url": "https://environnement.brussels/contact",
@@ -247,7 +250,7 @@
       "inquiry_language": "fr"
     },
     {
-      "agency": "FASFC / FAVV / AFSCA — Import/Export",
+      "agency": "FASFC / FAVV / AFSCA, Import/Export",
       "role": "agriculture",
       "email": "import@favv-afsca.be",
       "form_url": "https://favv-afsca.be/",

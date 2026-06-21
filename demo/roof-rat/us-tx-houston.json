@@ -1,0 +1,86 @@
+{
+  "jurisdiction": {
+    "id": "us-tx-houston",
+    "level": "municipality",
+    "name": "Houston",
+    "parent": "us-tx",
+    "country": "US",
+    "iso": "US-TX",
+    "language": "en",
+    "slug": "houston",
+    "local_terms": [
+      "Rattus rattus",
+      "roof rat",
+      "pet",
+      "wild animal",
+      "prohibited animal"
+    ]
+  },
+  "summary": "Good news if you live in Houston: we checked, and Houston is no stricter than Texas. Houston regulates only 'wild animals,' which its code defines as species that are 'wild by nature and, because of size, vicious nature or other characteristics, dangerous to human beings' (City Code ch. 6, art. III). A domesticated pet rat is neither wild by nature nor dangerous, so it is not a regulated 'wild animal,' and the code sets no limit on pet rodents. A pet roof rat is allowed, the same as Texas.",
+  "last_reviewed": "2026-06-20",
+  "advocacy": {
+    "flag": false
+  },
+  "activities": {
+    "keep": {
+      "status": "legal",
+      "confidence": "medium",
+      "why": "Houston Code ch. 6 (Animals and Fowl), art. III ('Keeping of Wild Animals') applies only to animals that are 'wild by nature' and 'dangerous to human beings.' A domesticated pet rat is not dangerous and is not a 'wild animal' under that definition; no separate Houston rule restricts keeping pet rodents. Texas imposes no state restriction. Confidence medium pending a full read of the prohibited-species text, but the operative 'dangerous wild animal' definition clearly excludes a pet rat.",
+      "governing_law": "Houston Code of Ordinances ch. 6, art. III ('wild animal' = dangerous-by-nature); no Texas state restriction.",
+      "source_ids": [
+        "houston-ch6-art3"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "breed": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local rodent-breeding restriction or pet-rat cap; Texas imposes no state restriction.",
+      "governing_law": "Houston Code of Ordinances ch. 6, art. III ('wild animal' = dangerous-by-nature); no Texas state restriction.",
+      "source_ids": [
+        "houston-ch6-art3"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "sell_give": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local restriction on giving or selling a pet rat; Texas state rules apply.",
+      "governing_law": "Houston Code of Ordinances ch. 6, art. III ('wild animal' = dangerous-by-nature); no Texas state restriction.",
+      "source_ids": [
+        "houston-ch6-art3"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    },
+    "transport": {
+      "status": "legal",
+      "confidence": "high",
+      "why": "No local transport restriction on a pet rat; Texas state rules apply.",
+      "governing_law": "Houston Code of Ordinances ch. 6, art. III ('wild animal' = dangerous-by-nature); no Texas state restriction.",
+      "source_ids": [
+        "houston-ch6-art3"
+      ],
+      "verified_date": "2026-06-20",
+      "needs_verification": false,
+      "verified_by": "claude-verify"
+    }
+  },
+  "restrictions": [],
+  "inquiry_focus": "",
+  "sources": [
+    {
+      "id": "houston-ch6-art3",
+      "title": "Houston Code of Ordinances ch. 6 art. III (Keeping of Wild Animals; 'wild animal' = wild by nature and dangerous to humans)",
+      "url": "https://library.municode.com/tx/houston/codes/code_of_ordinances?nodeId=COOR_CH6ANFO_ARTIIIKEWIAN",
+      "authority": "City of Houston, Texas",
+      "accessed": "2026-06-20"
+    }
+  ],
+  "contacts": []
+}

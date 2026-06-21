@@ -15,10 +15,10 @@
       "ship rat"
     ]
   },
-  "summary": "Florida is permissive to keep a pet roof rat — with one paid-sale catch, now confirmed directly by FWC. FWC decides 'domestic vs. wild' by SPECIES, not by how tame an individual is, so roof/black rats count as 'wild rats' even when captive-bred for generations. The upshot (FWC Captive Wildlife, written reply 2026-06-08): KEEPING one as a pet needs NO license, and GIVING one away (any transfer with no money) needs NO license — all rats are exempt from personal-possession licensing. But SELLING one (any transfer for money) requires a Class III 'Exhibition or Public Sale' (ESC) license. Importing a roof rat into Florida needs a free 45-day FWC Wildlife Importation Permit plus a veterinary health certificate. Never release a nonnative.",
+  "summary": "Florida is permissive to keep a pet roof rat, with one paid-sale catch, now confirmed directly by FWC. FWC decides 'domestic vs. wild' by SPECIES, not by how tame an individual is, so roof/black rats count as 'wild rats' even when captive-bred for generations. The upshot (FWC Captive Wildlife, written reply 2026-06-08): KEEPING one as a pet needs NO license, and GIVING one away (any transfer with no money) needs NO license, all rats are exempt from personal-possession licensing. But SELLING one (any transfer for money) requires a Class III 'Exhibition or Public Sale' (ESC) license. Importing a roof rat into Florida needs a free 45-day FWC Wildlife Importation Permit plus a veterinary health certificate. Never release a nonnative.",
   "last_reviewed": "2026-06-08",
   "agency_confirmations": [
-    "FWC Captive Wildlife Office (written reply, 2026-06-08): FWC determines whether an animal is domestic or wild by the SPECIES, not by an individual's tameness — so black/roof rats are treated as wild rats even when captive-bred. KEEPING one as a pet requires NO license (all rats, wild or domestic, are exempt from personal-possession licensing), and GIVING one away with no money changing hands requires NO license. SELLING one (any transfer for payment) requires a Class III 'Exhibition or Public Sale' (ESC) license.",
+    "FWC Captive Wildlife Office (written reply, 2026-06-08): FWC determines whether an animal is domestic or wild by the SPECIES, not by an individual's tameness, so black/roof rats are treated as wild rats even when captive-bred. KEEPING one as a pet requires NO license (all rats, wild or domestic, are exempt from personal-possession licensing), and GIVING one away with no money changing hands requires NO license. SELLING one (any transfer for payment) requires a Class III 'Exhibition or Public Sale' (ESC) license.",
     "FDACS Division of Animal Industry (written guidance, 2020): importing animals into Florida requires a veterinary health certificate (OCVI) issued within 30 days; reportable diseases must be reported."
   ],
   "advocacy": {
@@ -28,7 +28,7 @@
     "keep": {
       "status": "legal",
       "confidence": "high",
-      "why": "FWC confirmed in writing (2026-06-08) that ALL rats — wild or domestic — are exempt from personal-possession licensing, so keeping a captive-bred roof rat as a pet needs no FWC license. (Consistent with F.A.C. 68A-6.003(14)(d), which exempts 'Rats and mice' for personal use, and with roof rats not being on FWC's Prohibited Nonnative Species list.)",
+      "why": "FWC confirmed in writing (2026-06-08) that ALL rats, wild or domestic, are exempt from personal-possession licensing, so keeping a captive-bred roof rat as a pet needs no FWC license. (Consistent with F.A.C. 68A-6.003(14)(d), which exempts 'Rats and mice' for personal use, and with roof rats not being on FWC's Prohibited Nonnative Species list.)",
       "governing_law": "F.A.C. 68A-6.003(14)(d) (personal-use exemption); FWC Captive Wildlife written confirmation 2026-06-08; FWC Prohibited Nonnative Species List (not listed).",
       "source_ids": [
         "fac-68a6003",
@@ -41,7 +41,7 @@
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "Breeding for personal use — keeping the offspring as your own pets or giving them away free — requires no FWC license (all rats are exempt from personal-possession licensing). There is no separate FWC 'breeding permit.' Note: the moment you SELL offspring (transfer for money), the selling rule below applies (a Class III ESC license).",
+      "why": "Breeding for personal use, keeping the offspring as your own pets or giving them away free, requires no FWC license (all rats are exempt from personal-possession licensing). There is no separate FWC 'breeding permit.' Note: the moment you SELL offspring (transfer for money), the selling rule below applies (a Class III ESC license).",
       "governing_law": "F.A.C. 68A-6.003(14)(d) (personal use); FWC written confirmation 2026-06-08; commercial sale → 68A-6.004 (Class III).",
       "source_ids": [
         "fac-68a6003"
@@ -53,7 +53,7 @@
     "sell_give": {
       "status": "legal_with_permit",
       "confidence": "high",
-      "why": "RESOLVED by FWC's written reply (2026-06-08): because FWC treats roof rats as WILDLIFE by species (not by tameness), SELLING one — any transfer where money changes hands — requires a Class III 'Exhibition or Public Sale' (ESC) license. GIVING one away with no payment requires NO license (all rats are exempt from personal-possession licensing). This supersedes the brief 2020 verbal 'no license to sell' guidance, which didn't account for the species-based doctrine.",
+      "why": "RESOLVED by FWC's written reply (2026-06-08): because FWC treats roof rats as WILDLIFE by species (not by tameness), SELLING one, any transfer where money changes hands, requires a Class III 'Exhibition or Public Sale' (ESC) license. GIVING one away with no payment requires NO license (all rats are exempt from personal-possession licensing). This supersedes the brief 2020 verbal 'no license to sell' guidance, which didn't account for the species-based doctrine.",
       "governing_law": "FWC Captive Wildlife written confirmation 2026-06-08; F.A.C. 68A-6.004 (Class III 'Exhibition or Public Sale' license, $50/yr); 68A-6.003(12).",
       "source_ids": [
         "fwc-sale",
@@ -86,14 +86,14 @@
       "activity": [
         "sell_give"
       ],
-      "summary": "To SELL roof rats (any transfer for money), you need a Class III 'License to Possess Wildlife for Exhibition or Public Sale' (ESC), $50/yr — confirmed required by FWC (2026-06-08) because roof rats are wildlife by species. GIVING them away free needs no license. No experience hours, but a disaster plan + inventory/source recordkeeping are required for the ESC.",
+      "summary": "To SELL roof rats (any transfer for money), you need a Class III 'License to Possess Wildlife for Exhibition or Public Sale' (ESC), $50/yr, confirmed required by FWC (2026-06-08) because roof rats are wildlife by species. GIVING them away free needs no license. No experience hours, but a disaster plan + inventory/source recordkeeping are required for the ESC.",
       "steps": [
         "If you'll sell for money: apply for the Class III Exhibition/Public Sale (ESC) license and file a disaster plan",
         "If only giving away free: nothing required"
       ],
       "forms": [
         {
-          "name": "FWC — Sale of Wildlife",
+          "name": "FWC, Sale of Wildlife",
           "url": "https://myfwc.com/license/captive-wildlife/sale/"
         }
       ],
@@ -117,7 +117,7 @@
       ],
       "forms": [
         {
-          "name": "FWC — Importation of Wildlife",
+          "name": "FWC, Importation of Wildlife",
           "url": "https://myfwc.com/license/captive-wildlife/import/"
         }
       ],
@@ -148,56 +148,56 @@
   "sources": [
     {
       "id": "fac-68a6003",
-      "title": "Fla. Admin. Code 68A-6.003 — Permit Requirements & Exceptions ((14)(d) 'Rats and mice' personal use; (12) dealer)",
+      "title": "Fla. Admin. Code 68A-6.003, Permit Requirements & Exceptions ((14)(d) 'Rats and mice' personal use; (12) dealer)",
       "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-68A-6-003",
       "authority": "Florida Administrative Code",
       "accessed": "2026-06-06"
     },
     {
       "id": "fac-68a6004",
-      "title": "Fla. Admin. Code 68A-6.004 — Possession of Class I/II/III Wildlife (Class III ESC sale license)",
+      "title": "Fla. Admin. Code 68A-6.004, Possession of Class I/II/III Wildlife (Class III ESC sale license)",
       "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-68A-6-004",
       "authority": "Florida Administrative Code",
       "accessed": "2026-06-06"
     },
     {
       "id": "fwc-class3",
-      "title": "Class III Wildlife — FWC",
+      "title": "Class III Wildlife, FWC",
       "url": "https://myfwc.com/license/captive-wildlife/class-iii/",
       "authority": "FL FWC",
       "accessed": "2026-06-06"
     },
     {
       "id": "fwc-sale",
-      "title": "Sale of Wildlife — FWC (Class III Exhibition/Public Sale license)",
+      "title": "Sale of Wildlife, FWC (Class III Exhibition/Public Sale license)",
       "url": "https://myfwc.com/license/captive-wildlife/sale/",
       "authority": "FL FWC",
       "accessed": "2026-06-06"
     },
     {
       "id": "fwc-import",
-      "title": "Importation of Wildlife — FWC (free CWL, 45-day)",
+      "title": "Importation of Wildlife, FWC (free CWL, 45-day)",
       "url": "https://myfwc.com/license/captive-wildlife/import/",
       "authority": "FL FWC",
       "accessed": "2026-06-06"
     },
     {
       "id": "fwc-prohibited",
-      "title": "Prohibited Nonnative Species List — FWC (black rat not listed)",
+      "title": "Prohibited Nonnative Species List, FWC (black rat not listed)",
       "url": "https://myfwc.com/wildlifehabitats/nonnatives/prohibited-species-list/",
       "authority": "FL FWC",
       "accessed": "2026-06-06"
     },
     {
       "id": "fwc-nonnative",
-      "title": "Regulations for Nonnative Species — FWC (no-release)",
+      "title": "Regulations for Nonnative Species, FWC (no-release)",
       "url": "https://myfwc.com/wildlifehabitats/nonnatives/regulations/",
       "authority": "FL FWC",
       "accessed": "2026-06-06"
     },
     {
       "id": "fdacs-ocvi",
-      "title": "Official Certificates of Veterinary Inspection — FDACS",
+      "title": "Official Certificates of Veterinary Inspection, FDACS",
       "url": "https://www.fdacs.gov/Business-Services/Veterinarians/Official-Certificates-of-Veterinary-Inspection",
       "authority": "FDACS",
       "accessed": "2026-06-06"

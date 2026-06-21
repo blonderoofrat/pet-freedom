@@ -15,10 +15,10 @@
       "ship rat"
     ]
   },
-  "summary": "In the U.S. Virgin Islands, a roof rat is a non-indigenous 'vermin' species and may not be imported, introduced, kept, or propagated without the express written permission of the Commissioner — confirmed in writing by the Dept of Planning & Natural Resources (DPNR, June 2026). 12 V.I.C. §102 names 'roof (black) rat (Rattus rattus)' (and R. norvegicus) as vermin excluded from 'indigenous species,' and while §105(a) protects indigenous species, §105(d) SEPARATELY prohibits importing or introducing any species that does not naturally occur in the Territory without the Commissioner's written authorization. DPNR is not required to grant it and has a strong basis to deny on biosecurity, invasive-species, conservation, property-damage, and public-health grounds (the territory and USFWS run active rodent-eradication programs protecting endemic species such as the endangered Virgin Islands tree boa). A discretionary written-permission pathway technically exists, so the status is restricted rather than an absolute ban, but approval for live rats is unlikely; any permitted entry also needs a veterinary health certificate (19 V.I.C. §2709). Both Rattus species are treated identically — there is no species trap. Never release one.",
+  "summary": "In the U.S. Virgin Islands, a roof rat is a non-indigenous 'vermin' species and may not be imported, introduced, kept, or propagated without the express written permission of the Commissioner, confirmed in writing by the Dept of Planning & Natural Resources (DPNR, June 2026). 12 V.I.C. §102 names 'roof (black) rat (Rattus rattus)' (and R. norvegicus) as vermin excluded from 'indigenous species,' and while §105(a) protects indigenous species, §105(d) SEPARATELY prohibits importing or introducing any species that does not naturally occur in the Territory without the Commissioner's written authorization. DPNR is not required to grant it and has a strong basis to deny on biosecurity, invasive-species, conservation, property-damage, and public-health grounds (the territory and USFWS run active rodent-eradication programs protecting endemic species such as the endangered Virgin Islands tree boa). A discretionary written-permission pathway technically exists, so the status is restricted rather than an absolute ban, but approval for live rats is unlikely; any permitted entry also needs a veterinary health certificate (19 V.I.C. §2709). Both Rattus species are treated identically, there is no species trap. Never release one.",
   "last_reviewed": "2026-06-10",
   "agency_confirmations": [
-    "U.S. Virgin Islands Department of Planning & Natural Resources (DPNR), Division of Fish & Wildlife, written reply June 2026: roof rats (Rattus rattus) and Norway rats (Rattus norvegicus) are 'vermin' under 12 V.I.C. §102(n) and are excluded from 'indigenous species' (§102(i)). While §105(a) regulates indigenous species, §105(d) separately prohibits importing or introducing into the Territory any species that does not naturally occur there without the express written permission of the Commissioner. Because both rat species are non-indigenous vermin, neither may be imported, introduced, kept, or propagated without that written authorization — and DPNR is not required to grant it and has a strong basis to deny on biosecurity, invasive-species, conservation, property-damage, and public-health grounds. Any animal permitted to enter must also carry a valid certificate of veterinary inspection (19 V.I.C. §2709)."
+    "U.S. Virgin Islands Department of Planning & Natural Resources (DPNR), Division of Fish & Wildlife, written reply June 2026: roof rats (Rattus rattus) and Norway rats (Rattus norvegicus) are 'vermin' under 12 V.I.C. §102(n) and are excluded from 'indigenous species' (§102(i)). While §105(a) regulates indigenous species, §105(d) separately prohibits importing or introducing into the Territory any species that does not naturally occur there without the express written permission of the Commissioner. Because both rat species are non-indigenous vermin, neither may be imported, introduced, kept, or propagated without that written authorization, and DPNR is not required to grant it and has a strong basis to deny on biosecurity, invasive-species, conservation, property-damage, and public-health grounds. Any animal permitted to enter must also carry a valid certificate of veterinary inspection (19 V.I.C. §2709)."
   ],
   "advocacy": {
     "flag": false
@@ -27,7 +27,7 @@
     "keep": {
       "status": "restricted",
       "confidence": "high",
-      "why": "DPNR confirmed in writing (June 2026) that keeping a non-indigenous vermin species is prohibited without the Commissioner's express written permission. Although 12 V.I.C. §105(a)'s take/possess prohibition reaches only indigenous species, §105(d) separately bars importing OR INTRODUCING any non-indigenous species without written authorization, and DPNR reads keeping a non-indigenous vermin as falling within that bar. R. rattus is named vermin (§102), so a private keeper needs the Commissioner's permission — which DPNR is not required to grant and has a strong basis to deny. A discretionary written-permission pathway exists, so this is restricted rather than an absolute ban.",
+      "why": "DPNR confirmed in writing (June 2026) that keeping a non-indigenous vermin species is prohibited without the Commissioner's express written permission. Although 12 V.I.C. §105(a)'s take/possess prohibition reaches only indigenous species, §105(d) separately bars importing OR INTRODUCING any non-indigenous species without written authorization, and DPNR reads keeping a non-indigenous vermin as falling within that bar. R. rattus is named vermin (§102), so a private keeper needs the Commissioner's permission, which DPNR is not required to grant and has a strong basis to deny. A discretionary written-permission pathway exists, so this is restricted rather than an absolute ban.",
       "governing_law": "12 V.I.C. §§102, 105(a), 105(d) (Commissioner's written permission to import/introduce/keep non-indigenous species); DPNR written confirmation (June 2026).",
       "source_ids": [
         "vi-12-102",
@@ -42,7 +42,7 @@
     "breed": {
       "status": "restricted",
       "confidence": "high",
-      "why": "DPNR confirmed (June 2026) that PROPAGATION of non-indigenous vermin is prohibited without the Commissioner's express written permission under 12 V.I.C. §105(d) — this applies regardless of whether the animal was locally acquired or imported, correcting the earlier DR read that local breeding was unregulated. R. rattus is named vermin (§102) and both Rattus species are treated identically. A discretionary permission pathway exists, so restricted rather than prohibited; the V.I. Dept of Agriculture import permit additionally prints an absolute 'will not be allowed to breed' condition on imported specimens.",
+      "why": "DPNR confirmed (June 2026) that PROPAGATION of non-indigenous vermin is prohibited without the Commissioner's express written permission under 12 V.I.C. §105(d), this applies regardless of whether the animal was locally acquired or imported, correcting the earlier DR read that local breeding was unregulated. R. rattus is named vermin (§102) and both Rattus species are treated identically. A discretionary permission pathway exists, so restricted rather than prohibited; the V.I. Dept of Agriculture import permit additionally prints an absolute 'will not be allowed to breed' condition on imported specimens.",
       "governing_law": "12 V.I.C. §§102, 105(d) (Commissioner's permission for propagation); DPNR written confirmation (June 2026); V.I. Dept of Agriculture import permit 'no breeding' condition (imported specimens).",
       "source_ids": [
         "vi-12-102",
@@ -71,7 +71,7 @@
     "transport": {
       "status": "restricted",
       "confidence": "high",
-      "why": "DPNR confirmed (June 2026) that importing or introducing a non-indigenous species requires the Commissioner's express written permission under 12 V.I.C. §105(d), which DPNR is not required to grant and has a strong basis to deny. On top of that territorial bar, the V.I. Dept of Agriculture requires its Non-Indigenous Animal Import Permit ($25/species, void 2 months), a 30-day veterinary health certificate (19 V.I.C. §2709), port custody/inspection, a live-food ban, and a no-breeding condition. Internal movement of a lawfully held, confined animal is permissible; release is strictly unlawful. A lawful (if discretionary and unlikely) pathway exists — restricted, not an absolute ban.",
+      "why": "DPNR confirmed (June 2026) that importing or introducing a non-indigenous species requires the Commissioner's express written permission under 12 V.I.C. §105(d), which DPNR is not required to grant and has a strong basis to deny. On top of that territorial bar, the V.I. Dept of Agriculture requires its Non-Indigenous Animal Import Permit ($25/species, void 2 months), a 30-day veterinary health certificate (19 V.I.C. §2709), port custody/inspection, a live-food ban, and a no-breeding condition. Internal movement of a lawfully held, confined animal is permissible; release is strictly unlawful. A lawful (if discretionary and unlikely) pathway exists, restricted, not an absolute ban.",
       "governing_law": "12 V.I.C. §105(d) (Commissioner's written permission to import/introduce); 19 V.I.C. §2709 (CVI); V.I. Dept of Agriculture Non-Indigenous Animal Import Application; V.I. Wildlife Rules no-release rule; DPNR written confirmation (June 2026).",
       "source_ids": [
         "vi-doa-regs",
@@ -153,28 +153,28 @@
   "sources": [
     {
       "id": "vi-12-102",
-      "title": "12 V.I.C. §102 — Definitions ('indigenous species' excludes vermin incl. 'roof (black) rat (Rattus rattus)')",
+      "title": "12 V.I.C. §102, Definitions ('indigenous species' excludes vermin incl. 'roof (black) rat (Rattus rattus)')",
       "url": "https://law.justia.com/codes/virgin-islands/2019/title-12/chapter-2/102/",
       "authority": "V.I. Legislature (via Justia)",
       "accessed": "2026-06-10"
     },
     {
       "id": "vi-12-105",
-      "title": "12 V.I.C. §105 — Protection of Indigenous Species (take/possess/sell prohibition reaches only indigenous species; DPNR text)",
+      "title": "12 V.I.C. §105, Protection of Indigenous Species (take/possess/sell prohibition reaches only indigenous species; DPNR text)",
       "url": "https://dpnr.vi.gov/fish-and-wildlife/virgin-islands-code/",
       "authority": "VI DPNR Division of Fish & Wildlife",
       "accessed": "2026-06-10"
     },
     {
       "id": "vi-dpnr-reg",
-      "title": "V.I. Rules & Regulations Concerning Wildlife & Marine Sanctuaries (DPNR) — exotic-species framework; no-introduce/no-release (names 'cats or rats')",
+      "title": "V.I. Rules & Regulations Concerning Wildlife & Marine Sanctuaries (DPNR), exotic-species framework; no-introduce/no-release (names 'cats or rats')",
       "url": "https://dpnr.vi.gov/wp-content/uploads/2022/10/Wildlife_MarineSanctuaries_VIRR_6.10.21.pdf",
       "authority": "VI DPNR Division of Fish & Wildlife",
       "accessed": "2026-06-10"
     },
     {
       "id": "vi-amnesty",
-      "title": "Biologists Recruit Public to Confront Invasive Species in the V.I. (Exotic Pet Amnesty list — rats omitted)",
+      "title": "Biologists Recruit Public to Confront Invasive Species in the V.I. (Exotic Pet Amnesty list, rats omitted)",
       "url": "https://stthomassource.com/content/2021/05/04/biologists-recruit-public-to-confront-invasive-species-in-the-v-i/",
       "authority": "DPNR Division of Fish & Wildlife (via St. Thomas Source)",
       "accessed": "2026-06-10"
@@ -188,14 +188,14 @@
     },
     {
       "id": "vi-doa-regs",
-      "title": "State Regulations for the Virgin Islands (Animal Entry & Veterinary Rules) — import permit, 30-day health certificate, port custody/inspection, screwworm provision, destruction-without-compensation",
+      "title": "State Regulations for the Virgin Islands (Animal Entry & Veterinary Rules), import permit, 30-day health certificate, port custody/inspection, screwworm provision, destruction-without-compensation",
       "url": "https://doa.vi.gov/wp-content/uploads/2021/03/State-Regs-for-Virgin-IslandsCURRENT.pdf",
       "authority": "VI Dept of Agriculture, Division of Veterinary Services",
       "accessed": "2026-06-10"
     },
     {
       "id": "vi-fr-treeboa",
-      "title": "Endangered Status for the Virgin Islands Tree Boa (Federal Register) — roof rat as invasive threat; no-introduction rationale",
+      "title": "Endangered Status for the Virgin Islands Tree Boa (Federal Register), roof rat as invasive threat; no-introduction rationale",
       "url": "https://www.govinfo.gov/content/pkg/FR-2020-09-30/pdf/2020-19027.pdf",
       "authority": "U.S. Fish & Wildlife Service / Federal Register",
       "accessed": "2026-06-10"
@@ -203,7 +203,7 @@
   ],
   "contacts": [
     {
-      "agency": "VI Dept of Planning & Natural Resources (DPNR) — Division of Fish & Wildlife",
+      "agency": "VI Dept of Planning & Natural Resources (DPNR), Division of Fish & Wildlife",
       "role": "wildlife",
       "email": "DFWElectronic@usvi.onmicrosoft.com",
       "form_url": "https://dpnr.vi.gov/fish-and-wildlife/forms-applications/",
@@ -211,7 +211,7 @@
       "primary": true
     },
     {
-      "agency": "VI Dept of Agriculture (VIDA) — Division of Veterinary Services",
+      "agency": "VI Dept of Agriculture (VIDA), Division of Veterinary Services",
       "role": "agriculture",
       "email": "veterinaryservices@doa.vi.gov",
       "form_url": "https://doa.vi.gov/veterinary-services/",

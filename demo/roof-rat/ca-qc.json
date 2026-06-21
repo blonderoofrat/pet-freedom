@@ -17,8 +17,11 @@
       "ship rat"
     ]
   },
-  "summary": "In Quebec, keeping, breeding, and selling a roof rat is legal and largely unregulated at the provincial level: Rattus rattus is not a Schedule 1 prohibited species under the Règlement sur les animaux en captivité, so no captivity permit is needed for ordinary hobbyists. The one catch is IMPORT: section 13 requires anyone bringing an animal into Quebec to file a prior written import notice — and while the regulation explicitly exempts the fancy rat (Rattus norvegicus) and the house mouse from that notice, it does NOT name Rattus rattus. So importing a roof rat into Quebec appears to require a notice the fancy rat is spared. Captive facilities must also meet the regulation's housing standards.",
-  "last_reviewed": "2026-06-06",
+  "summary": "In Quebec, keeping, breeding, and selling a roof rat is legal and largely unregulated at the provincial level: Rattus rattus is not a Schedule 1 prohibited species under the Règlement sur les animaux en captivité, so no captivity permit is needed for ordinary hobbyists. The one catch is IMPORT: section 13 requires anyone bringing an animal into Quebec to file a prior written import notice, and while the regulation explicitly exempts the fancy rat (Rattus norvegicus) and the house mouse from that notice, it does NOT name Rattus rattus. So importing a roof rat into Quebec appears to require a notice the fancy rat is spared. Captive facilities must also meet the regulation's housing standards.",
+  "last_reviewed": "2026-06-18",
+  "agency_confirmations": [
+    "Quebec's wildlife authority (Ministere de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs) confirmed in writing (June 2026) that no import notice is required under section 13 of the Reglement sur les animaux en captivite when a roof rat (Rattus rattus) is imported by a private individual for personal purposes and is kept in Canada. An import notice is otherwise normally required for R. rattus (for example a commercial import, or if the animal will not be kept in Canada), while the Norway rat (Rattus norvegicus) and the house mouse (Mus musculus) are exempt from the notice in all cases."
+  ],
   "advocacy": {
     "flag": true,
     "kit": {
@@ -29,13 +32,13 @@
       "time_sensitive": "",
       "targets": [
         {
-          "name": "Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP) — official information-request form (Secteur de la faune et des parcs)",
+          "name": "Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP), official information-request form (Secteur de la faune et des parcs)",
           "type": "agency",
           "form_url": "https://www.environnement.gouv.qc.ca/formulaires/renseignements.asp",
           "why": "Official online intake for written questions to the Ministry; has a wildlife-and-parks routing category, so it lands the section 13 exemption question with the unit that administers the captive-animals regulation. Best first channel because it creates a tracked written record."
         },
         {
-          "name": "MELCCFP — Wildlife customer service (Service à la clientèle, secteur de la faune)",
+          "name": "MELCCFP, Wildlife customer service (Service à la clientèle, secteur de la faune)",
           "type": "agency",
           "email": "renseignements.faune@environnement.gouv.qc.ca",
           "form_url": "https://www.quebec.ca/en/government/departments-agencies/environnement/contact-information/general-contact-information",
@@ -46,7 +49,7 @@
         "en": "Subject: Section 13 import notice: exemption for the domestic roof rat (Rattus rattus)\n\nTo the Wildlife sector, MELCCFP,\n\nI am writing about an inconsistency in the Regulation respecting animals in captivity (C-61.1, r. 5.1). Keeping a domestic roof rat (Rattus rattus) as a pet is legal in Quebec; the species is not on the prohibited schedule. However, section 13's exemption from the prior import notice names the fancy rat (Rattus norvegicus) and the house mouse, but does not name Rattus rattus, even though the two are kept identically as pets.\n\nThese are captive-bred, tame animals, kept indoors as companions, never taken from or released into the wild. The roof rat is the less common of two domesticated rat species. Domestication, not wild ancestry, is what the law recognises elsewhere: the dog descends from the wolf and the cat from a wild felid, yet both are treated as domestic. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over and reasonably deserves the same treatment.\n\nCould you please (1) confirm in writing whether the section 13 exemption applies in practice to a domestic Rattus rattus imported by an individual for personal purposes, or (2) add Rattus rattus to that same exemption? This is a one-line fix that treats the two domestic rat species consistently.\n\nThank you for your time.\n\n[Your name]\n[Your municipality / region]\n[Your email]",
         "fr": "Objet: Avis d'importation de l'article 13: dispense pour le rat noir domestique (Rattus rattus)\n\nAu secteur de la faune, MELCCFP,\n\nJe vous écris au sujet d'une incohérence dans le Règlement sur les animaux en captivité (C-61.1, r. 5.1). Garder un rat noir domestique (Rattus rattus) comme animal de compagnie est légal au Québec; l'espèce ne figure pas à l'annexe des espèces prohibées. Or, la dispense d'avis d'importation prévue à l'article 13 nomme le rat surmulot (Rattus norvegicus) et la souris commune, mais ne nomme pas le Rattus rattus, alors que les deux sont gardés de façon identique comme animaux de compagnie.\n\nIl s'agit d'animaux nés en captivité, apprivoisés, gardés à l'intérieur comme compagnons, jamais prélevés dans la nature ni relâchés. Le rat noir est la moins répandue de deux espèces de rats domestiqués. C'est la domestication, et non l'ascendance sauvage, que la loi reconnaît ailleurs: le chien descend du loup et le chat d'un félin sauvage, et pourtant tous deux sont considérés comme domestiques. Le rat surmulot est lui-même le rat brun sauvage, domestiqué seulement au XIXe siècle, de sorte qu'un rat noir né en captivité est le même cas, à une espèce près, et mérite raisonnablement le même traitement.\n\nPourriez-vous (1) confirmer par écrit si la dispense de l'article 13 s'applique en pratique au Rattus rattus domestique importé par un particulier à des fins personnelles, ou (2) ajouter le Rattus rattus à cette même dispense ? Il s'agit d'une correction d'une seule ligne qui traiterait de façon cohérente les deux espèces de rats domestiques.\n\nJe vous remercie de votre attention.\n\n[Votre nom]\n[Votre municipalité / région]\n[Votre courriel]"
       },
-      "confidence_notes": "Verified live (2026-06-09): the MELCCFP wildlife inquiry email renseignements.faune@environnement.gouv.qc.ca and phone 1-877-346-6763 on the official quebec.ca general-contact page; and the official online information-request form at environnement.gouv.qc.ca/formulaires/renseignements.asp, which has a \"Secteur de la faune et des parcs\" routing option and points wildlife questions to that same email. Confirmed there is NO open public-comment window: the only prepublication of changes to this regulation was the December 27, 2017 Gazette notice, whose 45-day comment period closed in early 2018. The legal substance (R. rattus not on the prohibited schedule; section 13 requires a prior written import notice for listed orders; explicit individual/personal-use exemption for R. norvegicus and Mus musculus but no mention of R. rattus) comes from prior internal research (Gemini deep-research, 2026-06-06) against the official LegisQuebec and CanLII texts cited in our file; a search snippet independently confirmed section 13's 45-to-10-business-day prior-written-notice structure. I could not re-fetch the full LegisQuebec/CanLII article 13 text on 2026-06-09 because both sites return HTTP 403 to automated requests — the exact exemption wording is therefore relied upon from the dated prior reads, not re-confirmed verbatim today. UNCERTAIN: whether the Ministry already treats domestic R. rattus the same as R. norvegicus in practice — that is precisely the open question the letter asks. This is a research aid, not legal advice.",
+      "confidence_notes": "Verified live (2026-06-09): the MELCCFP wildlife inquiry email renseignements.faune@environnement.gouv.qc.ca and phone 1-877-346-6763 on the official quebec.ca general-contact page; and the official online information-request form at environnement.gouv.qc.ca/formulaires/renseignements.asp, which has a \"Secteur de la faune et des parcs\" routing option and points wildlife questions to that same email. Confirmed there is NO open public-comment window: the only prepublication of changes to this regulation was the December 27, 2017 Gazette notice, whose 45-day comment period closed in early 2018. The legal substance (R. rattus not on the prohibited schedule; section 13 requires a prior written import notice for listed orders; explicit individual/personal-use exemption for R. norvegicus and Mus musculus but no mention of R. rattus) comes from prior internal research (Gemini deep-research, 2026-06-06) against the official LegisQuebec and CanLII texts cited in our file; a search snippet independently confirmed section 13's 45-to-10-business-day prior-written-notice structure. I could not re-fetch the full LegisQuebec/CanLII article 13 text on 2026-06-09 because both sites return HTTP 403 to automated requests, the exact exemption wording is therefore relied upon from the dated prior reads, not re-confirmed verbatim today. UNCERTAIN: whether the Ministry already treats domestic R. rattus the same as R. norvegicus in practice, that is precisely the open question the letter asks. This is a research aid, not legal advice.",
       "local_lang": "fr"
     }
   },
@@ -90,17 +93,17 @@
       "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "legal_with_permit",
+      "status": "legal",
       "confidence": "high",
-      "why": "Section 13 of the Règlement sur les animaux en captivité requires a prior written import NOTICE to the Ministry (MELCCFP) — stating the species' scientific name, origin, planned import date, and place of captivity — before bringing an animal into Quebec. The regulation explicitly EXEMPTS the Norway rat (rat surmulot, R. norvegicus) and house mouse (Mus musculus) from this notice when imported by an individual for personal purposes, but it does NOT list Rattus rattus. On the face of the text, importing a roof rat into Quebec requires filing that notice. We have asked the Ministry to confirm. (This is a notice/declaration, not a discretionary permit.)",
+      "why": "Quebec's wildlife authority (MELCCFP) confirmed in writing (2026-06-18) that NO import notice is required under section 13 of the Reglement sur les animaux en captivite (C-61.1, r.5.1) when a roof rat (Rattus rattus) is imported by a private individual for personal purposes AND is kept in Canada, the typical pet-keeper case. An import notice (stating the scientific name, origin, planned import date, and place of captivity) is otherwise normally required for R. rattus, that is, if it is not a private personal import or will not be kept in Canada (for example a commercial import or onward export). The Norway rat (Rattus norvegicus) and the house mouse (Mus musculus) are exempt from the notice in all situations. Internal transport of a lawfully kept pet within Quebec is unrestricted. Never release a roof rat.",
       "governing_law": "Règlement sur les animaux en captivité (C-61.1, r. 5.1), s. 13.",
       "source_ids": [
         "qc-reg-en",
         "qc-reg-fr"
       ],
-      "verified_date": "2026-06-06",
-      "needs_verification": true,
-      "verified_by": "gemini-dr"
+      "verified_date": "2026-06-18",
+      "needs_verification": false,
+      "verified_by": "agency"
     }
   },
   "restrictions": [
@@ -144,14 +147,14 @@
   "sources": [
     {
       "id": "qc-reg-en",
-      "title": "Regulation respecting animals in captivity (C-61.1, r. 5.1) — English (s.13 import notice; R. norvegicus exemption)",
+      "title": "Regulation respecting animals in captivity (C-61.1, r. 5.1), English (s.13 import notice; R. norvegicus exemption)",
       "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-61.1,%20r.%205.1?langCont=en",
       "authority": "Gouvernement du Québec",
       "accessed": "2026-06-06"
     },
     {
       "id": "qc-reg-fr",
-      "title": "Règlement sur les animaux en captivité (C-61.1, r. 5.1) — français",
+      "title": "Règlement sur les animaux en captivité (C-61.1, r. 5.1), français",
       "url": "https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-61.1,%20r.%205.1",
       "authority": "Gouvernement du Québec",
       "accessed": "2026-06-06"
@@ -159,7 +162,7 @@
   ],
   "contacts": [
     {
-      "agency": "Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP) — Direction de la gestion de la faune",
+      "agency": "Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP), Direction de la gestion de la faune",
       "role": "wildlife",
       "email": "renseignements.faune@environnement.gouv.qc.ca",
       "form_url": "https://www.quebec.ca/en/government/ministere/environnement/contact-us",
