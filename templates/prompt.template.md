@@ -54,6 +54,17 @@ Also report:
 - **Pest / invasive classification:** does the jurisdiction classify _{{SPECIES_LATIN}}_ as non-native,
   invasive, nuisance, pest, prohibited, or conditional, and does that trigger any separate rule (no-release,
   eradication, possession ban, etc.)? Note whether such a rule reaches a captive-bred pet or only wild populations.
+- **General alien-species provision (read the verb — do not stop at the named lists):** if the species is
+  non-native / not established in the wild here, "it is not on the invasive list" does NOT settle that keeping is
+  legal. Many alien-species laws have a GENERAL clause covering *any* alien species on top of the named lists.
+  Determine exactly which act it covers: does the general clause reach **keeping / possession**, or only
+  **release / introduction into the wild**? A release-or-introduction permit is NOT a keeping ban (the common
+  case — keeping a caged pet stays legal). But a minority of laws extend the general clause to keeping itself
+  (e.g. Finland's Invasive Species Act §3 bans keeping an alien species "in a manner that allows it to enter the
+  environment"; Norway's Exotic Animal Regulation bans keeping exotic mammals not on a positive list), which can
+  make an *unlisted* species prohibited to keep. Quote the operative verb and section. Also check any separate
+  exotic-/wild-animal keeping list and note its polarity (positive list = unlisted prohibited; negative list =
+  unlisted allowed). State whether the domesticated relative (e.g. the fancy form of a congener) is kept freely.
 - **If the law is silent or genuinely unclear, say so**, and name the exact agency office that could
   clarify (office name + a contact URL or phone if available).
 - **Local-language terms** (species names, statute and agency names, search phrases) if the jurisdiction's

@@ -28,7 +28,7 @@
   "activities": {
     "keep": {
       "status": "legal_with_permit",
-      "confidence": "high",
+      "confidence": "medium",
       "why": "Keeping rats is permitted (minimum husbandry standards in Anlage 1 of the 2. THVO; no §9 prohibition; R. rattus not on the EU Union list). But §8 of the 2. THVO requires a notification (Meldung/Anzeige, generally within 2 weeks) to the Bezirksverwaltungsbehörde for all wild mammal species, and R. rattus, unlike the domesticated R. norvegicus (named in the §31b carve-out), is an undomesticated species not among §8's three exceptions. Whether this 'notification' is mere registration or rises toward a permit varies by district. Legal, but notification-obligated.",
       "governing_law": "2. THVO (BGBl. II 486/2004) §8 (wild-mammal Meldepflicht), Anlage 1; TSchG (BGBl. I 118/2004) §§13, 25.",
       "source_ids": [
@@ -37,7 +37,7 @@
         "at-oesterreich-ratten"
       ],
       "verified_date": "2026-06-11",
-      "needs_verification": false,
+      "needs_verification": true,
       "verified_by": "gemini-dr"
     },
     "breed": {

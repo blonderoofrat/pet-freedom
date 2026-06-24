@@ -22,7 +22,14 @@ Check them in order and you rarely miss the operative rule.
 
 **A country:**
 1. The **national animal-welfare / wildlife / biosecurity law** and any **invasive-species or positive/negative list.**
+   ⚠️ For a **non-native / not-established** species, do not stop at the named lists. Many alien-species acts have a
+   **general clause covering any alien species** on top of the lists. Read its verb: most ban only **release /
+   introduction into the wild** (keeping a caged pet stays legal, so unlisted = legal), but a minority extend it to
+   **keeping itself** (Finland's Invasive Species Act §3; Norway's Exotic Animal Regulation positive list), making an
+   *unlisted* species prohibited to keep. "Not on the list" ≠ legal until you have read that general clause.
 2. Any **supranational layer** it belongs to (e.g. the EU Invasive Alien Species Union list applies across all EU members).
+   Note the EU Regulation 1143/2014 keeping ban reaches only **Union-list** species; a member state's *general* alien-
+   species keeping ban (if any) is **national** law, so check the national act, not just the EU list.
 3. **Import/export:** the national veterinary-import rules + **CITES** (check whether the species is listed on an appendix).
 4. **Sub-national variation** where the country devolves animal-keeping (German Länder, Swiss cantons, Belgian regions, ...).
 

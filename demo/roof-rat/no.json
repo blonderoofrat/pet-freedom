@@ -18,8 +18,8 @@
       "fremmed organisme"
     ]
   },
-  "summary": "Norway operates one of Europe's strictest 'positive list' regimes for non-native and exotic animals, and the roof rat is caught by it. The keeping question is governed by the Exotic Animal Regulation (FOR-2017-05-11-597). Its core prohibition (Section 2) forbids importing, trading, and keeping exotic mammals, reptiles, and amphibians, and defines 'exotic' as a species that does not live wild in Norway and is not a traditional Norwegian production, sport, or family animal. The common fancy rat (Rattus norvegicus) is permitted because it is treated as an ordinary domestic pet rodent (named on Mattilsynet's allowed pet-rodent list), so it is not 'exotic'. Rattus rattus is different on both counts: it is Red-Listed RE (Regionally Extinct) in Norway, so it does not live wild here, and it has no status as a traditional Norwegian companion animal. It is therefore an exotic mammal under Section 2 and barred by default. The regulation's only species exception (Section 3) covers 19 reptiles, not mammals. Lawful keeping would require a discretionary 'special cases' dispensation under Section 5, which in administrative practice has gone to zoos, research, and grandfathered relocations rather than private hobbyists, and no private precedent is documented. A second regime applies at the border: under the Alien Organisms Regulation (FOR-2015-06-19-716), domesticated R. norvegicus is on the free-import annex while R. rattus is on neither annex, so importing it needs a discretionary Section 6 permit from Miljodirektoratet, granted only where the import is not likely to cause adverse consequences for biological diversity. The species' RE status makes the establishment risk from indoor, captive-bred stock low, which is an argument in favor of such a permit, but it does not lift the Exotic Animal Regulation keeping ban. Separately, R. rattus (svartrotte) is classified as a pest under the Pest Control Regulation (FOR-2000-12-21-1406), which places a general pest-control duty on property owners; how that public-health regime interacts with a hypothetically permitted indoor pet is unresolved. Net effect: keeping and import are restricted (a narrow, undocumented dispensation/permit path exists), while breeding and transfer are prohibited (no exception is written for them).",
-  "last_reviewed": "2026-06-13",
+  "summary": "Norway operates one of Europe's strictest 'positive list' regimes for non-native and exotic animals, and the roof rat is caught by it. The keeping question is governed by the Exotic Animal Regulation (FOR-2017-05-11-597). Its core prohibition (Section 2) forbids importing, trading, and keeping exotic mammals, reptiles, and amphibians, and defines 'exotic' as a species that does not live wild in Norway and is not a traditional Norwegian production, sport, or family animal. The common fancy rat (Rattus norvegicus) is permitted because it is treated as an ordinary domestic pet rodent (named on Mattilsynet's allowed pet-rodent list), so it is not 'exotic'. Rattus rattus is different on both counts: it is Red-Listed RE (Regionally Extinct) in Norway, so it does not live wild here, and it has no status as a traditional Norwegian companion animal. It is therefore an exotic mammal under Section 2 and barred by default. The regulation's only species exception (Section 3) covers 19 reptiles, not mammals. Lawful keeping would require a discretionary 'special cases' dispensation under Section 5, which in administrative practice has gone to zoos, research, and grandfathered relocations rather than private hobbyists, and no private precedent is documented. A second regime applies at the border: under the Alien Organisms Regulation (FOR-2015-06-19-716), domesticated R. norvegicus is on the free-import annex while R. rattus is on neither annex, so importing it needs a discretionary Section 6 permit from Miljodirektoratet, granted only where the import is not likely to cause adverse consequences for biological diversity. The species' RE status makes the establishment risk from indoor, captive-bred stock low, which is an argument in favor of such a permit, but it does not lift the Exotic Animal Regulation keeping ban. Separately, R. rattus (svartrotte) is classified as a pest under the Pest Control Regulation (FOR-2000-12-21-1406), which places a general pest-control duty on property owners; how that public-health regime interacts with a hypothetically permitted indoor pet is unresolved. Net effect: keeping, import, breeding, and transfer are all effectively prohibited for a private keeper. A narrow discretionary dispensation (Section 5) and import permit (Section 6) exist on paper, but in administrative practice they have gone to zoos, research, and grandfathered relocations, not private hobbyists, and no private precedent is documented. The advocacy seam mirrors Finland's: R. rattus is Regionally Extinct (it cannot establish from indoor captive-bred stock) and the equally tame fancy rat (R. norvegicus) is kept freely, so the species-level ban is arguably disproportionate.",
+  "last_reviewed": "2026-06-24",
   "advocacy": {
     "flag": true,
     "kit": {
@@ -54,9 +54,9 @@
   },
   "activities": {
     "keep": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "R. rattus is an 'exotic mammal' under FOR-2017-05-11-597 Section 2, which bans keeping exotic mammals, reptiles, and amphibians. It qualifies as exotic because it does not live wild in Norway (Red-Listed RE / Regionally Extinct) and is not a traditional Norwegian family animal, unlike R. norvegicus, which is permitted as an ordinary pet rodent. The regulation's only species exception (Section 3) covers 19 reptiles, not mammals. Keeping is therefore prohibited by default, but Section 5 lets Mattilsynet grant a dispensation in 'special cases' with conditions. That pathway is narrow and, in practice, has applied to institutions and grandfathered relocations rather than private hobbyists; no private precedent for a pet R. rattus is documented. Classed as restricted, not flat prohibited, because a discretionary lawful route exists. A written Mattilsynet determination would confirm.",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "R. rattus is an 'exotic mammal' under FOR-2017-05-11-597 Section 2, which bans keeping exotic mammals, reptiles, and amphibians. It qualifies as exotic because it does not live wild in Norway (Red-Listed RE / Regionally Extinct) and is not a traditional Norwegian family animal, unlike R. norvegicus, which is permitted as an ordinary pet rodent. The regulation's only species exception (Section 3) covers 19 reptiles, not mammals. Keeping is therefore prohibited by default, but Section 5 lets Mattilsynet grant a dispensation in 'special cases' with conditions. That pathway is narrow and, in practice, has applied to institutions and grandfathered relocations rather than private hobbyists; no private precedent for a pet R. rattus is documented. Classed as prohibited for a private keeper: the only lawful route (a Section 5 'special cases' dispensation) is discretionary and, in administrative practice, limited to zoos, research, and grandfathered relocations, with no documented private-hobbyist precedent, so it is not a realistic pet-keeping pathway. Section 2 was verified verbatim on Lovdata (2026-06-24): 'Det er forbudt aa innfoere, omsette og holde eksotiske pattedyr'. A written Mattilsynet determination would confirm the dispensation practice.",
       "governing_law": "FOR-2017-05-11-597 Section 2 (exotic-mammal ban + 'exotic' definition), Section 3 (reptile-only exception), Section 5 (special-case dispensation); FOR-2000-12-21-1406 (pest-control duty, overlay).",
       "source_ids": [
         "no-2017-597",
@@ -65,9 +65,9 @@
         "no-artsdatabanken",
         "no-pest-2000-1406"
       ],
-      "verified_date": "2026-06-13",
+      "verified_date": "2026-06-24",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "claude-websearch (Lovdata FOR-2017-05-11-597 §2 verified verbatim) + gemini-dr"
     },
     "breed": {
       "status": "prohibited",
@@ -95,9 +95,9 @@
       "verified_by": "gemini-dr"
     },
     "transport": {
-      "status": "restricted",
-      "confidence": "medium",
-      "why": "Importing R. rattus requires a discretionary permit under FOR-2015-06-19-716 Section 6, because the species is on neither annex of the Alien Organisms Regulation (domesticated R. norvegicus is on the free-import annex; R. rattus is not). A Section 6 permit may be granted where the import is not likely to cause substantial adverse consequences for biological diversity, and the species' RE (Regionally Extinct) status makes the establishment risk from indoor, captive-bred stock low. By contrast R. norvegicus needs no alien-organism permit and may travel non-commercially (5 or fewer animals, with a health certificate for third-country origin). Presenting R. rattus at the border without a prior Section 6 permit is an illegal import. A border permit also does not lift the Exotic Animal Regulation keeping ban. Never release a non-native animal.",
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Because keeping R. rattus is prohibited (FOR-2017-05-11-597 §2), there is no lawful keeping purpose for importing one, so import is treated as prohibited for a private keeper. Importing R. rattus requires a discretionary permit under FOR-2015-06-19-716 Section 6, because the species is on neither annex of the Alien Organisms Regulation (domesticated R. norvegicus is on the free-import annex; R. rattus is not). A Section 6 permit may be granted where the import is not likely to cause substantial adverse consequences for biological diversity, and the species' RE (Regionally Extinct) status makes the establishment risk from indoor, captive-bred stock low. By contrast R. norvegicus needs no alien-organism permit and may travel non-commercially (5 or fewer animals, with a health certificate for third-country origin). Presenting R. rattus at the border without a prior Section 6 permit is an illegal import. A border permit also does not lift the Exotic Animal Regulation keeping ban. Never release a non-native animal.",
       "governing_law": "FOR-2015-06-19-716 Section 6 (discretionary import permit; Annex I/II, R. rattus on neither); Mattilsynet pet-rodent travel rules (R. norvegicus).",
       "source_ids": [
         "no-2015-716",
@@ -105,7 +105,7 @@
         "no-mattilsynet-rodents",
         "no-artsdatabanken"
       ],
-      "verified_date": "2026-06-13",
+      "verified_date": "2026-06-24",
       "needs_verification": false,
       "verified_by": "gemini-dr"
     }

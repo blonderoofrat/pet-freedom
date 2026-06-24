@@ -55,8 +55,9 @@ destructive. Do not silently accept repetitive per-URL prompting; raise the fix.
 4. **Generate the prompt** — `skill/make_prompts.py` fills `templates/prompt.template.md` (incl. "what we already found
    — VERIFY/CORRECT").
 5. **Verify + author the JSON** — apply the **assume-a-pathway lens** (choose the least-restrictive *accurate* status;
-   `prohibited` only when there is truly no lawful pathway), the 6-term status vocabulary, OPSEC, and the
-   agency-outranks-DR rule. Append a `research_log` entry. Set `verified_by`, clear `needs_verification`.
+   `prohibited` only when there is truly no lawful pathway), **the "not on the list" trap for non-native species
+   (§3.1)**, the 6-term status vocabulary, OPSEC, and the agency-outranks-DR rule. Append a `research_log` entry.
+   Set `verified_by`, clear `needs_verification`.
 6. **Build** — `skill/build.py` renders/updates the hub + about + find-your-local-law + jurisdiction pages
    (idempotent), sets SEO meta per `config.seo`, adds the optional attribution footer. Purge the host cache.
 7. **Audit** — `skill/audit.py` lists confidence/verification gaps. Where it finds a clarification-worthy gap and
@@ -70,6 +71,32 @@ destructive. Do not silently accept repetitive per-URL prompting; raise the fix.
 See `docs/SCHEMA.md`. Status ∈ {legal, legal_with_permit, restricted, prohibited, unregulated_unclear, unknown};
 confidence ∈ {high, medium, low}, independent of status. Inherit a parent's status only where the child is silent —
 and say so on the page.
+
+## 3.1 The "not on the list" trap (non-native species)
+When the species is non-native to a jurisdiction, never infer "not on the invasive list → legal to keep." Alien/
+invasive-species law usually has two layers: a **named list** (the EU Union list, a national list) carrying specific
+bans, and a **general provision** covering *any* alien species. Most general provisions ban only **release /
+introduction into the wild** — keeping a caged pet is fine, so unlisted = legal (the common case, e.g. most EU
+members). But a minority extend the general ban to **keeping itself**, so an unlisted non-native species can be
+**prohibited to keep even though it is on no list** — e.g. Finland's Invasive Species Act §3 ("may not be kept … in a
+manner that allows it to enter the environment") and Norway's Exotic Animal Regulation §2 (bans keeping exotic mammals
+not on a positive list). Whenever a species is non-native / not established in the wild (high-latitude, island, and
+strong-conservation-law jurisdictions especially):
+- **Read the verb.** Find the general alien-species provision and decide whether it reaches *keeping/possession* or
+  only *release/introduction*. A release or introduction permit is **not** a keeping ban. Quote the operative verb and
+  section before you set a status.
+- **Get the list polarity right.** A separate exotic-/wild-animal **positive list** (only listed species may be kept)
+  makes an unlisted species *prohibited* (Norway); a **negative list** (only listed species are banned) makes it
+  *allowed* (Denmark's exotic-pet order).
+- **Probe with the domesticated relative.** If the domestic form of a congener is kept freely (e.g. the fancy rat,
+  *R. norvegicus*) but the target species is caught, that is a species-level anomaly — flag it and author a
+  branch-aware `advocacy.kit`.
+- **Ambiguity cuts both ways.** A keeping ban that hinges on a phrase like "in a manner that allows it to enter the
+  environment" is *both* a reason to seek an agency clarification *and* the advocacy seam (secure indoor keeping of a
+  captive-bred line poses ~no establishment risk).
+- **Don't over-correct.** Most general provisions are release-only, so absent a genuine keeping prohibition, unlisted
+  non-native = keeping legal. Verify the specific provision before flipping a status either way; an agency's written
+  answer settles it.
 
 ## 4. Modules (opt-in, per config)
 Inquiries/mail (`skill/inquiries.py`, `skill/mail.py`); the companion plugin (`plugin/`); the Answer Garden

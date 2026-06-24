@@ -11,6 +11,19 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.3.1 (2026-06-24)
+
+- **The "not on the list" trap (non-native species) — new methodology guardrail.** A non-native species being absent
+  from the invasive/alien-species named lists does NOT by itself mean keeping it is legal. Many alien-species laws add
+  a **general clause covering any alien species**: most ban only **release/introduction into the wild** (keeping a
+  caged pet stays legal, so unlisted = legal — the common case), but a minority extend the ban to **keeping itself**,
+  making an unlisted species prohibited to keep (e.g. Finland's Invasive Species Act §3; Norway's Exotic Animal
+  Regulation positive list). The skill now tells you to read the operative *verb* (keeping vs release), get the
+  exotic-pet list polarity right (positive list → unlisted prohibited; negative list → unlisted allowed), probe with
+  the domesticated relative, and not over-correct (most general clauses are release-only). New `SKILL.md` §3.1, a
+  pointer in the per-jurisdiction loop (step 5), an expanded probe in the research prompt template, and a country-layer
+  note in `docs/SOURCES.md`. No code or schema change; nothing to do but pull.
+
 ## 1.3.0 (2026-06-20)
 
 - **City & county (municipal) layer.** `build.py` now renders a "Local city & county rules" section on a parent
