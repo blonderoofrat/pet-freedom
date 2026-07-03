@@ -68,7 +68,7 @@
       ],
       "verified_date": "2026-06-15",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "breed": {
       "status": "prohibited",
@@ -82,7 +82,7 @@
       ],
       "verified_date": "2026-06-15",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "sell_give": {
       "status": "prohibited",
@@ -95,7 +95,7 @@
       ],
       "verified_date": "2026-06-15",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "transport": {
       "status": "prohibited",
@@ -110,7 +110,7 @@
       ],
       "verified_date": "2026-06-15",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     }
   },
   "restrictions": [
@@ -121,22 +121,15 @@
         "keep",
         "transport"
       ],
-      "summary": "To bring/keep a domesticated rat in Hawaii, get an HDOA Plant Quarantine import permit (Form PQ-7) BEFORE importing; the animal enters only via the Honolulu (Daniel K. Inouye) International Airport, is submitted by the carrier to the Airport Animal Quarantine Holding Facility for inspection, and must travel with a Certificate of Veterinary Inspection (issued shortly before arrival, certifying freedom from disease and external parasites). The Conditionally Approved entry is genus-level ('Rattus sp. - rat, domesticated'), so a domesticated R. rattus is covered on the face of the rule - but because HDOA exercises species discretion at permit time, confirm in writing that the genus entry covers R. rattus (or seek a case-by-case HRS §150A-6.2 permit) before relying on it. Never release a roof rat (feral Rattus is an invasive pest).",
+      "summary": "There is currently NO lawful way to import or keep a pet roof rat in Hawaii. HDOA confirmed in writing (2026-06-15) that the Conditionally Approved 'Rattus sp.' permit conditions were established for the Norway rat (R. norvegicus) only, that there are no permit conditions for importing R. rattus as a pet, and that the case-by-case special permit does not apply because the genus is already listed, so the Plant Quarantine Branch cannot issue an import permit for one. The only route is to petition the Board of Agriculture and Biosecurity to establish permit conditions for the species (about one to two years, advisory-committee and legal review, not guaranteed, see the Roof Rat Freedoms section below). Never release a roof rat (feral Rattus is an invasive pest).",
       "steps": [
-        "Apply for an HDOA Plant Quarantine import permit (Form PQ-7) in advance (single-shipment vs unlimited; pay the fee with the application)",
-        "Confirm in writing that the genus-level 'Rattus sp. (rat, domesticated)' entry covers a domesticated R. rattus, or obtain a case-by-case HRS §150A-6.2 special permit",
-        "Obtain a Certificate of Veterinary Inspection from an accredited vet shortly before shipment (certifying no disease and no external parasites)",
-        "Ship so the animal enters only through Honolulu (Daniel K. Inouye) International Airport; the carrier submits it to the Airport Animal Quarantine Holding Facility for inspection",
-        "Maintain a secure, gnaw-proof, escape-proof enclosure and comply with any post-entry inspection / address-update conditions; never release the animal"
+        "There is no current import permit for a pet R. rattus; do not attempt to import or acquire one",
+        "To pursue change, ask the Plant Quarantine Branch how to petition the Board to establish permit conditions (Form PQ-7 + Board Submittal Template)",
+        "Never release a roof rat"
       ],
-      "forms": [
-        {
-          "name": "HDOA Plant Quarantine - Application for Permit to Import (Form PQ-7)",
-          "url": "https://dab.hawaii.gov/pi/pq/import-program/plant-quarantine-application-for-permits/"
-        }
-      ],
+      "forms": [],
       "where_to_file": "Hawaii Dept of Agriculture & Biosecurity - Plant Quarantine Branch (1849 Auiki St, Honolulu, HI 96819)",
-      "fees": "Import permit fee per HAR §4-71-3.1 (reported as $20 single-shipment / $100 unlimited-shipments / $250 expedited; confirm current schedule with HDOA). Plus origin-state veterinary fee for the CVI.",
+      "fees": "",
       "source_ids": [
         "hi-hdoa-import",
         "hi-hrs-150a-62",
@@ -150,10 +143,9 @@
         "keep",
         "breed"
       ],
-      "summary": "Releasing a pet roof rat into the wild is prohibited and dangerous: feral R. rattus is among the most damaging invasive vertebrates in Hawaii and is separately managed as a public-health vector (DOH HAR 11-26, which bars conditions that harbor or breed rodents). Keep the animal contained at all times and rehome responsibly; never release. Breeding intent must be disclosed on the Form PQ-7 and cleared with HDOA, which may attach conditions on reproduction, facility, and disposition of progeny.",
+      "summary": "Releasing a pet roof rat into the wild is prohibited and dangerous: feral R. rattus is among the most damaging invasive vertebrates in Hawaii and is separately managed as a public-health vector (DOH HAR 11-26, which bars conditions that harbor or breed rodents). Keep the animal contained at all times and rehome responsibly; never release.",
       "steps": [
-        "Never release a roof rat into the wild (invasive pest + public-health vector; multiple state violations)",
-        "Disclose any breeding intent on the Form PQ-7 and obtain HDOA approval/conditions before breeding"
+        "Never release a roof rat into the wild (invasive pest + public-health vector; multiple state violations)"
       ],
       "forms": [],
       "where_to_file": "Hawaii Dept of Agriculture & Biosecurity - Plant Quarantine Branch; Hawaii Dept of Health, Vector Control Branch",

@@ -11,6 +11,15 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.3.2 (2026-07-02)
+
+- **Demo dataset refreshed to the latest verified jurisdiction data.** Re-exported the roof-rat reference dataset
+  from the live source, picking up recent official agency confirmations and status updates: the **Philippines is
+  now prohibited** (confirmed by DENR-BMB), and **Czechia** and **Taiwan** carry new official **agency
+  confirmations**; several US/Canada entries also got their latest verified status calls and stale-text cleanups.
+  No methodology or schema change, this is a data-freshness update. The export scrubber's name backstop re-verified
+  0 private-data leaks.
+
 ## 1.3.1 (2026-06-24)
 
 - **The "not on the list" trap (non-native species) — new methodology guardrail.** A non-native species being absent

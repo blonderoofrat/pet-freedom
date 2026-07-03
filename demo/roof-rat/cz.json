@@ -20,8 +20,11 @@
       "druh vyžadující zvláštní péči (species requiring special care)"
     ]
   },
-  "summary": "Czechia is cleanly permissive for the roof rat, and the verified statutory texts make it cleaner than the preliminary note implied. Czech law is a negative-list (civil-law) system: what is not forbidden is allowed, and an exotic animal needs a permit only if its species is expressly named on the 'special care' list. The Animal Protection Act (Zákon č. 246/1992 Sb.) and its implementing Decree č. 451/2021 Sb. enumerate the species requiring special care, and the mammal entries are limited to primates, carnivores (incl. pinnipeds), elephants, and odd- and even-toed ungulates. No rodent at all appears on that list, so both Rattus rattus (Czech: krysa obecná) and the fancy rat Rattus norvegicus (Czech: potkan) are default unregulated companion animals (zvířata v zájmovém chovu) with identical standing. R. rattus is also NOT on the EU Union list of invasive alien species (Reg. 1143/2014 / Implementing Reg. 2016/1141) and not on any Czech national invasive list under Zákon č. 364/2021 Sb. (which implements the EU IAS regime; the regulated rodents are the muskrat and nutria, not Rattus), and it is not CITES-listed. A hobbyist may keep, breed, and sell or give captive-bred roof rats with no permit, subject only to baseline welfare duties; running it as a continuous business adds a standard 'free trade' (živnost volná) notification to the Trade Licensing Office plus veterinary oversight of commercial breeders/dealers under the Veterinary Act (Zákon č. 166/1999 Sb.). Non-commercial intra-EU movement of up to five owner-accompanied pet rodents needs no harmonized health certificate or pet passport. Never release a roof rat into the wild (general nature-protection and welfare law forbid abandoning any animal).",
-  "last_reviewed": "2026-06-24",
+  "summary": "Czechia is cleanly permissive for the roof rat, and this is now AGENCY-CONFIRMED: the State Veterinary Administration (Ustredni veterinarni sprava SVS) confirmed in writing (1 July 2026) that keeping a captive-bred roof rat is legal with no special permit or registration, that small-scale/own-needs breeding and the occasional gifting of young need no permit, and that only running it as a pet-trade business triggers the trade-licensing and § 13a duties below. Czech law is a negative-list (civil-law) system: what is not forbidden is allowed, and an exotic animal needs a permit only if its species is expressly named on the 'special care' list. The Animal Protection Act (Zákon č. 246/1992 Sb.) and its implementing Decree č. 451/2021 Sb. enumerate the species requiring special care, and the mammal entries are limited to primates, carnivores (incl. pinnipeds), elephants, and odd- and even-toed ungulates. No rodent at all appears on that list, so both Rattus rattus (Czech: krysa obecná) and the fancy rat Rattus norvegicus (Czech: potkan) are default unregulated companion animals (zvířata v zájmovém chovu) with identical standing. R. rattus is also NOT on the EU Union list of invasive alien species (Reg. 1143/2014 / Implementing Reg. 2016/1141) and not on any Czech national invasive list under Zákon č. 364/2021 Sb. (which implements the EU IAS regime; the regulated rodents are the muskrat and nutria, not Rattus), and it is not CITES-listed. A hobbyist may keep, breed, and sell or give captive-bred roof rats with no permit, subject only to baseline welfare duties; running it as a continuous business adds a standard 'free trade' (živnost volná) notification to the Trade Licensing Office (Zákon č. 455/1991 Sb.), the pet-trade duties of § 13a of the Animal Protection Act (notify the Regional Veterinary Administration / krajská veterinární správa at least 30 days before starting, keep three-year purchase/sale records with proof of origin, and give each buyer a written care sheet), and veterinary oversight of commercial breeders/dealers under the Veterinary Act (Zákon č. 166/1999 Sb.). Non-commercial intra-EU movement of up to five owner-accompanied pet rodents needs no harmonized health certificate or pet passport. Never release a roof rat into the wild (general nature-protection and welfare law forbid abandoning any animal).",
+  "last_reviewed": "2026-07-01",
+  "agency_confirmations": [
+    "Státní veterinární správa (State Veterinary Administration), Ústřední veterinární správa, written reply of 1 July 2026 (Mgr. Adéla Šimková, Odbor ochrany zdraví a pohody zvířat): keeping the roof rat (krysa obecná, Rattus rattus) as a pet is generally legal provided the animals are not caught in the wild; the species is not listed in Decree No. 451/2021 Sb. as requiring special care, so no special permit or registration with the veterinary authority is required, only the general animal-protection and veterinary laws (Act No. 246/1992 Sb. and Act No. 166/1999 Sb.) apply. Breeding for one's own needs or on a small scale that does not amount to a business needs no special permit, and one-off or occasional gifting of young from one's own breeding is allowed without a permit. Systematic breeding for sale is a business assessed under the Trade Licensing Act (No. 455/1991 Sb.) and the Veterinary Act, and must meet the pet-trade conditions of § 13a of Act No. 246/1992 Sb. (notify the Regional Veterinary Administration at least 30 days before starting; keep three-year records of animals bought and sold with proof of origin; provide each buyer a free written information sheet on keeping, feeding, and welfare; the pet-shop sale ban covers only dogs, cats, and primates). Transport within the EU follows the general rules; before moving one must verify the destination country's conditions for rodents and whether the roof rat may enter that country at all, even for non-commercial movement of a small number, and transport must comply with Act No. 246/1992 Sb."
+  ],
   "advocacy": {
     "flag": false
   },
@@ -37,15 +40,15 @@
         "cz-svs-special-care",
         "cz-451-faolex"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-07-01",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "Hobby breeding of roof rats is fully legal with no permit: the species is outside the special-care Decree 451/2021 Sb., Czech law imposes no reproductive quota or sterilization rule on genus Rattus, and the IAS framework (Zákon č. 364/2021 Sb. implementing EU Reg. 1143/2014) does not list R. rattus. The only obligation is the general anti-cruelty standard of Act 246/1992 Sb. (no breeding practice that causes foreseeable suffering or harm). Breeding at a continuous, systematic, profit-seeking scale becomes a business: it is an 'unqualified free trade' (živnost volná) under the Trade Licensing Act (Zákon č. 455/1991 Sb., Annex 4 item 'Chov zvířat a jejich výcvik', animal breeding and training, excluding livestock production), needing only a notification to the municipal Trade Licensing Office (živnostenský úřad), with no required veterinary degree or zoological qualification. A commercial breeder/dealer of animals is additionally subject to veterinary-hygiene oversight under the Veterinary Act (Zákon č. 166/1999 Sb., § 5) and to KVS inspection. So: hobby breeding = legal, no permit; commercial breeding = legal but with a free-trade notification plus veterinary oversight.",
-      "governing_law": "Vyhláška č. 451/2021 Sb. (R. rattus not special-care); Zákon č. 246/1992 Sb. (anti-cruelty breeding standard); Zákon č. 455/1991 Sb. Annex 4 (commercial breeding = živnost volná); Zákon č. 166/1999 Sb. § 5 (veterinary oversight of commercial breeders/dealers); Zákon č. 364/2021 Sb. (IAS, R. rattus not listed).",
+      "why": "Hobby breeding of roof rats is fully legal with no permit: the species is outside the special-care Decree 451/2021 Sb., Czech law imposes no reproductive quota or sterilization rule on genus Rattus, and the IAS framework (Zákon č. 364/2021 Sb. implementing EU Reg. 1143/2014) does not list R. rattus. The only obligation is the general anti-cruelty standard of Act 246/1992 Sb. (no breeding practice that causes foreseeable suffering or harm). Breeding at a continuous, systematic, profit-seeking scale becomes a business: it is an 'unqualified free trade' (živnost volná) under the Trade Licensing Act (Zákon č. 455/1991 Sb., Annex 4 item 'Chov zvířat a jejich výcvik', animal breeding and training, excluding livestock production), needing only a notification to the municipal Trade Licensing Office (živnostenský úřad), with no required veterinary degree or zoological qualification. A commercial breeder/dealer of animals is additionally subject to the pet-trade duties of § 13a of the Animal Protection Act (Zákon č. 246/1992 Sb.): notifying the Regional Veterinary Administration (krajská veterinární správa, KVS) at least 30 days before starting the business with the species and numbers kept and documenting how the animals' care/health/welfare are secured, keeping three-year records of purchased and sold animals with proof of origin, and giving each buyer a free written information sheet on the animal's keeping/feeding/welfare, and to veterinary-hygiene oversight under the Veterinary Act (Zákon č. 166/1999 Sb., § 5) and KVS inspection. So: hobby breeding = legal, no permit; commercial breeding = legal but with a free-trade notification, the § 13a KVS notification, and veterinary oversight.",
+      "governing_law": "Vyhláška č. 451/2021 Sb. (R. rattus not special-care); Zákon č. 246/1992 Sb. § 13a (pet-trade business: 30-day KVS notification, 3-year records, buyer information sheet) + anti-cruelty breeding standard; Zákon č. 455/1991 Sb. Annex 4 (commercial breeding = živnost volná); Zákon č. 166/1999 Sb. § 5 (veterinary oversight of commercial breeders/dealers); Zákon č. 364/2021 Sb. (IAS, R. rattus not listed).",
       "source_ids": [
         "cz-451-2021",
         "cz-246-1992",
@@ -53,37 +56,37 @@
         "cz-166-1999",
         "cz-364-2021"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-07-01",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
     },
     "sell_give": {
       "status": "legal",
       "confidence": "high",
-      "why": "Transferring a captive-bred roof rat, whether by sale or as a gift, is unrestricted for a hobbyist; there is no species permit, dealer license, or quota for R. rattus. The welfare conditions of Act 246/1992 Sb. § 13 apply: the animal must be healthy and fit, the recipient must receive adequate care information, and the animal may not be sold or given to a person under 15 (or to a person whose legal capacity is restricted) without the consent of a parent or legal guardian. Rodents are expressly outside the Czech pet-shop sale bans that cover dogs, cats, and primates, so licensed pet shops may stock and sell roof rats. Selling continuously as a business is the same 'free trade' (živnost volná) as commercial breeding, needing a Trade Licensing Office notification; occasional hobbyist-to-hobbyist transfer does not. No veterinary health certificate, microchip, or quarantine is required for a domestic (within-Czechia) hobbyist transfer.",
-      "governing_law": "Zákon č. 246/1992 Sb. § 13 (transfer/welfare conditions; minor-recipient consent; rodents exempt from pet-shop bans); Zákon č. 455/1991 Sb. Annex 4 (commercial sale = živnost volná); Zákon č. 166/1999 Sb. (veterinary oversight if commercial).",
+      "why": "Transferring a captive-bred roof rat, whether by sale or as a gift, is unrestricted for a hobbyist; there is no species permit, dealer license, or quota for R. rattus. The welfare conditions of Act 246/1992 Sb. § 13 apply: the animal must be healthy and fit, the recipient must receive adequate care information, and the animal may not be sold or given to a person under 15 (or to a person whose legal capacity is restricted) without the consent of a parent or legal guardian. Rodents are expressly outside the Czech pet-shop sale bans that cover dogs, cats, and primates, so licensed pet shops may stock and sell roof rats. Selling continuously as a business is the same 'free trade' (živnost volná) as commercial breeding, needing a Trade Licensing Office notification and the § 13a pet-trade duties (a 30-day advance notification to the Regional Veterinary Administration, three-year sale records with proof of origin, and a written care sheet for each buyer); occasional hobbyist-to-hobbyist transfer or gift does not. No veterinary health certificate, microchip, or quarantine is required for a domestic (within-Czechia) hobbyist transfer.",
+      "governing_law": "Zákon č. 246/1992 Sb. § 13 (transfer/welfare conditions; minor-recipient consent; rodents exempt from pet-shop bans) + § 13a (pet-trade business duties: 30-day KVS notification, 3-year records, buyer information sheet); Zákon č. 455/1991 Sb. Annex 4 (commercial sale = živnost volná); Zákon č. 166/1999 Sb. (veterinary oversight if commercial).",
       "source_ids": [
         "cz-246-1992",
         "cz-455-1991",
         "cz-166-1999"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-07-01",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
     },
     "transport": {
       "status": "legal",
-      "confidence": "medium",
+      "confidence": "high",
       "why": "Domestic transport within Czechia is unregulated administratively, no permit or health certificate, subject only to welfare-in-transit standards (escape-proof, ventilated, adequately sized enclosure) under Act 246/1992 Sb. and the transport decree. Non-commercial intra-EU movement of pet rodents is highly permissive: rodents are 'other pet animals' (not in the dog/cat/ferret regime and outside the EU Pet Passport), so up to five owner-accompanied animals may move with no harmonized EU health certificate, pet passport, or rabies vaccination, provided the origin is not under an animal-health alert; the SVS confirms Czechia imposes no supplementary national conditions on EU-origin pet rodents. The same five-animal, owner-accompanied, non-commercial allowance is applied to third-country (non-EU) imports of 'other pet animals' (the heavy import conditions target pet birds, not rodents). Commercial movement (more than five animals, unaccompanied, or for sale/transfer) is instead handled as a commercial consignment in the EU TRACES system with an official animal-health certificate. R. rattus is on no prohibited-import or CITES list. Never release.",
-      "governing_law": "EU Animal Health Law regime for non-commercial movement of 'other pet animals' (the EU Pet Passport, Reg. 576/2013, excludes rodents; superseded for transport by the Reg. 2016/429 framework from 22 April 2026); SVS travel guidance (no Czech national add-ons for EU-origin pet rodents; 5-animal owner-accompanied limit); Zákon č. 246/1992 Sb. + transport decree (welfare in transit).",
+      "governing_law": "EU Animal Health Law regime for non-commercial movement of 'other pet animals' (the EU Pet Passport, Reg. 576/2013, excludes rodents; superseded for transport by Reg. (EU) 2016/429 (Art. 244-256 + Annex I) + Reg. (EU) 2026/131 from 22 April 2026, per the SVS); SVS travel guidance (no Czech national add-ons for EU-origin pet rodents; 5-animal owner-accompanied limit); Zákon č. 246/1992 Sb. + transport decree (welfare in transit); duty to verify the destination country's rodent rules before moving.",
       "source_ids": [
         "cz-svs-travel",
         "cz-eu-ahl",
         "cz-246-1992"
       ],
-      "verified_date": "2026-06-14",
+      "verified_date": "2026-07-01",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
     }
   },
   "restrictions": [
@@ -94,19 +97,21 @@
         "breed",
         "sell_give"
       ],
-      "summary": "Private keeping, hobby breeding, and hobbyist sale/gift of captive-bred roof rats are legal in Czechia with NO permit or registration (R. rattus is on no special-care, invasive, or CITES list). The only formalities attach to running it as a continuous BUSINESS: commercial breeding or selling of animals is an 'unqualified free trade' (živnost volná) under the Trade Licensing Act, which requires only a notification to the municipal Trade Licensing Office (živnostenský úřad); a commercial breeder/dealer is then also subject to veterinary-hygiene oversight and KVS inspection under the Veterinary Act. There is no per-transfer registration for hobbyists and no reproductive quota. Never release a roof rat.",
+      "summary": "Private keeping, hobby breeding, and hobbyist sale/gift of captive-bred roof rats are legal in Czechia with NO permit or registration (R. rattus is on no special-care, invasive, or CITES list); confirmed in writing by the State Veterinary Administration (1 July 2026). The only formalities attach to running it as a continuous BUSINESS: commercial breeding or selling of animals is an 'unqualified free trade' (živnost volná) under the Trade Licensing Act, which requires a notification to the municipal Trade Licensing Office (živnostenský úřad); a commercial breeder/dealer is then also subject to the § 13a pet-trade duties of the Animal Protection Act (a 30-day advance notification to the Regional Veterinary Administration / KVS with species and numbers, three-year purchase/sale records with proof of origin, and a free written care sheet for each buyer) and to veterinary-hygiene oversight and KVS inspection under the Veterinary Act. There is no per-transfer registration for hobbyists and no reproductive quota. Never release a roof rat.",
       "steps": [
         "Keeping / hobby breeding / occasional hobbyist sale or gift: nothing to file.",
         "To breed or sell as a continuous business: notify the municipal Trade Licensing Office (živnostenský úřad) of the free trade 'Chov zvířat a jejich výcvik' (excluding livestock production) and obtain a trade-registration (IČO).",
+        "As a pet-trade business: at least 30 days before starting, notify the Regional Veterinary Administration (KVS) of the species and numbers under § 13a of Zákon č. 246/1992 Sb. and document your care/health/welfare arrangements; keep three-year records of animals bought/sold with proof of origin; give each buyer a free written care sheet.",
         "As a commercial breeder/dealer: comply with the veterinary-hygiene and traceability duties of Zákon č. 166/1999 Sb. § 5 and accept KVS inspection.",
         "No special-care (zvláštní péče) permit applies to rodents."
       ],
       "forms": [],
-      "where_to_file": "Municipal Trade Licensing Office (živnostenský úřad) for the free trade; Krajská veterinární správa (KVS) / SVS for commercial-breeder/dealer veterinary oversight.",
+      "where_to_file": "Municipal Trade Licensing Office (živnostenský úřad) for the free trade; Krajská veterinární správa (KVS) / SVS for the § 13a pet-trade notification and commercial-breeder/dealer veterinary oversight.",
       "fees": "Trade notification fee per the Trade Licensing Act (standard administrative fee, e.g. CZK 1000 for a new trade notification); no special-care permit fee applies because no permit is required.",
       "source_ids": [
         "cz-455-1991",
-        "cz-166-1999"
+        "cz-166-1999",
+        "cz-246-1992"
       ]
     },
     {
@@ -151,7 +156,7 @@
   "sources": [
     {
       "id": "cz-246-1992",
-      "title": "Zákon č. 246/1992 Sb. na ochranu zvířat proti týrání, Animal Protection Act (welfare duties; § 13 special-care-permit trigger + transfer/welfare conditions incl. minor-recipient consent; ban on releasing animals)",
+      "title": "Zákon č. 246/1992 Sb. na ochranu zvířat proti týrání, Animal Protection Act (welfare duties; § 13 special-care-permit trigger + transfer/welfare conditions incl. minor-recipient consent; § 13a pet-trade business conditions: 30-day KVS notification, 3-year records, buyer information sheet, pet-shop sale ban for dogs/cats/primates; ban on releasing animals)",
       "url": "https://www.e-sbirka.cz/sb/1992/246",
       "authority": "e-Sbírka (official State Collection of Laws)",
       "accessed": "2026-06-14"

@@ -90,20 +90,17 @@
         "transport",
         "sell_give"
       ],
-      "summary": "Everything turns on whether your roof rat is a 'domestic animal' (ADPH genetic-change test, r. 420-4-4-.01(6)) or a 'wild rodent' (ADCNR r. 220-2-.26). If 'domestic': keeping/breeding/selling are state-unregulated and intrastate transport is legal; import needs an eCVI. If 'wild': import, sale, and ALL intrastate transport are barred except via a game-breeder license. Get a written ADCNR classification before importing or selling, and keep pedigree/photos documenting captive breeding + color mutations.",
+      "summary": "Straight from the wildlife agency (DCNR, June 2026): keeping, breeding, and selling or giving a captive-bred roof rat are unregulated in Alabama, no license or permit. The one restriction is IMPORT: Ala. Admin. Code r. 220-2-.26 bars bringing the species into the state, so acquire a roof rat within Alabama. Intrastate movement of a lawfully kept animal is not regulated. For any interstate or international export, the destination's rules and USFWS Form 3-177 apply. Never release one.",
       "steps": [
-        "Ask ADCNR (WFF) in writing whether a pedigreed, captive-bred R. rattus is a 'domestic animal' or a restricted 'wild rodent' under 220-2-.26",
-        "For import: obtain an electronic CVI (Global Vet Link or AgView) from a USDA-accredited vet (valid 30 days); ask ADAI whether the 10-day State-Vet pre-report (80-3-6-.23) applies",
-        "For commercial breeding/sale: check your city/county for a local commercial-breeder permit + business license",
-        "Keep documentation (pedigree, photos of domestic color mutations) to support the 'domestic animal' classification"
+        "Acquire a roof rat within Alabama; do not import (r. 220-2-.26 bars importing the species)",
+        "For commercial breeding or sale, check your city/county for a local business license",
+        "Never release a roof rat; rehome responsibly"
       ],
       "forms": [],
-      "where_to_file": "Alabama DCNR (Wildlife & Freshwater Fisheries, classification); Alabama Dept of Agriculture & Industries (State Veterinarian, eCVI/import); local animal control (commercial breeding)",
-      "fees": "Game Breeder license ~$250/yr (only if 'wild')",
+      "where_to_file": "Alabama DCNR (Wildlife & Freshwater Fisheries)",
+      "fees": "",
       "source_ids": [
-        "al-220-2-26",
-        "al-adph-420-4-4-01",
-        "al-import-ecvi"
+        "al-220-2-26"
       ]
     },
     {

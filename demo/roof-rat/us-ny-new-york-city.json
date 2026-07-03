@@ -16,7 +16,7 @@
       "rodent"
     ]
   },
-  "summary": "Good news if you live in New York City: we checked, and a pet rat is allowed. NYC's famously strict Health Code (Article 161, Section 161.01) bans a long list of wild animals, including 'all large rodents' such as gopher, muskrat, beaver, prairie dog, and capybara, plus squirrels and bats. But that list targets large and wild rodents, not small domesticated ones. A pet rat (like the common fancy rat that New Yorkers already keep) is a small domesticated rodent and is not on the prohibited list. A pet roof rat is allowed, the same as New York State.",
+  "summary": "Good news if you live in New York City: we checked, and a pet rat is allowed. NYC's famously strict Health Code (Article 161, Section 161.01) bans a long list of wild animals, including 'all large rodents' such as gopher, muskrat, beaver, prairie dog, and capybara, plus squirrels and bats. But that list targets large and wild rodents, not small domesticated ones. A pet rat (like the common fancy rat that New Yorkers already keep) is a small domesticated rodent and is not on the prohibited list. A pet roof rat is allowed, the same as New York State. Selling rats commercially at retail needs a DOHMH Class P pet-shop permit; keeping one, or placing or giving one away privately, needs no permit.",
   "last_reviewed": "2026-06-20",
   "advocacy": {
     "flag": false
@@ -47,16 +47,17 @@
       "verified_by": "claude-verify"
     },
     "sell_give": {
-      "status": "legal",
+      "status": "legal_with_permit",
       "confidence": "high",
-      "why": "No local restriction on giving or selling a pet rat; the state's rule applies.",
-      "governing_law": "See keep.",
+      "why": "In New York City, commercial retail sale of rats requires a Class P 'Pet Shop' permit from DOHMH (NYC Health Code §161.09; ch. 5), the same permit documented on the parent New York page. Rats remain sellable in NYC even after Local Law 132 (2024) banned the retail sale of dogs, cats, guinea pigs, and rabbits. Private, face-to-face placement and giveaways need no permit.",
+      "governing_law": "NYC Health Code §161.09 & ch. 5 (Class P pet-shop permit; Local Law 132/2024); see New York (state) for the statewide framework.",
       "source_ids": [
-        "nyc-161-01"
+        "nyc-161-01",
+        "nyc-petshop"
       ],
-      "verified_date": "2026-06-20",
+      "verified_date": "2026-07-02",
       "needs_verification": false,
-      "verified_by": "claude-verify"
+      "verified_by": "maintainer"
     },
     "transport": {
       "status": "legal",
@@ -71,7 +72,30 @@
       "verified_by": "claude-verify"
     }
   },
-  "restrictions": [],
+  "restrictions": [
+    {
+      "type": "license",
+      "applies_to": "person",
+      "activity": [
+        "sell_give"
+      ],
+      "summary": "In New York City, a commercial retail seller of rats needs a Class P 'Pet Shop' permit from DOHMH (facility inspections; integrated pest management). Rats remain legally sellable in NYC even after Local Law 132 (2024) banned the retail sale of dogs, cats, guinea pigs, and rabbits. Private/face-to-face placement and giveaways need no permit.",
+      "steps": [
+        "If running an NYC retail storefront, obtain a DOHMH Class P pet-shop permit"
+      ],
+      "forms": [
+        {
+          "name": "NYC Health Code Ch. 5, Pet Shops",
+          "url": "https://www.nyc.gov/assets/doh/downloads/pdf/about/healthcode/chapter5-petshops.pdf"
+        }
+      ],
+      "where_to_file": "NYC DOHMH",
+      "fees": "Municipal pet-shop permit fee",
+      "source_ids": [
+        "nyc-petshop"
+      ]
+    }
+  ],
   "inquiry_focus": "",
   "sources": [
     {
@@ -80,6 +104,13 @@
       "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-46988",
       "authority": "New York City Department of Health and Mental Hygiene",
       "accessed": "2026-06-20"
+    },
+    {
+      "id": "nyc-petshop",
+      "title": "NYC Health Code Ch. 5, Pet Shops (Class P permit; Local Law 132/2024)",
+      "url": "https://www.nyc.gov/assets/doh/downloads/pdf/about/healthcode/chapter5-petshops.pdf",
+      "authority": "New York City Department of Health and Mental Hygiene",
+      "accessed": "2026-07-02"
     }
   ],
   "contacts": []

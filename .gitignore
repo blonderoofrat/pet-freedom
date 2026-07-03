@@ -33,3 +33,6 @@ __pycache__/
 Thumbs.db
 
 # NOTE: the demo/roof-rat/ sample data IS committed on purpose (worked example + funnel).
+
+# OPSEC: private maintainer names for the selftest scrub-guard, never publish
+.opsec-scrub-names

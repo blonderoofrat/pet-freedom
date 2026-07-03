@@ -15,62 +15,62 @@
       "exotic animal"
     ]
   },
-  "summary": "Good news if you live in Las Vegas: we checked, and Las Vegas (and Clark County) do not restrict keeping a pet rat. Nevada is broadly permissive about pets (its short list of banned pets is animals like foxes and skunks, not rats), and the local exotic-animal permit (Clark County ch. 10.18; Las Vegas Title 7) targets genuinely exotic or dangerous animals. The county treats wild, non-domestic rats as a pest-control matter, separate from a domesticated pet rat. A pet roof rat is allowed.",
+  "summary": "If you live in Las Vegas, the local picture is permissive: Las Vegas (and Clark County) add no rule that would restrict keeping a pet rat, and the local exotic-animal permits (Clark County ch. 10.18; Las Vegas Title 7) target genuinely exotic or dangerous animals, not a domesticated pet rat. The county treats wild, non-domestic rats as a pest-control matter, separate from a pet rat. We code this page unregulated / unclear rather than a flat 'legal' because it inherits a STATE-level open question: Nevada's exemption for 'domesticated races of rats and mice' (NAC 503.140) names no species, so whether it reaches the roof rat (Rattus rattus) specifically is officially untested (see Nevada). Locally there is no barrier; the unresolved point is the statewide species mapping, and a child municipality cannot read as more certain than its state.",
   "last_reviewed": "2026-06-20",
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
-      "status": "legal",
+      "status": "unregulated_unclear",
       "confidence": "medium",
-      "why": "Nevada does not restrict keeping a domesticated pet rat; the state's commonly-cited illegal pets are species such as foxes and skunks, not rats. Clark County ch. 10.18 (Exotic or Wild Animals) and Las Vegas Title 7 require permits for genuinely exotic or dangerous animals, which a domesticated pet rat is not; the county directs wild, non-domestic rat issues to pest control, distinguishing them from pet rats. Not stricter than Nevada. Medium confidence: the exact Clark County exotic-animal definition is on a code host that blocked a direct read, so this rests on Nevada's permissive pet framework plus the county's wild-versus-pet rat distinction.",
-      "governing_law": "Clark County Code ch. 10.18 (Exotic or Wild Animals); Las Vegas Municipal Code Title 7 (Animals); Nevada pet law generally.",
+      "why": "Nevada does not restrict keeping a domesticated pet rat, and Las Vegas adds no local restriction: the state's commonly-cited illegal pets are species such as foxes and skunks, not rats, and Clark County ch. 10.18 (Exotic or Wild Animals) plus Las Vegas Title 7 require permits only for genuinely exotic or dangerous animals, which a domesticated pet rat is not (the county directs wild, non-domestic rat issues to pest control). Locally, then, there is no barrier. This is coded unregulated / unclear rather than a flat 'legal' because a child municipality cannot read as more certain than its state: Nevada's exemption for 'domesticated races of rats and mice' (NAC 503.140) names no species, so whether it reaches Rattus rattus specifically is officially untested (see Nevada).",
+      "governing_law": "Clark County Code ch. 10.18 (Exotic or Wild Animals); Las Vegas Municipal Code Title 7 (Animals); Nevada NAC 503.140 (state-level species-mapping question, see Nevada).",
       "source_ids": [
         "clark-10-18",
         "lv-title7"
       ],
       "verified_date": "2026-06-20",
-      "needs_verification": false,
+      "needs_verification": true,
       "verified_by": "claude-verify"
     },
     "breed": {
-      "status": "legal",
-      "confidence": "high",
-      "why": "No local rodent-breeding restriction; the state's permissive rule applies.",
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "No local rodent-breeding restriction, but this inherits Nevada's unresolved species-mapping question (see keep and Nevada), so it is coded unregulated / unclear to match the state.",
       "governing_law": "See keep.",
       "source_ids": [
         "clark-10-18",
         "lv-title7"
       ],
       "verified_date": "2026-06-20",
-      "needs_verification": false,
+      "needs_verification": true,
       "verified_by": "claude-verify"
     },
     "sell_give": {
-      "status": "legal",
-      "confidence": "high",
-      "why": "No local restriction on giving or selling a pet rat; the state's rule applies.",
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "No local restriction on giving or selling a pet rat, but this inherits Nevada's unresolved species-mapping question (see keep and Nevada), so it is coded unregulated / unclear to match the state.",
       "governing_law": "See keep.",
       "source_ids": [
         "clark-10-18",
         "lv-title7"
       ],
       "verified_date": "2026-06-20",
-      "needs_verification": false,
+      "needs_verification": true,
       "verified_by": "claude-verify"
     },
     "transport": {
-      "status": "legal",
-      "confidence": "high",
-      "why": "No local transport restriction on a pet rat; the state's rule applies.",
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "No local transport restriction on a pet rat, but this inherits Nevada's unresolved species-mapping question (see keep and Nevada), so it is coded unregulated / unclear to match the state.",
       "governing_law": "See keep.",
       "source_ids": [
         "clark-10-18",
         "lv-title7"
       ],
       "verified_date": "2026-06-20",
-      "needs_verification": false,
+      "needs_verification": true,
       "verified_by": "claude-verify"
     }
   },

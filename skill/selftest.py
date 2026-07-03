@@ -23,7 +23,24 @@ import xml.dom.minidom as MD
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # pet-freedom/
 DEMO = os.path.join(ROOT, "demo", "roof-rat")
 PY = sys.executable
-REDACT = ["Brian Starr", "Brian", "Qiong", "Meisha", "Starr", "brianjstarr", "W107439"]
+def _load_redact_names():
+    """Private names to assert-absent from the public demo corpus. Kept OUT of this public file:
+    read them from $PF_SCRUB_NAMES or a gitignored local `.opsec-scrub-names` (one name per line,
+    '#' comments allowed). Falls back to placeholder tokens so a fresh public clone still exercises
+    the scrub mechanism without shipping any real person's name in this repo."""
+    env = os.environ.get("PF_SCRUB_NAMES")
+    if env:
+        return [n.strip() for n in env.split(",") if n.strip()]
+    local = os.path.join(ROOT, ".opsec-scrub-names")
+    if os.path.exists(local):
+        names = [ln.strip() for ln in open(local, encoding="utf-8")
+                 if ln.strip() and not ln.lstrip().startswith("#")]
+        if names:
+            return names
+    return ["Ada Lovelace", "Ada", "Lovelace", "example-handle", "X000000"]
+
+
+REDACT = _load_redact_names()
 
 _results = []
 

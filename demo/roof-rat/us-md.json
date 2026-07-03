@@ -15,7 +15,7 @@
       "ship rat"
     ]
   },
-  "summary": "Keeping, breeding, and selling a domesticated roof rat is legal in Maryland with no state permit. Maryland's 'dangerous animal' ban (Md. Criminal Law §10-621) lists big cats, bears, primates, and the like, no rodents, and the wildlife regulation (COMAR 08.03.09.03) expressly exempts 'domesticated rats and mice' from any import or possession restriction. No rodent-specific import certificate is mandated (Maryland's CVI/rabies rules cover only livestock, poultry, and dogs/cats/ferrets), though obtaining a general interstate CVI before importing is prudent and worth confirming with the State Veterinarian.",
+  "summary": "In Maryland, keeping, breeding, and selling a domesticated roof rat is very likely fine, but it rests on an undefined term rather than a clear yes. Maryland's 'dangerous animal' ban (Md. Criminal Law §10-621) lists big cats, bears, primates, and the like, no rodents, and the wildlife regulation (COMAR 08.03.09.03) says it does not prohibit possession of 'domesticated rats and mice.' The catch is that 'domesticated rats' is not taxonomically defined, so whether a captive-bred R. rattus qualifies (rather than only the fancy rat, R. norvegicus) is open to interpretation. That is why we code keeping, breeding, and selling as unregulated / unclear rather than a definite legal. No rodent-specific import certificate is mandated (Maryland's CVI/rabies rules cover only livestock, poultry, and dogs/cats/ferrets), though a general interstate CVI is customary and worth confirming with the State Veterinarian before importing.",
   "last_reviewed": "2026-06-07",
   "advocacy": {
     "flag": false

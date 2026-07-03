@@ -15,16 +15,16 @@
       "ship rat"
     ]
   },
-  "summary": "Ontario does not regulate roof rats at the provincial level, they are legal by default. Rattus rattus is not listed as prohibited or restricted under the Invasive Species Act, and as a non-native species it falls outside the Fish and Wildlife Conservation Act (which covers native 'game' and 'specially protected' wildlife). So keeping, breeding, selling, and transporting roof rats is unregulated by the province. The real rules are MUNICIPAL: city bylaws on exotic/pet animals, breeder/pet-shop licensing, animal limits, and the Provincial Animal Welfare Services Act (PAWS) care standards.",
+  "summary": "Ontario does not regulate roof rats at the provincial level. Rattus rattus is not listed as prohibited or restricted under the Invasive Species Act, and as a non-native species it falls outside the Fish and Wildlife Conservation Act (which covers native 'game' and 'specially protected' wildlife). So keeping, breeding, selling, and transporting roof rats is unregulated by the province. The real rules are MUNICIPAL: city bylaws on exotic/pet animals, breeder/pet-shop licensing, animal limits, and the Provincial Animal Welfare Services Act (PAWS) care standards.",
   "last_reviewed": "2026-06-06",
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
-      "status": "legal",
-      "confidence": "high",
-      "why": "Rattus rattus is not listed under the Invasive Species Act (unlike wild pigs or nutria) and is not native 'game' or 'specially protected' wildlife under the Fish and Wildlife Conservation Act, 1997, so it is outside the Ministry of Natural Resources' regulatory scope. No provincial permit is needed to keep one. Your municipality may regulate exotic pets or cap animal numbers.",
+      "status": "unregulated_unclear",
+      "confidence": "medium",
+      "why": "Rattus rattus is not listed under the Invasive Species Act (unlike wild pigs or nutria) and is not native 'game' or 'specially protected' wildlife under the Fish and Wildlife Conservation Act, 1997, so it is outside the Ministry of Natural Resources' regulatory scope, and no provincial permit is needed to keep one. We code keeping unregulated / unclear rather than a flat 'legal' to stay consistent with how we treat the same statutory-silence facts elsewhere (India and Canada-federal are coded unregulated / unclear on materially identical silence). Ontario is a genuine negative-list province, so in practice keeping is permitted provincially; the binding rules are MUNICIPAL (exotic-pet bylaws, animal-number caps) plus the PAWS care standards.",
       "governing_law": "Invasive Species Act (R. rattus not listed); Fish and Wildlife Conservation Act, 1997 (covers native wildlife); municipal bylaws.",
       "source_ids": [
         "on-fwca",

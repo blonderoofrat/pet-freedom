@@ -89,10 +89,8 @@
       "activity": [
         "keep"
       ],
-      "summary": "Switzerland legally requires rats to be kept in groups, keeping a single rat is an offence (TSchV social-species rule). Meet the minimum enclosure dimensions (~0.5 m²/0.5 m³ for up to 5 rats). Private keeping/breeding is permit-free; a cantonal permit + training is needed only for commercial trade or giving away 300+ rodents/year. ⚠️ Confirm with your cantonal veterinary office that R. rattus is treated as a permit-free small rodent (not a Wildtier). Never release.",
-      "steps": [
-        "Confirm R. rattus's small-rodent (permit-free) status with your Kantonstierarztamt before acquiring"
-      ],
+      "summary": "Switzerland legally requires rats to be kept in groups, keeping a single rat is an offence (TSchV social-species rule). Meet the minimum enclosure dimensions (~0.5 m²/0.5 m³ for up to 5 rats). Private keeping and breeding are permit-free; a cantonal permit + training is needed only for commercial trade or giving away 300+ rodents/year. The BLV confirmed in writing (2026-06-15) that R. rattus is a permit-free small rodent, treated the same as the fancy rat, so no cantonal pre-clearance is needed. Never release.",
+      "steps": [],
       "forms": [],
       "where_to_file": "Cantonal veterinary office (Kantonstierarztamt)",
       "fees": "",

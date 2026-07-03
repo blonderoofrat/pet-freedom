@@ -17,121 +17,125 @@
       "ship rat"
     ]
   },
-  "summary": "The Philippines is now DR-verified, and the picture is a permitted-but-burdensome 'wildlife' classification. Because feral Rattus rattus is everywhere, captive-bred pet roof rats fail the Wildlife Act's domestication test ('no genetically similar form in the wild') and default to 'exotic faunal species' under the DENR, unlike the fancy rat (R. norvegicus), which is exempt and managed as a domestic animal by the DA Bureau of Animal Industry. So keeping legally requires a DENR Certificate of Wildlife Registration (CWR), breeding requires a Wildlife Farm Permit (WFP), and selling/giving requires WFP-registered progeny plus paperwork (no hobbyist exemption). Transport/import layers DA-BAI and DENR permits on top. In practice, enforcement against hobbyists is negligible and a 'vermin' sanitation overlay (PD 856) adds ambiguity, but on the letter of the law, the permits are required.",
-  "last_reviewed": "2026-06-09",
+  "summary": "The Philippines is now AGENCY-CONFIRMED PROHIBITED for pet roof rats. In a signed letter dated 30 June 2026 (ref BMB202603379), the DENR Biodiversity Management Bureau (BMB) stated that because Rattus rattus is 'among the world's worst invasive alien species', and pursuant to Joint DENR-DA Administrative Order No. 2020-02 (the National Invasive Species Strategies and Action Plan Philippines 2020-2030), the Bureau 'does not allow commercial breeding of Rattus rattus as well as its possession for pet purposes.' This overturns the earlier permitted-but-burdensome reading (a Certificate of Wildlife Registration to keep, a Wildlife Farm Permit to breed): the agency treats the roof rat as an invasive alien species to be prevented and controlled, not as a keepable exotic pet. The fancy rat (R. norvegicus), an equally non-native commensal rodent, is kept freely as a pet, so the prohibition turns on the species' invasive-list status, not on how the animal is bred or kept.",
+  "last_reviewed": "2026-06-30",
+  "agency_confirmations": [
+    "DENR Biodiversity Management Bureau (BMB), Wildlife Resources Division, signed letter dated 30 June 2026 (ref BMB202603379), from Atty. Felix S. Alicer (OIC, Assistant Secretary for Field Operations - Mindanao, and concurrent Director, BMB): Rattus rattus is considered among the world's worst invasive alien species; pursuant to Joint DENR-DA Administrative Order No. 2020-02 (Adopting the National Invasive Species Strategies and Action Plan Philippines 2020-2030), the DENR undertakes invasive-alien-species management measures including prevention, early detection and rapid response, control, containment, and eradication; accordingly, 'this Bureau does not allow commercial breeding of Rattus rattus as well as its possession for pet purposes.'"
+  ],
   "advocacy": {
     "flag": true,
     "kit": {
       "case_type": "legislative_watch",
-      "problem": "In the Philippines the pet roof rat (Rattus rattus) is treated as exotic wildlife, not as a companion animal, even when it is captive-bred, tame, and kept indoors. Under the rules implementing the Wildlife Resources Conservation and Protection Act (RA 9147), a species counts as domesticated only if it has no genetically similar form in the wild (Joint IRR Rule 1.1(nn)). Because feral black/roof rats are ubiquitous, the captive-bred pet line fails that test and defaults to the DENR exotic-wildlife system: a Certificate of Wildlife Registration (CWR) to keep one, and a Wildlife Farm Permit (WFP) with registered progeny to breed or transfer, with no hobbyist exemption. The fancy rat (Rattus norvegicus), equally non-native, is exempt and is handled as an ordinary pet by the Bureau of Animal Industry. The two domesticated pet rodents are regulated differently because of an ancestry-based definition, not because of the animals or how they are kept. A 'vermin' overlay under the Sanitation Code (PD 856) adds ambiguity, and enforcement against hobbyists is negligible, but on the letter of the law the permits are required.",
+      "problem": "In the Philippines the pet roof rat (Rattus rattus) is not allowed as a companion animal at all, even when it is captive-bred, tame, and kept indoors. The DENR Biodiversity Management Bureau (BMB) confirmed in a signed letter (30 June 2026, ref BMB202603379) that because R. rattus is a listed invasive alien species, and under Joint DENR-DA Administrative Order No. 2020-02 (the National Invasive Species Strategies and Action Plan 2020-2030), the Bureau does not allow its commercial breeding or its possession for pet purposes. The fancy rat (Rattus norvegicus), an equally non-native commensal rodent introduced to the Philippines, is kept freely as an ordinary pet. The two domesticated pet rodents are treated oppositely because one species sits on an invasive-alien-species list, not because of the animals themselves or how they are bred and kept. Captive-bred pet roof rats are tame, raised indoors over many generations, never taken from the wild, and never released.",
       "ask": "Treat the multi-generation, captive-bred, domesticated pet roof rat (Rattus rattus) the way the law already treats the domesticated fancy rat (Rattus norvegicus): as a domestic companion animal managed by the Bureau of Animal Industry. Short of that, create a lightweight registration tier for captive-bred companion R. rattus that does not require a full Wildlife Farm Permit to keep one or to give offspring to another keeper. The test should turn on whether the animal is domesticated and captive-bred, not solely on whether a wild population exists somewhere. The dog descends from the wolf and the domestic cat from a wild felid, yet both are recognized as domestic because domestication, not the survival of a wild ancestor, defines a domestic species. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred R. rattus is the same case one species over. Captive-bred pet roof rats are tame, raised indoors, never taken from the wild, and never released.",
-      "branch_note": "The controlling lever is the law or the implementing rule, not a simple agency clarification. The domestication test ('no genetically similar form in the wild') sits in the Joint IRR (Rule 1.1(nn)) under RA 9147, and DENR-BMB is applying it correctly when it classifies feral-ubiquitous R. rattus as exotic wildlife, so asking BMB to exempt the species by itself cannot overturn a definition the agency is faithfully following. The durable fix changes the definition or carves out captive-bred companion rodents, in one of two places. (1) The statute: House Bill 7232, the Revised Wildlife Resources Conservation and Protection Act (filed 21 January 2026, 20th Congress), expressly governs exotic species bred or cultured in captivity and is the vehicle to ask that captive-bred domesticated rodents be recognized as companion animals. (2) The IRR or a formal DENR species-determination or rulemaking, which BMB can do administratively (a positive determination plus a light CWR tier), so a clarification request to BMB is a worthwhile parallel track. Lead with the legislature on HB 7232; use BMB only for the administrative carve-out it has power to grant. On the species-not-domestication point, see https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/.",
+      "branch_note": "The controlling lever is the law and the national invasive-species framework, not a simple agency clarification. DENR-BMB has confirmed in writing (30 June 2026, ref BMB202603379) that it does not allow pet possession or commercial breeding of R. rattus because the species is a listed invasive alien species managed under Joint DENR-DA Administrative Order No. 2020-02, so asking BMB to exempt the species by itself cannot overturn a national policy the agency is faithfully applying. The durable fix carves out captive-bred companion rodents in one of two places. (1) The statute: House Bill 7232, the Revised Wildlife Resources Conservation and Protection Act (filed 21 January 2026, 20th Congress), expressly governs exotic species bred or cultured in captivity and is the vehicle to ask that captive-bred, domesticated companion rodents be recognized as companion animals rather than swept into invasive-species prohibition. (2) A formal DENR rulemaking or species determination distinguishing multi-generation captive-bred companion animals from the wild invasive population. Lead with the legislature on HB 7232; use BMB only for any administrative carve-out it has power to grant. On the species-not-domestication point, and why the equally non-native fancy rat is kept freely, see https://blonderoofrat.com/how-the-sewer-rat-became-the-fancy-rat/.",
       "time_sensitive": "House Bill 7232, the \"Revised Wildlife Resources Conservation and Protection Act,\" was filed 21 January 2026 in the 20th Congress and is moving through the House; it expressly covers exotic species bred or cultured in captivity. While this rewrite of the Wildlife Act is pending in committee, there is a live window to ask that captive-bred, domesticated companion rodents be recognized as domestic animals (or given a light registration tier) rather than full exotic wildlife. Confirm the bill's current committee stage on congress.gov.ph before writing, since status can change.",
       "targets": [
         {
           "name": "House of Representatives of the Philippines, Find/Contact Your Representative (House Members directory)",
           "type": "legislature",
           "form_url": "https://www.congress.gov.ph/house-members/",
-          "why": "Primary lever. The definition that catches domesticated R. rattus lives in the law/IRR, so durable change runs through Congress. Use this official directory to find your district representative (and the Committee on Natural Resources) and ask, while House Bill 7232, the Revised Wildlife Act, is pending, that captive-bred domesticated companion rodents be recognized as domestic animals or given a light registration tier."
+          "why": "Primary lever. The invasive-species prohibition that catches domesticated R. rattus is set by the Wildlife Act and national IAS policy, so durable change runs through Congress. Use this official directory to find your district representative (and the Committee on Natural Resources) and ask, while House Bill 7232, the Revised Wildlife Act, is pending, that captive-bred domesticated companion rodents be recognized as domestic animals or given a light registration tier rather than swept into invasive-species prohibition."
         },
         {
           "name": "DENR, Biodiversity Management Bureau (BMB), Wildlife Resources Division (official contact page)",
           "type": "agency",
           "form_url": "https://www.bmb.gov.ph/contact/",
           "email": "wrd@bmb.gov.ph",
-          "why": "Parallel administrative track. BMB cannot waive the statutory domestication test, but it CAN issue a formal species-determination/clarification and has rulemaking authority over the CWR/WFP regime. Ask it to (a) confirm the classification in writing and (b) consider a positive determination or a light hobbyist CWR tier for captive-bred companion R. rattus. wrd@bmb.gov.ph (Wildlife Resources Division) and bmb@bmb.gov.ph (general inbox) are the verified official addresses; the contact form is the safest channel."
+          "why": "Parallel administrative track (secondary). BMB has now confirmed in writing (30 June 2026, ref BMB202603379) that it does not allow pet possession or commercial breeding of R. rattus because the species is managed as an invasive alien species under Joint DENR-DA AO 2020-02, so it will not exempt the species by a simple clarification. It does have rulemaking authority and can issue a formal species determination, so you may still ask it to reconsider a captive-bred companion carve-out, but the durable lever is the legislature (HB 7232). wrd@bmb.gov.ph (Wildlife Resources Division) and bmb@bmb.gov.ph (general inbox) are the verified official addresses; the contact form is the safest channel."
         }
       ],
       "template": {
-        "en": "Subject: Recognize captive-bred pet roof rats (Rattus rattus) as domestic companion animals\n\nDear [Office of Representative / DENR-BMB Wildlife Resources Division],\n\nI am writing as a Filipino keeper of domesticated pet rats to ask for fairer treatment of the captive-bred pet roof rat (Rattus rattus).\n\nUnder the rules implementing RA 9147, a species is domesticated only if it has no genetically similar form in the wild. Because feral roof rats are everywhere, the tame, captive-bred pet line is pushed into the exotic-wildlife system (a Certificate of Wildlife Registration to keep, a Wildlife Farm Permit to breed or rehome), while the equally non-native fancy rat (Rattus norvegicus) is treated as an ordinary companion animal under the Bureau of Animal Industry.\n\nThis is a difference in wording, not in the animals. The test asks whether a wild population exists, but that is not what makes an animal domestic. The dog descends from the wolf and the house cat from a wild felid, both with wild relatives still living, yet we treat them as domestic because domestication, not the absence of a wild ancestor, defines a domestic species. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over. Our roof rats are domesticated in that sense: captive-bred over many generations, tame, raised indoors, never taken from the wild, and never released.\n\nI ask that captive-bred, domesticated R. rattus be recognized as a domestic companion animal like the fancy rat, or, short of that, that a lightweight registration tier be created for keeping one and for passing offspring to another keeper without a full Wildlife Farm Permit. The test should be whether the animal is genuinely domesticated and captive-bred.\n\n[For the legislator:] I would be grateful if you would raise this as House Bill 7232 (Revised Wildlife Resources Conservation and Protection Act) is considered.\n[For DENR-BMB:] I would also welcome a written determination of how this species is currently classified.\n\nThank you for your consideration.\n\nRespectfully,\n[Your name]\n[Your city/province]\n[Your email / contact]"
+        "en": "Subject: Recognize captive-bred pet roof rats (Rattus rattus) as domestic companion animals\n\nDear [Office of Representative / DENR-BMB Wildlife Resources Division],\n\nI am writing as a Filipino keeper of domesticated pet rats to ask for fairer treatment of the captive-bred pet roof rat (Rattus rattus).\n\nI understand that the DENR does not currently allow keeping or breeding the roof rat as a pet, because it is listed as an invasive alien species under the National Invasive Species Strategies and Action Plan (Joint DENR-DA Administrative Order No. 2020-02). Yet the equally non-native fancy rat (Rattus norvegicus), also an introduced commensal rodent, is kept freely as an ordinary companion animal.\n\nThis is a difference in listing, not in the animals. The test asks whether a wild population exists, but that is not what makes an animal domestic. The dog descends from the wolf and the house cat from a wild felid, both with wild relatives still living, yet we treat them as domestic because domestication, not the absence of a wild ancestor, defines a domestic species. The fancy rat is itself the wild brown rat, domesticated only in the 19th century, so a captive-bred roof rat is the same case one species over. Our roof rats are domesticated in that sense: captive-bred over many generations, tame, raised indoors, never taken from the wild, and never released.\n\nI ask that captive-bred, domesticated R. rattus be recognized as a domestic companion animal like the fancy rat, or, short of that, that a lightweight registration tier be created for keeping one and for passing offspring to another keeper without a full Wildlife Farm Permit. The test should be whether the animal is genuinely domesticated and captive-bred.\n\n[For the legislator:] I would be grateful if you would raise this as House Bill 7232 (Revised Wildlife Resources Conservation and Protection Act) is considered.\n[For DENR-BMB:] I would also welcome a written determination of how this species is currently classified.\n\nThank you for your consideration.\n\nRespectfully,\n[Your name]\n[Your city/province]\n[Your email / contact]"
       },
-      "confidence_notes": "VERIFIED via web search (June 2026): (1) DENR-BMB official contact page https://www.bmb.gov.ph/contact/ and the Wildlife Resources Division email wrd@bmb.gov.ph plus general inbox bmb@bmb.gov.ph, corroborated across bmb.gov.ph and independent directories; the bmb.gov.ph/contact/ page returned HTTP 403 to my automated fetch but is the live official URL and resolves in a browser. (2) BMB/DENR is the authority for the Certificate of Wildlife Registration for exotic pets (confirmed via the government FOI portal and PAWS FAQ). (3) Pending legislation: House Bill 7232, \"Revised Wildlife Resources Conservation and Protection Act,\" filed 21 January 2026 (20th Congress), expressly covers exotic species bred/cultured in captivity, confirmed via the official hrep.online legisdocs PDF listing and search results; I could not extract the full bill text (binary PDF) or pin its exact current committee stage, so the letter says to confirm status on congress.gov.ph first. (4) Official \"find your representative\" channel = congress.gov.ph/house-members/ (House Members directory). GROUNDED but not independently re-verified line-by-line from the source statute: the domestication test wording (\"no genetically similar form in the wild,\" Joint IRR Rule 1.1(nn)) and the fancy-rat (R. norvegicus) BAI-managed exemption come from the project's prior Gemini-DR-verified research in ph.json, not re-derived here. The \"vermin\"/PD 856 overlay and near-zero hobbyist enforcement are real but create legal ambiguity, not a safe harbor, the letter accordingly asks for a written determination. No individual civil servants are named. This is a research aid, not legal advice.",
+      "confidence_notes": "AGENCY-CONFIRMED PROHIBITION (DENR-BMB signed letter, 30 June 2026, ref BMB202603379, from Atty. Felix S. Alicer, OIC Assistant Secretary for Field Operations - Mindanao and concurrent BMB Director): the Bureau does not allow commercial breeding or pet possession of R. rattus as a listed invasive alien species under Joint DENR-DA AO 2020-02. Advocacy sourcing VERIFIED via web search (June 2026): (1) DENR-BMB official contact page https://www.bmb.gov.ph/contact/ and the Wildlife Resources Division email wrd@bmb.gov.ph plus general inbox bmb@bmb.gov.ph, corroborated across bmb.gov.ph and independent directories; the bmb.gov.ph/contact/ page returned HTTP 403 to my automated fetch but is the live official URL and resolves in a browser. (2) BMB/DENR is the authority for the Certificate of Wildlife Registration for exotic pets (confirmed via the government FOI portal and PAWS FAQ). (3) Pending legislation: House Bill 7232, \"Revised Wildlife Resources Conservation and Protection Act,\" filed 21 January 2026 (20th Congress), expressly covers exotic species bred/cultured in captivity, confirmed via the official hrep.online legisdocs PDF listing and search results; I could not extract the full bill text (binary PDF) or pin its exact current committee stage, so the letter says to confirm status on congress.gov.ph first. (4) Official \"find your representative\" channel = congress.gov.ph/house-members/ (House Members directory). GROUNDED but not independently re-verified line-by-line from the source statute: the domestication test wording (\"no genetically similar form in the wild,\" Joint IRR Rule 1.1(nn)) and the fancy-rat (R. norvegicus) BAI-managed exemption come from the project's prior Gemini-DR-verified research in ph.json, not re-derived here. The \"vermin\"/PD 856 overlay and near-zero hobbyist enforcement are real but create legal ambiguity, not a safe harbor, the letter accordingly asks for a written determination. No individual civil servants are named. This is a research aid, not legal advice.",
       "local_lang": "en"
     }
   },
   "activities": {
     "keep": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "The Philippines treats Rattus rattus as an 'exotic faunal species' under the Wildlife Act (RA 9147): it fails the domestication test in the Joint IRR (Rule 1.1(nn)), a domesticated species must have 'no genetically similar form in the wild', and feral R. rattus is ubiquitous, so captive-bred pet roof rats are not exempt (unlike fancy R. norvegicus). Keeping legally requires a DENR Certificate of Wildlife Registration (CWR) with proof of legal acquisition. In practice enforcement against hobbyists is negligible and a 'vermin' overlay (Sanitation Code, PD 856) muddies it, but the letter of the law requires the permit.",
-      "governing_law": "RA 9147 ss.6,27; DENR DAO 2004-62 (CWR for non-threatened exotic fauna); Joint IRR Rule 1.1(nn) (domestication test).",
-      "source_ids": [
-        "ph-ra9147",
-        "ph-dao-2004-62",
-        "ph-pd856"
-      ],
-      "verified_date": "2026-06-09",
-      "needs_verification": false,
-      "verified_by": "gemini-dr"
-    },
-    "breed": {
-      "status": "legal_with_permit",
+      "status": "prohibited",
       "confidence": "high",
-      "why": "Breeding R. rattus for sale/trade requires a Wildlife Farm Permit (WFP) from DENR (DAO 2004-55/62): a management/breeding plan, a biosecurity facility, LGU clearance and scaled fees. No hobbyist breeding exemption exists for exotic wildlife.",
-      "governing_law": "RA 9147 s.17; DENR DAO 2004-55 / 2004-62 (Wildlife Farm Permit).",
+      "why": "DENR-BMB confirmed in a signed letter (30 June 2026, ref BMB202603379) that it does not allow possession of Rattus rattus for pet purposes, because the roof rat is a listed invasive alien species managed under the National Invasive Species Strategies and Action Plan (Joint DENR-DA Administrative Order No. 2020-02). This is a definitive agency determination and overturns the earlier reading that a Certificate of Wildlife Registration could authorize keeping.",
+      "governing_law": "RA 9147; Joint DENR-DA Administrative Order No. 2020-02 (National Invasive Species Strategies and Action Plan 2020-2030); DENR-BMB written determination ref BMB202603379 (30 Jun 2026).",
       "source_ids": [
-        "ph-ra9147",
-        "ph-dao-2004-55",
-        "ph-dao-2004-62"
-      ],
-      "verified_date": "2026-06-09",
-      "needs_verification": false,
-      "verified_by": "gemini-dr"
-    },
-    "sell_give": {
-      "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Only WFP-registered progenies may be commercially traded (RA 9147 s.27). There is NO small-breeder/hobbyist exemption, even a free transfer technically requires a notarized deed of donation and a new CWR for the recipient, or the animal becomes 'illegal wildlife'. Enforcement against small hobbyist trades is historically negligible, but it is strictly illegal without the permit.",
-      "governing_law": "RA 9147 s.27; DENR DAO 2004-55 / 2004-62 (registered progeny + WFP for trade).",
-      "source_ids": [
-        "ph-ra9147",
-        "ph-dao-2004-55"
-      ],
-      "verified_date": "2026-06-09",
-      "needs_verification": false,
-      "verified_by": "gemini-dr"
-    },
-    "transport": {
-      "status": "legal_with_permit",
-      "confidence": "high",
-      "why": "Importing requires a DA-BAI SPSIC + DENR clearance; internal transport requires a DA-BAI Local Shipping Permit + Veterinary Health Certificate + a DENR Local Transport Permit. Never release a roof rat.",
-      "governing_law": "RA 9147 ss.10-11; DA AO No. 5 (2019) s.5; DENR DAO 2004-55 s.8.",
-      "source_ids": [
-        "ph-bai-import",
-        "ph-bai-localship",
+        "ph-denr-da-ao-2020-02",
         "ph-ra9147"
       ],
-      "verified_date": "2026-06-09",
+      "verified_date": "2026-06-30",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "maintainer"
+    },
+    "breed": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "DENR-BMB (30 June 2026, ref BMB202603379) stated the Bureau does not allow commercial breeding of Rattus rattus. As a listed invasive alien species under Joint DENR-DA AO 2020-02, it is targeted for prevention and control, not licensed breeding; the earlier Wildlife Farm Permit pathway does not apply to a species the Bureau will not permit for pet purposes.",
+      "governing_law": "RA 9147; Joint DENR-DA Administrative Order No. 2020-02; DENR-BMB written determination ref BMB202603379 (30 Jun 2026).",
+      "source_ids": [
+        "ph-denr-da-ao-2020-02",
+        "ph-ra9147"
+      ],
+      "verified_date": "2026-06-30",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "sell_give": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "Because R. rattus may not be kept as a pet or bred (DENR-BMB, 30 June 2026, ref BMB202603379), selling or giving pet roof rats is not permitted either. The species is managed as an invasive alien species (Joint DENR-DA AO 2020-02), not traded as an exotic pet.",
+      "governing_law": "RA 9147; Joint DENR-DA Administrative Order No. 2020-02; DENR-BMB written determination ref BMB202603379 (30 Jun 2026).",
+      "source_ids": [
+        "ph-denr-da-ao-2020-02",
+        "ph-ra9147"
+      ],
+      "verified_date": "2026-06-30",
+      "needs_verification": false,
+      "verified_by": "maintainer"
+    },
+    "transport": {
+      "status": "prohibited",
+      "confidence": "high",
+      "why": "There is no pet import or transport pathway: DENR-BMB does not allow R. rattus for pet purposes, and the species is managed for prevention and control as an invasive alien species (Joint DENR-DA AO 2020-02). Any movement of the species falls under invasive-species control measures, not a hobbyist transport or import permit. Never release a roof rat.",
+      "governing_law": "RA 9147; Joint DENR-DA Administrative Order No. 2020-02; DENR-BMB written determination ref BMB202603379 (30 Jun 2026).",
+      "source_ids": [
+        "ph-denr-da-ao-2020-02",
+        "ph-ra9147"
+      ],
+      "verified_date": "2026-06-30",
+      "needs_verification": false,
+      "verified_by": "maintainer"
     }
   },
   "restrictions": [
     {
-      "type": "permit",
-      "applies_to": "person",
+      "type": "prohibition",
+      "applies_to": "rat",
       "activity": [
         "keep",
         "breed",
-        "sell_give"
+        "sell_give",
+        "transport"
       ],
-      "summary": "On a plain reading of RA 9147, a captive roof rat is an 'exotic species' needing DENR-BMB registration (a CWR to keep/hobby-breed; a Wildlife Farm Permit to sell commercially). In practice rats are also 'vermin' (PD 856) and pet rats are sold openly with no recorded enforcement, a grey zone. Get a DENR-BMB determination before relying on either reading. Import: BAI SPSIC + DENR exotic-species clearance. Never release.",
-      "steps": [
-        "Ask DENR-BMB whether commensal R. rattus needs a CWR or is exempt as 'vermin'",
-        "For commercial breeding/sale: apply for a Wildlife Farm Permit (WFP)",
-        "For import: BAI SPSIC + DENR exotic-species clearance"
-      ],
+      "summary": "DENR-BMB confirmed in writing (30 June 2026, ref BMB202603379) that the Bureau does not allow commercial breeding of Rattus rattus or its possession for pet purposes, because the roof rat is a listed invasive alien species managed under Joint DENR-DA Administrative Order No. 2020-02 (the National Invasive Species Strategies and Action Plan 2020-2030). Under that framework the DENR undertakes prevention, early detection and rapid response, control, containment, and eradication of the species. There is no pet-keeping, hobby-breeding, sale, or private import pathway. Never keep, breed, or release the species. (The equally non-native fancy rat, R. norvegicus, is kept freely; the prohibition turns on R. rattus being on the invasive-alien-species list.)",
+      "steps": [],
       "forms": [],
-      "where_to_file": "DENR-BMB (CWR/WFP); BAI (import/transport)",
+      "where_to_file": "",
       "fees": "",
       "source_ids": [
-        "ph-dao-2004-62",
-        "ph-dao-2004-55"
+        "ph-denr-da-ao-2020-02",
+        "ph-ra9147"
       ]
     }
   ],
   "inquiry_focus": "(1) Is Rattus rattus (introduced commensal pest) classified as an 'exotic species' requiring a Certificate of Wildlife Registration under RA 9147 + DAO 2004-62 for private hobbyist possession of captive-bred animals, or does its 'vermin' status under PD 856 remove it from DENR-BMB jurisdiction? Any administrative ruling/species determination? (2) For a hobbyist keeping/breeding captive-bred R. rattus (non-commercial), what permit applies, CWR, WFP, or other, and may progeny be given to other registered hobbyists without a WFP? (3) (BAI) What clearances/veterinary screening apply to importing captive-bred R. rattus, and does the post-COVID rodent viral-screening requirement apply?",
   "sources": [
+    {
+      "id": "ph-denr-da-ao-2020-02",
+      "title": "Joint DENR-DA Administrative Order No. 2020-02, Adopting the National Invasive Species Strategies and Action Plan (NISSAP) Philippines 2020-2030 as the National Framework for the Management of Invasive Alien Species",
+      "url": "https://elibrary.bmb.gov.ph/elibrary/wp-content/uploads/2023/05/joint_da-denr_2020-02_v2.pdf",
+      "authority": "DENR-BMB (e-Library)",
+      "accessed": "2026-06-30"
+    },
     {
       "id": "ph-ra9147",
       "title": "RA 9147, Wildlife Resources Conservation and Protection Act (2001): Secs. 5 (exotic species), 6 (possession), 27 (illegal acts)",

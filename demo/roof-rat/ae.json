@@ -102,30 +102,22 @@
   },
   "restrictions": [
     {
-      "type": "permit",
+      "type": "ban",
       "applies_to": "person",
       "activity": [
+        "keep",
         "breed",
         "sell_give",
         "transport"
       ],
-      "summary": "Keeping a domesticated roof rat is exempt from the UAE dangerous-animal ban (no keeper permit). Commercial breeding/selling needs a MOCCAE animal-care-activities licence + a local commercial licence; importing needs a MOCCAE live-animal import permit (AED 100) + the rodent veterinary health certificate. ⚠️ Confirm with MOCCAE that 'domesticated rats' in the Annex covers captive-bred R. rattus. Never release.",
-      "steps": [
-        "For import: apply for the MOCCAE live-animal import permit + obtain the rodent health certificate from the origin country",
-        "For commercial breeding/sale: MOCCAE animal-care-activities licence + local DED/municipal licence",
-        "Confirm R. rattus species-scope with MOCCAE"
-      ],
-      "forms": [
-        {
-          "name": "MOCCAE, Import Permit for Live Animals and Birds",
-          "url": "https://www.moccae.gov.ae/en/services/import-permit-animals-birds"
-        }
-      ],
+      "summary": "There is no private pathway. MOCCAE confirmed in writing (June 2026) that a private individual may not keep, breed, sell, or import the roof rat (Rattus rattus): the Federal Law No. 22 of 2016 'domesticated rats' exemption is read as the fancy rat (R. norvegicus) only. Importation is restricted to licensed research entities or zoological facilities, so there is no private import permit, breeding licence, or sale pathway to apply for. Never release one. (If you would like this to change, see the Roof Rat Freedoms section below, asking MOCCAE to recognise domesticated R. rattus within the exemption.)",
+      "steps": [],
+      "forms": [],
       "where_to_file": "Ministry of Climate Change & Environment (MOCCAE)",
-      "fees": "Import permit AED 100",
+      "fees": "",
       "source_ids": [
-        "ae-moccae-import",
-        "ae-moccae-license"
+        "ae-fl22-annex",
+        "ae-uae-portal"
       ]
     }
   ],

@@ -37,7 +37,7 @@
       ],
       "verified_date": "2026-06-06",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "breed": {
       "status": "legal",
@@ -49,7 +49,7 @@
       ],
       "verified_date": "2026-06-06",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "sell_give": {
       "status": "legal",
@@ -62,7 +62,7 @@
       ],
       "verified_date": "2026-06-06",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "transport": {
       "status": "legal",

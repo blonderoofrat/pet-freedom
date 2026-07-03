@@ -17,7 +17,7 @@
       "ship rat"
     ]
   },
-  "summary": "In Quebec, keeping, breeding, and selling a roof rat is legal and largely unregulated at the provincial level: Rattus rattus is not a Schedule 1 prohibited species under the Règlement sur les animaux en captivité, so no captivity permit is needed for ordinary hobbyists. The one catch is IMPORT: section 13 requires anyone bringing an animal into Quebec to file a prior written import notice, and while the regulation explicitly exempts the fancy rat (Rattus norvegicus) and the house mouse from that notice, it does NOT name Rattus rattus. So importing a roof rat into Quebec appears to require a notice the fancy rat is spared. Captive facilities must also meet the regulation's housing standards.",
+  "summary": "In Quebec, keeping, breeding, and selling a roof rat is legal and largely unregulated at the provincial level: Rattus rattus is not a Schedule 1 prohibited species under the Règlement sur les animaux en captivité, so no captivity permit is needed for ordinary hobbyists. The import question is now resolved in the keeper's favor: Quebec's wildlife authority (MELCCFP) confirmed in writing (June 2026) that a private individual importing a roof rat for personal purposes and keeping it in Canada needs NO section 13 import notice, the same practical treatment the fancy rat (Rattus norvegicus) and house mouse already get. A notice is still required for a commercial or non-personal import, or for an animal that will not be kept in Canada. Captive facilities must also meet the regulation's housing standards.",
   "last_reviewed": "2026-06-18",
   "agency_confirmations": [
     "Quebec's wildlife authority (Ministere de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs) confirmed in writing (June 2026) that no import notice is required under section 13 of the Reglement sur les animaux en captivite when a roof rat (Rattus rattus) is imported by a private individual for personal purposes and is kept in Canada. An import notice is otherwise normally required for R. rattus (for example a commercial import, or if the animal will not be kept in Canada), while the Norway rat (Rattus norvegicus) and the house mouse (Mus musculus) are exempt from the notice in all cases."
@@ -113,10 +113,10 @@
       "activity": [
         "transport"
       ],
-      "summary": "Before importing a roof rat into Quebec, file the section 13 import notice with MELCCFP (scientific name, origin, date, place of captivity). The fancy rat (R. norvegicus) and house mouse are exempt from this notice; R. rattus is not named, so file the notice unless the Ministry confirms otherwise.",
+      "summary": "Import notice: MELCCFP confirmed (June 2026) that a private individual importing a roof rat for personal purposes and keeping it in Canada does NOT need the section 13 import notice, the same practical treatment as the fancy rat (R. norvegicus) and house mouse. A notice is still required for a commercial or non-personal import, or if the animal will not be kept in Canada.",
       "steps": [
-        "Send the written import notice to MELCCFP before the animal arrives",
-        "Include the binomial name, origin, planned date, and place of captivity"
+        "Private personal import, kept in Canada: no section 13 notice required",
+        "Commercial or non-personal import, or animal not kept in Canada: file the section 13 written notice (binomial name, origin, planned date, place of captivity) with MELCCFP before arrival"
       ],
       "forms": [],
       "where_to_file": "Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP)",

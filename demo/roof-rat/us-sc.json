@@ -31,7 +31,7 @@
         "sc-dnr-nonnative"
       ],
       "verified_date": "2026-06-07",
-      "needs_verification": false,
+      "needs_verification": true,
       "verified_by": "gemini-dr"
     },
     "breed": {
@@ -57,7 +57,7 @@
         "sc-50-16"
       ],
       "verified_date": "2026-06-07",
-      "needs_verification": false,
+      "needs_verification": true,
       "verified_by": "gemini-dr"
     },
     "transport": {
