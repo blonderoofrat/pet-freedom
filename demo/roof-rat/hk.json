@@ -17,65 +17,70 @@
       "黑鼠"
     ]
   },
-  "summary": "Hong Kong is now DR-verified. Keeping a pet roof rat is legal, Rattus rattus is not protected wildlife (the family Muridae is omitted from Schedule 2 of the Wild Animals Protection Ordinance, Cap. 170), so no possession licence is needed, but it sits under a public-health overlay: the Food and Environmental Hygiene Department treats all rodents as 'vermin' under Cap. 132 with no carve-out for kept pets, enforced on a complaint/infestation basis rather than against sanitarily-caged pets. Private breeding is unregulated (Hong Kong licenses only dog breeders); selling 'by way of business' needs an Animal Trader Licence, though a hobbyist exemption covers selling a pet's offspring and giving one away free is unregulated. Importing any mammal needs an AFCD Special Permit + government-vet health certificate + rabies quarantine (the 2022 COVID small-mammal import ban was lifted by Jan 2023).",
-  "last_reviewed": "2026-06-09",
+  "summary": "Hong Kong is legal for keeping a pet roof rat but has no lawful pathway to bring one in from outside. AFCD confirmed in writing (8 July 2026, Import and Export Division) that the department does not regulate the keeping of rats, so a domesticated Rattus rattus needs no keeping licence, and Rattus rattus is not protected wildlife (the family Muridae is omitted from Schedule 2 of the Wild Animals Protection Ordinance, Cap. 170). The hard wall is import: because R. rattus is a designated rodent-control pest, AFCD stated it will NOT issue an import permit for it as a domesticated pet (an advance permit under Cap. 139 and Cap. 421 is otherwise required, and importing without one is an offence). Private, non-commercial breeding is unregulated and giving a pet's offspring away free is unregulated, but commercial sale runs into a catch: a licensed animal-trade premises (Cap. 139B) must run a mammalian-pest control programme, so selling or keeping R. rattus on licensed premises may contradict its own licence. A public-health overlay remains: the Food and Environmental Hygiene Department treats all rodents as 'vermin' under Cap. 132, enforced on a complaint/infestation basis rather than against sanitarily-caged pets. Net: legal to keep, but source it locally, since there is no pet-import pathway.",
+  "last_reviewed": "2026-07-08",
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
       "status": "legal",
-      "confidence": "medium",
-      "why": "Rattus rattus is not a protected wild animal, the family Muridae is omitted from Schedule 2 of the Wild Animals Protection Ordinance (Cap. 170), so no possession licence is required. Caveat: the Public Health and Municipal Services Ordinance (Cap. 132, s.47) defines all rodents as 'vermin' with no carve-out for caged pets, a public-health overlay the FEHD enforces on a complaint/infestation basis (elimination notices, not raids on kept pets).",
-      "governing_law": "Cap. 170 Sch. 2 (wildlife, Muridae omitted); Cap. 132 s.47 (FEHD 'vermin' duty).",
+      "confidence": "high",
+      "why": "AFCD confirmed in writing (8 July 2026, Import and Export Division): 'This Department does not regulate the keeping of rats', so keeping a domesticated Rattus rattus needs no keeping licence. Consistent with the prior finding that R. rattus is not a protected wild animal (the family Muridae is omitted from Schedule 2 of the Wild Animals Protection Ordinance, Cap. 170). One overlay remains outside AFCD's remit: the Public Health and Municipal Services Ordinance (Cap. 132, s.47) defines all rodents as 'vermin', a duty the FEHD enforces on a complaint/infestation basis (elimination notices, not raids on sanitarily-caged pets).",
+      "governing_law": "Cap. 170 Sch. 2 (wildlife, Muridae omitted); AFCD 8 Jul 2026 reply (keeping of rats not regulated); Cap. 132 s.47 (FEHD 'vermin' duty).",
       "source_ids": [
+        "hk-afcd-reply",
         "hk-cap170",
         "hk-cap139",
         "hk-cap132"
       ],
-      "verified_date": "2026-06-09",
+      "verified_date": "2026-07-08",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "gemini-dr; agency-afcd"
     },
     "breed": {
       "status": "legal",
       "confidence": "high",
-      "why": "Private, non-commercial breeding is unregulated: Hong Kong created dedicated breeder licences only for dogs (Cap. 139B), deliberately leaving small mammals unregulated at the breeding stage. Oversight begins only at the point of commercial sale.",
-      "governing_law": "Cap. 139B (dog breeder licences only; small mammals unregulated at breeding).",
+      "why": "Private, non-commercial breeding is unregulated: Hong Kong created dedicated breeder licences only for dogs (Cap. 139B), leaving small mammals unregulated at the breeding stage. AFCD noted (8 July 2026) that a licensed animal-trade premises must run a mammalian-pest control and destruction programme, so keeping or breeding R. rattus on LICENSED (commercial) premises may contradict that licence, but this bites only at the commercial tier; hobbyist breeding of a kept pet is not licensed and is unaffected.",
+      "governing_law": "Cap. 139B (dog breeder licences only; small mammals unregulated at private breeding; the licensed-premises pest-control duty bites only commercially).",
       "source_ids": [
+        "hk-afcd-reply",
         "hk-cap139",
         "hk-lcq14"
       ],
-      "verified_date": "2026-06-09",
+      "verified_date": "2026-07-08",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "gemini-dr; agency-afcd"
     },
     "sell_give": {
       "status": "legal_with_permit",
       "confidence": "high",
-      "why": "Selling 'by way of business' requires an Animal Trader Licence (Cap. 139B s.4), but a statutory HOBBYIST EXEMPTION covers selling an animal 'kept by him as a pet or any offspring thereof', and giving one away free (no consideration) is unregulated. Note: the ATL's permitted 'domestic rats' is widely read as the fancy R. norvegicus, so commercial sale of R. rattus is legally untested.",
-      "governing_law": "Cap. 139B s.4 (Animal Trader Licence + pet/offspring hobbyist exemption).",
+      "why": "Giving a pet's offspring away free (no consideration) is unregulated, and a statutory hobbyist exemption covers selling an animal 'kept by him as a pet or any offspring thereof' (Cap. 139B s.4). Commercial sale 'by way of business' needs an Animal Trader Licence, but AFCD noted (8 July 2026) that a licensed premises must run a mammalian-pest control programme, so selling or keeping R. rattus on licensed premises 'may contradict' that requirement. Practical effect: free and hobbyist rehoming is fine; a formal commercial trade in R. rattus runs against its own licence.",
+      "governing_law": "Cap. 139B s.4 (Animal Trader Licence + pet/offspring hobbyist exemption; the licensed-premises mammalian-pest-control duty conflicts with a commercial R. rattus trade).",
       "source_ids": [
+        "hk-afcd-reply",
         "hk-cap139",
         "hk-lcq14"
       ],
-      "verified_date": "2026-06-09",
+      "verified_date": "2026-07-08",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "gemini-dr; agency-afcd"
     },
     "transport": {
-      "status": "legal_with_permit",
+      "status": "prohibited",
       "confidence": "high",
-      "why": "Internal movement of a lawfully-kept pet is unencumbered (subject only to anti-cruelty Cap. 169). IMPORT of any live mammal requires an AFCD Special Permit (Form AF240 commercial / AF242a personal) plus a government-vet Veterinary Health Certificate, with rabies quarantine set by the export country's risk group (Cap. 139; Cap. 421). The 2022 COVID small-mammal import ban was fully lifted by Jan 2023.",
-      "governing_law": "Cap. 139 s.5 + Cap. 421 (import Special Permit + vet health cert + rabies quarantine); Cap. 169 (humane transport).",
+      "why": "This record encodes the IMPORT position, which is the binding hard rule. AGENCY-CONFIRMED (AFCD, 8 July 2026, Import and Export Division): AFCD 'will not issue an import permit for [Rattus rattus] importation for domesticated pet purpose' because R. rattus is a designated rodent-control pest. An advance import permit under the Public Health (Animals and Birds) Ordinance (Cap. 139) and the Rabies Ordinance (Cap. 421) is otherwise required for any mammal, and importing without one is an offence, but for a pet R. rattus that permit will not be granted, so there is no lawful pet-import pathway. Internal movement of a lawfully-kept pet within Hong Kong is unencumbered (subject only to the humane-transport duty, Cap. 169). Never release into the wild.",
+      "governing_law": "Cap. 139 s.5 + Cap. 421 (advance import permit required; AFCD will not issue it for a pet R. rattus); Cap. 169 (humane transport).",
       "source_ids": [
+        "hk-afcd-reply",
         "hk-cap139",
         "hk-afcd-import",
-        "hk-cap421"
+        "hk-cap421",
+        "hk-fehd-rodents"
       ],
-      "verified_date": "2026-06-09",
+      "verified_date": "2026-07-08",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "gemini-dr; agency-afcd"
     }
   },
   "restrictions": [
@@ -86,10 +91,10 @@
         "sell_give",
         "transport"
       ],
-      "summary": "Keeping a captive-bred roof rat is allowed in Hong Kong; selling needs an AFCD Animal Trader Licence, and importing needs an AFCD Special Permit (AF240) + health certificate, note AFCD has SUSPENDED commercial/unaccompanied rodent imports (owner-accompanied may still be approved). Keep proof your rat is captive-bred (re: the Cap. 132 'vermin' duty). Never release.",
+      "summary": "Keeping a captive-bred roof rat is lawful in Hong Kong, but there is NO pet-import pathway: AFCD confirmed (8 July 2026) it will not issue an import permit for R. rattus as a domesticated pet (designated rodent-control pest). Commercial sale needs an Animal Trader Licence, whose mandatory mammalian-pest-control programme conflicts with trading R. rattus, so the practical route is local captive-bred stock and hobbyist/free rehoming. Keep proof your rat is captive-bred (re: the Cap. 132 'vermin' duty). Never release.",
       "steps": [
-        "For import: apply for an AFCD Special Permit (Form AF240) in advance + origin health certificate",
-        "For sale: obtain an Animal Trader Licence"
+        "Source a pet from local captive-bred stock (no lawful pet-import permit is available)",
+        "For free rehoming, no licence is needed; commercial sale needs an Animal Trader Licence, which conflicts with the licensed-premises pest-control duty"
       ],
       "forms": [
         {
@@ -148,6 +153,20 @@
       "url": "https://www.info.gov.hk/gia/general/202010/28/P2020102800624.htm",
       "authority": "HK Government",
       "accessed": "2026-06-07"
+    },
+    {
+      "id": "hk-fehd-rodents",
+      "title": "FEHD, Rodents (risk pest): Rattus rattus among Hong Kong's rodent-control pest species",
+      "url": "https://www.fehd.gov.hk/english/pestcontrol/risk-pest-rodents.html",
+      "authority": "Food and Environmental Hygiene Department (FEHD)",
+      "accessed": "2026-07-08"
+    },
+    {
+      "id": "hk-afcd-reply",
+      "title": "AFCD written reply to Blonde Roof Rat enquiry, 8 July 2026 (Import and Export Division): keeping of rats not regulated; no import permit for a pet R. rattus; Cap. 139B licensed-premises pest-control conflict",
+      "url": "https://www.afcd.gov.hk/english/contactus/enquiries_and_complaints/Enquiries_and_Complaints.html",
+      "authority": "AFCD (correspondence on file)",
+      "accessed": "2026-07-08"
     }
   ],
   "contacts": [

@@ -11,6 +11,17 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.3.3 (2026-07-08)
+
+- **Demo dataset: Hong Kong updated to a new official agency confirmation.** Hong Kong's AFCD (Agriculture,
+  Fisheries and Conservation Department) confirmed in writing that it does not regulate the keeping of rats
+  (keeping a pet roof rat is lawful, no keeping permit), but it will not issue an import permit for *Rattus
+  rattus* as a pet because the species is a designated rodent-control pest, so **pet import is now prohibited**
+  (a keep-legal, import-barred, source-locally jurisdiction). A licensed animal-trade premises' mandatory
+  mammalian-pest-control programme also conflicts with a commercial trade in the species. Re-exported from the
+  live source; the name backstop re-verified 0 private-data leaks. Data-freshness update, no schema or
+  methodology change.
+
 ## 1.3.2 (2026-07-02)
 
 - **Demo dataset refreshed to the latest verified jurisdiction data.** Re-exported the roof-rat reference dataset
