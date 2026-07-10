@@ -11,6 +11,15 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.3.4 (2026-07-10)
+
+- **Hub browse: a country whose regions disagree now shows a "varies by region" hint.** A country badged
+  "Legal" that has some sub-jurisdictions where it is prohibited or restricted (for example the United States,
+  legal nationally but banned in some states) now carries a small dashed "varies by region" chip beside its
+  badge, so the row is honest at a glance instead of reading as a flat national "Legal" above a list of bans.
+  This does not change any recorded status; it is derived purely from the children. Mirrors the same improvement
+  on the main roof-rat site (the skill's renderer is kept in sync with it).
+
 ## 1.3.3 (2026-07-08)
 
 - **Demo dataset: Hong Kong updated to a new official agency confirmation.** Hong Kong's AFCD (Agriculture,

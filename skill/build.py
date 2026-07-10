@@ -490,6 +490,8 @@ HUB_CSS = (
     'padding:.7em 1em;font-weight:700;font-size:1.05em;color:#22303f;border-radius:10px;}'
     '.pf-hub details.pf-reg>summary:hover,.pf-hub details.pf-reg>summary:focus{background:#eef2f7;}'
     '.pf-hub .pf-cnt{color:#8a96a3;font-weight:500;font-size:.82em;}'
+    '.pf-hub .pf-varies{display:inline-block;padding:1px 9px;border-radius:12px;border:1px dashed #b26a00;'
+    'color:#8a5300;background:#fff8ec;font-size:.76em;font-weight:600;white-space:nowrap;cursor:help;}'
     '.pf-hub .pf-tog{display:inline-flex;align-items:center;gap:.4em;font-size:.8em;font-weight:600;color:#1565c0;white-space:nowrap;}'
     '.pf-hub .pf-caret{display:inline-block;transition:transform .15s ease;}'
     '.pf-hub details[open]>summary .pf-caret{transform:rotate(90deg);}'
@@ -534,14 +536,30 @@ HUB_JS = (
 )
 
 
+# A country badged e.g. "Legal" that has PROHIBITED or RESTRICTED sub-jurisdictions (the US: legal nationally,
+# but some states ban it) reads as a flat "<Country> - Legal" above a list of bans. This does NOT change the
+# country's own recorded keep-status; it derives a small "varies by region" hint purely from the children so the
+# row is honest at a glance. Mirrors the main site's roofrat hub (kept in sync per keep-skill-in-sync-with-website).
+def _varies_hint(c, juris, by_id):
+    own = (c["activities"].get("keep") or {}).get("status", "unknown")
+    kids = [d for d in juris if d["jurisdiction"].get("parent") == c["jurisdiction"]["id"]]
+    kstat = {(k["activities"].get("keep") or {}).get("status", "unknown") for k in kids}
+    diverges = ({"prohibited", "restricted", "legal_with_permit"} & kstat) and (kstat - {own} - {"unknown"})
+    if not diverges:
+        return ""
+    return ('<span class="pf-varies" title="The national status is one thing; individual regions differ. '
+            'Open the list to see which.">varies by region</span>')
+
+
 def _country_row(c, juris, by_id):
     """One country: an underlined link + keep-status badge; sub-jurisdictions in their own collapsed expander."""
     nm = c["jurisdiction"]["name"]
     link = ('<a class="pf-c" href="%s%s" title="%s laws in %s%s">%s</a>'
             % (cfg.site_url, path_for(c["jurisdiction"]["id"], by_id), _species_common().capitalize(),
                _art(nm), nm, nm))
-    row = ('<div class="pf-row">%s %s</div>'
-           % (link, badge((c["activities"].get("keep") or {}).get("status", "unknown"))))
+    row = ('<div class="pf-row">%s %s%s</div>'
+           % (link, badge((c["activities"].get("keep") or {}).get("status", "unknown")),
+              _varies_hint(c, juris, by_id)))
     kids = sorted([d for d in juris if d["jurisdiction"].get("parent") == c["jurisdiction"]["id"]],
                   key=lambda d: d["jurisdiction"]["name"])
     if kids:
