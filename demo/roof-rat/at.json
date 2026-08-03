@@ -20,39 +20,46 @@
       "Wildtier"
     ]
   },
-  "summary": "Austria allows the roof rat, but with a mandatory notification step that fancy-rat keepers avoid. The Animal Welfare Act (Tierschutzgesetz 2004) and the 2nd Animal Husbandry Ordinance (2. THVO) publish minimum husbandry standards for rats (Rattus) generically, so rats are clearly keepable, and R. rattus is on no prohibition list (not §9 of the 2. THVO, not the EU Union list). BUT §8 of the 2. THVO requires a prior NOTIFICATION (Meldung) to the district veterinary authority (Bezirksverwaltungsbehörde) for ALL wild mammal species, with only three exceptions (hoofed game, bison, chipmunks). The domesticated fancy rat (R. norvegicus) is named in the §31b small-rodent hobby carve-out; the undomesticated R. rattus is not, so it most likely counts as a 'wild mammal' triggering that notification. The result: keeping/breeding/selling is legal but notification-obligated, not permit-free. A written ruling from the BMSGPK or local Bezirksverwaltungsbehörde would confirm.",
-  "last_reviewed": "2026-06-11",
+  "summary": "Austria has now answered this in writing, and the answer is unusually clear. The health ministry (BMASGPK) ruled on 3 August 2026 that the roof rat is NOT a domesticated animal, so it is not a pet species in law. Rodents count as Heimtiere under TSchG 4 Z 3 only if they are domesticated; because the ministry holds R. rattus is not, it falls into the residual category of Wildtier under 4 Z 4. That single classification drives everything else. You may keep one, but only after filing a notification (Anzeige) with your district authority (Bezirksverwaltungsbehoerde) under TSchG 25 together with 8 Abs. 1 Z 1 of the 2nd Animal Husbandry Ordinance, within two weeks of starting. Breeding needs no second filing: TSch-SV 34 says a separate breeding report under TSchG 31b Abs. 1 is unnecessary if it was included in that same Anzeige. A real permit is only triggered above 300 juveniles given away per year (TSchG 31b Abs. 2 Z 4, permit under 23), which is far beyond a hobby colony. Housing must meet point 3.8 of Anlage 1 of the 2. THVO. So: legal, one form, no permit at hobby scale.",
+  "last_reviewed": "2026-08-03",
+  "agency_confirmations": [
+    "Bundesministerium fuer Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (BMASGPK), Sektion III, Gruppe B/Abteilung 16 (veterinary law), written and officially signed reply of 3 August 2026 (Geschaeftszahl 2026-0.635.895-2-A; amtssigniert 2026-08-03), answering our inquiry of 24 June 2026: (1) rodents are Heimtiere under TSchG 4 Z 3 only if domesticated, and in the ministry's view the roof rat is not domesticated, so it is a Wildtier under 4 Z 4; (2) as a wild animal it may be kept only on an Anzeige to the locally competent Bezirksverwaltungsbehoerde under TSchG 25 with 8 Abs. 1 Z 1 of the 2. THVO, exemptions at 25 Abs. 2; (3) breeding otherwise needs a Meldung under 31b Abs. 1, but TSch-SV 34 waives a separate one where it was made within the 25 Anzeige; (4) a Bewilligung under 31b Abs. 2 Z 4 is required only above 300 juveniles given away per year; (5) rat housing follows point 3.8 of Anlage 1 of the 2. THVO. The letter does NOT address transfer of the notification duty to a new keeper, sell/give generally, or transport and import."
+  ],
   "advocacy": {
     "flag": false
   },
   "activities": {
     "keep": {
       "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Keeping rats is permitted (minimum husbandry standards in Anlage 1 of the 2. THVO; no §9 prohibition; R. rattus not on the EU Union list). But §8 of the 2. THVO requires a notification (Meldung/Anzeige, generally within 2 weeks) to the Bezirksverwaltungsbehörde for all wild mammal species, and R. rattus, unlike the domesticated R. norvegicus (named in the §31b carve-out), is an undomesticated species not among §8's three exceptions. Whether this 'notification' is mere registration or rises toward a permit varies by district. Legal, but notification-obligated.",
-      "governing_law": "2. THVO (BGBl. II 486/2004) §8 (wild-mammal Meldepflicht), Anlage 1; TSchG (BGBl. I 118/2004) §§13, 25.",
+      "confidence": "high",
+      "why": "Legal, on a notification. The BMASGPK confirmed in writing (Geschaeftszahl 2026-0.635.895, 3 August 2026) that R. rattus is not domesticated and is therefore a Wildtier under TSchG 4 Z 4, not a Heimtier under 4 Z 3. Wild animals with special husbandry needs may be kept only on the basis of an Anzeige to the district authority, to be filed within two weeks of starting and again within 14 days of stopping (TSchG 25 Abs. 1, with 8 Abs. 1 Z 1 of the 2. THVO). Exemptions from that duty are listed in TSchG 25 Abs. 2. The Anzeige carries the keeper's name and address, the species and maximum number of animals, and the place of keeping. Housing must meet point 3.8 of Anlage 1 of the 2. THVO. Nothing here is a permit: it is a filing, and the ministry did not attach any approval condition to keeping.",
+      "governing_law": "TSchG (BGBl. I 118/2004) 4 Z 3 and Z 4 (Heimtier vs Wildtier), 25 Abs. 1 and Abs. 2 (Anzeige, two weeks); 2. THVO (BGBl. II 486/2004) 8 Abs. 1 Z 1, Anlage 1 point 3.8 (rat housing); BMASGPK written ruling 2026-0.635.895 of 3 August 2026.",
       "source_ids": [
         "at-2thvo",
         "at-tschg",
-        "at-oesterreich-ratten"
+        "at-oesterreich-ratten",
+        "at-tschsv",
+        "at-bmasgpk-2026"
       ],
-      "verified_date": "2026-06-11",
-      "needs_verification": true,
-      "verified_by": "gemini-dr"
+      "verified_date": "2026-08-03",
+      "needs_verification": false,
+      "verified_by": "agency-reply"
     },
     "breed": {
       "status": "legal_with_permit",
-      "confidence": "medium",
-      "why": "Private hobby breeding of small rodents is largely exempt from the §31b TSchG commercial regime if 'not regular and not for profit' and below the threshold (an exemption ordinance sets ~300 juveniles/year for small rodents). But the §31b carve-out names 'rats' generically (R. norvegicus); for R. rattus the §8 2. THVO wild-mammal notification is the binding step. Above the threshold, or as a wild mammal, a Meldung/Bewilligung to the Bezirksverwaltungsbehörde applies; commercial (gewerbsmäßig) breeding needs the full §31 TSchG permit + Sachkunde.",
-      "governing_law": "TSchG §31b (hobby carve-out), §31 (commercial); 2. THVO §8; exemption ordinance (BGBl. II, ~300 juveniles/yr).",
+      "confidence": "high",
+      "why": "Legal, and it needs no second form. Breeding normally triggers its own report to the district authority under TSchG 31b Abs. 1. For wild animals the Tierschutz-Sonderhaltungsverordnung 34 removes that: a separate 31b Abs. 1 Meldung is not required where the report was already made within the TSchG 25 Anzeige. So one filing, made once and covering breeding, is the whole obligation. That provision entered force on 19 June 2026, which is why our earlier research did not have it. A genuine permit (Bewilligung under TSchG 23) is required only above the 31b Abs. 2 Z 4 threshold: more than 300 juveniles of mice, rats, hamsters or gerbils GIVEN AWAY per year. The statute counts animals transferred, not animals born. On transfer, the breeder must supply the species care information required by 31 Abs. 2 (31b Abs. 4).",
+      "governing_law": "TSchG 31b Abs. 1 (breeding Meldung), Abs. 2 Z 4 (over 300 juveniles per year given away, permit under 23), Abs. 4 (care information on transfer); Tierschutz-Sonderhaltungsverordnung (BGBl. II 139/2018 idgF) 34 (no separate Meldung for wild animals already covered by the 25 Anzeige); BMASGPK ruling 2026-0.635.895.",
       "source_ids": [
         "at-tschg",
         "at-2thvo",
-        "at-ausnahme-meldepflicht"
+        "at-ausnahme-meldepflicht",
+        "at-tschsv",
+        "at-bmasgpk-2026"
       ],
-      "verified_date": "2026-06-11",
+      "verified_date": "2026-08-03",
       "needs_verification": false,
-      "verified_by": "gemini-dr"
+      "verified_by": "agency-reply"
     },
     "sell_give": {
       "status": "restricted",
@@ -90,15 +97,22 @@
         "keep",
         "breed"
       ],
-      "summary": "Because R. rattus is likely a 'wild mammal' under §8 of the 2. THVO, file a NOTIFICATION (Meldung) with your district authority (Bezirksverwaltungsbehörde / Veterinäramt), generally within 2 weeks of starting to keep it. It's a low-friction step, not a full permit, but skipping it is a breach. Confirm the requirement (and whether R. rattus gets the R. norvegicus hobby carve-out) with a written ruling first. Never release.",
+      "summary": "File ONE notification (Anzeige) with your district authority, the Bezirksverwaltungsbehoerde or Veterinaeramt, within two weeks of bringing the animal home, and declare breeding in that same form. The ministry confirmed on 3 August 2026 that R. rattus is a Wildtier, so TSchG 25 applies; TSch-SV 34 then means the breeding report under 31b Abs. 1 does not have to be filed separately. This is a form, not a permit, but skipping it is a breach. Notify the authority again within 14 days if you stop keeping. Never release.",
       "steps": [
-        "File a §8 2. THVO Meldung with the Bezirksverwaltungsbehörde (and request a written species ruling)"
+        "File the TSchG 25 Anzeige with the Bezirksverwaltungsbehoerde within two weeks of starting to keep",
+        "Declare breeding in that same Anzeige, so TSch-SV 34 removes the separate 31b Abs. 1 Meldung",
+        "Meet the rat housing standard at point 3.8 of Anlage 1 of the 2. THVO",
+        "Notify the authority within 14 days if you stop keeping (TSchG 25 Abs. 1)",
+        "Only if you give away more than 300 juveniles a year: apply for a Bewilligung under TSchG 23"
       ],
       "forms": [],
       "where_to_file": "Bezirksverwaltungsbehörde (district authority) / Veterinäramt",
       "fees": "",
       "source_ids": [
-        "at-2thvo"
+        "at-2thvo",
+        "at-tschg",
+        "at-tschsv",
+        "at-bmasgpk-2026"
       ]
     },
     {
@@ -192,6 +206,20 @@
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32013R0576",
       "authority": "EU / EUR-Lex",
       "accessed": "2026-06-11"
+    },
+    {
+      "id": "at-tschsv",
+      "title": "Tierschutz-Sonderhaltungsverordnung (TSch-SV, BGBl. II 139/2018 idgF, last amended BGBl. II 146/2026), 34 (Wildtiere: no separate breeding Meldung where covered by the TSchG 25 Anzeige; in force 19.06.2026)",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010231",
+      "authority": "RIS, Austrian Federal Law",
+      "accessed": "2026-08-03"
+    },
+    {
+      "id": "at-bmasgpk-2026",
+      "title": "BMASGPK written ruling, Geschaeftszahl 2026-0.635.895-2-A, 3 August 2026: Rattus rattus is not domesticated and is a Wildtier under TSchG 4 Z 4 (officially signed / amtssigniert; copy held on file)",
+      "url": "https://www.sozialministerium.at/",
+      "authority": "Bundesministerium fuer Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "accessed": "2026-08-03"
     }
   ],
   "contacts": [

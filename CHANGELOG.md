@@ -11,6 +11,26 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.3.5 (2026-08-03)
+
+- **Demo dataset: Austria updated to a new official agency confirmation.** Austria's health ministry
+  (BMASGPK) answered in writing, under an official signature, that the roof rat is **not a domesticated
+  animal**. That one classification decides the rest: rodents count as pets in Austrian law only if
+  domesticated, so *Rattus rattus* falls into the residual "wild animal" category instead. Keeping stays
+  lawful, but only after filing a notification with the district authority within two weeks; breeding needs
+  no second filing, because a 2026 provision folds the breeding report into that same notification; and a
+  real permit is triggered only above 300 juveniles given away per year, which is far beyond a hobby colony.
+  The entry previously reasoned its way to the same route and said a written ruling would confirm it. It has,
+  so the hedging is gone and the citations are now exact. Re-exported from the live source; the name backstop
+  re-verified 0 private-data leaks. Data-freshness update, no schema or methodology change.
+- **Agency contacts now name the office, not the individual officer.** Seven demo jurisdictions (Alberta,
+  Switzerland, Finland, Alabama, Arkansas, Hawaii, Rhode Island) attributed a written agency reply to the
+  named civil servant who sent it, and three of them carried that person's direct work email in the contact
+  block, two with a direct phone. Those entries now cite the agency, the role and the reference, and point at
+  the office channel. This matches the guidance the skill itself gives, and it is the right default for a
+  dataset anyone can fork: an official who answers a research question should not inherit a public inbox from
+  it. No legal substance changed anywhere; every ruling, citation and date is exactly as before.
+
 ## 1.3.4 (2026-07-10)
 
 - **Hub browse: a country whose regions disagree now shows a "varies by region" hint.** A country badged
