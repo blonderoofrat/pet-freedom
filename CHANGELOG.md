@@ -11,6 +11,22 @@ Versions follow semantic versioning, MAJOR.MINOR.PATCH:
 When Claude checks for updates, it reads this file to tell you, in plain language, what changed since your
 installed version, before applying anything. Keep the newest version here matching the `VERSION` file.
 
+## 1.3.6 (2026-09-24)
+
+- **Demo dataset: Austria updated to a second official agency confirmation.** Austria's health ministry
+  (BMASGPK) answered a follow-up question in writing, under an official signature (letter of 23 September
+  2026). Because the roof rat is a wild animal in Austrian law, the breeding chapter of the special-husbandry
+  ordinance (the 7. Abschnitt of the Tierschutz-Sonderhaltungsverordnung) applies to anyone keeping roof rats
+  for breeding, at hobby scale too, whether or not a permit is needed. In practice that means keeping breeding
+  records (each breeding animal's species, sex, age and identification, deaths among them, and every
+  medical treatment) on paper or electronically, holding each for
+  five years from the litter date, keeping housing clean and separating sick animals. From 1 January 2027 a
+  breeder must also hand every new owner a written care leaflet, and the ministry confirmed this applies to
+  animals given away free as well as sold. The entry gains a "keep breeding records" box, the leaflet step
+  on selling and giving, the new citations, and the ministry's second confirmation beside the first.
+  Re-exported from the live source; the name backstop re-verified 0 private-data leaks. Data-freshness update,
+  no schema or methodology change.
+
 ## 1.3.5 (2026-08-03)
 
 - **Demo dataset: Austria updated to a new official agency confirmation.** Austria's health ministry
